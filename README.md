@@ -8,6 +8,25 @@ This repo contains the full validation suite for the [Vibe Engine](https://vibe-
 
 ---
 
+## This Is Not a Sentiment Wrapper
+
+A common misconception: "Isn't this just a pretty dashboard on top of an NLP model?"
+
+No. Here's the difference:
+
+| | Sentiment Analysis | BERT + GoEmotions | **Vibe Engine** |
+|-|-------------------|-------------------|----------------|
+| **Models** | 1 | 1 (fine-tuned) | **4 frontier LLMs** |
+| **Output** | positive/negative | 27 labels, pick top | **8 emotions at continuous 0-1 intensity** |
+| **Training data** | varies | 58K labeled examples | **Zero** |
+| **Domain** | trained domain only | Reddit comments | **Any text, any domain** |
+| **Key signal** | polarity | top label probability | **Inter-model divergence** |
+| **Architecture** | classification | classification | **Multi-model consensus + divergence** |
+
+The Vibe Engine runs Claude, GPT-4o, Gemini, and Grok simultaneously on Plutchik's 8 basic emotions. Where they agree, you get signal clarity. Where they disagree, you get divergence — and that disagreement is itself meaningful data about emotional ambiguity. This is not a formatting layer on top of one model. It is a measurement architecture.
+
+---
+
 ## Results at a Glance
 
 | Test | Result | Target | Status |
