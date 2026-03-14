@@ -1,0 +1,5881 @@
+{
+  "meta": {
+    "fixture": "historical-events",
+    "scored_at": "2026-03-14T02:33:25.222Z",
+    "total_texts": 100,
+    "scored_count": 99,
+    "base_url": "http://localhost:3000"
+  },
+  "results": [
+    {
+      "id": "9-11-attacks__0",
+      "text": "Hijacked jets destroy twin towers and hit Pentagon; thousands feared dead",
+      "event_id": "9-11-attacks",
+      "event_name": "September 11 Attacks",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:21:50.256Z",
+      "latencyMs": 2181,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.8,
+          "sadness": 0.9,
+          "disgust": 0.7,
+          "anger": 0.6,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.6,
+          "sadness": 0.7,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.010000000000000005,
+        "sadness": 0.010000000000000005,
+        "disgust": 0.039999999999999994,
+        "anger": 0.009999999999999995,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.9896875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8500000000000001,
+        "surprise": 0.7,
+        "sadness": 0.8,
+        "disgust": 0.5,
+        "anger": 0.5,
+        "anticipation": 0.1
+      }
+    },
+    {
+      "id": "9-11-attacks__1",
+      "text": "America under attack: Planes crash into World Trade Center, Pentagon in terrorist acts",
+      "event_id": "9-11-attacks",
+      "event_name": "September 11 Attacks",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:21:54.067Z",
+      "latencyMs": 1801,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.5,
+          "anger": 0.7,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.5,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.010000000000000002,
+        "anger": 0.009999999999999995,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.7,
+        "sadness": 0.6,
+        "disgust": 0.4,
+        "anger": 0.6,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "9-11-attacks__2",
+      "text": "Terrorists destroy World Trade Center, hit Pentagon in raid with hijacked jets",
+      "event_id": "9-11-attacks",
+      "event_name": "September 11 Attacks",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:21:58.117Z",
+      "latencyMs": 2048,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.5,
+          "anger": 0.7,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.7,
+          "sadness": 0.7,
+          "disgust": 0.6,
+          "anger": 0.8,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0024999999999999988,
+        "anger": 0.0025000000000000044,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8500000000000001,
+        "surprise": 0.7,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.55,
+        "anger": 0.75,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "9-11-attacks__3",
+      "text": "A creeping horror: Buildings full of people crumble to the earth in clouds of dust and smoke",
+      "event_id": "9-11-attacks",
+      "event_name": "September 11 Attacks",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:02.067Z",
+      "latencyMs": 1948,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0.4,
+          "anger": 0.2,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.6,
+          "sadness": 0.5,
+          "disgust": 0.3,
+          "anger": 0.1,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0225,
+        "sadness": 0.009999999999999995,
+        "disgust": 0.0025000000000000014,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9946875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8500000000000001,
+        "surprise": 0.44999999999999996,
+        "sadness": 0.6,
+        "disgust": 0.35,
+        "anger": 0.15000000000000002,
+        "anticipation": 0.15000000000000002
+      }
+    },
+    {
+      "id": "9-11-attacks__4",
+      "text": "Hundreds of firefighters and police feared dead as towers collapse",
+      "event_id": "9-11-attacks",
+      "event_name": "September 11 Attacks",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:06.007Z",
+      "latencyMs": 1938,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.6,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.6,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.009999999999999995,
+        "sadness": 0.022500000000000006,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.99125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.5,
+        "sadness": 0.75,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.15
+      }
+    },
+    {
+      "id": "moon-landing__5",
+      "text": "Men walk on moon: Astronauts land on a plain, collect rocks, plant flag",
+      "event_id": "moon-landing",
+      "event_name": "Apollo 11 Moon Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:10.451Z",
+      "latencyMs": 2441,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.2,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.062499999999999986,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9921875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.44999999999999996,
+        "trust": 0.3,
+        "fear": 0,
+        "surprise": 0.4,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "moon-landing__6",
+      "text": "The Eagle has landed: Two men fulfill mankind's dream with a walk on the moon",
+      "event_id": "moon-landing",
+      "event_name": "Apollo 11 Moon Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:14.382Z",
+      "latencyMs": 1929,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0225,
+        "fear": 0,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.04
+      },
+      "consensus": 0.9909375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.44999999999999996,
+        "fear": 0,
+        "surprise": 0.30000000000000004,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "moon-landing__7",
+      "text": "Man takes first steps on the moon: 'That's one small step for man, one giant leap for mankind'",
+      "event_id": "moon-landing",
+      "event_name": "Apollo 11 Moon Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:18.344Z",
+      "latencyMs": 1960,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.010000000000000002,
+        "fear": 0,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0025000000000000044
+      },
+      "consensus": 0.996875,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.4,
+        "fear": 0,
+        "surprise": 0.30000000000000004,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.75
+      }
+    },
+    {
+      "id": "moon-landing__8",
+      "text": "Armstrong and Aldrin walk on moon as millions watch in awe on television",
+      "event_id": "moon-landing",
+      "event_name": "Apollo 11 Moon Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:22.034Z",
+      "latencyMs": 1688,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.6,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.009999999999999995,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.25,
+        "fear": 0,
+        "surprise": 0.5,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "moon-landing__9",
+      "text": "A magnificent triumph: America puts men on the moon",
+      "event_id": "moon-landing",
+      "event_name": "Apollo 11 Moon Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:25.834Z",
+      "latencyMs": 1797,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9996875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.35,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "covid-lockdowns__10",
+      "text": "Nation shuts down: President declares national emergency as coronavirus cases surge",
+      "event_id": "covid-lockdowns",
+      "event_name": "COVID-19 Global Lockdowns",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:30.356Z",
+      "latencyMs": 2520,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0025000000000000044,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.99875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.75,
+        "surprise": 0.3,
+        "sadness": 0.45,
+        "disgust": 0,
+        "anger": 0.05,
+        "anticipation": 0.6
+      }
+    },
+    {
+      "id": "covid-lockdowns__11",
+      "text": "Schools close, events canceled, borders shut as pandemic fears grip the world",
+      "event_id": "covid-lockdowns",
+      "event_name": "COVID-19 Global Lockdowns",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:34.134Z",
+      "latencyMs": 1777,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.1,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0.1,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.009999999999999998,
+        "sadness": 0.0025000000000000014,
+        "disgust": 0.0025000000000000005,
+        "anger": 0,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.995,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.2,
+        "sadness": 0.35,
+        "disgust": 0.05,
+        "anger": 0,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "covid-lockdowns__12",
+      "text": "Global pandemic declared: WHO warns worst is yet to come as death toll climbs",
+      "event_id": "covid-lockdowns",
+      "event_name": "COVID-19 Global Lockdowns",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:38.107Z",
+      "latencyMs": 1971,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.8,
+          "surprise": 0.2,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.75,
+        "surprise": 0.25,
+        "sadness": 0.55,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.6499999999999999
+      }
+    },
+    {
+      "id": "covid-lockdowns__13",
+      "text": "Life as we know it grinds to a halt: Cities empty as lockdown orders spread",
+      "event_id": "covid-lockdowns",
+      "event_name": "COVID-19 Global Lockdowns",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:42.043Z",
+      "latencyMs": 1934,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.2,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.3,
+          "sadness": 0.5,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.6499999999999999,
+        "surprise": 0.25,
+        "sadness": 0.55,
+        "disgust": 0.05,
+        "anger": 0.05,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "covid-lockdowns__14",
+      "text": "Hospitals brace for surge as coronavirus cases double every three days",
+      "event_id": "covid-lockdowns",
+      "event_name": "COVID-19 Global Lockdowns",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:45.969Z",
+      "latencyMs": 1922,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0225,
+        "sadness": 0.0225,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.15,
+        "sadness": 0.35,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.6499999999999999
+      }
+    },
+    {
+      "id": "covid-vaccine__15",
+      "text": "FDA authorizes Pfizer vaccine, millions of doses to ship immediately",
+      "event_id": "covid-vaccine",
+      "event_name": "COVID-19 Vaccine Approval",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "anticipation",
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:49.999Z",
+      "latencyMs": 2027,
+      "scores": {
+        "claude": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.0225,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9965625,
+      "dominant_emotion": "trust",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.7,
+        "fear": 0.05,
+        "surprise": 0.15,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.45
+      }
+    },
+    {
+      "id": "covid-vaccine__16",
+      "text": "A shot of hope: First COVID vaccine approved in record time as pandemic rages",
+      "event_id": "covid-vaccine",
+      "event_name": "COVID-19 Vaccine Approval",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "anticipation",
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:53.973Z",
+      "latencyMs": 1972,
+      "scores": {
+        "claude": {
+          "joy": 0.6,
+          "trust": 0.4,
+          "fear": 0.2,
+          "surprise": 0.3,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.4,
+          "fear": 0.3,
+          "surprise": 0.5,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.010000000000000002,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.4,
+        "fear": 0.25,
+        "surprise": 0.4,
+        "sadness": 0.15000000000000002,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.7
+      }
+    },
+    {
+      "id": "covid-vaccine__17",
+      "text": "The beginning of the end: Vaccine rollout starts as world celebrates breakthrough",
+      "event_id": "covid-vaccine",
+      "event_name": "COVID-19 Vaccine Approval",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "anticipation",
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:22:57.667Z",
+      "latencyMs": 1691,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.5,
+          "fear": 0.1,
+          "surprise": 0.4,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0024999999999999988,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.04000000000000001,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0025000000000000044
+      },
+      "consensus": 0.9934375,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.55,
+        "fear": 0.05,
+        "surprise": 0.2,
+        "sadness": 0.05,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.75
+      }
+    },
+    {
+      "id": "covid-vaccine__18",
+      "text": "Historic moment: First Americans receive COVID-19 vaccine as new era begins",
+      "event_id": "covid-vaccine",
+      "event_name": "COVID-19 Vaccine Approval",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "anticipation",
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:01.848Z",
+      "latencyMs": 2179,
+      "scores": {
+        "claude": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0.2,
+          "surprise": 0.4,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.010000000000000002,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.7,
+        "fear": 0.15000000000000002,
+        "surprise": 0.30000000000000004,
+        "sadness": 0.05,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.8
+      }
+    },
+    {
+      "id": "covid-vaccine__19",
+      "text": "Scientists deliver miracle: Vaccine developed in under a year wins emergency approval",
+      "event_id": "covid-vaccine",
+      "event_name": "COVID-19 Vaccine Approval",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "anticipation",
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:05.564Z",
+      "latencyMs": 1714,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0.1,
+          "surprise": 0.5,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.039999999999999994
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.6,
+        "fear": 0.05,
+        "surprise": 0.45,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.5
+      }
+    },
+    {
+      "id": "financial-crisis-2008__20",
+      "text": "Wall Street in crisis as Lehman Brothers files for bankruptcy and Merrill Lynch is sold",
+      "event_id": "financial-crisis-2008",
+      "event_name": "2008 Financial Crisis",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:11.660Z",
+      "latencyMs": 4092,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.8,
+          "surprise": 0.6,
+          "sadness": 0.3,
+          "disgust": 0.2,
+          "anger": 0.1,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.5,
+          "disgust": 0.1,
+          "anger": 0.3,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.010000000000000005,
+        "surprise": 0.009999999999999995,
+        "sadness": 0.010000000000000002,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.009999999999999998,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.993125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.7,
+        "surprise": 0.5,
+        "sadness": 0.4,
+        "disgust": 0.15000000000000002,
+        "anger": 0.2,
+        "anticipation": 0.30000000000000004
+      }
+    },
+    {
+      "id": "financial-crisis-2008__21",
+      "text": "Financial meltdown: Dow plunges 504 points as fear grips global markets",
+      "event_id": "financial-crisis-2008",
+      "event_name": "2008 Financial Crisis",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:15.550Z",
+      "latencyMs": 1886,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.6,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.0225,
+        "sadness": 0.0225,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.022499999999999992
+      },
+      "consensus": 0.9909375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.9,
+        "surprise": 0.44999999999999996,
+        "sadness": 0.35,
+        "disgust": 0,
+        "anger": 0.05,
+        "anticipation": 0.55
+      }
+    },
+    {
+      "id": "financial-crisis-2008__22",
+      "text": "The economy is in shambles: Banks fail, markets crash, retirement savings vanish overnight",
+      "event_id": "financial-crisis-2008",
+      "event_name": "2008 Financial Crisis",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:20.325Z",
+      "latencyMs": 2773,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.4,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.5,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0.0024999999999999988,
+        "anger": 0,
+        "anticipation": 0.039999999999999994
+      },
+      "consensus": 0.9928125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.75,
+        "surprise": 0.4,
+        "sadness": 0.6,
+        "disgust": 0.25,
+        "anger": 0.4,
+        "anticipation": 0.4
+      }
+    },
+    {
+      "id": "financial-crisis-2008__23",
+      "text": "Panic on Wall Street as century-old institutions crumble in worst crisis since Great Depression",
+      "event_id": "financial-crisis-2008",
+      "event_name": "2008 Financial Crisis",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:24.332Z",
+      "latencyMs": 2001,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.8
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.039999999999999994,
+        "sadness": 0.009999999999999995,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.010000000000000005
+      },
+      "consensus": 0.9921875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.9,
+        "surprise": 0.5,
+        "sadness": 0.5,
+        "disgust": 0.2,
+        "anger": 0.3,
+        "anticipation": 0.7
+      }
+    },
+    {
+      "id": "financial-crisis-2008__24",
+      "text": "Millions face foreclosure as housing market collapses and credit dries up",
+      "event_id": "financial-crisis-2008",
+      "event_name": "2008 Financial Crisis",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:28.266Z",
+      "latencyMs": 1933,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.1,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.009999999999999998,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0625
+      },
+      "consensus": 0.98875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.2,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "bin-laden-killed__25",
+      "text": "Bin Laden is dead: U.S. forces kill al-Qaeda leader in Pakistan compound raid",
+      "event_id": "bin-laden-killed",
+      "event_name": "Osama bin Laden Killed",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:23:32.171Z",
+      "latencyMs": 1903,
+      "scores": {
+        "claude": {
+          "joy": 0.3,
+          "trust": 0.2,
+          "fear": 0.1,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.3,
+          "trust": 0.1,
+          "fear": 0.4,
+          "surprise": 0.6,
+          "sadness": 0.2,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.022500000000000003,
+        "surprise": 0.009999999999999995,
+        "sadness": 0.010000000000000002,
+        "disgust": 0.0225,
+        "anger": 0.022500000000000003,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9884375,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.3,
+        "trust": 0.15000000000000002,
+        "fear": 0.25,
+        "surprise": 0.5,
+        "sadness": 0.1,
+        "disgust": 0.15,
+        "anger": 0.25,
+        "anticipation": 0.15000000000000002
+      }
+    },
+    {
+      "id": "bin-laden-killed__26",
+      "text": "Justice has been done: Obama announces death of 9/11 mastermind after decade-long hunt",
+      "event_id": "bin-laden-killed",
+      "event_name": "Osama bin Laden Killed",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:23:36.000Z",
+      "latencyMs": 1827,
+      "scores": {
+        "claude": {
+          "joy": 0.6,
+          "trust": 0.4,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0.2,
+          "disgust": 0.3,
+          "anger": 0.2,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.5,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.3,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.009999999999999998,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.45,
+        "fear": 0.1,
+        "surprise": 0.3,
+        "sadness": 0.2,
+        "disgust": 0.2,
+        "anger": 0.25,
+        "anticipation": 0.15000000000000002
+      }
+    },
+    {
+      "id": "bin-laden-killed__27",
+      "text": "Got him: Navy SEALs kill Osama bin Laden in dramatic nighttime raid",
+      "event_id": "bin-laden-killed",
+      "event_name": "Osama bin Laden Killed",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:23:39.859Z",
+      "latencyMs": 1857,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0.1,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.4,
+          "trust": 0.2,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.022499999999999992,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.55,
+        "trust": 0.25,
+        "fear": 0.1,
+        "surprise": 0.35,
+        "sadness": 0.05,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.15000000000000002
+      }
+    },
+    {
+      "id": "bin-laden-killed__28",
+      "text": "America's most wanted man killed in covert operation that stunned the world",
+      "event_id": "bin-laden-killed",
+      "event_name": "Osama bin Laden Killed",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:23:43.642Z",
+      "latencyMs": 1781,
+      "scores": {
+        "claude": {
+          "joy": 0.2,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.7,
+          "sadness": 0.1,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.6,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.010000000000000002,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0.010000000000000002,
+        "anger": 0.0225,
+        "anticipation": 0.009999999999999998
+      },
+      "consensus": 0.9925,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.1,
+        "trust": 0.05,
+        "fear": 0.25,
+        "surprise": 0.6499999999999999,
+        "sadness": 0.1,
+        "disgust": 0.1,
+        "anger": 0.15,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "bin-laden-killed__29",
+      "text": "Crowds celebrate outside White House as bin Laden's death is confirmed",
+      "event_id": "bin-laden-killed",
+      "event_name": "Osama bin Laden Killed",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:23:47.609Z",
+      "latencyMs": 1963,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0.1,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.2,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0.1,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.25,
+        "fear": 0.1,
+        "surprise": 0.35,
+        "sadness": 0.05,
+        "disgust": 0.1,
+        "anger": 0.15000000000000002,
+        "anticipation": 0.30000000000000004
+      }
+    },
+    {
+      "id": "george-floyd__30",
+      "text": "A man cried 'I can't breathe' and died under a police officer's knee. Now a city burns.",
+      "event_id": "george-floyd",
+      "event_name": "George Floyd Protests",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "disgust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:51.507Z",
+      "latencyMs": 1896,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.7,
+          "surprise": 0.2,
+          "sadness": 0.8,
+          "disgust": 0.6,
+          "anger": 0.9,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.3,
+          "sadness": 0.8,
+          "disgust": 0.5,
+          "anger": 0.7,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0.0024999999999999988,
+        "anger": 0.010000000000000005,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.6499999999999999,
+        "surprise": 0.25,
+        "sadness": 0.8,
+        "disgust": 0.55,
+        "anger": 0.8,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "george-floyd__31",
+      "text": "Protests erupt across America after video shows officer kneeling on Black man's neck for nine minutes",
+      "event_id": "george-floyd",
+      "event_name": "George Floyd Protests",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "disgust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:55.377Z",
+      "latencyMs": 1867,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.4,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.7,
+          "anger": 0.8,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.7,
+          "disgust": 0.5,
+          "anger": 0.8,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.009999999999999995,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.009999999999999995,
+        "anger": 0,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.99375,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.5,
+        "surprise": 0.35,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.6,
+        "anger": 0.8,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "george-floyd__32",
+      "text": "Minneapolis in flames: National Guard deployed as fury over George Floyd's death spreads",
+      "event_id": "george-floyd",
+      "event_name": "George Floyd Protests",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "disgust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:23:59.407Z",
+      "latencyMs": 2027,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.1,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.8,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.5,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0.2,
+          "anger": 0.7,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.009999999999999995,
+        "surprise": 0.009999999999999998,
+        "sadness": 0.009999999999999995,
+        "disgust": 0,
+        "anger": 0.0025000000000000044,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.993125,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.6,
+        "surprise": 0.2,
+        "sadness": 0.5,
+        "disgust": 0.2,
+        "anger": 0.75,
+        "anticipation": 0.44999999999999996
+      }
+    },
+    {
+      "id": "george-floyd__33",
+      "text": "Enough is enough: Millions march against police brutality in largest protests in decades",
+      "event_id": "george-floyd",
+      "event_name": "George Floyd Protests",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "disgust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:24:03.420Z",
+      "latencyMs": 2010,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.1,
+          "sadness": 0.3,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.5
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.5,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.022500000000000003,
+        "sadness": 0.010000000000000002,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9925,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.25,
+        "surprise": 0.25,
+        "sadness": 0.4,
+        "disgust": 0.4,
+        "anger": 0.7,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "george-floyd__34",
+      "text": "Outrage and grief: How the death of one man ignited a movement across every state",
+      "event_id": "george-floyd",
+      "event_name": "George Floyd Protests",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "disgust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:24:07.318Z",
+      "latencyMs": 1896,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.7,
+          "disgust": 0.1,
+          "anger": 0.8,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.6,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.010000000000000002,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.9965625,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.05,
+        "surprise": 0.1,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.15000000000000002,
+        "anger": 0.7,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "trump-election-2016__35",
+      "text": "Trump triumphs: Outsider candidate shocks the world with stunning upset victory",
+      "event_id": "trump-election-2016",
+      "event_name": "Trump Wins 2016 Election",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger",
+        "anticipation"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:24:11.433Z",
+      "latencyMs": 2112,
+      "scores": {
+        "claude": {
+          "joy": 0.3,
+          "trust": 0.2,
+          "fear": 0.1,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.4,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.8,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000014,
+        "trust": 0.010000000000000002,
+        "fear": 0.009999999999999998,
+        "surprise": 0,
+        "sadness": 0.010000000000000002,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9915625,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.35,
+        "trust": 0.1,
+        "fear": 0.2,
+        "surprise": 0.8,
+        "sadness": 0.1,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "trump-election-2016__36",
+      "text": "Donald Trump is elected president in stunning repudiation of the establishment",
+      "event_id": "trump-election-2016",
+      "event_name": "Trump Wins 2016 Election",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger",
+        "anticipation"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:24:15.299Z",
+      "latencyMs": 1865,
+      "scores": {
+        "claude": {
+          "joy": 0.2,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.8,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.4,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.7,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0025000000000000044,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.010000000000000002,
+        "anticipation": 0
+      },
+      "consensus": 0.9975,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.15000000000000002,
+        "trust": 0.05,
+        "fear": 0.25,
+        "surprise": 0.75,
+        "sadness": 0.2,
+        "disgust": 0.1,
+        "anger": 0.30000000000000004,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "trump-election-2016__37",
+      "text": "Against all odds: Trump defeats Clinton in election that defied every prediction",
+      "event_id": "trump-election-2016",
+      "event_name": "Trump Wins 2016 Election",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger",
+        "anticipation"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:24:19.048Z",
+      "latencyMs": 1747,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.1,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.8,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.010000000000000002,
+        "surprise": 0,
+        "sadness": 0.010000000000000002,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.009999999999999998
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.1,
+        "trust": 0.05,
+        "fear": 0.1,
+        "surprise": 0.8,
+        "sadness": 0.1,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "trump-election-2016__39",
+      "text": "America wakes up to a new reality: The most divisive candidate in memory is the next president",
+      "event_id": "trump-election-2016",
+      "event_name": "Trump Wins 2016 Election",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger",
+        "anticipation"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:29:26.650Z",
+      "latencyMs": 2093,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.3,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.5
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.4,
+          "surprise": 0.3,
+          "sadness": 0.3,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.009999999999999995,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9946875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.5,
+        "surprise": 0.35,
+        "sadness": 0.3,
+        "disgust": 0.15000000000000002,
+        "anger": 0.25,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "hurricane-katrina__40",
+      "text": "Catastrophe: Hurricane Katrina devastates Gulf Coast, levees breach, New Orleans floods",
+      "event_id": "hurricane-katrina",
+      "event_name": "Hurricane Katrina",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:30.519Z",
+      "latencyMs": 1863,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.7,
+          "disgust": 0.3,
+          "anger": 0.5,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000005,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.010000000000000005,
+        "disgust": 0.0225,
+        "anger": 0.0625,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.98625,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7,
+        "surprise": 0.35,
+        "sadness": 0.8,
+        "disgust": 0.15,
+        "anger": 0.25,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "hurricane-katrina__41",
+      "text": "Thousands stranded on rooftops as floodwaters swallow New Orleans",
+      "event_id": "hurricane-katrina",
+      "event_name": "Hurricane Katrina",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:34.483Z",
+      "latencyMs": 1961,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0.1,
+          "anger": 0.3,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0225,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.9946875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.35,
+        "sadness": 0.75,
+        "disgust": 0.05,
+        "anger": 0.15,
+        "anticipation": 0.30000000000000004
+      }
+    },
+    {
+      "id": "hurricane-katrina__42",
+      "text": "Where is the help? Desperate residents plead for rescue as city descends into chaos",
+      "event_id": "hurricane-katrina",
+      "event_name": "Hurricane Katrina",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:38.174Z",
+      "latencyMs": 1688,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.8,
+          "surprise": 0.2,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.7,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.3,
+          "sadness": 0.5,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.010000000000000005,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.009999999999999998,
+        "anger": 0.062499999999999986,
+        "anticipation": 0
+      },
+      "consensus": 0.98875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.7,
+        "surprise": 0.25,
+        "sadness": 0.55,
+        "disgust": 0.2,
+        "anger": 0.44999999999999996,
+        "anticipation": 0.4
+      }
+    },
+    {
+      "id": "hurricane-katrina__43",
+      "text": "Death toll climbs as magnitude of Katrina's destruction becomes clear",
+      "event_id": "hurricane-katrina",
+      "event_name": "Hurricane Katrina",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:42.257Z",
+      "latencyMs": 2076,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.1,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0225,
+        "surprise": 0.022500000000000003,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9896875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.44999999999999996,
+        "surprise": 0.25,
+        "sadness": 0.75,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.15
+      }
+    },
+    {
+      "id": "hurricane-katrina__44",
+      "text": "A city drowning: Katrina leaves trail of devastation, thousands feared dead",
+      "event_id": "hurricane-katrina",
+      "event_name": "Hurricane Katrina",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "anger"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:46.103Z",
+      "latencyMs": 1845,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.1,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0.3,
+          "anger": 0.2,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.022500000000000003,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0225,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9921875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.25,
+        "sadness": 0.8500000000000001,
+        "disgust": 0.15,
+        "anger": 0.1,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "spacex-landing__45",
+      "text": "SpaceX makes history: Falcon 9 rocket lands upright after delivering satellites to orbit",
+      "event_id": "spacex-landing",
+      "event_name": "SpaceX First Rocket Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:50.124Z",
+      "latencyMs": 2016,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.039999999999999994,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.55,
+        "fear": 0,
+        "surprise": 0.5,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "spacex-landing__46",
+      "text": "The rocket landed! SpaceX successfully returns booster to Earth in revolutionary first",
+      "event_id": "spacex-landing",
+      "event_name": "SpaceX First Rocket Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:54.166Z",
+      "latencyMs": 2041,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000044,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.022499999999999992,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.995625,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.75,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.55,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.4
+      }
+    },
+    {
+      "id": "spacex-landing__47",
+      "text": "Elon Musk's SpaceX achieves the impossible: A reusable rocket that lands itself",
+      "event_id": "spacex-landing",
+      "event_name": "SpaceX First Rocket Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:29:58.737Z",
+      "latencyMs": 2566,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.5,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0.009999999999999995,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000044,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0025000000000000014
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.75,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "spacex-landing__48",
+      "text": "Welcome back, baby: SpaceX Falcon 9 sticks the landing to cheers of jubilant engineers",
+      "event_id": "spacex-landing",
+      "event_name": "SpaceX First Rocket Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:02.877Z",
+      "latencyMs": 2136,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.3,
+          "fear": 0.1,
+          "surprise": 0.5,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0225,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.44999999999999996,
+        "fear": 0.05,
+        "surprise": 0.4,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.30000000000000004
+      }
+    },
+    {
+      "id": "spacex-landing__49",
+      "text": "A new era of spaceflight begins as SpaceX proves rockets can be reused",
+      "event_id": "spacex-landing",
+      "event_name": "SpaceX First Rocket Landing",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "surprise",
+        "anticipation",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:06.592Z",
+      "latencyMs": 1711,
+      "scores": {
+        "claude": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.4,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.022499999999999992,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0025000000000000044
+      },
+      "consensus": 0.9965625,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6,
+        "trust": 0.55,
+        "fear": 0,
+        "surprise": 0.25,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.75
+      }
+    },
+    {
+      "id": "fukushima__50",
+      "text": "Japan earthquake and tsunami: Nuclear emergency declared as reactors face meltdown",
+      "event_id": "fukushima",
+      "event_name": "Fukushima Nuclear Disaster",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:10.338Z",
+      "latencyMs": 1742,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.5,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.1,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000005,
+        "surprise": 0.010000000000000002,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.010000000000000002,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.009999999999999995
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.4,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.1,
+        "anger": 0.05,
+        "anticipation": 0.5
+      }
+    },
+    {
+      "id": "fukushima__51",
+      "text": "Triple disaster: Earthquake, tsunami, and nuclear crisis push Japan to the brink",
+      "event_id": "fukushima",
+      "event_name": "Fukushima Nuclear Disaster",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:14.103Z",
+      "latencyMs": 1761,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.1,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000005,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.010000000000000002,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.99375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.35,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.1,
+        "anger": 0.05,
+        "anticipation": 0.44999999999999996
+      }
+    },
+    {
+      "id": "fukushima__52",
+      "text": "Radiation fears grow as explosions rock Fukushima nuclear plant after devastating tsunami",
+      "event_id": "fukushima",
+      "event_name": "Fukushima Nuclear Disaster",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:18.121Z",
+      "latencyMs": 2014,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.6,
+          "sadness": 0.4,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0225,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.009999999999999998,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.995,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8500000000000001,
+        "surprise": 0.44999999999999996,
+        "sadness": 0.4,
+        "disgust": 0.15000000000000002,
+        "anger": 0.2,
+        "anticipation": 0.6499999999999999
+      }
+    },
+    {
+      "id": "fukushima__53",
+      "text": "Japan faces worst crisis since World War II as nuclear reactors spiral out of control",
+      "event_id": "fukushima",
+      "event_name": "Fukushima Nuclear Disaster",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:22.309Z",
+      "latencyMs": 2185,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.5,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000005,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0.010000000000000002,
+        "anger": 0.0225,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.993125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.4,
+        "sadness": 0.6,
+        "disgust": 0.1,
+        "anger": 0.15,
+        "anticipation": 0.6499999999999999
+      }
+    },
+    {
+      "id": "fukushima__54",
+      "text": "Thousands dead, millions displaced as 9.0 earthquake triggers catastrophic tsunami",
+      "event_id": "fukushima",
+      "event_name": "Fukushima Nuclear Disaster",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:30:26.034Z",
+      "latencyMs": 1720,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.7,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.6,
+          "sadness": 0.8,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0225,
+        "anger": 0.04000000000000001,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.99,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.6499999999999999,
+        "sadness": 0.8500000000000001,
+        "disgust": 0.15,
+        "anger": 0.2,
+        "anticipation": 0.1
+      }
+    },
+    {
+      "id": "brexit__55",
+      "text": "Britain votes to leave EU in stunning rejection of European project",
+      "event_id": "brexit",
+      "event_name": "Brexit Vote",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:30:30.073Z",
+      "latencyMs": 2035,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.8,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.7,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.0025000000000000044,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0025000000000000014
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.3,
+        "surprise": 0.75,
+        "sadness": 0.2,
+        "disgust": 0.05,
+        "anger": 0.15000000000000002,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "brexit__56",
+      "text": "Brexit: The day Britain chose to go it alone, sending shockwaves across the globe",
+      "event_id": "brexit",
+      "event_name": "Brexit Vote",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:30:34.256Z",
+      "latencyMs": 2180,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0.4,
+          "surprise": 0.7,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.5,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0.0025000000000000014,
+        "surprise": 0.009999999999999995,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9975,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.35,
+        "surprise": 0.6,
+        "sadness": 0.2,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "brexit__57",
+      "text": "Markets crash, pound plummets as UK votes to leave European Union",
+      "event_id": "brexit",
+      "event_name": "Brexit Vote",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:30:38.357Z",
+      "latencyMs": 2098,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.6,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.5,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.009999999999999995,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.99625,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.6499999999999999,
+        "surprise": 0.5,
+        "sadness": 0.45,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "brexit__58",
+      "text": "Cameron resigns after Britain's historic vote to leave EU defies predictions",
+      "event_id": "brexit",
+      "event_name": "Brexit Vote",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:30:42.277Z",
+      "latencyMs": 1917,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.6,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.009999999999999995,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.3,
+        "surprise": 0.5,
+        "sadness": 0.25,
+        "disgust": 0,
+        "anger": 0.05,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "brexit__59",
+      "text": "A nation divided: Leave wins by narrow margin as Britain enters uncharted territory",
+      "event_id": "brexit",
+      "event_name": "Brexit Vote",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:30:46.277Z",
+      "latencyMs": 1996,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.6,
+          "surprise": 0.3,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0.2,
+          "anticipation": 0.5
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0225,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0025000000000000014,
+        "disgust": 0,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9946875,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.44999999999999996,
+        "surprise": 0.35,
+        "sadness": 0.35,
+        "disgust": 0,
+        "anger": 0.1,
+        "anticipation": 0.55
+      }
+    },
+    {
+      "id": "world-cup-2014__60",
+      "text": "Germany humiliates Brazil 7-1 in most shocking World Cup result in history",
+      "event_id": "world-cup-2014",
+      "event_name": "Germany 7-1 Brazil (World Cup 2014)",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "sadness"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:30:50.512Z",
+      "latencyMs": 2229,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.8,
+          "sadness": 0.3,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.2,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0.010000000000000002,
+        "surprise": 0.0025000000000000044,
+        "sadness": 0.0225,
+        "disgust": 0.009999999999999998,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.1,
+        "surprise": 0.75,
+        "sadness": 0.44999999999999996,
+        "disgust": 0.2,
+        "anger": 0.2,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "world-cup-2014__61",
+      "text": "Carnage in Belo Horizonte: Germany scores five goals in 18 minutes to destroy Brazil's dream",
+      "event_id": "world-cup-2014",
+      "event_name": "Germany 7-1 Brazil (World Cup 2014)",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "sadness"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:30:54.467Z",
+      "latencyMs": 1951,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0.1,
+          "surprise": 0.8,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0.2,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0.8,
+          "disgust": 0.3,
+          "anger": 0.5,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.0025000000000000044,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0225,
+        "anger": 0.0225,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.9928125,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.05,
+        "surprise": 0.75,
+        "sadness": 0.75,
+        "disgust": 0.15,
+        "anger": 0.35,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "world-cup-2014__62",
+      "text": "Brazil's worst nightmare: Host nation suffers historic, humiliating defeat",
+      "event_id": "world-cup-2014",
+      "event_name": "Germany 7-1 Brazil (World Cup 2014)",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "sadness"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:30:58.342Z",
+      "latencyMs": 1872,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.4,
+          "sadness": 0.7,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.022499999999999992,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0225,
+        "anger": 0.04000000000000001,
+        "anticipation": 0
+      },
+      "consensus": 0.98875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.25,
+        "surprise": 0.55,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.15,
+        "anger": 0.2,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "world-cup-2014__63",
+      "text": "Unbelievable: Germany dismantles Brazil in semifinal rout that left a nation in tears",
+      "event_id": "world-cup-2014",
+      "event_name": "Germany 7-1 Brazil (World Cup 2014)",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "sadness"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:31:02.550Z",
+      "latencyMs": 2207,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0.2,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.6,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.010000000000000005,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.010000000000000002,
+        "anticipation": 0
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.7,
+        "sadness": 0.7,
+        "disgust": 0,
+        "anger": 0.1,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "world-cup-2014__64",
+      "text": "Seven goals, one devastated nation: Germany delivers the most stunning upset ever seen",
+      "event_id": "world-cup-2014",
+      "event_name": "Germany 7-1 Brazil (World Cup 2014)",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "sadness"
+      ],
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:31:06.450Z",
+      "latencyMs": 1896,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.9,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.010000000000000005,
+        "sadness": 0.0025000000000000014,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.8,
+        "sadness": 0.35,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "obama-election__65",
+      "text": "Obama elected president as racial barrier falls in decisive victory",
+      "event_id": "obama-election",
+      "event_name": "Obama Elected President",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "anticipation",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:10.158Z",
+      "latencyMs": 1703,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.5,
+          "fear": 0.1,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.99875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.5,
+        "fear": 0.05,
+        "surprise": 0.35,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.45
+      }
+    },
+    {
+      "id": "obama-election__66",
+      "text": "Yes we can: Barack Obama makes history as America's first Black president",
+      "event_id": "obama-election",
+      "event_name": "Obama Elected President",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "anticipation",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:14.009Z",
+      "latencyMs": 1846,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.5,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.99875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.4,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.7
+      }
+    },
+    {
+      "id": "obama-election__67",
+      "text": "Obama wins: A new chapter in American history begins with landslide victory",
+      "event_id": "obama-election",
+      "event_name": "Obama Elected President",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "anticipation",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:17.944Z",
+      "latencyMs": 1932,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.4,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.999375,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.45,
+        "fear": 0,
+        "surprise": 0.25,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.8
+      }
+    },
+    {
+      "id": "obama-election__68",
+      "text": "From dream to reality: Obama's victory brings tears of joy and hope for change",
+      "event_id": "obama-election",
+      "event_name": "Obama Elected President",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "anticipation",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:22.068Z",
+      "latencyMs": 2121,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9996875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.25,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.7
+      }
+    },
+    {
+      "id": "obama-election__69",
+      "text": "America elects Barack Obama, shattering a barrier as old as the republic itself",
+      "event_id": "obama-election",
+      "event_name": "Obama Elected President",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "anticipation",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:25.863Z",
+      "latencyMs": 1790,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.6,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.010000000000000002,
+        "fear": 0,
+        "surprise": 0.039999999999999994,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.99375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.4,
+        "fear": 0,
+        "surprise": 0.4,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.4
+      }
+    },
+    {
+      "id": "celebrity-death-kobe__70",
+      "text": "Kobe Bryant killed in helicopter crash along with daughter Gianna and seven others",
+      "event_id": "celebrity-death-kobe",
+      "event_name": "Kobe Bryant Death",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "surprise",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:29.589Z",
+      "latencyMs": 1722,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.7,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.022499999999999992,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.996875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.2,
+        "surprise": 0.55,
+        "sadness": 0.8500000000000001,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "celebrity-death-kobe__71",
+      "text": "A legend gone too soon: Basketball icon Kobe Bryant dies at 41 in fiery helicopter crash",
+      "event_id": "celebrity-death-kobe",
+      "event_name": "Kobe Bryant Death",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "surprise",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:33.540Z",
+      "latencyMs": 1947,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.25,
+        "surprise": 0.35,
+        "sadness": 0.75,
+        "disgust": 0.05,
+        "anger": 0.05,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "celebrity-death-kobe__72",
+      "text": "The world mourns Kobe: Tributes pour in as news of basketball star's death stuns millions",
+      "event_id": "celebrity-death-kobe",
+      "event_name": "Kobe Bryant Death",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "surprise",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:38.510Z",
+      "latencyMs": 2967,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.7,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.5,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.010000000000000002,
+        "surprise": 0.009999999999999995,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.1,
+        "surprise": 0.6,
+        "sadness": 0.8,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "celebrity-death-kobe__73",
+      "text": "Kobe Bryant and daughter Gianna among nine killed in foggy hillside helicopter crash",
+      "event_id": "celebrity-death-kobe",
+      "event_name": "Kobe Bryant Death",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "surprise",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:42.382Z",
+      "latencyMs": 1869,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.3,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.6,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0225,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9965625,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.25,
+        "surprise": 0.44999999999999996,
+        "sadness": 0.8500000000000001,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "celebrity-death-kobe__74",
+      "text": "Heartbroken: Lakers fans gather at Staples Center in grief after Kobe Bryant's death",
+      "event_id": "celebrity-death-kobe",
+      "event_name": "Kobe Bryant Death",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "surprise",
+        "trust"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:46.105Z",
+      "latencyMs": 1718,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 1,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.9,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "boston-marathon-bombing__75",
+      "text": "Bombs explode at Boston Marathon finish line, killing three and injuring hundreds",
+      "event_id": "boston-marathon-bombing",
+      "event_name": "Boston Marathon Bombing",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:51.341Z",
+      "latencyMs": 3232,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.7,
+          "sadness": 0.9,
+          "disgust": 0.6,
+          "anger": 0.7,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.6,
+          "sadness": 0.8,
+          "disgust": 0.5,
+          "anger": 0.6,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.0024999999999999988,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.998125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.6499999999999999,
+        "sadness": 0.8500000000000001,
+        "disgust": 0.55,
+        "anger": 0.6499999999999999,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "boston-marathon-bombing__76",
+      "text": "Terror at the marathon: Twin blasts turn celebration into carnage",
+      "event_id": "boston-marathon-bombing",
+      "event_name": "Boston Marathon Bombing",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:55.328Z",
+      "latencyMs": 1984,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.3,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.7,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.5,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.0025000000000000014,
+        "anger": 0.010000000000000002,
+        "anticipation": 0
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.9,
+        "surprise": 0.7,
+        "sadness": 0.6,
+        "disgust": 0.35,
+        "anger": 0.4,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "boston-marathon-bombing__77",
+      "text": "Boston under siege: City in lockdown as manhunt for marathon bombers intensifies",
+      "event_id": "boston-marathon-bombing",
+      "event_name": "Boston Marathon Bombing",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:31:59.176Z",
+      "latencyMs": 1842,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.2,
+          "fear": 0.8,
+          "surprise": 0.1,
+          "sadness": 0.3,
+          "disgust": 0.2,
+          "anger": 0.4,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.4,
+          "sadness": 0.5,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.010000000000000002,
+        "fear": 0,
+        "surprise": 0.022500000000000003,
+        "sadness": 0.010000000000000002,
+        "disgust": 0,
+        "anger": 0.0025000000000000014,
+        "anticipation": 0
+      },
+      "consensus": 0.994375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.1,
+        "fear": 0.8,
+        "surprise": 0.25,
+        "sadness": 0.4,
+        "disgust": 0.2,
+        "anger": 0.35,
+        "anticipation": 0.6
+      }
+    },
+    {
+      "id": "boston-marathon-bombing__78",
+      "text": "Blood on Boylston Street: Explosions shatter the joy of a beloved American tradition",
+      "event_id": "boston-marathon-bombing",
+      "event_name": "Boston Marathon Bombing",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:03.190Z",
+      "latencyMs": 2010,
+      "scores": {
+        "claude": {
+          "joy": 0.2,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.6,
+          "sadness": 0.8,
+          "disgust": 0.4,
+          "anger": 0.3,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.5,
+          "sadness": 0.7,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0.010000000000000002,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0025000000000000014,
+        "anger": 0.0025000000000000014,
+        "anticipation": 0
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.1,
+        "trust": 0,
+        "fear": 0.6499999999999999,
+        "surprise": 0.55,
+        "sadness": 0.75,
+        "disgust": 0.35,
+        "anger": 0.35,
+        "anticipation": 0.1
+      }
+    },
+    {
+      "id": "boston-marathon-bombing__79",
+      "text": "Who did this? FBI launches massive investigation as Boston reels from deadly attack",
+      "event_id": "boston-marathon-bombing",
+      "event_name": "Boston Marathon Bombing",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:07.027Z",
+      "latencyMs": 1834,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.2,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.5,
+          "anticipation": 0.4
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.5,
+          "disgust": 0.1,
+          "anger": 0.3,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.010000000000000002,
+        "fear": 0.010000000000000005,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.022500000000000003,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.022499999999999992
+      },
+      "consensus": 0.99,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.1,
+        "fear": 0.7,
+        "surprise": 0.35,
+        "sadness": 0.55,
+        "disgust": 0.25,
+        "anger": 0.4,
+        "anticipation": 0.55
+      }
+    },
+    {
+      "id": "marriage-equality__80",
+      "text": "Supreme Court rules same-sex couples have right to marry nationwide",
+      "event_id": "marriage-equality",
+      "event_name": "Supreme Court Legalizes Same-Sex Marriage",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:10.963Z",
+      "latencyMs": 1930,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.4,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.3,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.1,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0025000000000000014,
+        "fear": 0.0025000000000000005,
+        "surprise": 0,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0025000000000000014
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.35,
+        "fear": 0.05,
+        "surprise": 0.2,
+        "sadness": 0.05,
+        "disgust": 0.05,
+        "anger": 0.05,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "marriage-equality__81",
+      "text": "Love wins: Supreme Court declares marriage equality the law of the land",
+      "event_id": "marriage-equality",
+      "event_name": "Supreme Court Legalizes Same-Sex Marriage",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:15.351Z",
+      "latencyMs": 2383,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.7,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.039999999999999994,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.06249999999999999
+      },
+      "consensus": 0.986875,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.5,
+        "fear": 0,
+        "surprise": 0.25,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "marriage-equality__82",
+      "text": "A historic day for civil rights: Same-sex marriage legalized in all 50 states",
+      "event_id": "marriage-equality",
+      "event_name": "Supreme Court Legalizes Same-Sex Marriage",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:19.250Z",
+      "latencyMs": 1896,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.5,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000044,
+        "trust": 0.010000000000000002,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.022500000000000003
+      },
+      "consensus": 0.9953125,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.75,
+        "trust": 0.4,
+        "fear": 0,
+        "surprise": 0.25,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "marriage-equality__83",
+      "text": "Tears of joy outside Supreme Court as couples celebrate landmark ruling",
+      "event_id": "marriage-equality",
+      "event_name": "Supreme Court Legalizes Same-Sex Marriage",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:23.581Z",
+      "latencyMs": 2326,
+      "scores": {
+        "claude": {
+          "joy": 0.9,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.9,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.06249999999999999
+      },
+      "consensus": 0.9909375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.9,
+        "trust": 0.3,
+        "fear": 0,
+        "surprise": 0.30000000000000004,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "marriage-equality__84",
+      "text": "Equal at last: Court rules Constitution guarantees right to marry for all Americans",
+      "event_id": "marriage-equality",
+      "event_name": "Supreme Court Legalizes Same-Sex Marriage",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:27.298Z",
+      "latencyMs": 1714,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.1,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.6,
+          "fear": 0,
+          "surprise": 0.3,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.009999999999999998,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9959375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.6,
+        "fear": 0,
+        "surprise": 0.2,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "ukraine-invasion__85",
+      "text": "Russia attacks Ukraine: Explosions rock cities as Putin launches full-scale invasion",
+      "event_id": "ukraine-invasion",
+      "event_name": "Russia Invades Ukraine",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:31.243Z",
+      "latencyMs": 1942,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.5,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.6,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.4,
+        "sadness": 0.6,
+        "disgust": 0.4,
+        "anger": 0.6499999999999999,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "ukraine-invasion__86",
+      "text": "War in Europe: Russian forces cross into Ukraine from multiple directions",
+      "event_id": "ukraine-invasion",
+      "event_name": "Russia Invades Ukraine",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:35.159Z",
+      "latencyMs": 1914,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.5,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.3,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0,
+        "disgust": 0.010000000000000002,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.996875,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7,
+        "surprise": 0.35,
+        "sadness": 0.6,
+        "disgust": 0.30000000000000004,
+        "anger": 0.4,
+        "anticipation": 0.55
+      }
+    },
+    {
+      "id": "ukraine-invasion__87",
+      "text": "Ukraine under fire: Missiles and bombs rain down on cities as world watches in horror",
+      "event_id": "ukraine-invasion",
+      "event_name": "Russia Invades Ukraine",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:39.561Z",
+      "latencyMs": 2400,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0.6,
+          "anger": 0.5,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.4,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.039999999999999994,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.99375,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.3,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.4,
+        "anger": 0.45,
+        "anticipation": 0.15000000000000002
+      }
+    },
+    {
+      "id": "ukraine-invasion__88",
+      "text": "Putin defies warnings and invades Ukraine in largest military assault since World War II",
+      "event_id": "ukraine-invasion",
+      "event_name": "Russia Invades Ukraine",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:43.353Z",
+      "latencyMs": 1790,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.4,
+          "sadness": 0.6,
+          "disgust": 0.3,
+          "anger": 0.5,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0025000000000000044,
+        "surprise": 0.0025000000000000014,
+        "sadness": 0,
+        "disgust": 0.0025000000000000014,
+        "anger": 0.009999999999999995,
+        "anticipation": 0
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.35,
+        "sadness": 0.6,
+        "disgust": 0.35,
+        "anger": 0.6,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "ukraine-invasion__89",
+      "text": "Kyiv under attack: Ukrainians flee as Russian troops advance on the capital",
+      "event_id": "ukraine-invasion",
+      "event_name": "Russia Invades Ukraine",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:47.208Z",
+      "latencyMs": 1849,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.9,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0.5,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.2,
+          "anger": 0.4,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000005,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0.010000000000000002,
+        "anger": 0.0024999999999999988,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.8,
+        "surprise": 0.3,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.1,
+        "anger": 0.45,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "titanic-sub-implosion__90",
+      "text": "All five aboard Titan submersible dead after catastrophic implosion near Titanic wreck",
+      "event_id": "titanic-sub-implosion",
+      "event_name": "Titan Submersible Implosion",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:51.094Z",
+      "latencyMs": 1882,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.4,
+          "sadness": 0.7,
+          "disgust": 0.1,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0.0025000000000000005,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.999375,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.3,
+        "surprise": 0.4,
+        "sadness": 0.75,
+        "disgust": 0.05,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "titanic-sub-implosion__91",
+      "text": "Debris field confirms worst fears: OceanGate sub suffered catastrophic failure on descent",
+      "event_id": "titanic-sub-implosion",
+      "event_name": "Titan Submersible Implosion",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:54.894Z",
+      "latencyMs": 1798,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.8,
+          "surprise": 0.2,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.5,
+          "surprise": 0.4,
+          "sadness": 0.7,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.022500000000000006,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.9953125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.65,
+        "surprise": 0.30000000000000004,
+        "sadness": 0.7,
+        "disgust": 0.05,
+        "anger": 0.05,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "titanic-sub-implosion__92",
+      "text": "Five lives lost in the deep: Titan submersible imploded in milliseconds, experts say",
+      "event_id": "titanic-sub-implosion",
+      "event_name": "Titan Submersible Implosion",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:32:58.769Z",
+      "latencyMs": 1873,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.2,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0.1,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.4,
+          "sadness": 0.8,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.010000000000000002,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.1,
+        "fear": 0.6,
+        "surprise": 0.4,
+        "sadness": 0.8,
+        "disgust": 0.1,
+        "anger": 0.05,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "titanic-sub-implosion__93",
+      "text": "The search is over: Coast Guard confirms Titan crew killed in implosion near the Titanic",
+      "event_id": "titanic-sub-implosion",
+      "event_name": "Titan Submersible Implosion",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:02.599Z",
+      "latencyMs": 1827,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.1,
+          "sadness": 0.8,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.3,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0024999999999999988,
+        "surprise": 0.009999999999999998,
+        "sadness": 0.0025000000000000044,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.25,
+        "surprise": 0.2,
+        "sadness": 0.75,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "titanic-sub-implosion__94",
+      "text": "A billionaire's fatal gamble: How a deep-sea expedition ended in tragedy",
+      "event_id": "titanic-sub-implosion",
+      "event_name": "Titan Submersible Implosion",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "sadness",
+        "surprise"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:06.441Z",
+      "latencyMs": 1839,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.2,
+          "sadness": 0.7,
+          "disgust": 0.1,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.5,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0.1,
+          "anger": 0.1,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.010000000000000002,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.04000000000000001
+      },
+      "consensus": 0.9928125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.4,
+        "surprise": 0.25,
+        "sadness": 0.6499999999999999,
+        "disgust": 0.1,
+        "anger": 0.05,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "japan-world-cup-upset__95",
+      "text": "Japan stuns the world: Comeback victory over Germany sends shockwaves through World Cup",
+      "event_id": "japan-world-cup-upset",
+      "event_name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:10.258Z",
+      "latencyMs": 1815,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.1,
+          "fear": 0,
+          "surprise": 0.9,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.3,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.039999999999999994,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.5,
+        "trust": 0.05,
+        "fear": 0,
+        "surprise": 0.8500000000000001,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "japan-world-cup-upset__96",
+      "text": "Unbelievable: Japan rallies from behind to beat four-time champions Germany 2-1",
+      "event_id": "japan-world-cup-upset",
+      "event_name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:13.860Z",
+      "latencyMs": 1600,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.1,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.999375,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.05,
+        "fear": 0,
+        "surprise": 0.8,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.2
+      }
+    },
+    {
+      "id": "japan-world-cup-upset__97",
+      "text": "Giant-killing Japan does it again, shocking Spain to top their World Cup group",
+      "event_id": "japan-world-cup-upset",
+      "event_name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:17.578Z",
+      "latencyMs": 1713,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 1,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.2,
+        "fear": 0,
+        "surprise": 0.8,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "japan-world-cup-upset__98",
+      "text": "Japan's miracle run: Two come-from-behind victories over football royalty electrify the tournament",
+      "event_id": "japan-world-cup-upset",
+      "event_name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:21.468Z",
+      "latencyMs": 1885,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.6
+        },
+        "gemini": {
+          "joy": 0.7,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0.6,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000044,
+        "trust": 0.0024999999999999988,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.009999999999999995
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.75,
+        "trust": 0.25,
+        "fear": 0,
+        "surprise": 0.6499999999999999,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.5
+      }
+    },
+    {
+      "id": "japan-world-cup-upset__99",
+      "text": "The greatest upset of the tournament: Japan proves the World Cup really is anyone's game",
+      "event_id": "japan-world-cup-upset",
+      "event_name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "anticipation"
+      ],
+      "expected_signal_quality": "clear",
+      "scored_at": "2026-03-14T02:33:25.221Z",
+      "latencyMs": 1749,
+      "scores": {
+        "claude": {
+          "joy": 0.7,
+          "trust": 0.1,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.8,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.0024999999999999988,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.999375,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.6499999999999999,
+        "trust": 0.15000000000000002,
+        "fear": 0,
+        "surprise": 0.8,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    }
+  ]
+}

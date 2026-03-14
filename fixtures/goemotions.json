@@ -1,0 +1,5718 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "GoEmotions dataset (Google, 2020) mapped to Plutchik's 8 emotions",
+    "source": "https://github.com/google-research/google-research/tree/master/goemotions",
+    "sample_size": 500,
+    "seed": 42,
+    "mapping": {
+      "amusement": "joy",
+      "excitement": "joy",
+      "joy": "joy",
+      "love": "joy",
+      "pride": "joy",
+      "relief": "joy",
+      "admiration": "trust",
+      "approval": "trust",
+      "caring": "trust",
+      "gratitude": "trust",
+      "fear": "fear",
+      "nervousness": "fear",
+      "surprise": "surprise",
+      "realization": "surprise",
+      "confusion": "surprise",
+      "sadness": "sadness",
+      "grief": "sadness",
+      "disappointment": "sadness",
+      "remorse": "sadness",
+      "embarrassment": "sadness",
+      "disgust": "disgust",
+      "disapproval": "disgust",
+      "anger": "anger",
+      "annoyance": "anger",
+      "curiosity": "anticipation",
+      "desire": "anticipation",
+      "optimism": "anticipation",
+      "neutral": null
+    },
+    "created": "2026-03-14T02:17:32.739Z"
+  },
+  "texts": [
+    {
+      "text": "This sucks so much and I’m sorry. I hope you recover and have a wonderful life.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ee4nruf"
+    },
+    {
+      "text": "What's up with all the gloating.",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edyb804"
+    },
+    {
+      "text": "This looks delicious, I wish I had all ingredients on hand, because I would make this tomorrow.",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edskrua"
+    },
+    {
+      "text": "Idk I feel like it's just an exaggeration, English is a hyperbolic language",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed27sny"
+    },
+    {
+      "text": "So many great shows they killed because they didn't advertise them and put them at terrible air times :(",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edvd348"
+    },
+    {
+      "text": "I was wondering this too. Whatever it was it's over now.",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eepte77"
+    },
+    {
+      "text": "Bruh cake happy day",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef88bpj"
+    },
+    {
+      "text": "Thanks that's very helpful because I can't seem to decifer all of the levels of irony in some posts on this subreddit haha.",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed0ftgl"
+    },
+    {
+      "text": "Love those clips on YouTube, does this add anything to it? Considering Netflix's obsession with exclusivity, this is an unusual arrangement. ",
+      "goemotions_labels": [
+        "curiosity",
+        "love"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "joy"
+      ],
+      "goemotions_id": "eczl7i9"
+    },
+    {
+      "text": "I'm so uncomfortable.",
+      "goemotions_labels": [
+        "embarrassment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edsxvih"
+    },
+    {
+      "text": "Usually they dont even show up when you call them and they are a rare sight in the city. Good luck finding one.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ee76pl8"
+    },
+    {
+      "text": "I'm afraid I'll pick something else.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeidol8"
+    },
+    {
+      "text": "What makes BDS anti-Semitic, as opposed to just anti-Israel? I see the two frequently conflated, which I think is a mistake.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edsdpwv"
+    },
+    {
+      "text": "Because majority of moves have stupidly long names. GO INTO ANGEL PUNISHER INTO DIVE BOMB RADIANCE AND FINISH THE JOB WITH PUNISHING LIGHT BLADE",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eetcmd6"
+    },
+    {
+      "text": "How is this the epitome of slavery? Nobody is forcing you to do this. Stop being dramatic.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ediwjrn"
+    },
+    {
+      "text": "NFL level catch",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eemrxwj"
+    },
+    {
+      "text": "I am on month 9 post discard. The anxiety has lifted tremendously, and the depression is still looming but not as bad. ",
+      "goemotions_labels": [
+        "nervousness",
+        "sadness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear",
+        "sadness"
+      ],
+      "goemotions_id": "eetamwr"
+    },
+    {
+      "text": "If its our fault for stocking it in the wrong place, its our fault - within reason of course.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed6wkrw"
+    },
+    {
+      "text": "Your patience to find the perfect moment is... Please just let me slow clap.",
+      "goemotions_labels": [
+        "admiration",
+        "annoyance"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "anger"
+      ],
+      "goemotions_id": "ef09iur"
+    },
+    {
+      "text": "Ik was more curious with our communities opinion",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef93umj"
+    },
+    {
+      "text": "Fucking monophanie looking ass floating with the dead, nice.",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed8r9yv"
+    },
+    {
+      "text": "Another racist foul by the Raptors on [NAME]",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edltol1"
+    },
+    {
+      "text": "Policing is inherently coercive. Anyone who opposes coercive authority must by definition oppose policing.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edfween"
+    },
+    {
+      "text": "I wouldn’t cause I already know my area so well I don’t want other drivers with that knowledge",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efbv998"
+    },
+    {
+      "text": "Enough shit comes out of his mouth, do we really need to put more back in?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eeajex2"
+    },
+    {
+      "text": "Only 5 hour drive..... I guess im doing a day trip to Almonte. I love baked goods.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edz9687"
+    },
+    {
+      "text": "My misunderstanding, I thought you were questioning why people thought we needed a change.",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ediqmno"
+    },
+    {
+      "text": "My heart broke for him when his wife suddenly passed away. I worried about him with his issues with depression but he seems to be doing okay.",
+      "goemotions_labels": [
+        "grief"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eey3opx"
+    },
+    {
+      "text": "I hope your gaydar has leveled up enough to filter these out now",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed0t4so"
+    },
+    {
+      "text": "No but that doesn’t mean people were less happy in the past.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee10nhc"
+    },
+    {
+      "text": "excuse me what the *fuck* was that",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee4i9cs"
+    },
+    {
+      "text": "Could you make a ten hour version? I’m tired of having to replay this so often",
+      "goemotions_labels": [
+        "curiosity",
+        "disappointment"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "sadness"
+      ],
+      "goemotions_id": "eevn0gr"
+    },
+    {
+      "text": "\"ITT: People saying \"\"I'm doing to get downvoted for this\"\" and then not getting downvoted.\"",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ef6zcu0"
+    },
+    {
+      "text": "-9 and I’m out shopping. Sun is out feels great.",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "efgqmll"
+    },
+    {
+      "text": "Humans are complex beings that we don't as people still don't understand completely. That is why.",
+      "goemotions_labels": [
+        "disappointment",
+        "neutral"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee433se"
+    },
+    {
+      "text": "I don't think there is any correlation between sugar and hyper behavior.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edi0c7e"
+    },
+    {
+      "text": "[NAME] is scary",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edu81f4"
+    },
+    {
+      "text": "Cute but I dont like where this is going",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edvk9q8"
+    },
+    {
+      "text": "This is awesome! do you have any more artwork on a website or social site? Is this for sale!?",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "anticipation"
+      ],
+      "goemotions_id": "eepy5sf"
+    },
+    {
+      "text": "I don't know why this image bothers me so much",
+      "goemotions_labels": [
+        "confusion",
+        "disappointment"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "sadness"
+      ],
+      "goemotions_id": "ee9y4bk"
+    },
+    {
+      "text": "sadly it would take wayyyyyy more than this to ever change custody agreements. documenting it for her own sanity is a good idea, though.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee2gc6b"
+    },
+    {
+      "text": "Man... it’s been a while since I laughed so hard watching one of these vids",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eekmzwj"
+    },
+    {
+      "text": "I almost feel sorry for the poor fellow because, to me, the fingers still look abnormally stubby",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ef4qf89"
+    },
+    {
+      "text": "That hit was under 2 seconds after he had possession. Was it unwarranted? Yes Was it SUPER late? No",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eczx20j"
+    },
+    {
+      "text": "This sent shivers down my spine",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eew4n1x"
+    },
+    {
+      "text": "\"Can I comment on the lost opportunity/remarkable restraint by [NAME] to not have a \"\"MLK I Have a Dream Mattress Sale\"\"\"",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eeczpcn"
+    },
+    {
+      "text": "Really bad trap if noone falls for it",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eepey1y"
+    },
+    {
+      "text": "Dude was posting about the score, as-in, “are you kidding me, we lost to the kings at home on a last second shot”",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeiyfbf"
+    },
+    {
+      "text": "She is a horrible person and that is what makes her so relatable in real life.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edcktsz"
+    },
+    {
+      "text": "Tortilla chips are the worst oml. One time a piece got lodged between my gum and my tooth. Like, that fella was /deeply/ embedded in my gum",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeje8cf"
+    },
+    {
+      "text": "I’m blown away by how many people know this.",
+      "goemotions_labels": [
+        "curiosity",
+        "surprise"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "surprise"
+      ],
+      "goemotions_id": "ef4qy3x"
+    },
+    {
+      "text": "You went from hot to hot, that’s crazy!",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ee2lpe5"
+    },
+    {
+      "text": "Lol didn't some character mention even the league of assassins was afraid of [NAME]?",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eepkrwi"
+    },
+    {
+      "text": "u/TheQTVain praying for your little fighter. Hope everything goes well and he comes out in good health. Stay strong and let [NAME] do his thing ❤️",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed1kgx2"
+    },
+    {
+      "text": "I’ll bet he insists he loves both of you because for him love is just serving his needs.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ee5uow2"
+    },
+    {
+      "text": "He's so intimidating...",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeduqfx"
+    },
+    {
+      "text": "Georgia is $5.25?! Wtf? We don’t live in 1990!",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed25fxk"
+    },
+    {
+      "text": "This kills the country.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eea6jep"
+    },
+    {
+      "text": "Facts have no relevence here, you cannot use them.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edsu9k4"
+    },
+    {
+      "text": "big heart to do that, guy probably plays for the love of the game, and you have to respect that",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eed5tiz"
+    },
+    {
+      "text": "> it. Just because they're not vertebrates doesn't mean we get to kill them for amusement. It literally does though",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efhah96"
+    },
+    {
+      "text": "Likewise, Reddit has just gotten strange recently, sorry for misinterpreting.",
+      "goemotions_labels": [
+        "remorse",
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ef1w7sl"
+    },
+    {
+      "text": "I'm happy to go without but if it's readily available then everyday.",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed4wcfc"
+    },
+    {
+      "text": "I owe NOTHING and they take more than that every year ;)",
+      "goemotions_labels": [
+        "anger",
+        "disappointment",
+        "realization"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "sadness",
+        "surprise"
+      ],
+      "goemotions_id": "efe6psx"
+    },
+    {
+      "text": "death of fear is certain.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ee2miso"
+    },
+    {
+      "text": "Thank you :) I was starting to seriously wonder if something was majorly wrong with my maternal instincts haha",
+      "goemotions_labels": [
+        "amusement",
+        "gratitude"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "trust"
+      ],
+      "goemotions_id": "ef2ja60"
+    },
+    {
+      "text": "Lol!!!!!!!!!!!!! I love it.",
+      "goemotions_labels": [
+        "amusement",
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eeq8ddu"
+    },
+    {
+      "text": "I'm sorry but [NAME], [NAME] and [NAME] are my favs this year (and I hated [NAME] in her Season).",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eecgc6p"
+    },
+    {
+      "text": "Need some new prog material, I'm stoked to listen to it!",
+      "goemotions_labels": [
+        "excitement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eec529m"
+    },
+    {
+      "text": "I’d probably need up spending all of my money on food and ammo, I like having a limit",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eepp10v"
+    },
+    {
+      "text": "It doesn't matter if 99% didn't vote for him, it only maters that he got 50% +1 of the seats.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee4zhjz"
+    },
+    {
+      "text": "SWTOR is horrible when you want to play together with someone. So many parts that you can't join in on.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edeliqn"
+    },
+    {
+      "text": "Why the hell do we sit trae in crunch time we probably won't win. Give him the XP. Very frustrating.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed4eldw"
+    },
+    {
+      "text": "Did people really go against [NAME] when he came out? I wasn't as in to his stuff at the time but I remember people being supportive.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edesoag"
+    },
+    {
+      "text": "Wow that was a roasting... Deserved, but daaaaamn [NAME]",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eegno27"
+    },
+    {
+      "text": "Says who? Comedians can joke about anything as long as it's funny to their audience.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed2w7d9"
+    },
+    {
+      "text": "What’s the chemical make up of a word? Yea thought so genius lmfaoooooo.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeq2rip"
+    },
+    {
+      "text": "No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. ",
+      "goemotions_labels": [
+        "disapproval",
+        "realization"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust",
+        "surprise"
+      ],
+      "goemotions_id": "efctsxu"
+    },
+    {
+      "text": "I will not being awkward if I am being myself but I just scared",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edgjiy4"
+    },
+    {
+      "text": "We don't do that here",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef0h8s6"
+    },
+    {
+      "text": "Oh fuck. Is that legal?",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity",
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "anticipation"
+      ],
+      "goemotions_id": "edh4tiq"
+    },
+    {
+      "text": "haha me neither.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eemu89v"
+    },
+    {
+      "text": "Minus the eyebrows I personally think it’s an attractive look. But the fucking eyebrows ruin it all.",
+      "goemotions_labels": [
+        "admiration",
+        "anger"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "anger"
+      ],
+      "goemotions_id": "eeft1cc"
+    },
+    {
+      "text": "Well it looks like I am going to spend at least a year renting to check the city out",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edu13rb"
+    },
+    {
+      "text": "Thanks. I’m not ok with the behavior I’m.just having a difficult time accepting what I must do.",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edvymh1"
+    },
+    {
+      "text": "hi [NAME], toxicity in a multiplayer game is something that should always be expected no matter the game cause people are assholes.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee6pe1p"
+    },
+    {
+      "text": "I think this does help less good pupils to learn it better and agree with the teachers. In my class thats the biggest problem when it comes to french",
+      "goemotions_labels": [
+        "disappointment",
+        "optimism"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness",
+        "anticipation"
+      ],
+      "goemotions_id": "efdoqd7"
+    },
+    {
+      "text": "I was worried about that too honestly",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ee6fu0y"
+    },
+    {
+      "text": "Women should be able to make their own decisions about their bodies. They are conscious when their fetuses are not. Their priorities matter more in these situations.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edxczlu"
+    },
+    {
+      "text": "That's perfectly fine. I'm sorry if I offended you in any way. Have a nice day.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edyhq77"
+    },
+    {
+      "text": "I did not know that a map could arouse me",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edt05r3"
+    },
+    {
+      "text": "Yeah you’re implying that someone holds the shitty opinion you just made up. Which is basically an attempt to make them look bad. Character assassination.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ednojxz"
+    },
+    {
+      "text": "It makes being ugly even more pathetic. All that work just to create suffering.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edmiq2s"
+    },
+    {
+      "text": "excuse me IS THIS AN ANALOGY",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edqssvy"
+    },
+    {
+      "text": "I like Kyber",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed81hj1"
+    },
+    {
+      "text": "Last time I tried to post, my post was deleted because I didn't have enough karma, wasn't even that long ago...",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeiv9g2"
+    },
+    {
+      "text": "I always wondered what turned the deer albino. Must have been from fright.",
+      "goemotions_labels": [
+        "curiosity",
+        "fear"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "fear"
+      ],
+      "goemotions_id": "ed3ospf"
+    },
+    {
+      "text": "HEY! Once I was out on my own, I **loved** getting socks and underwear as gifts. My son just realized the same thing.",
+      "goemotions_labels": [
+        "love",
+        "realization"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "surprise"
+      ],
+      "goemotions_id": "ed90ryt"
+    },
+    {
+      "text": "I'm afraid if I have a awful time or something like that I'm going to get worse..",
+      "goemotions_labels": [
+        "fear",
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eep9fe2"
+    },
+    {
+      "text": "but if it weren't that way then a corrupt police force could convict many innocents. there is no correct answer to this problem.",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eesbsx8"
+    },
+    {
+      "text": "Thank you. Take the upvote!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eev4vdj"
+    },
+    {
+      "text": "Or they drop out cause they have no interest in learning the language (a lot of kids do this unfortunately)",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eedcfvs"
+    },
+    {
+      "text": ">very unlikely Literally impossible",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efgnyav"
+    },
+    {
+      "text": "[NAME] office just denied it",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eeeglrx"
+    },
+    {
+      "text": "It’s a rough time I hope your Ex wife gets better.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef282hb"
+    },
+    {
+      "text": "I was so hopeful...",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed6fhit"
+    },
+    {
+      "text": "I love this",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eetf51v"
+    },
+    {
+      "text": "It is amazing how social media is allowing maniacs to congregate. Social media is very bad for us.",
+      "goemotions_labels": [
+        "anger",
+        "surprise"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "surprise"
+      ],
+      "goemotions_id": "edhw539"
+    },
+    {
+      "text": "Getting jealous over exes is hard to overcome but they are EXES, he/she doesn’t want them, they want you.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed7rqgp"
+    },
+    {
+      "text": "\"My first messages from women are either \"\"hi\"\" \"\"hello\"\" or \"\"psst.\"\" Yeah I'm not wasting my time.\"",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ede7csf"
+    },
+    {
+      "text": "Wow. Have that much debit in your bovada account is something crazy. Props to you",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eebr488"
+    },
+    {
+      "text": "Awful taste hmmmmm",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef8h1do"
+    },
+    {
+      "text": "You look better when people can’t see you <3",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef4lrdu"
+    },
+    {
+      "text": "Oh I wish that was how everyone thought. Unfortunately it's not.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ef18jc3"
+    },
+    {
+      "text": "...silly walks",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eec0167"
+    },
+    {
+      "text": "When you can't hold in years of emotional trauma anymore",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee0d2ou"
+    },
+    {
+      "text": "Braindead people blocking lane is pure cancer. But the most horrible part of your story is that you got stuck in checkline line for 10 sore minutes.. Wow.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eecp1ch"
+    },
+    {
+      "text": "This is a terrible idea",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eea9xxx"
+    },
+    {
+      "text": "What's with the buying porn thing? I missed out on it",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eegjywd"
+    },
+    {
+      "text": "Apologies, I should have been more specific. Where abouts is JD? ",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eesz52n"
+    },
+    {
+      "text": "supposed to be brain ache but I am too tired with all these losses i have",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeafgnu"
+    },
+    {
+      "text": "Oh no, the gig is up. I'm really [NAME]. LOL",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef58ywi"
+    },
+    {
+      "text": "The [NAME], a great bunch of lads",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edgjvyh"
+    },
+    {
+      "text": "Miss you...",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edwfc6l"
+    },
+    {
+      "text": "You do realise that a toilet lid doesn't make the toilet air tight, so the toxic poo ridden air you're so worried about would still escape.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeonsm4"
+    },
+    {
+      "text": "Man Management: 9/10 Tactics: 4ishh/10 Anyway, he wasn't brought to implement brand new tactics but to develop our young core, was he ???",
+      "goemotions_labels": [
+        "confusion",
+        "neutral"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "een5rq8"
+    },
+    {
+      "text": "Coq was great man...",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed6apxa"
+    },
+    {
+      "text": "And what a fuckton of karma it was. It’s fake stories like this that really prove that communism is the far superior economic system.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "efgaw9f"
+    },
+    {
+      "text": "for a moment i got scared and wondered what was this doing here then i read the happy ending",
+      "goemotions_labels": [
+        "fear",
+        "surprise"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear",
+        "surprise"
+      ],
+      "goemotions_id": "edikiqt"
+    },
+    {
+      "text": "Oh no the poor man",
+      "goemotions_labels": [
+        "disappointment",
+        "sadness",
+        "neutral"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edn67yg"
+    },
+    {
+      "text": "No problem, just wait until March and the site will be out.",
+      "goemotions_labels": [
+        "caring"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed4mkrg"
+    },
+    {
+      "text": "That is utterly horrifying. I'm so sorry that your kindergarten teacher was such a heartless old bat.",
+      "goemotions_labels": [
+        "remorse",
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee580f0"
+    },
+    {
+      "text": "There is irony in what you guys are saying.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edf80ua"
+    },
+    {
+      "text": "Everything purdue throws up goes in. Frustrating. Need to find a way to get stops or this ones over at halftime",
+      "goemotions_labels": [
+        "annoyance",
+        "disapproval"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "disgust"
+      ],
+      "goemotions_id": "ed6te4i"
+    },
+    {
+      "text": "So, bloody stop feeding cattle, nothing even compares to the resource consumption (waste) of the animal industry.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed0k42m"
+    },
+    {
+      "text": "Does us releasing him not affect this number at all?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eeowt5i"
+    },
+    {
+      "text": "Once I saw the LV logo I then realized I’m not rich enough to even watch that video.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edf6m39"
+    },
+    {
+      "text": "I took a picture of a farmer treating his crops with roundup yesterday.. it was horrifying",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ed61c03"
+    },
+    {
+      "text": "I remember writing on them was horrible. Slight delay which threw me off combined with the letters ending up looking like crap. Whiteboard was so much easier.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "efgox59"
+    },
+    {
+      "text": "You can't talk morality to psychopaths.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef97pl3"
+    },
+    {
+      "text": "Too fast for me in the chat room. I'm on my phone and can't type that fast. Here is more relaxed and everyone is hilarious.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "efes88i"
+    },
+    {
+      "text": "It's weird. You might be right to worry.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef9e2m7"
+    },
+    {
+      "text": "Doubt that. Skins for [NAME], [NAME] and [NAME] don't change the shape of their wings, so why should they for [NAME]?",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "anticipation"
+      ],
+      "goemotions_id": "ed5qov9"
+    },
+    {
+      "text": "I'm hoping it will pass but I do know you may be correct. I'm just not sure what to do.",
+      "goemotions_labels": [
+        "confusion",
+        "optimism"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "anticipation"
+      ],
+      "goemotions_id": "eebdmn2"
+    },
+    {
+      "text": "I feel like the world just doesn’t want [NAME] to have the spotlight. This is torture for a [NAME] fan like me. :’(",
+      "goemotions_labels": [
+        "disappointment",
+        "neutral"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edv0d0o"
+    },
+    {
+      "text": "Let [NAME] think about his performance for this 2 week break, god that was a brutal last 5 mins ",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eequf89"
+    },
+    {
+      "text": "We can’t have that",
+      "goemotions_labels": [
+        "disapproval",
+        "neutral"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edfykmg"
+    },
+    {
+      "text": "Such season 1 vibes and I love it.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eenqj7j"
+    },
+    {
+      "text": "And how often do you hear about feminists fighting for these women’s rights? Never. Feminists are cowards.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edalg04"
+    },
+    {
+      "text": "Wtf Powerhouse Macomb is the gym I go to. I've never seen this dude there.",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed77yvz"
+    },
+    {
+      "text": "I’m not sure you watched it.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed7fn53"
+    },
+    {
+      "text": "that this ridiculous comparison is this detailed and explicit makes me think the whole beating-a-little-girl-thing is part of his disgusting sexual fantasies.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed3h3o1"
+    },
+    {
+      "text": "Ok now I’m wondering what you’re on",
+      "goemotions_labels": [
+        "curiosity",
+        "surprise"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "surprise"
+      ],
+      "goemotions_id": "eecvojh"
+    },
+    {
+      "text": "Thanks for sharing",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed1seiq"
+    },
+    {
+      "text": "Wow nice way to live in an echo chamber.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ees3l2l"
+    },
+    {
+      "text": "We don't. That is exclusively a leftist thing, and you know it. ",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee62psv"
+    },
+    {
+      "text": "Thanks for this!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eez8duf"
+    },
+    {
+      "text": "For as long as she’s been gone, I’m terrified to think why she was kept alive that long.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edryik2"
+    },
+    {
+      "text": "Can he fire himself?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eers9ld"
+    },
+    {
+      "text": "All the best things happen after midnight. All the worst things, too, but life is all about taking risks. :^)",
+      "goemotions_labels": [
+        "optimism",
+        "realization"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "surprise"
+      ],
+      "goemotions_id": "eebnsso"
+    },
+    {
+      "text": "It wasn't an intelligent comment to begin with why would I take it seriously? Though I guess those 28 people did.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee3l36m"
+    },
+    {
+      "text": "That's how you think hes trying to input something. Glad it was my way home.",
+      "goemotions_labels": [
+        "gratitude",
+        "relief"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "joy"
+      ],
+      "goemotions_id": "edd1pob"
+    },
+    {
+      "text": "You must be fun at parties.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eeqmdgg"
+    },
+    {
+      "text": "Really? Cuz hella 18 year olds with bad grades from my high school seemed to do it with ease.",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edmyb23"
+    },
+    {
+      "text": "As a fellow browns fan, unfortunate enough to be born into a browns family and in ohio... Hello sharer of a lifetime of heartbreak.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eer7as8"
+    },
+    {
+      "text": "Not really, just wanted to know why specifically you thought he was on gear. (Because I honestly don't see it)",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eewupcb"
+    },
+    {
+      "text": "I know this was a common thing, but never knew that were so many creative names for it until I read this thread. ",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eecajyq"
+    },
+    {
+      "text": "Weird I can relate to this but in the same time I can't relate to this",
+      "goemotions_labels": [
+        "confusion",
+        "disgust"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "disgust"
+      ],
+      "goemotions_id": "edpc0qh"
+    },
+    {
+      "text": "\"[NAME]: \"\"Wait a minute? You're on my list!\"\" [NAME]: \"\"What a coincidence, you're on mine too.\"\"\"",
+      "goemotions_labels": [
+        "curiosity",
+        "excitement"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "joy"
+      ],
+      "goemotions_id": "ed6lys5"
+    },
+    {
+      "text": "Then I'll be accused of being a racist.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edyy95w"
+    },
+    {
+      "text": "That’s the silver lining of this. Fuck Veracruz.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edfebf0"
+    },
+    {
+      "text": "I would meet up in a public place first. Invite her to a bar within walking distance of your place and assess. Safety first.",
+      "goemotions_labels": [
+        "caring"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eehyp6x"
+    },
+    {
+      "text": "OMG, I thought the same",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edciymf"
+    },
+    {
+      "text": "I’m sorry that happened to you but it’s I can imagine I know if it was me I would forever feel Guilt.",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edjpdoz"
+    },
+    {
+      "text": "Be brave Star Wars fans. You've likely been analyzing RotJ wrong your entire life. OP has it all figured out. Amazing. I love you.",
+      "goemotions_labels": [
+        "caring",
+        "love"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "joy"
+      ],
+      "goemotions_id": "edjfwli"
+    },
+    {
+      "text": "Loving the things you do is a good start. it's easier than loving yourself, but it slowly leads into it. ",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed5cchn"
+    },
+    {
+      "text": "She threatened to hurt you, I would file a police report.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed9draz"
+    },
+    {
+      "text": "That 0.75 is not for the same job. It's looking at the totality of female salary vs male salary.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed39c77"
+    },
+    {
+      "text": "[NAME] has gotta he replaced or that was just terrible writing",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef560j9"
+    },
+    {
+      "text": "Go to highschool with the guys I went with. You'll get the hang of it in no time..",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eegyfmt"
+    },
+    {
+      "text": "E - Either we turn it around and make the playoffs or tank and [NAME] gets fired so win win right?",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eczex23"
+    },
+    {
+      "text": "I do this when rolling haha",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ee4nc8k"
+    },
+    {
+      "text": "I have seen this gif like once a week for a year, and I still cringe every time. ",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "efgu64p"
+    },
+    {
+      "text": "1200? I thought it was 12000! Ohhhhhhh. Dr. Now’s not going to be too happy with my weigh-in dis munt.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ed5wel1"
+    },
+    {
+      "text": "Yes, but you don't need it to play.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edkgalt"
+    },
+    {
+      "text": "I’m as terrified of Mr. [NAME] just as much as any sane person but I don’t think we should *burn* him...",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeqqzo1"
+    },
+    {
+      "text": "This sub can be so ridiculously cynical. It's just a pretty picture of a sign!",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edkiy9c"
+    },
+    {
+      "text": "you're [NAME]",
+      "goemotions_labels": [
+        "embarrassment",
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edj1nta"
+    },
+    {
+      "text": "I was eating watching tonight's episode. OMG I never will again. You all know what I mean. The opening scene!!!",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edot3om"
+    },
+    {
+      "text": "What in the West Virginia is this?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef9gevc"
+    },
+    {
+      "text": "Any time he's passionate about something. I love seeing passionate people and 9/10 want to rip your clothes off.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "een56hc"
+    },
+    {
+      "text": "Wow, season 3 is actually out already. Need to check it out",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eds0hr5"
+    },
+    {
+      "text": "I mean it makes sense, they're into [NAME] because they totally dig the horribly socially stunted types so they love [NAME] for horribly traumatizing her.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eduz02m"
+    },
+    {
+      "text": "[NAME] Almighty. This may be the most empathetic and compassionate reddit thread I've ever seen! Who ever said drunks were mean? Terrible stereotype.",
+      "goemotions_labels": [
+        "fear",
+        "sadness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear",
+        "sadness"
+      ],
+      "goemotions_id": "edjowl2"
+    },
+    {
+      "text": "I’ve made candies almonds and cashews in a slow cooker before. They’re surprisingly not mushy or soggy.",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eds8jx1"
+    },
+    {
+      "text": "Yeah. Hard not to catch feelings sometimes, even if they are just a bunch of writeoffs.",
+      "goemotions_labels": [
+        "disappointment",
+        "grief"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "efgqskd"
+    },
+    {
+      "text": "Lol at least stand by your dumb opinion instead of deleting it.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "efapziz"
+    },
+    {
+      "text": "Damn... 😑",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ef7zuu4"
+    },
+    {
+      "text": "Oh man. I had to do it last year. Hopefully my leaders think more highly of me this year.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "efcn9v2"
+    },
+    {
+      "text": "Looks interesting, I'll definitely keep an eye out for it when it's closer to release. ",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edp3os0"
+    },
+    {
+      "text": "What a loser, sad. ",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee21vqz"
+    },
+    {
+      "text": "You mean the best.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed3etrv"
+    },
+    {
+      "text": "That explains an awful lot about ICP.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed85eg7"
+    },
+    {
+      "text": "You really should not group people with ones you have had bad experiences it will not help you grow",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee76x9k"
+    },
+    {
+      "text": "This really shows how young and ignorant most of them are.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeeocjm"
+    },
+    {
+      "text": "I don't like sleeping in the couch :(",
+      "goemotions_labels": [
+        "disappointment",
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eers4o4"
+    },
+    {
+      "text": "They put him on a minutes restriction for some reason, guessing cause he's not in really good shape?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed23un4"
+    },
+    {
+      "text": "You want to fix them. You can’t. This was a hard life lesson for me to learn. I also am a giant loser magnet.",
+      "goemotions_labels": [
+        "disappointment",
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeoeieg"
+    },
+    {
+      "text": "The worst is working with dealerships",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eewjmgf"
+    },
+    {
+      "text": "Thank you so much! I'm documenting as much as I can!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef8n0p0"
+    },
+    {
+      "text": "So true, sometimes what’s obvious passes over our heads. Good post.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed1idyk"
+    },
+    {
+      "text": "Yes. Combined.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeubeoq"
+    },
+    {
+      "text": "Every day in everyway. If I am to happy with anything next thing I know I'm actively destroying it.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee3ws39"
+    },
+    {
+      "text": "I sould have assissted in the stabbing, even ceasar would have been surprised by the amount of stab wounds on that little shit",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "efdect8"
+    },
+    {
+      "text": "If you have to ask you're too uncool to be allowed in.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeb645e"
+    },
+    {
+      "text": "Been there, done that. Not the best idea unfortunately. Especially if it doesn't work. Gets awkward ",
+      "goemotions_labels": [
+        "disgust",
+        "embarrassment"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust",
+        "sadness"
+      ],
+      "goemotions_id": "ef3kbas"
+    },
+    {
+      "text": "The fact that you think like this is terrifying.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ee7ivzg"
+    },
+    {
+      "text": "Really? In real life, she's wearing comfortable clothes with no makeup. Other than that she looks the same.",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eepzqy8"
+    },
+    {
+      "text": "That looks like a fun group",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edvp4um"
+    },
+    {
+      "text": "How is the JC-01 with juul pods. I've heard mixed reviews.",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef0j5rt"
+    },
+    {
+      "text": "I mean, he is a terrible president. ",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efdezo0"
+    },
+    {
+      "text": "I gotta say, that was a WELL fought period. I was worried a couple times...",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ee5xx4i"
+    },
+    {
+      "text": "r/uk hates nationalism but likes the SNP. Not sure if hypocrisy or it’s different people",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "efdn61e"
+    },
+    {
+      "text": "Get out now!",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "efassvc"
+    },
+    {
+      "text": "I BELIEVE! I am sad that likely no one else will see it besides me...",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edr2fw0"
+    },
+    {
+      "text": "figured it out",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee8y249"
+    },
+    {
+      "text": "Idk is this is a lie or something, but I’ve heard people say that over 1500 independent observers found the elections free and fair",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eewgrd8"
+    },
+    {
+      "text": "What in the hell are you talking about? I've never said that",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed7nv8g"
+    },
+    {
+      "text": "I don't get it haha man it sucks not knowing what a wall phone is haha",
+      "goemotions_labels": [
+        "amusement",
+        "annoyance",
+        "neutral"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "anger"
+      ],
+      "goemotions_id": "edomjlv"
+    },
+    {
+      "text": "I'd also report to the post office... and next time these nasty neighbors come-give them the number to call and complain.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeh8kt7"
+    },
+    {
+      "text": "Definitely accurate, lasted about a month total in a Disney “internship” program... was more like slavery. Terrible experience that ruined Disney for me",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eczocof"
+    },
+    {
+      "text": "Thank you. We’re seven months into reconciliation. We definitely had HB for the first couple weeks as well.",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eekfam2"
+    },
+    {
+      "text": "So sad—but not surprising. It would be interesting to know if there’s a difference between countries with and without socialised health care.",
+      "goemotions_labels": [
+        "curiosity",
+        "sadness"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "sadness"
+      ],
+      "goemotions_id": "ee2h73o"
+    },
+    {
+      "text": "I wondered what'd happen if I was away for too long from camp. So cool this happens",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edf6v83"
+    },
+    {
+      "text": "Ok will do, but I listened to the ep right before I posted this.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed02jg5"
+    },
+    {
+      "text": "What kind of insider only has 250 followers?",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ednjbqh"
+    },
+    {
+      "text": "Holy heck I'm so happy for you! That shit is an expense no one needs to worry about, and nor you don't! :D",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ediy979"
+    },
+    {
+      "text": "I’m at a loss for words",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edwuq9t"
+    },
+    {
+      "text": "Oh [NAME] that's terrible. I hope things are better for you now.",
+      "goemotions_labels": [
+        "fear",
+        "optimism"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear",
+        "anticipation"
+      ],
+      "goemotions_id": "ed3e4fj"
+    },
+    {
+      "text": "\"That's weird to hear since in Hebrew \"\"Son of man\"\"- Ben Adam, simply refers to humans in general.\"",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eeiidu7"
+    },
+    {
+      "text": "I would not recommend water panties, you might find things a bit squishy! ;)",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed2swea"
+    },
+    {
+      "text": "I mean I still attend regular school, this is just a Saturday school. I'm just frustrated that I have to waste Saturday on this",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edhx8up"
+    },
+    {
+      "text": "I wish the camera showed the cops reactions and faces when it didn't work",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edla8k6"
+    },
+    {
+      "text": "Running a company will be the same disappointment. Your problem is unsolved.",
+      "goemotions_labels": [
+        "disappointment",
+        "disapproval"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness",
+        "disgust"
+      ],
+      "goemotions_id": "edls02o"
+    },
+    {
+      "text": "Honestly, same. I was miserable at my admin asst job.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edp5opu"
+    },
+    {
+      "text": "I love gold !!",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eea1uok"
+    },
+    {
+      "text": "Doesnt have insane standards or anything. I don't see what's wrong?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "efbamvk"
+    },
+    {
+      "text": "Oh I will be independent. I don't need someone like that in my life.",
+      "goemotions_labels": [
+        "disapproval",
+        "realization"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust",
+        "surprise"
+      ],
+      "goemotions_id": "ee7tni5"
+    },
+    {
+      "text": "I feel like that’s the least disgusting option. Imagine a penis or vaginal canal made out of fingers.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed1ug1u"
+    },
+    {
+      "text": "I didn’t know it was gonna be that simple Forgive me [NAME] :D",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eeslrqn"
+    },
+    {
+      "text": "LOL I work at HPE and I was about to share this with our new hub director...glad I watched the last 2 seconds.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edjw0pb"
+    },
+    {
+      "text": "If you made it a goal to speak a word to him, then how do you know you are blocked?",
+      "goemotions_labels": [
+        "confusion",
+        "neutral"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee2nt56"
+    },
+    {
+      "text": "No particular sauce, I'm just kinda tired of having to search that tiny lil speck of pan for at least 2 minutes before I find it.",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edvnv86"
+    },
+    {
+      "text": "Is there any way you and your partner could borrow more money for college and live on/near campus?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed2mty9"
+    },
+    {
+      "text": "Wow, whereabouts in Croydon are you it wasn't this bad where I am! ",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "efcicsc"
+    },
+    {
+      "text": "Amazing that Aunt [NAME] wouldn't genuinely reflect on her her behavior, or realize that she is raising a spoiled, rude child.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "efcv92g"
+    },
+    {
+      "text": "the future is now old man",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "effb669"
+    },
+    {
+      "text": "That was an incredibly dumb thing to do. [NAME] is an idiot for trusting her.",
+      "goemotions_labels": [
+        "annoyance",
+        "disapproval",
+        "disgust"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "disgust"
+      ],
+      "goemotions_id": "ee4sivg"
+    },
+    {
+      "text": "Good for [NAME]. He deserves it.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eew5okn"
+    },
+    {
+      "text": "Seafood is nasty af. I refuse to prepare seafood in my kitchen.",
+      "goemotions_labels": [
+        "disapproval",
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee5ldv3"
+    },
+    {
+      "text": "Except forming an opinion of a topic without even having basic knowledge of said topic makes you sound pretty arrogant and entirely undercuts your opinion.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edwcpgk"
+    },
+    {
+      "text": "malicious intentions? what are you talking about?",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eea24ox"
+    },
+    {
+      "text": "So, just a super verbose tone trolling?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eel3jmy"
+    },
+    {
+      "text": "Thanks! Thank you for sharing!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef8xt0k"
+    },
+    {
+      "text": "[NAME] combat is terrible and the only reason I don’t play it anymore",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ed23i73"
+    },
+    {
+      "text": "Pregnancy test. No matter how old I am, I am still embarrassed. ",
+      "goemotions_labels": [
+        "embarrassment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eenu05t"
+    },
+    {
+      "text": "Sorry, I live in the real world. Just because you don't like facts doesn't mean they don't exist.",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eee55zy"
+    },
+    {
+      "text": "[NAME] is pretty fucking scary",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edrvloi"
+    },
+    {
+      "text": "Clouds aren’t pale they’re translucent but ok 👌🏽",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee8oms1"
+    },
+    {
+      "text": "Nah I’m good. I like my parents and their food.",
+      "goemotions_labels": [
+        "approval",
+        "love"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "joy"
+      ],
+      "goemotions_id": "edlghb7"
+    },
+    {
+      "text": "His entire speech during the climb was amazing.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef9ef9q"
+    },
+    {
+      "text": "I mean I guess your prostate is healthy right?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eext1a2"
+    },
+    {
+      "text": "Honestly I’d believe it. [NAME] seems stuck in that high school mentality",
+      "goemotions_labels": [
+        "approval",
+        "neutral"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edwxz16"
+    },
+    {
+      "text": "The what now?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed3u5xj"
+    },
+    {
+      "text": "Thank you!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eesf03z"
+    },
+    {
+      "text": "Like I said, most loved and most hated for now. We'll all get over it eventually. ",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eev6dth"
+    },
+    {
+      "text": "We got fucked",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eelec4b"
+    },
+    {
+      "text": "almost every single time i have a friend from out of state visit, they make a comment about how bumpy our roads are",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efh4kes"
+    },
+    {
+      "text": "I like Celtic fans more than Buck fans",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edcuj07"
+    },
+    {
+      "text": "my mistake :(",
+      "goemotions_labels": [
+        "embarrassment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edehf77"
+    },
+    {
+      "text": "Are you sure?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eeacxgh"
+    },
+    {
+      "text": "Wondering why they change it",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eduewbk"
+    },
+    {
+      "text": "I wished my mom protected me from my grandma. She was a horrible person who was so mean to me and my mom.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edqsk5t"
+    },
+    {
+      "text": "What does that even mean? What a uselessly vague statement.",
+      "goemotions_labels": [
+        "anger",
+        "confusion"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "surprise"
+      ],
+      "goemotions_id": "ee5rz96"
+    },
+    {
+      "text": "that is not true. I often shoot the rifle round the blast 2 shots from the double barrel. Unless it got changed recently.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef0xo42"
+    },
+    {
+      "text": "At least you get sunny on Netflix, they took it off in Canada :(",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ede0z0m"
+    },
+    {
+      "text": "Not really. Relying on someone you can't trust is bad. Sometimes relying on someone is the only happiness you'll get.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edgltze"
+    },
+    {
+      "text": "The sheer size of [NAME] now is insane, would love to see him come back at heavyweight ",
+      "goemotions_labels": [
+        "desire",
+        "excitement"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "joy"
+      ],
+      "goemotions_id": "eecdry5"
+    },
+    {
+      "text": "The father clearly ran away lol",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed4mdxc"
+    },
+    {
+      "text": "Unless they’re narcissistic. Then gray rock the hell out of them and good luck!",
+      "goemotions_labels": [
+        "optimism",
+        "neutral"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eebzx5y"
+    },
+    {
+      "text": "Are the ones playing now ready ? If so they are very terrible. Rather we play the players that are not ready",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eehyuk8"
+    },
+    {
+      "text": "I'm literally screaming.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ef32sdd"
+    },
+    {
+      "text": "The Birds is probably not quite what you are expecting.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eelnnyk"
+    },
+    {
+      "text": "im in love with this comment",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ee8qabh"
+    },
+    {
+      "text": "The faces in that drawing are kinda horrifying",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef2hg0x"
+    },
+    {
+      "text": "Somebody is really insecure about their career decisions.",
+      "goemotions_labels": [
+        "fear",
+        "nervousness",
+        "neutral"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eesesb6"
+    },
+    {
+      "text": "They all clapped.",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edz64sp"
+    },
+    {
+      "text": "I’m uncomfortable just looking at her.",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeg7x55"
+    },
+    {
+      "text": "Boston Children’s Hospital has these!!! Love it!",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edug0vo"
+    },
+    {
+      "text": "that looks like a nightmare.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeayv2k"
+    },
+    {
+      "text": "could you live upstate? Maybe take the truck home with you and live close to the pick up terminal?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef2km4b"
+    },
+    {
+      "text": "Man, thats ruthless. Lesson learned. Trust me, there will be a time when they actually need money and I really hope you say no. ",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed4ef06"
+    },
+    {
+      "text": "tbh i would've guiltied but atleast they didnt lose an important TP",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee1sfpt"
+    },
+    {
+      "text": "What. The. Fuck.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ef4mimh"
+    },
+    {
+      "text": "Dude i wish you the best. I had one and it had been removed though surgery about 5 years ago. The best of luck",
+      "goemotions_labels": [
+        "caring",
+        "optimism"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "anticipation"
+      ],
+      "goemotions_id": "eedj9x1"
+    },
+    {
+      "text": "i really don't get why people like this guy",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eedht8c"
+    },
+    {
+      "text": "Absolutely not! If religions didn’t exist on this planet, we would be a far more advanced society.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edpytqx"
+    },
+    {
+      "text": "[NAME]. Haha r u [NAME]??",
+      "goemotions_labels": [
+        "amusement",
+        "curiosity"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "anticipation"
+      ],
+      "goemotions_id": "ef1r9h4"
+    },
+    {
+      "text": "you could do that but i woulndt want that as soldier, widow or mccree. but of course reaper should not try to break the shield",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edahfis"
+    },
+    {
+      "text": "Free speech is between you and the government. I don't know exactly what Canary Mission is, but I don't think it is the US government.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edkarza"
+    },
+    {
+      "text": "Her elitism is what earned her the place here. She's clearly a lefty statist.",
+      "goemotions_labels": [
+        "admiration",
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "een11ld"
+    },
+    {
+      "text": "Tbh, that sounds better than lithium",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edvjiaf"
+    },
+    {
+      "text": "I never said prostitution doesn't exist. I said it is off the streets.",
+      "goemotions_labels": [
+        "disapproval",
+        "neutral"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eeqtzwl"
+    },
+    {
+      "text": "What a loon",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeudwdt"
+    },
+    {
+      "text": "I need to know this as well, so I hope no one minds if I leave a comment here.",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edyejvl"
+    },
+    {
+      "text": "I actually want to die rn. I don't want to watch the SB but I know I'm going to.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eelf9bs"
+    },
+    {
+      "text": "I'm afraid of having a sit down with them amd not being heard. But I might have to for my safety.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef5nlo9"
+    },
+    {
+      "text": "Not a Fan if anything FFXiii but I loved this game. Hope we get a season 2.",
+      "goemotions_labels": [
+        "admiration",
+        "optimism"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "anticipation"
+      ],
+      "goemotions_id": "ef6kmd1"
+    },
+    {
+      "text": "MTV loves Indiana",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef23y94"
+    },
+    {
+      "text": "Well now I have [NAME] in my head for the morning! Love a bit of Northern soul.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed2fvlg"
+    },
+    {
+      "text": "Man, such a shame we only got three movies. They really didn't wrap up all the plotlines.",
+      "goemotions_labels": [
+        "disappointment",
+        "embarrassment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eerhtwk"
+    },
+    {
+      "text": "I hope all the best for you. Keep posting in this sub when you need help, but always run it by your physician/therapist before taking any advice ",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eduu56t"
+    },
+    {
+      "text": "Oh shit I didn't even connect those dots!",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eel5os8"
+    },
+    {
+      "text": "I dated a guy from Steamboat Springs Colorado who used to do this. He had an immune system made of steel but it was absolutely disgusting.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee2244j"
+    },
+    {
+      "text": "Indifferent before leaving. Indifferent after. Although hasidic [NAME] are fucking mental.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edjmwin"
+    },
+    {
+      "text": "This picture is from before 2010. It was funny at the time.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edvkrir"
+    },
+    {
+      "text": "Occupation badges are dumb and I’m sad they made the transition to OCP.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ed4xbg0"
+    },
+    {
+      "text": "That actually looks super, super cool.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edjgfri"
+    },
+    {
+      "text": "I appreciate the hell out of this.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edpkmzr"
+    },
+    {
+      "text": "I got so high someone from the future stopped me from getting high.",
+      "goemotions_labels": [
+        "joy",
+        "realization"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "surprise"
+      ],
+      "goemotions_id": "eda0gqz"
+    },
+    {
+      "text": "I'm leaving to go get some more motherfucking jokes MOM [NAME]",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eefaanr"
+    },
+    {
+      "text": "Weird, I thought I had a different twitter handle than that",
+      "goemotions_labels": [
+        "disgust",
+        "realization"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust",
+        "surprise"
+      ],
+      "goemotions_id": "eds4l6d"
+    },
+    {
+      "text": "I’m scared for y’all saying Undone.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eegqyrq"
+    },
+    {
+      "text": "That could be a quick way to see the next great Orlando big man end up in LA, haha. ",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edk4lg2"
+    },
+    {
+      "text": "That...felt good...can I cry on your shoulder?",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeaus9m"
+    },
+    {
+      "text": "It regenerates hate. It's hate motivational.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee9ovup"
+    },
+    {
+      "text": "I'm so sorry. That's awful.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "efeo5e9"
+    },
+    {
+      "text": "\"Good lord, do you not remember \"\"Thanks Obama\"\" where everyone fake blamed [NAME] for everything bad?\"",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ee0387y"
+    },
+    {
+      "text": "Relatedly, my legs are lean because I run away from my problems.",
+      "goemotions_labels": [
+        "fear",
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eec579o"
+    },
+    {
+      "text": "Congratulations!!! And I hope those people who tried to interfere in your marriage feel very foolish now. How wonderful this is!💕",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eenjvjb"
+    },
+    {
+      "text": "After all that i expected it to not look terrible. Oh well.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eea1zrk"
+    },
+    {
+      "text": "I mean she’s barely into college so she’s only maybe 18-20 but to be this oblivious is pretty sad.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edj4a0d"
+    },
+    {
+      "text": "I love everything I have ever made in mine, but recently it's mostly used to hard boil eggs.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ednbyl9"
+    },
+    {
+      "text": "looks cool, i want it now.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eewx2q3"
+    },
+    {
+      "text": "Yo this [NAME] was literally pulling moves out of the Hitman games jumping over to your balcony. Thats terrifying.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeddi3d"
+    },
+    {
+      "text": "Interesting ideas and has a strong argument against postmodernism",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "edo82or"
+    },
+    {
+      "text": "Also, the phone is set to another language than the one being spoken, which is a bit weird.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edt5c68"
+    },
+    {
+      "text": "Chernobyl incident has scared everyone to death about nuclear, I'm curious where we would be if that never occurred.",
+      "goemotions_labels": [
+        "curiosity",
+        "fear"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "fear"
+      ],
+      "goemotions_id": "ef2f4sm"
+    },
+    {
+      "text": "Thank you all for the karma I’ve gotten!",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef236od"
+    },
+    {
+      "text": "i had all of those. checked myself with a GP and found out i had low iron, migraines and needed to visit the therapist re my anxiety.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef89nwl"
+    },
+    {
+      "text": "I'm excited, we're supposed to be getting ours this year. Finally. ",
+      "goemotions_labels": [
+        "excitement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef5uluw"
+    },
+    {
+      "text": "Thank [NAME] there wasn't a psychologist among the testers",
+      "goemotions_labels": [
+        "relief"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef3gbyi"
+    },
+    {
+      "text": "Man I just hope for a good ole fashion W",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edwqy2d"
+    },
+    {
+      "text": "So do I, but I don’t want them to be associated with government espionage and other shady shit either.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "effgeve"
+    },
+    {
+      "text": "How do you feel that other drivers know your next move?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "efacaeg"
+    },
+    {
+      "text": "It's fucking incredible how many people would like you if you would just make eye contact and smile at them. Fucking incredible",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeqnvco"
+    },
+    {
+      "text": "For the sake of football and this sub everyone wants [NAME] to win",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed6b4vz"
+    },
+    {
+      "text": "She sounds hideous.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed4whhd"
+    },
+    {
+      "text": "This is so cruel. I literally feel physically sick.",
+      "goemotions_labels": [
+        "anger",
+        "annoyance",
+        "disgust",
+        "sadness"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "disgust",
+        "sadness"
+      ],
+      "goemotions_id": "ee3dzap"
+    },
+    {
+      "text": "Now this REALLY sucks",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeldqa8"
+    },
+    {
+      "text": "I don't understand why this is funny. All of it honestly. She os body shaming [NAME], why should we love that? ",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edryqzy"
+    },
+    {
+      "text": "Play hard, but we don't want to reveal our secret raptor killing strategy until the playoffs...",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "efgm57i"
+    },
+    {
+      "text": "I literally, like, hate people like that.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eferc2f"
+    },
+    {
+      "text": "I've got my sticker peeled off, nasty desperate notes left on the windshield, driver door..",
+      "goemotions_labels": [
+        "disgust",
+        "neutral"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef55zbf"
+    },
+    {
+      "text": "I agree. The timing is really funny to me",
+      "goemotions_labels": [
+        "amusement",
+        "approval"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "trust"
+      ],
+      "goemotions_id": "eexmuya"
+    },
+    {
+      "text": "Pepsi tastes better in the UK than Coke but US/Canada coke is pure diabetes and Pepsi is disgusting.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee5ncyq"
+    },
+    {
+      "text": "And here I am, with no promotion after 3 years. Anyways, congrats for yours.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee9hqg1"
+    },
+    {
+      "text": "58 and I still live at home.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeyo12p"
+    },
+    {
+      "text": "Teeth. I really want good teeth and my hair is nice and easily maintainable atm",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edcm0it"
+    },
+    {
+      "text": "I thought it said “now my biggest fear is the thing living inside my casket” like, *weet doo feek?!*",
+      "goemotions_labels": [
+        "fear",
+        "neutral"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edu78sc"
+    },
+    {
+      "text": "This is actually kinda cool, I like it!! ",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef2zdbo"
+    },
+    {
+      "text": "Damn. As a [NAME] [NAME] I fear who the last Greek restauranteur in this death triangle will be :(",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "efdv7m4"
+    },
+    {
+      "text": "For us to be able to do that now, they would proably make us pay for it. ",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edtq7ty"
+    },
+    {
+      "text": "Lol I lol'd *I too am down with the kids. But not like that because that would be illegal*",
+      "goemotions_labels": [
+        "amusement",
+        "annoyance"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "anger"
+      ],
+      "goemotions_id": "ee6wgf7"
+    },
+    {
+      "text": "Somehow this hurt more than the Saturday game.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edm7tnv"
+    },
+    {
+      "text": "People tremble in fear of the name Rupple Poopels 😂",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeoh73g"
+    },
+    {
+      "text": "He used to be a science teacher!",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef7gyn0"
+    },
+    {
+      "text": "Don't hesitate to do it.",
+      "goemotions_labels": [
+        "approval",
+        "caring"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eetzfgi"
+    },
+    {
+      "text": "I'm seeing similar on Android, chrome browser. Other than that, great stuff!",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef2weeo"
+    },
+    {
+      "text": "Most underrated subreddit.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee1nxk7"
+    },
+    {
+      "text": "Wouldn't you just enjoy more focus on Celtic football?",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "anticipation"
+      ],
+      "goemotions_id": "eejtkpv"
+    },
+    {
+      "text": "Yes, once I even deleted my account because I was so nervous about down votes. Lately,every once in a while I comment encouraging good attitude.",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eevprwx"
+    },
+    {
+      "text": "My [NAME] it's a mad house over there right now. All of the posts are about letting boys be boys.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee8hwzz"
+    },
+    {
+      "text": "Steeler 4 life lol",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edcyblz"
+    },
+    {
+      "text": "Ya? I don't really remember him much besides his crappy penalty shot attempt. What stuck out about him to you?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed8xw1j"
+    },
+    {
+      "text": "Curb your enthusiasm theme.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "edawb9h"
+    },
+    {
+      "text": "Which is a huge shame since it took place at Wrestle Kingdom. Hoping he has a great reign filled with good matches.",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed7rs6b"
+    },
+    {
+      "text": "EGG ROLLS. That's why your progress isn't good.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "efeqe7y"
+    },
+    {
+      "text": "And get amazingly toned calves in the process! [NAME]",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeohair"
+    },
+    {
+      "text": "Great deal for us, happy he's back. Up next, [NAME]! ",
+      "goemotions_labels": [
+        "gratitude",
+        "joy"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "joy"
+      ],
+      "goemotions_id": "edcjh11"
+    },
+    {
+      "text": "Haha I can drink to that! Cheers man!",
+      "goemotions_labels": [
+        "amusement",
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed9nm15"
+    },
+    {
+      "text": "i definitely remember the times i embarassed myself or regrettable actions i made from years ago",
+      "goemotions_labels": [
+        "embarrassment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ed2fv27"
+    },
+    {
+      "text": "Sadly no... I’m in Delaware 😩. But I’d love to help in any way I can. Keep me posted. ",
+      "goemotions_labels": [
+        "love",
+        "sadness"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "sadness"
+      ],
+      "goemotions_id": "ee96f1t"
+    },
+    {
+      "text": "This not the first or second mistake by VAR against us.There was even an wrong offside against us some games ago and they didn't checked it.",
+      "goemotions_labels": [
+        "annoyance",
+        "disappointment"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "sadness"
+      ],
+      "goemotions_id": "ee1235n"
+    },
+    {
+      "text": "Fuuuuuuuuuck that.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "efef5zj"
+    },
+    {
+      "text": "\"That's a funny way of spelling \"\"Don't make me feel bad about my bad choices\"\"\"",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eeokyh1"
+    },
+    {
+      "text": "Yikes. She sounds like she's one bad grade away from shooting up a synagogue.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed0hg0n"
+    },
+    {
+      "text": "I was surprised too",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eff1ked"
+    },
+    {
+      "text": "Honestly, no. But even vague references would do more to help decide if it's a fresh take on something.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed3wk9q"
+    },
+    {
+      "text": "WHY THE FUCK IS BAYLESS ISOING",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eezlygj"
+    },
+    {
+      "text": "Don't forget colors. They panic at the sight of a chess board.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edo1pve"
+    },
+    {
+      "text": "Preach my dude I know how it feels to get downvoted by the sheep",
+      "goemotions_labels": [
+        "disappointment",
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee3n1bm"
+    },
+    {
+      "text": "I want a DL thats about 800€ for a month is the one who's new here lol.",
+      "goemotions_labels": [
+        "amusement",
+        "desire"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "anticipation"
+      ],
+      "goemotions_id": "eewgcrb"
+    },
+    {
+      "text": "That’s what I’m terrified of.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eebatsv"
+    },
+    {
+      "text": "i say no or in da club if they come to damce with me i walk away",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eendd7p"
+    },
+    {
+      "text": "How is this news? I am sure there are a few living in discovery park and along the coast there",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edxmgxu"
+    },
+    {
+      "text": "Some people are pretty dense. That comment was clearly sarcasm, sorry bout your downvotes 😔",
+      "goemotions_labels": [
+        "amusement",
+        "realization",
+        "sadness"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy",
+        "surprise",
+        "sadness"
+      ],
+      "goemotions_id": "ee1w9f3"
+    },
+    {
+      "text": "Those in a position of authority at a school have to report abuse",
+      "goemotions_labels": [
+        "approval",
+        "neutral"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eekuq0s"
+    },
+    {
+      "text": "I've actually been teaching myself R lately for this exact purpose, I'm super excited to check out your book when you're done with it. ",
+      "goemotions_labels": [
+        "excitement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eerpr4t"
+    },
+    {
+      "text": "[NAME] is a terrible writer, a raging narcissist, and not an actual friend to anyone. ",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "effyjkz"
+    },
+    {
+      "text": "Wow, you probably live in a messed up place.",
+      "goemotions_labels": [
+        "optimism",
+        "surprise"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "surprise"
+      ],
+      "goemotions_id": "ed3t8ky"
+    },
+    {
+      "text": "How dare you say that. He's a toad of the people! Not some rich frog!",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "efdpgu5"
+    },
+    {
+      "text": "Animal Crossing made my wife into a vicious and abusive murderer.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ee9l5e3"
+    },
+    {
+      "text": "The thought of shooting anything at asylum seekers is appalling.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ed2e00i"
+    },
+    {
+      "text": "HYS is the worst Internet comments section. It makes Youtube comments look like Gardeners Question Time.",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ees1e3q"
+    },
+    {
+      "text": "\"60 young men standing around... \"\"Look out that old native dude is coming right at us... DEFENSIVE POSITIONS SHIELDS UP!\"\"\"",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeje0qk"
+    },
+    {
+      "text": "I like how you ignored the point about Blade Runner.",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed9kdt6"
+    },
+    {
+      "text": "It’s certainly a cute concept.",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeht8hz"
+    },
+    {
+      "text": "PD would probably get us [NAME] so we would all get pump faked until you realize he got the wrong one. Exhibit A [NAME] -_-",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "efh527z"
+    },
+    {
+      "text": "U.S. are going to fuck this [NAME] guy so hard...he's going to need help to remove all the stars from his rectum",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed5qyw2"
+    },
+    {
+      "text": "We did it [NAME], we stopped racism",
+      "goemotions_labels": [
+        "pride"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edomucj"
+    },
+    {
+      "text": "Well Happy Birthday from another random stranger on the internet. I spent my birthday mostly alone too, hope your day wasn’t too bad. 💙",
+      "goemotions_labels": [
+        "optimism",
+        "sadness"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation",
+        "sadness"
+      ],
+      "goemotions_id": "eer83ny"
+    },
+    {
+      "text": "No, you said you think she deserves whatever she can afford. Can she afford housing?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "educr3b"
+    },
+    {
+      "text": "Thankyou! :)",
+      "goemotions_labels": [
+        "gratitude"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ef1mie3"
+    },
+    {
+      "text": "That’s what we said about 2017 and 2018 after 2016 it only got worse and it’s not gonna get any better I guarantee",
+      "goemotions_labels": [
+        "disappointment",
+        "optimism"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness",
+        "anticipation"
+      ],
+      "goemotions_id": "ed0rm8d"
+    },
+    {
+      "text": "Your comment reminds me of that one satirical GTA V radio ad where the advertiser tries to encourage people to beat their kids. It's kinda funny.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edfqcdj"
+    },
+    {
+      "text": "You are saying toxic people try to be the victim by calling you toxic.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edyicoe"
+    },
+    {
+      "text": "When you decide to root against your favorite team, for a better future “The hardest choices require the strongest will”",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eednuty"
+    },
+    {
+      "text": "Same thing happened to me last year ended horribly",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eenpup4"
+    },
+    {
+      "text": "Some additional background the robo-voice on that video is horrible.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edbglsf"
+    },
+    {
+      "text": "I'm a guy and I'm squirming. My wife asked me what the hell I was reading and I told her. She said wtf really loud.",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eeic0e5"
+    },
+    {
+      "text": "Look at that thing...could tear you to shreds",
+      "goemotions_labels": [
+        "fear",
+        "neutral"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edoxbin"
+    },
+    {
+      "text": "Reminds me of the Shell Gas Station Lego set my grandfather got me as a kid. 10/10 would build again",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edrvsjg"
+    },
+    {
+      "text": "No, this is not polyamory. It's assholery.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee1nvu0"
+    },
+    {
+      "text": "I only buy Venus razors, in solidarity with women everywhere. Why should I get to make more *and* spend less on razors?",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise",
+        "anticipation"
+      ],
+      "goemotions_id": "eedw998"
+    },
+    {
+      "text": "PEOPLE LIKE THING AGGRESSIVELY BE PROUD OF IGNORANCE",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "edfi86s"
+    },
+    {
+      "text": "Yuuuuuuuuuup. It's horrible.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "eczgmt3"
+    },
+    {
+      "text": "Bonus: her infamous bizarre introduction video. Truly frightening",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef5osec"
+    },
+    {
+      "text": "How so? How do you keep stupid people from voting?",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ef3ztmj"
+    },
+    {
+      "text": "It’s harder when you have kids with the partner.",
+      "goemotions_labels": [
+        "nervousness",
+        "sadness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear",
+        "sadness"
+      ],
+      "goemotions_id": "eer26k0"
+    },
+    {
+      "text": "I like [NAME], but I'd just rather spend more time with [NAME].",
+      "goemotions_labels": [
+        "love",
+        "neutral"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef6zwx0"
+    },
+    {
+      "text": "How far down the rabbit hole do you want to go?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ed4w08k"
+    },
+    {
+      "text": "[NAME] is letting [NAME] play 3 :0. That is good news.",
+      "goemotions_labels": [
+        "admiration",
+        "joy"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust",
+        "joy"
+      ],
+      "goemotions_id": "edoj4zl"
+    },
+    {
+      "text": "Is she single?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edxqq5l"
+    },
+    {
+      "text": "ok so that was fucking sick",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eekby4q"
+    },
+    {
+      "text": "i think u mean symfuhny lol",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edm6xfo"
+    },
+    {
+      "text": "Sneaky ass ESPN changing their app so I almost accidentally purchase ESPN+ for the low price of 4.99 a month.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee4kvyp"
+    },
+    {
+      "text": "Just legalize it, already. Do it the proper way instead of by executive fiat. I hate the lawlessness—“the pen and a phone” bullshit.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eesn9hl"
+    },
+    {
+      "text": "According to what?",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed6ysv8"
+    },
+    {
+      "text": "Good for you bb. I wish you all kind of life gains",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eeizxvv"
+    },
+    {
+      "text": "She's a nutjob, but this is a really good quote, lol. ",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "efewmfy"
+    },
+    {
+      "text": "Wait, which ones can do it now? Seriously, I don't really know this one.",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee2wmrx"
+    },
+    {
+      "text": " anyone who hasn't seen this, it's unbelievably bad.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ed4pajt"
+    },
+    {
+      "text": "Sorry sorry sorry sorry sorry",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eeknd8z"
+    },
+    {
+      "text": "You mean anti-intelligent",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ee5e2ch"
+    },
+    {
+      "text": "Sure let's leave a bomb outside a [RELIGION] secondary school, that'll show the [NAME]!",
+      "goemotions_labels": [
+        "anger",
+        "neutral"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eendsgh"
+    },
+    {
+      "text": "Looks like a poached egg.",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eev3rn9"
+    },
+    {
+      "text": "So the watering down continues. When will the democrats stop losing the battle before it's fought?",
+      "goemotions_labels": [
+        "confusion",
+        "neutral"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ef0bsxt"
+    },
+    {
+      "text": "An especially large comfortable shirty [NAME] wear. It's annoying though because people get jealous of how comfy you are so they climb in your shirt.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ee2xtw8"
+    },
+    {
+      "text": "You’re a vet; you at least WERE poor lol. I’m a vet too dude I know the struggle.",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "efdkzur"
+    },
+    {
+      "text": "Bingo! “I tried but those dirty libtards wouldn’t fund it. Sad.” Will be involved somewhere",
+      "goemotions_labels": [
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ednt363"
+    },
+    {
+      "text": "Oh god, [NAME] is terrible. My kid loves it though, and Dr [NAME]",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ef3cv9w"
+    },
+    {
+      "text": "That is really dumb. If you have a crime committed against you, you have a civic responsibility to report it. We need those stats. ",
+      "goemotions_labels": [
+        "annoyance",
+        "disappointment"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "sadness"
+      ],
+      "goemotions_id": "eerzbc2"
+    },
+    {
+      "text": "Ketamine is absolutely bizarre in high doses. I lack the words to really describe it. I've never felt so detatched from my own humanity.",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eebgdpa"
+    },
+    {
+      "text": "If she canf even protect herself what the fuck is she doing in a business that protects others.",
+      "goemotions_labels": [
+        "anger"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eeuz4im"
+    },
+    {
+      "text": "I love your username",
+      "goemotions_labels": [
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eebgvoh"
+    },
+    {
+      "text": "\"The last time it happened I just said, \"\"No\"\" and closed the door\"",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eewbqtx"
+    },
+    {
+      "text": "OMG my [NAME] hates it too but she does it to me all the time",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "ed860fu"
+    },
+    {
+      "text": "Cider, its an acceptable drink to get drunk when you don't like the taste of beer and too much of a man to drink moscato",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "ed9zhtc"
+    },
+    {
+      "text": "\"I'm just gonna hit \"\"back\"\" now. See you guys.\"",
+      "goemotions_labels": [
+        "joy",
+        "neutral"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "eeb5mlz"
+    },
+    {
+      "text": "I never said you did? I'm just going off the conspiracy that's been going around for awhile about her being a clone",
+      "goemotions_labels": [
+        "curiosity",
+        "optimism"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "ef339cm"
+    },
+    {
+      "text": "oh [NAME] what did i do",
+      "goemotions_labels": [
+        "surprise"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ed4r6ko"
+    },
+    {
+      "text": "Get the hell out! I will need to rewind this. Held her hand?? That’s scandalous.",
+      "goemotions_labels": [
+        "annoyance",
+        "curiosity",
+        "optimism"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "anticipation"
+      ],
+      "goemotions_id": "ee13c4a"
+    },
+    {
+      "text": "Then much of the advice here is terrible because it congratulates him on doing the entirely wrong thing.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "een4t2p"
+    },
+    {
+      "text": "I’m happy I could help. Let me know if it works",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "edizbt5"
+    },
+    {
+      "text": "That's your justification? You're a terrible person. Correction: You're a terrible child. Get some help.",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edr3rqh"
+    },
+    {
+      "text": "Happens every time. Your just playing the with your sibling and then someone accidently hits the other and it turns in to world war 3.",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edbx4u5"
+    },
+    {
+      "text": "oh thats a good one ;)",
+      "goemotions_labels": [
+        "admiration"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "efa8no8"
+    },
+    {
+      "text": "Is it only possible for men to be crossdressers? I’ve never heard a woman called that, even if she’s dressed like a man.",
+      "goemotions_labels": [
+        "surprise",
+        "neutral"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "ef5nwi0"
+    },
+    {
+      "text": "\"Yes, and when I do say \"\"no\"\" I'm filled with tremendous guilt. \"",
+      "goemotions_labels": [
+        "remorse"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "edqpzk7"
+    },
+    {
+      "text": "Omg I want this dog ❤️❤️❤️",
+      "goemotions_labels": [
+        "desire"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "eevihvw"
+    },
+    {
+      "text": "I like [NAME] and would like to see him back, but he still makes me nervous at a high price too. ",
+      "goemotions_labels": [
+        "nervousness"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ed8m5vw"
+    },
+    {
+      "text": "I feel like one day you're in for the shock of your life.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eepg5up"
+    },
+    {
+      "text": "I always do this. They get closer or just move to another lane lol",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed78bbn"
+    },
+    {
+      "text": "She is smiling in the picture and, to add insult to injury, seems pregnant in the video.... ",
+      "goemotions_labels": [
+        "joy"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ednxku6"
+    },
+    {
+      "text": "Actually my biggest question is why people are working if they aren't getting paid",
+      "goemotions_labels": [
+        "confusion"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "eeduxe9"
+    },
+    {
+      "text": "You are so ugly even tears wont show up near you",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ef64n55"
+    },
+    {
+      "text": "Yes! I binged it (I was a late adopter) and then all of a sudden nothing!",
+      "goemotions_labels": [
+        "approval"
+      ],
+      "plutchik_label": "trust",
+      "all_plutchik_labels": [
+        "trust"
+      ],
+      "goemotions_id": "eeejwws"
+    },
+    {
+      "text": "I'm sure he'd love to do that. Just have to get a few others on board first haha.",
+      "goemotions_labels": [
+        "amusement",
+        "love"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ef5tfv7"
+    },
+    {
+      "text": "The banana speaks! Do you just type one to three words in your comments or do you get an integer overflow if you go for four?",
+      "goemotions_labels": [
+        "curiosity"
+      ],
+      "plutchik_label": "anticipation",
+      "all_plutchik_labels": [
+        "anticipation"
+      ],
+      "goemotions_id": "edtrxas"
+    },
+    {
+      "text": "It's not murder if he wants to die, it's euthanasia. She doesn't necessarily have to be the one to do it. ",
+      "goemotions_labels": [
+        "realization"
+      ],
+      "plutchik_label": "surprise",
+      "all_plutchik_labels": [
+        "surprise"
+      ],
+      "goemotions_id": "edxd5ih"
+    },
+    {
+      "text": "Thats awful, I'm so sorry for your loss",
+      "goemotions_labels": [
+        "disgust"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "ee5iv3l"
+    },
+    {
+      "text": "Your point? That doesn't mean it had 2 of EVERY FREAKING LAND MAMMAL on it!",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger",
+        "anticipation"
+      ],
+      "goemotions_id": "edqzdxk"
+    },
+    {
+      "text": "I hope [NAME] does get a new devil trigger. I’m sorry but seeing the same one repeatedly has gotten old.",
+      "goemotions_labels": [
+        "sadness"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "ed8kkru"
+    },
+    {
+      "text": "Overall I'm 'gifted' but my processing speed is still below average",
+      "goemotions_labels": [
+        "disappointment"
+      ],
+      "plutchik_label": "sadness",
+      "all_plutchik_labels": [
+        "sadness"
+      ],
+      "goemotions_id": "eec35bb"
+    },
+    {
+      "text": "Oh, the horror! We must defend the honor of Lord [NAME] against the scum of r/NFL!!",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "ed78un2"
+    },
+    {
+      "text": "i read your first sentence laughed and stopped reading easily verified basic historical facts are not conjecture genius",
+      "goemotions_labels": [
+        "amusement"
+      ],
+      "plutchik_label": "joy",
+      "all_plutchik_labels": [
+        "joy"
+      ],
+      "goemotions_id": "ed77vlt"
+    },
+    {
+      "text": "He is way overrated.",
+      "goemotions_labels": [
+        "annoyance"
+      ],
+      "plutchik_label": "anger",
+      "all_plutchik_labels": [
+        "anger"
+      ],
+      "goemotions_id": "eet4oa3"
+    },
+    {
+      "text": "or a horrible night of 15/4/4",
+      "goemotions_labels": [
+        "fear"
+      ],
+      "plutchik_label": "fear",
+      "all_plutchik_labels": [
+        "fear"
+      ],
+      "goemotions_id": "edyqys1"
+    },
+    {
+      "text": "Not even getting my hopes up at all. Story of our life- Padres fan.",
+      "goemotions_labels": [
+        "disapproval"
+      ],
+      "plutchik_label": "disgust",
+      "all_plutchik_labels": [
+        "disgust"
+      ],
+      "goemotions_id": "eeh2gga"
+    }
+  ]
+}

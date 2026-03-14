@@ -1,0 +1,1169 @@
+{
+  "meta": {
+    "fixture": "competitive-tests",
+    "scored_at": "2026-03-14T02:21:30.296Z",
+    "total_texts": 20,
+    "scored_count": 20,
+    "base_url": "http://localhost:3000"
+  },
+  "results": [
+    {
+      "id": "ambiguity_sarcasm_01",
+      "text": "Oh wonderful, another email from my boss at 11pm on a Friday. Can't wait to read it.",
+      "category": "ambiguity",
+      "expected_dominant": "anger",
+      "surface_emotion": "joy",
+      "notes": "Sarcasm. Surface reads as positive. A naive system scores joy. The REAL emotion is anger/disgust. Multi-model divergence should flag this as ambiguous.",
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:20:12.987Z",
+      "latencyMs": 2703,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.3,
+          "sadness": 0.2,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.1,
+          "surprise": 0.1,
+          "sadness": 0.2,
+          "disgust": 0.3,
+          "anger": 0.4,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0.0025000000000000005,
+        "surprise": 0.009999999999999998,
+        "sadness": 0,
+        "disgust": 0.0025000000000000014,
+        "anger": 0.022499999999999992,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9946875,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.15000000000000002,
+        "surprise": 0.2,
+        "sadness": 0.2,
+        "disgust": 0.35,
+        "anger": 0.55,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "ambiguity_sarcasm_02",
+      "text": "Sure, because the best way to fix education is definitely to cut the budget. Brilliant strategy.",
+      "category": "ambiguity",
+      "expected_dominant": "anger",
+      "surface_emotion": "trust",
+      "notes": "Political sarcasm. Words like 'best' and 'brilliant' read positive, but the intent is contempt.",
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:20:16.731Z",
+      "latencyMs": 1733,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.1,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.1,
+          "sadness": 0.1,
+          "disgust": 0.4,
+          "anger": 0.5,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.009999999999999995,
+        "anticipation": 0
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.05,
+        "sadness": 0.1,
+        "disgust": 0.4,
+        "anger": 0.6,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "ambiguity_sarcasm_03",
+      "text": "I just love it when people cut in front of me in line. Really makes my whole day.",
+      "category": "ambiguity",
+      "expected_dominant": "anger",
+      "surface_emotion": "joy",
+      "notes": "Everyday sarcasm. 'Love' and 'makes my whole day' should confuse a surface-level reader.",
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:20:20.517Z",
+      "latencyMs": 1785,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.2,
+          "disgust": 0.3,
+          "anger": 0.8,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0,
+          "disgust": 0.1,
+          "anger": 0.8,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.010000000000000002,
+        "disgust": 0.009999999999999998,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9971875,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.1,
+        "disgust": 0.2,
+        "anger": 0.8,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "ambiguity_irony_01",
+      "text": "The hospital was named after the CEO who denied healthcare coverage to 50,000 employees.",
+      "category": "ambiguity",
+      "expected_dominant": "disgust",
+      "surface_emotion": "trust",
+      "notes": "Dramatic irony. The naming implies honor, but the context is revolting. Models should disagree.",
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:20:24.412Z",
+      "latencyMs": 1891,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.3,
+          "disgust": 0.7,
+          "anger": 0.6,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.1,
+          "surprise": 0.1,
+          "sadness": 0.3,
+          "disgust": 0.5,
+          "anger": 0.6,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0,
+        "disgust": 0.009999999999999995,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "disgust",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.1,
+        "surprise": 0.15000000000000002,
+        "sadness": 0.3,
+        "disgust": 0.6,
+        "anger": 0.6,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "ambiguity_mixed_01",
+      "text": "They finally found a cure for her disease, three days after she died.",
+      "category": "ambiguity",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "anger",
+        "surprise"
+      ],
+      "notes": "Genuine mixed emotion. Joy at the cure, devastation at the timing. No single label is correct.",
+      "expected_signal_quality": "mixed",
+      "scored_at": "2026-03-14T02:20:28.607Z",
+      "latencyMs": 2193,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0.3,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0.1,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.009999999999999998,
+        "anticipation": 0
+      },
+      "consensus": 0.9984375,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.15000000000000002,
+        "sadness": 0.9,
+        "disgust": 0,
+        "anger": 0.2,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "ambiguity_mixed_02",
+      "text": "My father came back after fifteen years. He wants to meet my kids. I don't know what to feel.",
+      "category": "ambiguity",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "anger",
+        "anticipation",
+        "fear"
+      ],
+      "notes": "Emotionally complex personal story. Multiple valid readings. High divergence is CORRECT.",
+      "expected_signal_quality": "divergent",
+      "scored_at": "2026-03-14T02:20:32.897Z",
+      "latencyMs": 2287,
+      "scores": {
+        "claude": {
+          "joy": 0.1,
+          "trust": 0.2,
+          "fear": 0.6,
+          "surprise": 0.7,
+          "sadness": 0.4,
+          "disgust": 0.1,
+          "anger": 0.3,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.4,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0.010000000000000002,
+        "fear": 0.039999999999999994,
+        "surprise": 0.022499999999999992,
+        "sadness": 0.022500000000000003,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.0225,
+        "anticipation": 0.06250000000000001
+      },
+      "consensus": 0.976875,
+      "dominant_emotion": "surprise",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0.1,
+        "fear": 0.4,
+        "surprise": 0.55,
+        "sadness": 0.25,
+        "disgust": 0.05,
+        "anger": 0.15,
+        "anticipation": 0.55
+      }
+    },
+    {
+      "id": "richness_funeral_01",
+      "text": "We gathered to remember a gentle man who spent forty years teaching children to read. The school will never be the same.",
+      "category": "richness",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "trust"
+      ],
+      "sentiment_label": "negative",
+      "notes": "VADER says 'negative.' That's technically not wrong but misses everything. This is sadness + trust + love. Not anger, not fear, not disgust.",
+      "scored_at": "2026-03-14T02:20:36.798Z",
+      "latencyMs": 1900,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.3,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.7,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0.1,
+          "trust": 0.4,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0.0025000000000000005,
+        "trust": 0.0025000000000000014,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0.35,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.6499999999999999,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1
+      }
+    },
+    {
+      "id": "richness_protest_01",
+      "text": "Thousands flooded the streets demanding accountability, chanting and blocking intersections until police arrived with tear gas.",
+      "category": "richness",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "fear",
+        "anticipation"
+      ],
+      "sentiment_label": "negative",
+      "notes": "VADER also says 'negative.' But this is ANGER, not sadness. And there's fear (tear gas) and anticipation (demanding change). One label fails.",
+      "scored_at": "2026-03-14T02:20:40.783Z",
+      "latencyMs": 1974,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0,
+          "sadness": 0.2,
+          "disgust": 0.4,
+          "anger": 0.7,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.4,
+          "surprise": 0.3,
+          "sadness": 0.2,
+          "disgust": 0.1,
+          "anger": 0.5,
+          "anticipation": 0.4
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.0025000000000000014,
+        "surprise": 0.0225,
+        "sadness": 0,
+        "disgust": 0.022500000000000003,
+        "anger": 0.009999999999999995,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.99125,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.35,
+        "surprise": 0.15,
+        "sadness": 0.2,
+        "disgust": 0.25,
+        "anger": 0.6,
+        "anticipation": 0.30000000000000004
+      }
+    },
+    {
+      "id": "richness_anxious_01",
+      "text": "The test results come back tomorrow. I've been pacing the house all night. My stomach won't stop turning.",
+      "category": "richness",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation"
+      ],
+      "sentiment_label": "negative",
+      "notes": "Anxiety is fear + anticipation, not 'negative.' Sentiment tools collapse this into one bucket.",
+      "scored_at": "2026-03-14T02:20:44.673Z",
+      "latencyMs": 1889,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.7,
+          "surprise": 0.1,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.8
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0.022500000000000003,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.996875,
+      "dominant_emotion": "anticipation",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7,
+        "surprise": 0.05,
+        "sadness": 0.25,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.8
+      }
+    },
+    {
+      "id": "richness_bittersweet_01",
+      "text": "Watching my daughter's wedding, I realized she wasn't a little girl anymore. I cried the whole time, but I've never been prouder.",
+      "category": "richness",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "sadness",
+        "trust"
+      ],
+      "sentiment_label": "positive",
+      "notes": "Sentiment says 'positive.' But there's real sadness here too, and trust. This is bittersweet. Only a multidimensional system captures it.",
+      "scored_at": "2026-03-14T02:20:48.806Z",
+      "latencyMs": 2130,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.7,
+          "fear": 0.1,
+          "surprise": 0.3,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.4,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.010000000000000005,
+        "trust": 0.022499999999999992,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.995,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.7,
+        "trust": 0.55,
+        "fear": 0.1,
+        "surprise": 0.25,
+        "sadness": 0.55,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "richness_triumph_01",
+      "text": "After three years of chemotherapy, seven surgeries, and losing her hair twice, she rang the bell today. Cancer-free.",
+      "category": "richness",
+      "expected_dominant": "joy",
+      "expected_secondary": [
+        "trust",
+        "surprise",
+        "sadness"
+      ],
+      "sentiment_label": "positive",
+      "notes": "Technically positive. But the joy here is layered with remembered suffering, trust in medicine, and relief. Richer than a binary label.",
+      "scored_at": "2026-03-14T02:20:53.772Z",
+      "latencyMs": 2964,
+      "scores": {
+        "claude": {
+          "joy": 0.8,
+          "trust": 0.3,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.8,
+          "trust": 0.6,
+          "fear": 0.1,
+          "surprise": 0.2,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.7
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0225,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.08999999999999997
+      },
+      "consensus": 0.985625,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.44999999999999996,
+        "fear": 0.1,
+        "surprise": 0.2,
+        "sadness": 0.25,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.39999999999999997
+      }
+    },
+    {
+      "id": "domain_news_01",
+      "text": "The Federal Reserve raised interest rates by 75 basis points, the largest increase in 28 years, as inflation shows no signs of slowing.",
+      "category": "domain_transfer",
+      "expected_dominant": "fear",
+      "expected_secondary": [
+        "anticipation"
+      ],
+      "domain": "finance",
+      "notes": "Financial news. Reddit-trained BERT would struggle here. VibeScore should read the fear of economic impact.",
+      "scored_at": "2026-03-14T02:20:57.572Z",
+      "latencyMs": 1798,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.2,
+          "fear": 0.4,
+          "surprise": 0.3,
+          "sadness": 0.1,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.2,
+          "sadness": 0.2,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.010000000000000002,
+        "fear": 0.0025000000000000014,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0.0025000000000000005,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.9978125,
+      "dominant_emotion": "fear",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.1,
+        "fear": 0.35,
+        "surprise": 0.25,
+        "sadness": 0.15000000000000002,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "domain_news_02",
+      "text": "Scientists confirmed the detection of gravitational waves for the first time, proving Einstein's century-old prediction.",
+      "category": "domain_transfer",
+      "expected_dominant": "surprise",
+      "expected_secondary": [
+        "joy",
+        "trust",
+        "anticipation"
+      ],
+      "domain": "science",
+      "notes": "Scientific breakthrough. This is awe — surprise + joy + trust. Reddit-trained models rarely see this register.",
+      "scored_at": "2026-03-14T02:21:01.878Z",
+      "latencyMs": 2303,
+      "scores": {
+        "claude": {
+          "joy": 0.3,
+          "trust": 0.7,
+          "fear": 0,
+          "surprise": 0.2,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.1
+        },
+        "gemini": {
+          "joy": 0.6,
+          "trust": 0.7,
+          "fear": 0,
+          "surprise": 0.4,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0.0225,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.010000000000000002,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.04
+      },
+      "consensus": 0.9909375,
+      "dominant_emotion": "trust",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.44999999999999996,
+        "trust": 0.7,
+        "fear": 0,
+        "surprise": 0.30000000000000004,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "domain_poetry_01",
+      "text": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+      "category": "domain_transfer",
+      "expected_dominant": "anger",
+      "expected_secondary": [
+        "sadness",
+        "fear"
+      ],
+      "domain": "poetry",
+      "notes": "Dylan Thomas. The anger is defiance against death. Poetry domain — BERT trained on Reddit comments has never seen language like this.",
+      "scored_at": "2026-03-14T02:21:05.916Z",
+      "latencyMs": 2034,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0.8,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0,
+          "sadness": 0.3,
+          "disgust": 0,
+          "anger": 0.8,
+          "anticipation": 0.5
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0024999999999999988,
+        "surprise": 0,
+        "sadness": 0.0025000000000000014,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9965625,
+      "dominant_emotion": "anger",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.25,
+        "surprise": 0,
+        "sadness": 0.35,
+        "disgust": 0,
+        "anger": 0.8,
+        "anticipation": 0.35
+      }
+    },
+    {
+      "id": "domain_legal_01",
+      "text": "The defendant was found guilty on all counts. Sentencing is scheduled for next month. The victim's family embraced in the courtroom.",
+      "category": "domain_transfer",
+      "expected_dominant": "trust",
+      "expected_secondary": [
+        "sadness",
+        "anticipation"
+      ],
+      "domain": "legal",
+      "notes": "Legal domain. Complex: justice served (trust), but underlying tragedy (sadness), and sentencing ahead (anticipation).",
+      "scored_at": "2026-03-14T02:21:09.731Z",
+      "latencyMs": 1813,
+      "scores": {
+        "claude": {
+          "joy": 0.3,
+          "trust": 0.4,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        },
+        "gemini": {
+          "joy": 0.1,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.1,
+          "sadness": 0.4,
+          "disgust": 0.1,
+          "anger": 0.2,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0.009999999999999998,
+        "trust": 0.022500000000000003,
+        "fear": 0.010000000000000002,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0.04000000000000001,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.010000000000000002,
+        "anticipation": 0.0024999999999999988
+      },
+      "consensus": 0.9875,
+      "dominant_emotion": "trust",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.2,
+        "trust": 0.25,
+        "fear": 0.1,
+        "surprise": 0.05,
+        "sadness": 0.2,
+        "disgust": 0.05,
+        "anger": 0.1,
+        "anticipation": 0.25
+      }
+    },
+    {
+      "id": "domain_business_01",
+      "text": "We regret to inform you that your position has been eliminated as part of a company-wide restructuring. We wish you the best in your future endeavors.",
+      "category": "domain_transfer",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "fear",
+        "anger"
+      ],
+      "domain": "business",
+      "notes": "Corporate layoff email. The language is deliberately neutral but the emotional content is devastating. Models should read through the euphemism.",
+      "scored_at": "2026-03-14T02:21:13.879Z",
+      "latencyMs": 2146,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.7,
+          "surprise": 0.6,
+          "sadness": 0.8,
+          "disgust": 0.2,
+          "anger": 0.4,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0.1,
+          "sadness": 0.4,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.062499999999999986,
+        "surprise": 0.06249999999999999,
+        "sadness": 0.04000000000000001,
+        "disgust": 0.010000000000000002,
+        "anger": 0.022500000000000003,
+        "anticipation": 0.0225
+      },
+      "consensus": 0.9725,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.1,
+        "fear": 0.44999999999999996,
+        "surprise": 0.35,
+        "sadness": 0.6000000000000001,
+        "disgust": 0.1,
+        "anger": 0.25,
+        "anticipation": 0.15
+      }
+    },
+    {
+      "id": "consistency_simple_01",
+      "text": "I just got the job offer I've been waiting for. Starting salary is double what I expected.",
+      "category": "consistency",
+      "expected_dominant": "joy",
+      "notes": "Simple joy. Every model should agree. Low divergence. If single-model scoring varies across runs, multi-model consensus shouldn't.",
+      "scored_at": "2026-03-14T02:21:17.890Z",
+      "latencyMs": 2008,
+      "scores": {
+        "claude": {
+          "joy": 0.9,
+          "trust": 0.2,
+          "fear": 0,
+          "surprise": 0.7,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        },
+        "gemini": {
+          "joy": 0.9,
+          "trust": 0.1,
+          "fear": 0,
+          "surprise": 0.6,
+          "sadness": 0,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.3
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.0024999999999999988,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "consensus": 0.999375,
+      "dominant_emotion": "joy",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.9,
+        "trust": 0.15000000000000002,
+        "fear": 0,
+        "surprise": 0.6499999999999999,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3
+      }
+    },
+    {
+      "id": "consistency_simple_02",
+      "text": "The tornado destroyed our entire neighborhood. We lost everything we owned.",
+      "category": "consistency",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "fear"
+      ],
+      "notes": "Clear sadness. Consensus should be high and stable across multiple runs.",
+      "scored_at": "2026-03-14T02:21:22.191Z",
+      "latencyMs": 2299,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.2,
+          "surprise": 0.1,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0.1,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.6,
+          "surprise": 0.3,
+          "sadness": 0.9,
+          "disgust": 0,
+          "anger": 0.2,
+          "anticipation": 0.1
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.039999999999999994,
+        "surprise": 0.009999999999999998,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0025000000000000005,
+        "anticipation": 0.0025000000000000005
+      },
+      "consensus": 0.993125,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.4,
+        "surprise": 0.2,
+        "sadness": 0.9,
+        "disgust": 0,
+        "anger": 0.15000000000000002,
+        "anticipation": 0.05
+      }
+    },
+    {
+      "id": "consistency_edge_01",
+      "text": "The algorithm determined that your application was rejected. No further appeals are available.",
+      "category": "consistency",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "anger",
+        "fear"
+      ],
+      "notes": "Cold bureaucratic denial. A single model might flip between sadness and anger. The 4-model consensus should be more stable.",
+      "scored_at": "2026-03-14T02:21:26.502Z",
+      "latencyMs": 2309,
+      "scores": {
+        "claude": {
+          "joy": 0,
+          "trust": 0.1,
+          "fear": 0.3,
+          "surprise": 0.2,
+          "sadness": 0.6,
+          "disgust": 0.1,
+          "anger": 0.4,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0,
+          "trust": 0,
+          "fear": 0.3,
+          "surprise": 0.1,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0,
+        "surprise": 0.0025000000000000005,
+        "sadness": 0,
+        "disgust": 0.0025000000000000005,
+        "anger": 0.04000000000000001,
+        "anticipation": 0
+      },
+      "consensus": 0.9940625,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.05,
+        "fear": 0.3,
+        "surprise": 0.15000000000000002,
+        "sadness": 0.6,
+        "disgust": 0.05,
+        "anger": 0.2,
+        "anticipation": 0
+      }
+    },
+    {
+      "id": "consistency_edge_02",
+      "text": "She smiled as she walked away for the last time.",
+      "category": "consistency",
+      "expected_dominant": "sadness",
+      "expected_secondary": [
+        "joy"
+      ],
+      "notes": "Ambiguous: is the smile happy or heartbreaking? Models will read it differently. That divergence is VALID — the text IS ambiguous. Single-model systems just pick one and pretend they're confident.",
+      "scored_at": "2026-03-14T02:21:30.295Z",
+      "latencyMs": 1790,
+      "scores": {
+        "claude": {
+          "joy": 0.3,
+          "trust": 0.1,
+          "fear": 0.2,
+          "surprise": 0,
+          "sadness": 0.6,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0
+        },
+        "gemini": {
+          "joy": 0.3,
+          "trust": 0,
+          "fear": 0,
+          "surprise": 0,
+          "sadness": 0.5,
+          "disgust": 0,
+          "anger": 0,
+          "anticipation": 0.2
+        }
+      },
+      "divergence": {
+        "joy": 0,
+        "trust": 0.0025000000000000005,
+        "fear": 0.010000000000000002,
+        "surprise": 0,
+        "sadness": 0.0024999999999999988,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.010000000000000002
+      },
+      "consensus": 0.996875,
+      "dominant_emotion": "sadness",
+      "signal_quality": "clear",
+      "average_scores": {
+        "joy": 0.3,
+        "trust": 0.05,
+        "fear": 0.1,
+        "surprise": 0,
+        "sadness": 0.55,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Historical events corpus for Vibe Engine validation. Each event has curated headlines and expected emotional profiles.",
+    "created": "2026-03-13",
+    "total_events": 20,
+    "emotion_keys": ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"]
+  },
+  "events": [
+    {
+      "id": "9-11-attacks",
+      "name": "September 11 Attacks",
+      "date": "2001-09-11",
+      "expected_dominant": "fear",
+      "expected_secondary": ["sadness", "anger"],
+      "expected_signal_quality": "clear",
+      "rationale": "Universally understood as terrifying. Fear should dominate with sadness and anger as secondary.",
+      "headlines": [
+        "Hijacked jets destroy twin towers and hit Pentagon; thousands feared dead",
+        "America under attack: Planes crash into World Trade Center, Pentagon in terrorist acts",
+        "Terrorists destroy World Trade Center, hit Pentagon in raid with hijacked jets",
+        "A creeping horror: Buildings full of people crumble to the earth in clouds of dust and smoke",
+        "Hundreds of firefighters and police feared dead as towers collapse"
+      ]
+    },
+    {
+      "id": "moon-landing",
+      "name": "Apollo 11 Moon Landing",
+      "date": "1969-07-20",
+      "expected_dominant": "joy",
+      "expected_secondary": ["surprise", "anticipation", "trust"],
+      "expected_signal_quality": "clear",
+      "rationale": "One of humanity's greatest achievements. Joy and wonder should dominate.",
+      "headlines": [
+        "Men walk on moon: Astronauts land on a plain, collect rocks, plant flag",
+        "The Eagle has landed: Two men fulfill mankind's dream with a walk on the moon",
+        "Man takes first steps on the moon: 'That's one small step for man, one giant leap for mankind'",
+        "Armstrong and Aldrin walk on moon as millions watch in awe on television",
+        "A magnificent triumph: America puts men on the moon"
+      ]
+    },
+    {
+      "id": "covid-lockdowns",
+      "name": "COVID-19 Global Lockdowns",
+      "date": "2020-03-15",
+      "expected_dominant": "fear",
+      "expected_secondary": ["anticipation", "sadness"],
+      "expected_signal_quality": "clear",
+      "rationale": "Pandemic fears. Strong fear with anticipation (what's coming) and sadness (loss of normalcy).",
+      "headlines": [
+        "Nation shuts down: President declares national emergency as coronavirus cases surge",
+        "Schools close, events canceled, borders shut as pandemic fears grip the world",
+        "Global pandemic declared: WHO warns worst is yet to come as death toll climbs",
+        "Life as we know it grinds to a halt: Cities empty as lockdown orders spread",
+        "Hospitals brace for surge as coronavirus cases double every three days"
+      ]
+    },
+    {
+      "id": "covid-vaccine",
+      "name": "COVID-19 Vaccine Approval",
+      "date": "2020-12-11",
+      "expected_dominant": "joy",
+      "expected_secondary": ["anticipation", "trust", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Relief and hope after months of pandemic. Joy and anticipation for end of crisis.",
+      "headlines": [
+        "FDA authorizes Pfizer vaccine, millions of doses to ship immediately",
+        "A shot of hope: First COVID vaccine approved in record time as pandemic rages",
+        "The beginning of the end: Vaccine rollout starts as world celebrates breakthrough",
+        "Historic moment: First Americans receive COVID-19 vaccine as new era begins",
+        "Scientists deliver miracle: Vaccine developed in under a year wins emergency approval"
+      ]
+    },
+    {
+      "id": "financial-crisis-2008",
+      "name": "2008 Financial Crisis",
+      "date": "2008-09-15",
+      "expected_dominant": "fear",
+      "expected_secondary": ["anger", "sadness"],
+      "expected_signal_quality": "clear",
+      "rationale": "Economic catastrophe. Fear of collapse with anger at institutions and sadness over losses.",
+      "headlines": [
+        "Wall Street in crisis as Lehman Brothers files for bankruptcy and Merrill Lynch is sold",
+        "Financial meltdown: Dow plunges 504 points as fear grips global markets",
+        "The economy is in shambles: Banks fail, markets crash, retirement savings vanish overnight",
+        "Panic on Wall Street as century-old institutions crumble in worst crisis since Great Depression",
+        "Millions face foreclosure as housing market collapses and credit dries up"
+      ]
+    },
+    {
+      "id": "bin-laden-killed",
+      "name": "Osama bin Laden Killed",
+      "date": "2011-05-02",
+      "expected_dominant": "surprise",
+      "expected_secondary": ["joy", "anticipation"],
+      "expected_signal_quality": "mixed",
+      "rationale": "Shocking news with complex emotional response. Surprise at the event, relief/joy for many, but morally complex.",
+      "headlines": [
+        "Bin Laden is dead: U.S. forces kill al-Qaeda leader in Pakistan compound raid",
+        "Justice has been done: Obama announces death of 9/11 mastermind after decade-long hunt",
+        "Got him: Navy SEALs kill Osama bin Laden in dramatic nighttime raid",
+        "America's most wanted man killed in covert operation that stunned the world",
+        "Crowds celebrate outside White House as bin Laden's death is confirmed"
+      ]
+    },
+    {
+      "id": "george-floyd",
+      "name": "George Floyd Protests",
+      "date": "2020-05-25",
+      "expected_dominant": "anger",
+      "expected_secondary": ["sadness", "disgust"],
+      "expected_signal_quality": "clear",
+      "rationale": "Outrage over police violence. Anger should strongly dominate with sadness and disgust.",
+      "headlines": [
+        "A man cried 'I can't breathe' and died under a police officer's knee. Now a city burns.",
+        "Protests erupt across America after video shows officer kneeling on Black man's neck for nine minutes",
+        "Minneapolis in flames: National Guard deployed as fury over George Floyd's death spreads",
+        "Enough is enough: Millions march against police brutality in largest protests in decades",
+        "Outrage and grief: How the death of one man ignited a movement across every state"
+      ]
+    },
+    {
+      "id": "trump-election-2016",
+      "name": "Trump Wins 2016 Election",
+      "date": "2016-11-09",
+      "expected_dominant": "surprise",
+      "expected_secondary": ["fear", "anger", "anticipation"],
+      "expected_signal_quality": "divergent",
+      "rationale": "The most polarizing event. Models should DISAGREE — some read joy/anticipation, others fear/anger. High divergence IS the correct read.",
+      "headlines": [
+        "Trump triumphs: Outsider candidate shocks the world with stunning upset victory",
+        "Donald Trump is elected president in stunning repudiation of the establishment",
+        "Against all odds: Trump defeats Clinton in election that defied every prediction",
+        "Markets tumble, world leaders react with shock as Trump wins White House",
+        "America wakes up to a new reality: The most divisive candidate in memory is the next president"
+      ]
+    },
+    {
+      "id": "hurricane-katrina",
+      "name": "Hurricane Katrina",
+      "date": "2005-08-29",
+      "expected_dominant": "fear",
+      "expected_secondary": ["sadness", "anger"],
+      "expected_signal_quality": "clear",
+      "rationale": "Catastrophic natural disaster with government failure. Fear and sadness with anger at the response.",
+      "headlines": [
+        "Catastrophe: Hurricane Katrina devastates Gulf Coast, levees breach, New Orleans floods",
+        "Thousands stranded on rooftops as floodwaters swallow New Orleans",
+        "Where is the help? Desperate residents plead for rescue as city descends into chaos",
+        "Death toll climbs as magnitude of Katrina's destruction becomes clear",
+        "A city drowning: Katrina leaves trail of devastation, thousands feared dead"
+      ]
+    },
+    {
+      "id": "spacex-landing",
+      "name": "SpaceX First Rocket Landing",
+      "date": "2015-12-22",
+      "expected_dominant": "joy",
+      "expected_secondary": ["surprise", "anticipation", "trust"],
+      "expected_signal_quality": "clear",
+      "rationale": "Technological triumph. Joy and surprise at the achievement, anticipation for the future of spaceflight.",
+      "headlines": [
+        "SpaceX makes history: Falcon 9 rocket lands upright after delivering satellites to orbit",
+        "The rocket landed! SpaceX successfully returns booster to Earth in revolutionary first",
+        "Elon Musk's SpaceX achieves the impossible: A reusable rocket that lands itself",
+        "Welcome back, baby: SpaceX Falcon 9 sticks the landing to cheers of jubilant engineers",
+        "A new era of spaceflight begins as SpaceX proves rockets can be reused"
+      ]
+    },
+    {
+      "id": "fukushima",
+      "name": "Fukushima Nuclear Disaster",
+      "date": "2011-03-11",
+      "expected_dominant": "fear",
+      "expected_secondary": ["sadness", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Earthquake, tsunami, and nuclear meltdown. Overwhelming fear with sadness and shock.",
+      "headlines": [
+        "Japan earthquake and tsunami: Nuclear emergency declared as reactors face meltdown",
+        "Triple disaster: Earthquake, tsunami, and nuclear crisis push Japan to the brink",
+        "Radiation fears grow as explosions rock Fukushima nuclear plant after devastating tsunami",
+        "Japan faces worst crisis since World War II as nuclear reactors spiral out of control",
+        "Thousands dead, millions displaced as 9.0 earthquake triggers catastrophic tsunami"
+      ]
+    },
+    {
+      "id": "brexit",
+      "name": "Brexit Vote",
+      "date": "2016-06-24",
+      "expected_dominant": "surprise",
+      "expected_secondary": ["fear", "anger"],
+      "expected_signal_quality": "divergent",
+      "rationale": "Polarizing and unexpected result. Like Trump, models should show high divergence reflecting the divided response.",
+      "headlines": [
+        "Britain votes to leave EU in stunning rejection of European project",
+        "Brexit: The day Britain chose to go it alone, sending shockwaves across the globe",
+        "Markets crash, pound plummets as UK votes to leave European Union",
+        "Cameron resigns after Britain's historic vote to leave EU defies predictions",
+        "A nation divided: Leave wins by narrow margin as Britain enters uncharted territory"
+      ]
+    },
+    {
+      "id": "world-cup-2014",
+      "name": "Germany 7-1 Brazil (World Cup 2014)",
+      "date": "2014-07-08",
+      "expected_dominant": "surprise",
+      "expected_secondary": ["joy", "sadness"],
+      "expected_signal_quality": "mixed",
+      "rationale": "Utter shock. The most surprising result in World Cup history. Joy for Germany, devastation for Brazil.",
+      "headlines": [
+        "Germany humiliates Brazil 7-1 in most shocking World Cup result in history",
+        "Carnage in Belo Horizonte: Germany scores five goals in 18 minutes to destroy Brazil's dream",
+        "Brazil's worst nightmare: Host nation suffers historic, humiliating defeat",
+        "Unbelievable: Germany dismantles Brazil in semifinal rout that left a nation in tears",
+        "Seven goals, one devastated nation: Germany delivers the most stunning upset ever seen"
+      ]
+    },
+    {
+      "id": "obama-election",
+      "name": "Obama Elected President",
+      "date": "2008-11-04",
+      "expected_dominant": "joy",
+      "expected_secondary": ["trust", "anticipation", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Historic milestone. Joy and hope should dominate in the headline coverage.",
+      "headlines": [
+        "Obama elected president as racial barrier falls in decisive victory",
+        "Yes we can: Barack Obama makes history as America's first Black president",
+        "Obama wins: A new chapter in American history begins with landslide victory",
+        "From dream to reality: Obama's victory brings tears of joy and hope for change",
+        "America elects Barack Obama, shattering a barrier as old as the republic itself"
+      ]
+    },
+    {
+      "id": "celebrity-death-kobe",
+      "name": "Kobe Bryant Death",
+      "date": "2020-01-26",
+      "expected_dominant": "sadness",
+      "expected_secondary": ["surprise", "trust"],
+      "expected_signal_quality": "clear",
+      "rationale": "Sudden loss of a beloved figure and his daughter. Profound sadness with shock.",
+      "headlines": [
+        "Kobe Bryant killed in helicopter crash along with daughter Gianna and seven others",
+        "A legend gone too soon: Basketball icon Kobe Bryant dies at 41 in fiery helicopter crash",
+        "The world mourns Kobe: Tributes pour in as news of basketball star's death stuns millions",
+        "Kobe Bryant and daughter Gianna among nine killed in foggy hillside helicopter crash",
+        "Heartbroken: Lakers fans gather at Staples Center in grief after Kobe Bryant's death"
+      ]
+    },
+    {
+      "id": "boston-marathon-bombing",
+      "name": "Boston Marathon Bombing",
+      "date": "2013-04-15",
+      "expected_dominant": "fear",
+      "expected_secondary": ["anger", "sadness"],
+      "expected_signal_quality": "clear",
+      "rationale": "Terrorist attack on civilians. Fear and anger with deep sadness for victims.",
+      "headlines": [
+        "Bombs explode at Boston Marathon finish line, killing three and injuring hundreds",
+        "Terror at the marathon: Twin blasts turn celebration into carnage",
+        "Boston under siege: City in lockdown as manhunt for marathon bombers intensifies",
+        "Blood on Boylston Street: Explosions shatter the joy of a beloved American tradition",
+        "Who did this? FBI launches massive investigation as Boston reels from deadly attack"
+      ]
+    },
+    {
+      "id": "marriage-equality",
+      "name": "Supreme Court Legalizes Same-Sex Marriage",
+      "date": "2015-06-26",
+      "expected_dominant": "joy",
+      "expected_secondary": ["trust", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Civil rights milestone celebrated by supporters. Joy and relief should dominate in headlines.",
+      "headlines": [
+        "Supreme Court rules same-sex couples have right to marry nationwide",
+        "Love wins: Supreme Court declares marriage equality the law of the land",
+        "A historic day for civil rights: Same-sex marriage legalized in all 50 states",
+        "Tears of joy outside Supreme Court as couples celebrate landmark ruling",
+        "Equal at last: Court rules Constitution guarantees right to marry for all Americans"
+      ]
+    },
+    {
+      "id": "ukraine-invasion",
+      "name": "Russia Invades Ukraine",
+      "date": "2022-02-24",
+      "expected_dominant": "fear",
+      "expected_secondary": ["anger", "sadness", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Full-scale war in Europe. Fear of escalation with anger and sadness.",
+      "headlines": [
+        "Russia attacks Ukraine: Explosions rock cities as Putin launches full-scale invasion",
+        "War in Europe: Russian forces cross into Ukraine from multiple directions",
+        "Ukraine under fire: Missiles and bombs rain down on cities as world watches in horror",
+        "Putin defies warnings and invades Ukraine in largest military assault since World War II",
+        "Kyiv under attack: Ukrainians flee as Russian troops advance on the capital"
+      ]
+    },
+    {
+      "id": "titanic-sub-implosion",
+      "name": "Titan Submersible Implosion",
+      "date": "2023-06-22",
+      "expected_dominant": "fear",
+      "expected_secondary": ["sadness", "surprise"],
+      "expected_signal_quality": "clear",
+      "rationale": "Claustrophobic horror and tragic loss. Fear of the deep-sea scenario with sadness at the deaths.",
+      "headlines": [
+        "All five aboard Titan submersible dead after catastrophic implosion near Titanic wreck",
+        "Debris field confirms worst fears: OceanGate sub suffered catastrophic failure on descent",
+        "Five lives lost in the deep: Titan submersible imploded in milliseconds, experts say",
+        "The search is over: Coast Guard confirms Titan crew killed in implosion near the Titanic",
+        "A billionaire's fatal gamble: How a deep-sea expedition ended in tragedy"
+      ]
+    },
+    {
+      "id": "japan-world-cup-upset",
+      "name": "Japan Beats Germany and Spain at 2022 World Cup",
+      "date": "2022-11-23",
+      "expected_dominant": "surprise",
+      "expected_secondary": ["joy", "anticipation"],
+      "expected_signal_quality": "clear",
+      "rationale": "Major underdog victory. Shock and delight should dominate.",
+      "headlines": [
+        "Japan stuns the world: Comeback victory over Germany sends shockwaves through World Cup",
+        "Unbelievable: Japan rallies from behind to beat four-time champions Germany 2-1",
+        "Giant-killing Japan does it again, shocking Spain to top their World Cup group",
+        "Japan's miracle run: Two come-from-behind victories over football royalty electrify the tournament",
+        "The greatest upset of the tournament: Japan proves the World Cup really is anyone's game"
+      ]
+    }
+  ]
+}
