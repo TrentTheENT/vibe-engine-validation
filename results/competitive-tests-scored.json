@@ -1,10 +1,11 @@
 {
   "meta": {
     "fixture": "competitive-tests",
-    "scored_at": "2026-03-14T02:21:30.296Z",
+    "scored_at": "2026-03-26T04:49:45.420Z",
     "total_texts": 20,
     "scored_count": 20,
-    "base_url": "http://localhost:3000"
+    "base_url": "http://localhost:3333",
+    "api_version": "v1"
   },
   "results": [
     {
@@ -15,52 +16,45 @@
       "surface_emotion": "joy",
       "notes": "Sarcasm. Surface reads as positive. A naive system scores joy. The REAL emotion is anger/disgust. Multi-model divergence should flag this as ambiguous.",
       "expected_signal_quality": "mixed",
-      "scored_at": "2026-03-14T02:20:12.987Z",
-      "latencyMs": 2703,
-      "scores": {
-        "claude": {
-          "joy": 0.1,
-          "trust": 0,
-          "fear": 0.2,
-          "surprise": 0.3,
-          "sadness": 0.2,
-          "disgust": 0.4,
-          "anger": 0.7,
-          "anticipation": 0.2
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.1,
-          "surprise": 0.1,
-          "sadness": 0.2,
-          "disgust": 0.3,
-          "anger": 0.4,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0.0025000000000000005,
-        "trust": 0,
-        "fear": 0.0025000000000000005,
-        "surprise": 0.009999999999999998,
-        "sadness": 0,
-        "disgust": 0.0025000000000000014,
-        "anger": 0.022499999999999992,
-        "anticipation": 0.0024999999999999988
-      },
-      "consensus": 0.9946875,
-      "dominant_emotion": "anger",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:45:47.393Z",
+      "latencyMs": 11781,
       "average_scores": {
-        "joy": 0.05,
-        "trust": 0,
-        "fear": 0.15000000000000002,
-        "surprise": 0.2,
-        "sadness": 0.2,
-        "disgust": 0.35,
-        "anger": 0.55,
-        "anticipation": 0.25
+        "joy": 0.2,
+        "trust": 0.0167,
+        "fear": 0.05,
+        "surprise": 0.0167,
+        "sadness": 0.05,
+        "disgust": 0.0667,
+        "anger": 0.3333,
+        "anticipation": 0.3667
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 566,
+      "consensus": 0.4677,
+      "divergence_index": 0.3966,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 22,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 22,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "catalyst",
+        "name": "The Catalyst",
+        "fit": 89
       }
     },
     {
@@ -71,52 +65,45 @@
       "surface_emotion": "trust",
       "notes": "Political sarcasm. Words like 'best' and 'brilliant' read positive, but the intent is contempt.",
       "expected_signal_quality": "mixed",
-      "scored_at": "2026-03-14T02:20:16.731Z",
-      "latencyMs": 1733,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0.1,
-          "disgust": 0.4,
-          "anger": 0.7,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0.1,
-          "sadness": 0.1,
-          "disgust": 0.4,
-          "anger": 0.5,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0.009999999999999995,
-        "anticipation": 0
-      },
-      "consensus": 0.9984375,
-      "dominant_emotion": "anger",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:45:59.350Z",
+      "latencyMs": 9955,
       "average_scores": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.05,
-        "sadness": 0.1,
-        "disgust": 0.4,
+        "joy": 0.0167,
+        "trust": 0.0167,
+        "fear": 0.0333,
+        "surprise": 0.0667,
+        "sadness": 0.0333,
+        "disgust": 0.5,
         "anger": 0.6,
-        "anticipation": 0
+        "anticipation": 0.0167
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 730,
+      "consensus": 0.9326,
+      "divergence_index": 0.2741,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 42,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 50
+      },
+      "physics": {
+        "purity": 42,
+        "intensity": 50,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 65
       }
     },
     {
@@ -127,52 +114,45 @@
       "surface_emotion": "joy",
       "notes": "Everyday sarcasm. 'Love' and 'makes my whole day' should confuse a surface-level reader.",
       "expected_signal_quality": "mixed",
-      "scored_at": "2026-03-14T02:20:20.517Z",
-      "latencyMs": 1785,
-      "scores": {
-        "claude": {
-          "joy": 0.1,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0.2,
-          "disgust": 0.3,
-          "anger": 0.8,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0,
-          "disgust": 0.1,
-          "anger": 0.8,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0.0025000000000000005,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0,
-        "sadness": 0.010000000000000002,
-        "disgust": 0.009999999999999998,
-        "anger": 0,
-        "anticipation": 0
-      },
-      "consensus": 0.9971875,
-      "dominant_emotion": "anger",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:46:09.580Z",
+      "latencyMs": 8228,
       "average_scores": {
-        "joy": 0.05,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0,
-        "sadness": 0.1,
-        "disgust": 0.2,
-        "anger": 0.8,
-        "anticipation": 0
+        "joy": 0.55,
+        "trust": 0.0167,
+        "fear": 0.0167,
+        "surprise": 0.0167,
+        "sadness": 0.0167,
+        "disgust": 0.05,
+        "anger": 0.5,
+        "anticipation": 0.0167
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 720,
+      "consensus": 0.5435,
+      "divergence_index": 0.3647,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 50,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 50,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 73
       }
     },
     {
@@ -183,52 +163,45 @@
       "surface_emotion": "trust",
       "notes": "Dramatic irony. The naming implies honor, but the context is revolting. Models should disagree.",
       "expected_signal_quality": "divergent",
-      "scored_at": "2026-03-14T02:20:24.412Z",
-      "latencyMs": 1891,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.1,
-          "surprise": 0.2,
-          "sadness": 0.3,
-          "disgust": 0.7,
-          "anger": 0.6,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.1,
-          "surprise": 0.1,
-          "sadness": 0.3,
-          "disgust": 0.5,
-          "anger": 0.6,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0,
-        "disgust": 0.009999999999999995,
-        "anger": 0,
-        "anticipation": 0
-      },
-      "consensus": 0.9984375,
-      "dominant_emotion": "disgust",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:46:22.431Z",
+      "latencyMs": 10850,
       "average_scores": {
         "joy": 0,
         "trust": 0,
-        "fear": 0.1,
-        "surprise": 0.15000000000000002,
-        "sadness": 0.3,
-        "disgust": 0.6,
-        "anger": 0.6,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.3667,
+        "anger": 0.4667,
         "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 618,
+      "consensus": 0.3305,
+      "divergence_index": 0.7324,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 63,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 63,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 69
       }
     },
     {
@@ -242,52 +215,45 @@
       ],
       "notes": "Genuine mixed emotion. Joy at the cure, devastation at the timing. No single label is correct.",
       "expected_signal_quality": "mixed",
-      "scored_at": "2026-03-14T02:20:28.607Z",
-      "latencyMs": 2193,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0.2,
-          "sadness": 0.9,
-          "disgust": 0,
-          "anger": 0.3,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0.1,
-          "sadness": 0.9,
-          "disgust": 0,
-          "anger": 0.1,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0.009999999999999998,
-        "anticipation": 0
-      },
-      "consensus": 0.9984375,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:46:34.108Z",
+      "latencyMs": 9675,
       "average_scores": {
-        "joy": 0,
+        "joy": 0.0333,
         "trust": 0,
-        "fear": 0,
-        "surprise": 0.15000000000000002,
-        "sadness": 0.9,
+        "fear": 0.1167,
+        "surprise": 0.2,
+        "sadness": 0.7667,
         "disgust": 0,
-        "anger": 0.2,
-        "anticipation": 0
+        "anger": 0.0333,
+        "anticipation": 0.0667
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 758,
+      "consensus": 0.8753,
+      "divergence_index": 0.0835,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 73,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 73,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 82
       }
     },
     {
@@ -302,52 +268,45 @@
       ],
       "notes": "Emotionally complex personal story. Multiple valid readings. High divergence is CORRECT.",
       "expected_signal_quality": "divergent",
-      "scored_at": "2026-03-14T02:20:32.897Z",
-      "latencyMs": 2287,
-      "scores": {
-        "claude": {
-          "joy": 0.1,
-          "trust": 0.2,
-          "fear": 0.6,
-          "surprise": 0.7,
-          "sadness": 0.4,
-          "disgust": 0.1,
-          "anger": 0.3,
-          "anticipation": 0.8
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.2,
-          "surprise": 0.4,
-          "sadness": 0.1,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0.0025000000000000005,
-        "trust": 0.010000000000000002,
-        "fear": 0.039999999999999994,
-        "surprise": 0.022499999999999992,
-        "sadness": 0.022500000000000003,
-        "disgust": 0.0025000000000000005,
-        "anger": 0.0225,
-        "anticipation": 0.06250000000000001
-      },
-      "consensus": 0.976875,
-      "dominant_emotion": "surprise",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:46:47.276Z",
+      "latencyMs": 11165,
       "average_scores": {
-        "joy": 0.05,
+        "joy": 0.1333,
         "trust": 0.1,
-        "fear": 0.4,
-        "surprise": 0.55,
-        "sadness": 0.25,
-        "disgust": 0.05,
-        "anger": 0.15,
-        "anticipation": 0.55
+        "fear": 0.2667,
+        "surprise": 0.5,
+        "sadness": 0.1667,
+        "disgust": 0,
+        "anger": 0.0333,
+        "anticipation": 0.4333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 414,
+      "consensus": 0.9309,
+      "divergence_index": 0.0264,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 42,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 42,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 85
       }
     },
     {
@@ -360,52 +319,45 @@
       ],
       "sentiment_label": "negative",
       "notes": "VADER says 'negative.' That's technically not wrong but misses everything. This is sadness + trust + love. Not anger, not fear, not disgust.",
-      "scored_at": "2026-03-14T02:20:36.798Z",
-      "latencyMs": 1900,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0.3,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0.7,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0.1,
-          "trust": 0.4,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0.6,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.2
-        }
-      },
-      "divergence": {
-        "joy": 0.0025000000000000005,
-        "trust": 0.0025000000000000014,
-        "fear": 0,
-        "surprise": 0,
-        "sadness": 0.0024999999999999988,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.010000000000000002
-      },
-      "consensus": 0.9978125,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:46:59.218Z",
+      "latencyMs": 9941,
       "average_scores": {
-        "joy": 0.05,
-        "trust": 0.35,
-        "fear": 0,
-        "surprise": 0,
-        "sadness": 0.6499999999999999,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.1
+        "joy": 0.2,
+        "trust": 0.3667,
+        "fear": 0.0167,
+        "surprise": 0.0167,
+        "sadness": 0.5,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.0167
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 530,
+      "consensus": 0.9442,
+      "divergence_index": 0.2284,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 34,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 34,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "empath",
+        "name": "The Empath",
+        "fit": 88
       }
     },
     {
@@ -419,52 +371,47 @@
       ],
       "sentiment_label": "negative",
       "notes": "VADER also says 'negative.' But this is ANGER, not sadness. And there's fear (tear gas) and anticipation (demanding change). One label fails.",
-      "scored_at": "2026-03-14T02:20:40.783Z",
-      "latencyMs": 1974,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0.1,
-          "fear": 0.3,
-          "surprise": 0,
-          "sadness": 0.2,
-          "disgust": 0.4,
-          "anger": 0.7,
-          "anticipation": 0.2
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.4,
-          "surprise": 0.3,
-          "sadness": 0.2,
-          "disgust": 0.1,
-          "anger": 0.5,
-          "anticipation": 0.4
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.0025000000000000005,
-        "fear": 0.0025000000000000014,
-        "surprise": 0.0225,
-        "sadness": 0,
-        "disgust": 0.022500000000000003,
-        "anger": 0.009999999999999995,
-        "anticipation": 0.010000000000000002
-      },
-      "consensus": 0.99125,
-      "dominant_emotion": "anger",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:47:12.465Z",
+      "latencyMs": 11245,
       "average_scores": {
         "joy": 0,
-        "trust": 0.05,
-        "fear": 0.35,
-        "surprise": 0.15,
-        "sadness": 0.2,
-        "disgust": 0.25,
-        "anger": 0.6,
-        "anticipation": 0.30000000000000004
+        "trust": 0.0167,
+        "fear": 0.4,
+        "surprise": 0.1667,
+        "sadness": 0.0333,
+        "disgust": 0.0667,
+        "anger": 0.6667,
+        "anticipation": 0.3667
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 570,
+      "consensus": 0.9254,
+      "divergence_index": 0.194,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 55,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 55,
+        "intensity": 60,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Response Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 71
       }
     },
     {
@@ -477,52 +424,45 @@
       ],
       "sentiment_label": "negative",
       "notes": "Anxiety is fear + anticipation, not 'negative.' Sentiment tools collapse this into one bucket.",
-      "scored_at": "2026-03-14T02:20:44.673Z",
-      "latencyMs": 1889,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.7,
-          "surprise": 0,
-          "sadness": 0.1,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.8
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.7,
-          "surprise": 0.1,
-          "sadness": 0.4,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.8
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0.022500000000000003,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0
-      },
-      "consensus": 0.996875,
-      "dominant_emotion": "anticipation",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:47:24.122Z",
+      "latencyMs": 9655,
       "average_scores": {
         "joy": 0,
         "trust": 0,
-        "fear": 0.7,
-        "surprise": 0.05,
-        "sadness": 0.25,
-        "disgust": 0,
+        "fear": 0.75,
+        "surprise": 0,
+        "sadness": 0.0667,
+        "disgust": 0.05,
         "anger": 0,
-        "anticipation": 0.8
+        "anticipation": 0.55
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 768,
+      "consensus": 0.9806,
+      "divergence_index": 0.1735,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 91,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 91,
+        "intensity": 85,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "commander",
+        "name": "The Commander",
+        "fit": 67
       }
     },
     {
@@ -536,52 +476,47 @@
       ],
       "sentiment_label": "positive",
       "notes": "Sentiment says 'positive.' But there's real sadness here too, and trust. This is bittersweet. Only a multidimensional system captures it.",
-      "scored_at": "2026-03-14T02:20:48.806Z",
-      "latencyMs": 2130,
-      "scores": {
-        "claude": {
-          "joy": 0.8,
-          "trust": 0.7,
-          "fear": 0.1,
-          "surprise": 0.3,
-          "sadness": 0.6,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.2
-        },
-        "gemini": {
-          "joy": 0.6,
-          "trust": 0.4,
-          "fear": 0.1,
-          "surprise": 0.2,
-          "sadness": 0.5,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0.010000000000000005,
-        "trust": 0.022499999999999992,
-        "fear": 0,
-        "surprise": 0.0024999999999999988,
-        "sadness": 0.0024999999999999988,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.0024999999999999988
-      },
-      "consensus": 0.995,
-      "dominant_emotion": "joy",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:47:34.874Z",
+      "latencyMs": 8751,
       "average_scores": {
-        "joy": 0.7,
-        "trust": 0.55,
-        "fear": 0.1,
-        "surprise": 0.25,
-        "sadness": 0.55,
+        "joy": 0.7167,
+        "trust": 0.4667,
+        "fear": 0.0167,
+        "surprise": 0.1167,
+        "sadness": 0.6167,
         "disgust": 0,
         "anger": 0,
-        "anticipation": 0.25
+        "anticipation": 0.15
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 594,
+      "consensus": 0.8556,
+      "divergence_index": 0.0673,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 92,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 92,
+        "intensity": 80,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Polarity Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "architect",
+        "name": "The Architect",
+        "fit": 67
       }
     },
     {
@@ -596,52 +531,47 @@
       ],
       "sentiment_label": "positive",
       "notes": "Technically positive. But the joy here is layered with remembered suffering, trust in medicine, and relief. Richer than a binary label.",
-      "scored_at": "2026-03-14T02:20:53.772Z",
-      "latencyMs": 2964,
-      "scores": {
-        "claude": {
-          "joy": 0.8,
-          "trust": 0.3,
-          "fear": 0.1,
-          "surprise": 0.2,
-          "sadness": 0.2,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.1
-        },
-        "gemini": {
-          "joy": 0.8,
-          "trust": 0.6,
-          "fear": 0.1,
-          "surprise": 0.2,
-          "sadness": 0.3,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.7
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.0225,
-        "fear": 0,
-        "surprise": 0,
-        "sadness": 0.0024999999999999988,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.08999999999999997
-      },
-      "consensus": 0.985625,
-      "dominant_emotion": "joy",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:47:49.554Z",
+      "latencyMs": 12679,
       "average_scores": {
-        "joy": 0.8,
-        "trust": 0.44999999999999996,
-        "fear": 0.1,
-        "surprise": 0.2,
-        "sadness": 0.25,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.39999999999999997
+        "joy": 0.8333,
+        "trust": 0.25,
+        "fear": 0.1333,
+        "surprise": 0.1333,
+        "sadness": 0.3,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.25
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 690,
+      "consensus": 0.8075,
+      "divergence_index": 0.206,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 79,
+        "coherence": 25,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 79,
+        "intensity": 85,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Polarity Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 73
       }
     },
     {
@@ -654,52 +584,45 @@
       ],
       "domain": "finance",
       "notes": "Financial news. Reddit-trained BERT would struggle here. VibeScore should read the fear of economic impact.",
-      "scored_at": "2026-03-14T02:20:57.572Z",
-      "latencyMs": 1798,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0.2,
-          "fear": 0.4,
-          "surprise": 0.3,
-          "sadness": 0.1,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.3,
-          "surprise": 0.2,
-          "sadness": 0.2,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.010000000000000002,
-        "fear": 0.0025000000000000014,
-        "surprise": 0.0024999999999999988,
-        "sadness": 0.0025000000000000005,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0
-      },
-      "consensus": 0.9978125,
-      "dominant_emotion": "fear",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:48:02.139Z",
+      "latencyMs": 10583,
       "average_scores": {
         "joy": 0,
-        "trust": 0.1,
-        "fear": 0.35,
-        "surprise": 0.25,
-        "sadness": 0.15000000000000002,
+        "trust": 0,
+        "fear": 0.15,
+        "surprise": 0.1667,
+        "sadness": 0,
         "disgust": 0,
         "anger": 0,
-        "anticipation": 0.3
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 306,
+      "consensus": 0.6382,
+      "divergence_index": 0.3022,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 31,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 31,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 86
       }
     },
     {
@@ -714,52 +637,47 @@
       ],
       "domain": "science",
       "notes": "Scientific breakthrough. This is awe — surprise + joy + trust. Reddit-trained models rarely see this register.",
-      "scored_at": "2026-03-14T02:21:01.878Z",
-      "latencyMs": 2303,
-      "scores": {
-        "claude": {
-          "joy": 0.3,
-          "trust": 0.7,
-          "fear": 0,
-          "surprise": 0.2,
-          "sadness": 0,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.1
-        },
-        "gemini": {
-          "joy": 0.6,
-          "trust": 0.7,
-          "fear": 0,
-          "surprise": 0.4,
-          "sadness": 0,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.5
-        }
-      },
-      "divergence": {
-        "joy": 0.0225,
-        "trust": 0,
-        "fear": 0,
-        "surprise": 0.010000000000000002,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.04
-      },
-      "consensus": 0.9909375,
-      "dominant_emotion": "trust",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:48:17.420Z",
+      "latencyMs": 13279,
       "average_scores": {
-        "joy": 0.44999999999999996,
-        "trust": 0.7,
-        "fear": 0,
-        "surprise": 0.30000000000000004,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.3
+        "joy": 0.35,
+        "trust": 0.4333,
+        "fear": 0.0167,
+        "surprise": 0.5,
+        "sadness": 0.0167,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.3333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 455,
+      "consensus": 0.7909,
+      "divergence_index": 0.3068,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 61,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 61,
+        "intensity": 60,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Temporal Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "spark",
+        "name": "The Spark",
+        "fit": 91
       }
     },
     {
@@ -773,52 +691,45 @@
       ],
       "domain": "poetry",
       "notes": "Dylan Thomas. The anger is defiance against death. Poetry domain — BERT trained on Reddit comments has never seen language like this.",
-      "scored_at": "2026-03-14T02:21:05.916Z",
-      "latencyMs": 2034,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.3,
-          "surprise": 0,
-          "sadness": 0.4,
-          "disgust": 0,
-          "anger": 0.8,
-          "anticipation": 0.2
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.2,
-          "surprise": 0,
-          "sadness": 0.3,
-          "disgust": 0,
-          "anger": 0.8,
-          "anticipation": 0.5
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0.0024999999999999988,
-        "surprise": 0,
-        "sadness": 0.0025000000000000014,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.0225
-      },
-      "consensus": 0.9965625,
-      "dominant_emotion": "anger",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:48:31.591Z",
+      "latencyMs": 12170,
       "average_scores": {
-        "joy": 0,
+        "joy": 0.0167,
         "trust": 0,
-        "fear": 0.25,
+        "fear": 0.0667,
         "surprise": 0,
-        "sadness": 0.35,
+        "sadness": 0.1,
         "disgust": 0,
-        "anger": 0.8,
-        "anticipation": 0.35
+        "anger": 0.8333,
+        "anticipation": 0.3333
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 858,
+      "consensus": 0.8487,
+      "divergence_index": 0.1071,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 83,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 90
+      },
+      "physics": {
+        "purity": 83,
+        "intensity": 90,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 64
       }
     },
     {
@@ -832,52 +743,45 @@
       ],
       "domain": "legal",
       "notes": "Legal domain. Complex: justice served (trust), but underlying tragedy (sadness), and sentencing ahead (anticipation).",
-      "scored_at": "2026-03-14T02:21:09.731Z",
-      "latencyMs": 1813,
-      "scores": {
-        "claude": {
-          "joy": 0.3,
-          "trust": 0.4,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.2
-        },
-        "gemini": {
-          "joy": 0.1,
-          "trust": 0.1,
-          "fear": 0.2,
-          "surprise": 0.1,
-          "sadness": 0.4,
-          "disgust": 0.1,
-          "anger": 0.2,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0.009999999999999998,
-        "trust": 0.022500000000000003,
-        "fear": 0.010000000000000002,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0.04000000000000001,
-        "disgust": 0.0025000000000000005,
-        "anger": 0.010000000000000002,
-        "anticipation": 0.0024999999999999988
-      },
-      "consensus": 0.9875,
-      "dominant_emotion": "trust",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:48:45.929Z",
+      "latencyMs": 12337,
       "average_scores": {
-        "joy": 0.2,
-        "trust": 0.25,
-        "fear": 0.1,
-        "surprise": 0.05,
-        "sadness": 0.2,
-        "disgust": 0.05,
-        "anger": 0.1,
-        "anticipation": 0.25
+        "joy": 0.2167,
+        "trust": 0.1667,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.2167,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3167
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 362,
+      "consensus": 0.614,
+      "divergence_index": 0.3983,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 16,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 16,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 86
       }
     },
     {
@@ -891,52 +795,45 @@
       ],
       "domain": "business",
       "notes": "Corporate layoff email. The language is deliberately neutral but the emotional content is devastating. Models should read through the euphemism.",
-      "scored_at": "2026-03-14T02:21:13.879Z",
-      "latencyMs": 2146,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0.1,
-          "fear": 0.7,
-          "surprise": 0.6,
-          "sadness": 0.8,
-          "disgust": 0.2,
-          "anger": 0.4,
-          "anticipation": 0.3
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0.1,
-          "fear": 0.2,
-          "surprise": 0.1,
-          "sadness": 0.4,
-          "disgust": 0,
-          "anger": 0.1,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0.062499999999999986,
-        "surprise": 0.06249999999999999,
-        "sadness": 0.04000000000000001,
-        "disgust": 0.010000000000000002,
-        "anger": 0.022500000000000003,
-        "anticipation": 0.0225
-      },
-      "consensus": 0.9725,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:48:58.576Z",
+      "latencyMs": 10646,
       "average_scores": {
         "joy": 0,
-        "trust": 0.1,
-        "fear": 0.44999999999999996,
-        "surprise": 0.35,
-        "sadness": 0.6000000000000001,
-        "disgust": 0.1,
-        "anger": 0.25,
-        "anticipation": 0.15
+        "trust": 0.0667,
+        "fear": 0.05,
+        "surprise": 0.0333,
+        "sadness": 0.5,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.05
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 482,
+      "consensus": 0.8433,
+      "divergence_index": 0.3218,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 26,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 26,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 76
       }
     },
     {
@@ -945,52 +842,47 @@
       "category": "consistency",
       "expected_dominant": "joy",
       "notes": "Simple joy. Every model should agree. Low divergence. If single-model scoring varies across runs, multi-model consensus shouldn't.",
-      "scored_at": "2026-03-14T02:21:17.890Z",
-      "latencyMs": 2008,
-      "scores": {
-        "claude": {
-          "joy": 0.9,
-          "trust": 0.2,
-          "fear": 0,
-          "surprise": 0.7,
-          "sadness": 0,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        },
-        "gemini": {
-          "joy": 0.9,
-          "trust": 0.1,
-          "fear": 0,
-          "surprise": 0.6,
-          "sadness": 0,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.3
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.0025000000000000005,
-        "fear": 0,
-        "surprise": 0.0024999999999999988,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0
-      },
-      "consensus": 0.999375,
-      "dominant_emotion": "joy",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:49:11.143Z",
+      "latencyMs": 10564,
       "average_scores": {
-        "joy": 0.9,
-        "trust": 0.15000000000000002,
+        "joy": 0.8333,
+        "trust": 0.1833,
         "fear": 0,
-        "surprise": 0.6499999999999999,
+        "surprise": 0.6833,
         "sadness": 0,
         "disgust": 0,
         "anger": 0,
-        "anticipation": 0.3
+        "anticipation": 0.6
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 674,
+      "consensus": 0.936,
+      "divergence_index": 0.0568,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 105,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 105,
+        "intensity": 85,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Temporal Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "commander",
+        "name": "The Commander",
+        "fit": 67
       }
     },
     {
@@ -1002,52 +894,45 @@
         "fear"
       ],
       "notes": "Clear sadness. Consensus should be high and stable across multiple runs.",
-      "scored_at": "2026-03-14T02:21:22.191Z",
-      "latencyMs": 2299,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.2,
-          "surprise": 0.1,
-          "sadness": 0.9,
-          "disgust": 0,
-          "anger": 0.1,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.6,
-          "surprise": 0.3,
-          "sadness": 0.9,
-          "disgust": 0,
-          "anger": 0.2,
-          "anticipation": 0.1
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0,
-        "fear": 0.039999999999999994,
-        "surprise": 0.009999999999999998,
-        "sadness": 0,
-        "disgust": 0,
-        "anger": 0.0025000000000000005,
-        "anticipation": 0.0025000000000000005
-      },
-      "consensus": 0.993125,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:49:24.290Z",
+      "latencyMs": 11146,
       "average_scores": {
         "joy": 0,
         "trust": 0,
-        "fear": 0.4,
-        "surprise": 0.2,
-        "sadness": 0.9,
+        "fear": 0.55,
+        "surprise": 0.3333,
+        "sadness": 0.8,
         "disgust": 0,
-        "anger": 0.15000000000000002,
-        "anticipation": 0.05
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 866,
+      "consensus": 0.9023,
+      "divergence_index": 0.2687,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 91,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 91,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "architect",
+        "name": "The Architect",
+        "fit": 60
       }
     },
     {
@@ -1060,52 +945,45 @@
         "fear"
       ],
       "notes": "Cold bureaucratic denial. A single model might flip between sadness and anger. The 4-model consensus should be more stable.",
-      "scored_at": "2026-03-14T02:21:26.502Z",
-      "latencyMs": 2309,
-      "scores": {
-        "claude": {
-          "joy": 0,
-          "trust": 0.1,
-          "fear": 0.3,
-          "surprise": 0.2,
-          "sadness": 0.6,
-          "disgust": 0.1,
-          "anger": 0.4,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0,
-          "trust": 0,
-          "fear": 0.3,
-          "surprise": 0.1,
-          "sadness": 0.6,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.0025000000000000005,
-        "fear": 0,
-        "surprise": 0.0025000000000000005,
-        "sadness": 0,
-        "disgust": 0.0025000000000000005,
-        "anger": 0.04000000000000001,
-        "anticipation": 0
-      },
-      "consensus": 0.9940625,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:49:35.061Z",
+      "latencyMs": 8770,
       "average_scores": {
         "joy": 0,
-        "trust": 0.05,
-        "fear": 0.3,
-        "surprise": 0.15000000000000002,
-        "sadness": 0.6,
-        "disgust": 0.05,
-        "anger": 0.2,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.4,
+        "disgust": 0,
+        "anger": 0,
         "anticipation": 0
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 382,
+      "consensus": 0.3333,
+      "divergence_index": 0.6287,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 37,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 37,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 75
       }
     },
     {
@@ -1117,52 +995,45 @@
         "joy"
       ],
       "notes": "Ambiguous: is the smile happy or heartbreaking? Models will read it differently. That divergence is VALID — the text IS ambiguous. Single-model systems just pick one and pretend they're confident.",
-      "scored_at": "2026-03-14T02:21:30.295Z",
-      "latencyMs": 1790,
-      "scores": {
-        "claude": {
-          "joy": 0.3,
-          "trust": 0.1,
-          "fear": 0.2,
-          "surprise": 0,
-          "sadness": 0.6,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0
-        },
-        "gemini": {
-          "joy": 0.3,
-          "trust": 0,
-          "fear": 0,
-          "surprise": 0,
-          "sadness": 0.5,
-          "disgust": 0,
-          "anger": 0,
-          "anticipation": 0.2
-        }
-      },
-      "divergence": {
-        "joy": 0,
-        "trust": 0.0025000000000000005,
-        "fear": 0.010000000000000002,
-        "surprise": 0,
-        "sadness": 0.0024999999999999988,
-        "disgust": 0,
-        "anger": 0,
-        "anticipation": 0.010000000000000002
-      },
-      "consensus": 0.996875,
-      "dominant_emotion": "sadness",
-      "signal_quality": "clear",
+      "scored_at": "2026-03-26T04:49:45.420Z",
+      "latencyMs": 8358,
       "average_scores": {
-        "joy": 0.3,
-        "trust": 0.05,
-        "fear": 0.1,
+        "joy": 0.3667,
+        "trust": 0,
+        "fear": 0.0667,
         "surprise": 0,
-        "sadness": 0.55,
+        "sadness": 0.3667,
         "disgust": 0,
         "anger": 0,
-        "anticipation": 0.1
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 482,
+      "consensus": 0.5454,
+      "divergence_index": 0.1193,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 55,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 55,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
       }
     }
   ]

@@ -1,0 +1,4514 @@
+{
+  "meta": {
+    "fixture": "goemotions",
+    "scored_at": "2026-03-26T06:13:11.673Z",
+    "total_texts": 500,
+    "scored_count": 100,
+    "base_url": "http://localhost:3333",
+    "api_version": "v1"
+  },
+  "results": [
+    {
+      "id": "goemotions__0",
+      "text": "This sucks so much and I’m sorry. I hope you recover and have a wonderful life.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:49:52.223Z",
+      "latencyMs": 12239,
+      "average_scores": {
+        "joy": 0.2333,
+        "trust": 0.2333,
+        "fear": 0.0667,
+        "surprise": 0,
+        "sadness": 0.5,
+        "disgust": 0.2,
+        "anger": 0.1667,
+        "anticipation": 0.3333
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 512,
+      "consensus": 0.7493,
+      "divergence_index": 0.0577,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 55,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 55,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__1",
+      "text": "What's up with all the gloating.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:50:04.835Z",
+      "latencyMs": 10610,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.1,
+        "sadness": 0,
+        "disgust": 0.3,
+        "anger": 0.5,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 506,
+      "consensus": 0.833,
+      "divergence_index": 0.0596,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 51,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 50
+      },
+      "physics": {
+        "purity": 51,
+        "intensity": 50,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 70
+      }
+    },
+    {
+      "id": "goemotions__2",
+      "text": "This looks delicious, I wish I had all ingredients on hand, because I would make this tomorrow.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:50:16.524Z",
+      "latencyMs": 9687,
+      "average_scores": {
+        "joy": 0.5667,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0833,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.6333
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 730,
+      "consensus": 0.9745,
+      "divergence_index": 0.0982,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 78,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 78,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 74
+      }
+    },
+    {
+      "id": "goemotions__3",
+      "text": "Idk I feel like it's just an exaggeration, English is a hyperbolic language",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:50:31.090Z",
+      "latencyMs": 12563,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0,
+        "disgust": 0.0167,
+        "anger": 0.0333,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 94,
+      "consensus": 0.2222,
+      "divergence_index": 0.017,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 9,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 10
+      },
+      "physics": {
+        "purity": 9,
+        "intensity": 10,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__4",
+      "text": "So many great shows they killed because they didn't advertise them and put them at terrible air times :(",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T05:50:45.593Z",
+      "latencyMs": 12500,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0.0333,
+        "sadness": 0.6167,
+        "disgust": 0.1667,
+        "anger": 0.5167,
+        "anticipation": 0
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 618,
+      "consensus": 0.9069,
+      "divergence_index": 0.1878,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 63,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 63,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 66
+      }
+    },
+    {
+      "id": "goemotions__5",
+      "text": "I was wondering this too. Whatever it was it's over now.",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T05:50:57.554Z",
+      "latencyMs": 9960,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0.0833,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1333
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 194,
+      "consensus": 0.465,
+      "divergence_index": 0.039,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 16,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 16,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__6",
+      "text": "Bruh cake happy day",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T05:51:09.153Z",
+      "latencyMs": 9598,
+      "average_scores": {
+        "joy": 0.7333,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0.0333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1667
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 670,
+      "consensus": 0.891,
+      "divergence_index": 0.1368,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 82,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 82,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__7",
+      "text": "Thanks that's very helpful because I can't seem to decifer all of the levels of irony in some posts on this subreddit haha.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T05:51:23.572Z",
+      "latencyMs": 12416,
+      "average_scores": {
+        "joy": 0.3667,
+        "trust": 0.5,
+        "fear": 0,
+        "surprise": 0.1,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0333,
+        "anticipation": 0.1333
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 612,
+      "consensus": 0.8454,
+      "divergence_index": 0.321,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 67,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 67,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 94
+      }
+    },
+    {
+      "id": "goemotions__8",
+      "text": "Love those clips on YouTube, does this add anything to it? Considering Netflix's obsession with exclusivity, this is an unusual arrangement. ",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:51:37.396Z",
+      "latencyMs": 11822,
+      "average_scores": {
+        "joy": 0.4,
+        "trust": 0.1167,
+        "fear": 0.0167,
+        "surprise": 0.3,
+        "sadness": 0.0167,
+        "disgust": 0.0667,
+        "anger": 0.05,
+        "anticipation": 0.3167
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 546,
+      "consensus": 0.5932,
+      "divergence_index": 0.0621,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 51,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 51,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "spark",
+        "name": "The Spark",
+        "fit": 91
+      }
+    },
+    {
+      "id": "goemotions__9",
+      "text": "I'm so uncomfortable.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:51:55.329Z",
+      "latencyMs": 15931,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.2667,
+        "surprise": 0,
+        "sadness": 0.1,
+        "disgust": 0.0667,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 394,
+      "consensus": 0.2928,
+      "divergence_index": 0.2828,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 39,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 39,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 77
+      }
+    },
+    {
+      "id": "goemotions__10",
+      "text": "Usually they dont even show up when you call them and they are a rare sight in the city. Good luck finding one.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:52:09.903Z",
+      "latencyMs": 12572,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0833,
+        "disgust": 0.0667,
+        "anger": 0.3167,
+        "anticipation": 0.1
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 306,
+      "consensus": 0.791,
+      "divergence_index": 0.1031,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 25,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 25
+      },
+      "physics": {
+        "purity": 25,
+        "intensity": 25,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 84
+      }
+    },
+    {
+      "id": "goemotions__11",
+      "text": "I'm afraid I'll pick something else.",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T05:52:22.808Z",
+      "latencyMs": 10904,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 682,
+      "consensus": 0.9461,
+      "divergence_index": 0.1586,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 75,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 75,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 70
+      }
+    },
+    {
+      "id": "goemotions__12",
+      "text": "What makes BDS anti-Semitic, as opposed to just anti-Israel? I see the two frequently conflated, which I think is a mistake.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:52:36.645Z",
+      "latencyMs": 11835,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0167,
+        "anticipation": 0.0667
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 94,
+      "consensus": 0.2981,
+      "divergence_index": 0.0916,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__13",
+      "text": "Because majority of moves have stupidly long names. GO INTO ANGEL PUNISHER INTO DIVE BOMB RADIANCE AND FINISH THE JOB WITH PUNISHING LIGHT BLADE",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:52:48.433Z",
+      "latencyMs": 9786,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.2,
+        "anger": 0.5833,
+        "anticipation": 0.3333
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 536,
+      "consensus": 0.8692,
+      "divergence_index": 0.2375,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 78,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 78,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "challenger",
+        "name": "The Challenger",
+        "fit": 86
+      }
+    },
+    {
+      "id": "goemotions__14",
+      "text": "How is this the epitome of slavery? Nobody is forcing you to do this. Stop being dramatic.",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:53:01.806Z",
+      "latencyMs": 11372,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0,
+        "disgust": 0.2333,
+        "anger": 0.5667,
+        "anticipation": 0.1
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 600,
+      "consensus": 0.8065,
+      "divergence_index": 0.2206,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 43,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 43,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 70
+      }
+    },
+    {
+      "id": "goemotions__15",
+      "text": "NFL level catch",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T05:53:15.340Z",
+      "latencyMs": 11532,
+      "average_scores": {
+        "joy": 0.1333,
+        "trust": 0.0667,
+        "fear": 0.0167,
+        "surprise": 0.1333,
+        "sadness": 0.0167,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.1
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 94,
+      "consensus": 0.1601,
+      "divergence_index": 0.3305,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 38,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 38,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 86
+      }
+    },
+    {
+      "id": "goemotions__16",
+      "text": "I am on month 9 post discard. The anxiety has lifted tremendously, and the depression is still looming but not as bad. ",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T05:53:30.257Z",
+      "latencyMs": 12915,
+      "average_scores": {
+        "joy": 0.15,
+        "trust": 0,
+        "fear": 0.2167,
+        "surprise": 0,
+        "sadness": 0.4667,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 418,
+      "consensus": 0.8498,
+      "divergence_index": 0.1575,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 43,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 43,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__17",
+      "text": "If its our fault for stocking it in the wrong place, its our fault - within reason of course.",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T05:53:43.228Z",
+      "latencyMs": 10970,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.05,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 94,
+      "consensus": 0,
+      "divergence_index": 0.1194,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 14,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 14,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__18",
+      "text": "Your patience to find the perfect moment is... Please just let me slow clap.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T05:53:58.810Z",
+      "latencyMs": 13580,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0,
+        "disgust": 0.1,
+        "anger": 0.1333,
+        "anticipation": 0.2667
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 300,
+      "consensus": 0.1928,
+      "divergence_index": 0.434,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__19",
+      "text": "Ik was more curious with our communities opinion",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:54:11.014Z",
+      "latencyMs": 10202,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.1,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3167
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 338,
+      "consensus": 0.6948,
+      "divergence_index": 0.2303,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 20,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 20,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__20",
+      "text": "Fucking monophanie looking ass floating with the dead, nice.",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:54:24.760Z",
+      "latencyMs": 11744,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.65,
+        "anger": 0.75,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 852,
+      "consensus": 0.992,
+      "divergence_index": 0.1311,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 92,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 92,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 58
+      }
+    },
+    {
+      "id": "goemotions__21",
+      "text": "Another racist foul by the Raptors on [NAME]",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:54:37.487Z",
+      "latencyMs": 10727,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0333,
+        "sadness": 0,
+        "disgust": 0.6,
+        "anger": 0.7833,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 812,
+      "consensus": 0.9903,
+      "divergence_index": 0.0531,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 83,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 83,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 58
+      }
+    },
+    {
+      "id": "goemotions__22",
+      "text": "Policing is inherently coercive. Anyone who opposes coercive authority must by definition oppose policing.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:54:50.335Z",
+      "latencyMs": 10846,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0167,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.0333,
+        "anger": 0.2833,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 194,
+      "consensus": 0.8679,
+      "divergence_index": 0.2945,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 19,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 19,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 75
+      }
+    },
+    {
+      "id": "goemotions__23",
+      "text": "I wouldn’t cause I already know my area so well I don’t want other drivers with that knowledge",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:55:05.288Z",
+      "latencyMs": 12952,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0.1667,
+        "fear": 0.0333,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.05,
+        "anger": 0.0667,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 94,
+      "consensus": 0,
+      "divergence_index": 0.4061,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__24",
+      "text": "Enough shit comes out of his mouth, do we really need to put more back in?",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:55:15.503Z",
+      "latencyMs": 8213,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.7333,
+        "anger": 0.6667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 798,
+      "consensus": 0.9944,
+      "divergence_index": 0.1092,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 83,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 83,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 58
+      }
+    },
+    {
+      "id": "goemotions__25",
+      "text": "Only 5 hour drive..... I guess im doing a day trip to Almonte. I love baked goods.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T05:55:25.777Z",
+      "latencyMs": 8272,
+      "average_scores": {
+        "joy": 0.5833,
+        "trust": 0.1333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.4833
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 632,
+      "consensus": 0.8786,
+      "divergence_index": 0.1611,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 80,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 80,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__26",
+      "text": "My misunderstanding, I thought you were questioning why people thought we needed a change.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:55:37.527Z",
+      "latencyMs": 9749,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0.1,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 100,
+      "consensus": 0.2981,
+      "divergence_index": 0.1584,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 19,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 19,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__27",
+      "text": "My heart broke for him when his wife suddenly passed away. I worried about him with his issues with depression but he seems to be doing okay.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:55:51.936Z",
+      "latencyMs": 12407,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.0667,
+        "fear": 0.3333,
+        "surprise": 0.2,
+        "sadness": 0.6667,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 628,
+      "consensus": 0.9275,
+      "divergence_index": 0.067,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 58,
+        "coherence": 40,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 58,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 88
+      }
+    },
+    {
+      "id": "goemotions__28",
+      "text": "I hope your gaydar has leveled up enough to filter these out now",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:56:05.704Z",
+      "latencyMs": 11768,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.1333,
+        "anger": 0.0833,
+        "anticipation": 0.4
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 482,
+      "consensus": 0.5338,
+      "divergence_index": 0.2111,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 31,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 31,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__29",
+      "text": "No but that doesn’t mean people were less happy in the past.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:56:24.200Z",
+      "latencyMs": 16494,
+      "average_scores": {
+        "joy": 0.1833,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 194,
+      "consensus": 1,
+      "divergence_index": 0.1958,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 19,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 19,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 80
+      }
+    },
+    {
+      "id": "goemotions__30",
+      "text": "excuse me what the *fuck* was that",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:56:39.576Z",
+      "latencyMs": 13375,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.05,
+        "surprise": 0.7167,
+        "sadness": 0,
+        "disgust": 0.2,
+        "anger": 0.6667,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 792,
+      "consensus": 0.9463,
+      "divergence_index": 0.121,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 74,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 74,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 63
+      }
+    },
+    {
+      "id": "goemotions__31",
+      "text": "Could you make a ten hour version? I’m tired of having to replay this so often",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:56:58.619Z",
+      "latencyMs": 17042,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0.0667,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0833,
+        "disgust": 0,
+        "anger": 0.25,
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 306,
+      "consensus": 0.6308,
+      "divergence_index": 0.1952,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 18,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 18,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__32",
+      "text": "\"ITT: People saying \"\"I'm doing to get downvoted for this\"\" and then not getting downvoted.\"",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T05:57:13.468Z",
+      "latencyMs": 12847,
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.0167,
+        "surprise": 0.1333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0167,
+        "anticipation": 0.15
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 194,
+      "consensus": 0.4101,
+      "divergence_index": 0.1786,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 10,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 10
+      },
+      "physics": {
+        "purity": 10,
+        "intensity": 10,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__33",
+      "text": "-9 and I’m out shopping. Sun is out feels great.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T05:57:28.045Z",
+      "latencyMs": 12577,
+      "average_scores": {
+        "joy": 0.65,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 626,
+      "consensus": 1,
+      "divergence_index": 0.0768,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 56,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__34",
+      "text": "Humans are complex beings that we don't as people still don't understand completely. That is why.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:57:40.373Z",
+      "latencyMs": 10327,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0667
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 94,
+      "consensus": 0.2722,
+      "divergence_index": 0.0916,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 79
+      }
+    },
+    {
+      "id": "goemotions__35",
+      "text": "I don't think there is any correlation between sugar and hyper behavior.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:57:54.363Z",
+      "latencyMs": 11988,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 0,
+      "consensus": 0,
+      "divergence_index": 0.0471,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__36",
+      "text": "[NAME] is scary",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T05:58:05.612Z",
+      "latencyMs": 9249,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7667,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 770,
+      "consensus": 1,
+      "divergence_index": 0.0943,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 75,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 75,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 68
+      }
+    },
+    {
+      "id": "goemotions__37",
+      "text": "Cute but I dont like where this is going",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T05:58:22.259Z",
+      "latencyMs": 14646,
+      "average_scores": {
+        "joy": 0.4167,
+        "trust": 0.05,
+        "fear": 0.2833,
+        "surprise": 0.0167,
+        "sadness": 0.0833,
+        "disgust": 0.15,
+        "anger": 0.1167,
+        "anticipation": 0.3667
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 494,
+      "consensus": 0.7447,
+      "divergence_index": 0.0634,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 51,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 51,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 86
+      }
+    },
+    {
+      "id": "goemotions__38",
+      "text": "This is awesome! do you have any more artwork on a website or social site? Is this for sale!?",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T05:58:36.607Z",
+      "latencyMs": 12346,
+      "average_scores": {
+        "joy": 0.8,
+        "trust": 0.3333,
+        "fear": 0.0167,
+        "surprise": 0.3167,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.6833
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 786,
+      "consensus": 0.9243,
+      "divergence_index": 0.236,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 99,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 99,
+        "intensity": 85,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "commander",
+        "name": "The Commander",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__39",
+      "text": "I don't know why this image bothers me so much",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T05:58:51.525Z",
+      "latencyMs": 12916,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.2667,
+        "surprise": 0,
+        "sadness": 0.1333,
+        "disgust": 0.3667,
+        "anger": 0.1333,
+        "anticipation": 0
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 418,
+      "consensus": 0.8052,
+      "divergence_index": 0.1732,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 43,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 43,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 79
+      }
+    },
+    {
+      "id": "goemotions__40",
+      "text": "sadly it would take wayyyyyy more than this to ever change custody agreements. documenting it for her own sanity is a good idea, though.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:59:06.216Z",
+      "latencyMs": 12690,
+      "average_scores": {
+        "joy": 0.0333,
+        "trust": 0.1667,
+        "fear": 0.05,
+        "surprise": 0.0167,
+        "sadness": 0.6167,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.1833
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 594,
+      "consensus": 0.8907,
+      "divergence_index": 0.0666,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 50,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 50,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__41",
+      "text": "Man... it’s been a while since I laughed so hard watching one of these vids",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T05:59:21.282Z",
+      "latencyMs": 13065,
+      "average_scores": {
+        "joy": 0.8333,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 814,
+      "consensus": 1,
+      "divergence_index": 0.0415,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 79,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 79,
+        "intensity": 85,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 73
+      }
+    },
+    {
+      "id": "goemotions__42",
+      "text": "I almost feel sorry for the poor fellow because, to me, the fingers still look abnormally stubby",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T05:59:33.468Z",
+      "latencyMs": 10184,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.2833,
+        "disgust": 0.2,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 306,
+      "consensus": 0.9595,
+      "divergence_index": 0.2389,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 14,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 14,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 83
+      }
+    },
+    {
+      "id": "goemotions__43",
+      "text": "That hit was under 2 seconds after he had possession. Was it unwarranted? Yes Was it SUPER late? No",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T05:59:51.153Z",
+      "latencyMs": 15683,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0,
+        "disgust": 0.0333,
+        "anger": 0.35,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 306,
+      "consensus": 0.8444,
+      "divergence_index": 0.2016,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 31,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 31,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 74
+      }
+    },
+    {
+      "id": "goemotions__44",
+      "text": "This sent shivers down my spine",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:00:04.513Z",
+      "latencyMs": 11359,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.75,
+        "surprise": 0.1333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 720,
+      "consensus": 0.9574,
+      "divergence_index": 0.067,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 70,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 68
+      }
+    },
+    {
+      "id": "goemotions__45",
+      "text": "\"Can I comment on the lost opportunity/remarkable restraint by [NAME] to not have a \"\"MLK I Have a Dream Mattress Sale\"\"\"",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T06:00:18.678Z",
+      "latencyMs": 12162,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0833,
+        "fear": 0,
+        "surprise": 0.0667,
+        "sadness": 0.1,
+        "disgust": 0.0333,
+        "anger": 0,
+        "anticipation": 0.1667
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 268,
+      "consensus": 0.085,
+      "divergence_index": 0.2403,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 20,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 20,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 88
+      }
+    },
+    {
+      "id": "goemotions__46",
+      "text": "Really bad trap if noone falls for it",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:00:33.311Z",
+      "latencyMs": 12630,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0,
+        "fear": 0.2333,
+        "surprise": 0.0167,
+        "sadness": 0.0167,
+        "disgust": 0.2333,
+        "anger": 0.1667,
+        "anticipation": 0.2333
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 482,
+      "consensus": 0.3263,
+      "divergence_index": 0.1634,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 58,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 58,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__47",
+      "text": "Dude was posting about the score, as-in, “are you kidding me, we lost to the kings at home on a last second shot”",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:00:48.759Z",
+      "latencyMs": 13447,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.3833,
+        "sadness": 0.3833,
+        "disgust": 0,
+        "anger": 0.4833,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 668,
+      "consensus": 0.7487,
+      "divergence_index": 0.1618,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 56,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 50
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 50,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__48",
+      "text": "She is a horrible person and that is what makes her so relatable in real life.",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:01:03.847Z",
+      "latencyMs": 13087,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.6667,
+        "anger": 0.4667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 730,
+      "consensus": 0.9997,
+      "divergence_index": 0.1056,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 63,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 63,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 63
+      }
+    },
+    {
+      "id": "goemotions__49",
+      "text": "Tortilla chips are the worst oml. One time a piece got lodged between my gum and my tooth. Like, that fella was /deeply/ embedded in my gum",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:01:18.325Z",
+      "latencyMs": 12474,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0333,
+        "surprise": 0.1667,
+        "sadness": 0,
+        "disgust": 0.7,
+        "anger": 0.3667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 682,
+      "consensus": 0.9024,
+      "divergence_index": 0.2187,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 56,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 64
+      }
+    },
+    {
+      "id": "goemotions__50",
+      "text": "I’m blown away by how many people know this.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T06:01:37.595Z",
+      "latencyMs": 17268,
+      "average_scores": {
+        "joy": 0.3,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.8167,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 814,
+      "consensus": 0.8708,
+      "divergence_index": 0.0883,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 79,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 85
+      },
+      "physics": {
+        "purity": 79,
+        "intensity": 85,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 68
+      }
+    },
+    {
+      "id": "goemotions__51",
+      "text": "You went from hot to hot, that’s crazy!",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:01:54.713Z",
+      "latencyMs": 15117,
+      "average_scores": {
+        "joy": 0.3667,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.6333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 682,
+      "consensus": 0.9523,
+      "divergence_index": 0.1094,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 67,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 67,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 73
+      }
+    },
+    {
+      "id": "goemotions__52",
+      "text": "Lol didn't some character mention even the league of assassins was afraid of [NAME]?",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:02:10.310Z",
+      "latencyMs": 13595,
+      "average_scores": {
+        "joy": 0.3167,
+        "trust": 0.0667,
+        "fear": 0.3833,
+        "surprise": 0.3833,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 550,
+      "consensus": 0.6942,
+      "divergence_index": 0.1605,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 58,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 58,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 83
+      }
+    },
+    {
+      "id": "goemotions__53",
+      "text": "u/TheQTVain praying for your little fighter. Hope everything goes well and he comes out in good health. Stay strong and let [NAME] do his thing ❤️",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T06:02:23.860Z",
+      "latencyMs": 11548,
+      "average_scores": {
+        "joy": 0.4333,
+        "trust": 0.6,
+        "fear": 0.2167,
+        "surprise": 0.0167,
+        "sadness": 0.1667,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.55
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 674,
+      "consensus": 0.9727,
+      "divergence_index": 0.2204,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 80,
+        "coherence": 40,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 80,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "commander",
+        "name": "The Commander",
+        "fit": 86
+      }
+    },
+    {
+      "id": "goemotions__54",
+      "text": "I’ll bet he insists he loves both of you because for him love is just serving his needs.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:02:36.431Z",
+      "latencyMs": 10570,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.4333,
+        "anger": 0.3667,
+        "anticipation": 0.0833
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 418,
+      "consensus": 0.914,
+      "divergence_index": 0.1395,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 43,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 43,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 71
+      }
+    },
+    {
+      "id": "goemotions__55",
+      "text": "He's so intimidating...",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:02:48.705Z",
+      "latencyMs": 10272,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.6833,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 670,
+      "consensus": 1,
+      "divergence_index": 0.1194,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 70,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 70
+      }
+    },
+    {
+      "id": "goemotions__56",
+      "text": "Georgia is $5.25?! Wtf? We don’t live in 1990!",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:03:02.816Z",
+      "latencyMs": 12109,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.6667,
+        "sadness": 0,
+        "disgust": 0.1,
+        "anger": 0.5333,
+        "anticipation": 0
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 748,
+      "consensus": 0.9836,
+      "divergence_index": 0.1399,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 61,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 61,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 64
+      }
+    },
+    {
+      "id": "goemotions__57",
+      "text": "This kills the country.",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:03:17.026Z",
+      "latencyMs": 12208,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.5667,
+        "surprise": 0,
+        "sadness": 0.4667,
+        "disgust": 0,
+        "anger": 0.5333,
+        "anticipation": 0
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 624,
+      "consensus": 0.945,
+      "divergence_index": 0.3271,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 92,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 92,
+        "intensity": 70,
+        "drag": 25,
+        "trajectory": "wobble",
+        "conflicts": [
+          "Response Conflict"
+        ]
+      },
+      "archetype": {
+        "id": "architect",
+        "name": "The Architect",
+        "fit": 62
+      }
+    },
+    {
+      "id": "goemotions__58",
+      "text": "Facts have no relevence here, you cannot use them.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:03:32.074Z",
+      "latencyMs": 13046,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.0667,
+        "anger": 0.4333,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 394,
+      "consensus": 0.9296,
+      "divergence_index": 0.0892,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 39,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 39,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 73
+      }
+    },
+    {
+      "id": "goemotions__59",
+      "text": "big heart to do that, guy probably plays for the love of the game, and you have to respect that",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:03:45.282Z",
+      "latencyMs": 11206,
+      "average_scores": {
+        "joy": 0.3667,
+        "trust": 0.6333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 648,
+      "consensus": 0.9695,
+      "divergence_index": 0.0777,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 67,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 67,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "healer",
+        "name": "The Healer",
+        "fit": 93
+      }
+    },
+    {
+      "id": "goemotions__60",
+      "text": "> it. Just because they're not vertebrates doesn't mean we get to kill them for amusement. It literally does though",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:04:02.062Z",
+      "latencyMs": 14779,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.1,
+        "sadness": 0.0667,
+        "disgust": 0.5,
+        "anger": 0.5667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 694,
+      "consensus": 0.9118,
+      "divergence_index": 0.4726,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 31,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 31,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 66
+      }
+    },
+    {
+      "id": "goemotions__61",
+      "text": "Likewise, Reddit has just gotten strange recently, sorry for misinterpreting.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:04:16.178Z",
+      "latencyMs": 12114,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.2333,
+        "sadness": 0.15,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.1
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 306,
+      "consensus": 0.5388,
+      "divergence_index": 0.2107,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 15,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 15
+      },
+      "physics": {
+        "purity": 15,
+        "intensity": 15,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 85
+      }
+    },
+    {
+      "id": "goemotions__62",
+      "text": "I'm happy to go without but if it's readily available then everyday.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:04:28.631Z",
+      "latencyMs": 10451,
+      "average_scores": {
+        "joy": 0.5833,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 576,
+      "consensus": 0.9922,
+      "divergence_index": 0.1151,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 56,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 78
+      }
+    },
+    {
+      "id": "goemotions__63",
+      "text": "I owe NOTHING and they take more than that every year ;)",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:04:43.057Z",
+      "latencyMs": 12425,
+      "average_scores": {
+        "joy": 0.1,
+        "trust": 0,
+        "fear": 0.0667,
+        "surprise": 0.0333,
+        "sadness": 0.0667,
+        "disgust": 0.1,
+        "anger": 0.5333,
+        "anticipation": 0.3
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 566,
+      "consensus": 0.7321,
+      "divergence_index": 0.0585,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 55,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 55,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "challenger",
+        "name": "The Challenger",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__64",
+      "text": "death of fear is certain.",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:04:58.344Z",
+      "latencyMs": 13285,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0.45,
+        "surprise": 0,
+        "sadness": 0.2,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.05
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 482,
+      "consensus": 0.427,
+      "divergence_index": 0.5652,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 87,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 87,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__65",
+      "text": "Thank you :) I was starting to seriously wonder if something was majorly wrong with my maternal instincts haha",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:05:11.712Z",
+      "latencyMs": 11367,
+      "average_scores": {
+        "joy": 0.5667,
+        "trust": 0.3667,
+        "fear": 0.2667,
+        "surprise": 0.0667,
+        "sadness": 0.0333,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.1333
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 606,
+      "consensus": 0.8388,
+      "divergence_index": 0.1832,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 71,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 71,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__66",
+      "text": "Lol!!!!!!!!!!!!! I love it.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:05:26.916Z",
+      "latencyMs": 13203,
+      "average_scores": {
+        "joy": 0.9,
+        "trust": 0.2333,
+        "fear": 0.0167,
+        "surprise": 0.0333,
+        "sadness": 0.0167,
+        "disgust": 0.0167,
+        "anger": 0.0167,
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 864,
+      "consensus": 0.809,
+      "divergence_index": 0.1283,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 98,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 95
+      },
+      "physics": {
+        "purity": 98,
+        "intensity": 95,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "commander",
+        "name": "The Commander",
+        "fit": 70
+      }
+    },
+    {
+      "id": "goemotions__67",
+      "text": "I'm sorry but [NAME], [NAME] and [NAME] are my favs this year (and I hated [NAME] in her Season).",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:05:42.714Z",
+      "latencyMs": 13796,
+      "average_scores": {
+        "joy": 0.4,
+        "trust": 0.1,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0667,
+        "disgust": 0.2,
+        "anger": 0.2333,
+        "anticipation": 0.1667
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 566,
+      "consensus": 0.57,
+      "divergence_index": 0.2828,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 28,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 28,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 86
+      }
+    },
+    {
+      "id": "goemotions__68",
+      "text": "Need some new prog material, I'm stoked to listen to it!",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:05:55.656Z",
+      "latencyMs": 10940,
+      "average_scores": {
+        "joy": 0.6667,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.8
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 872,
+      "consensus": 0.9981,
+      "divergence_index": 0.0283,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 87,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 80
+      },
+      "physics": {
+        "purity": 87,
+        "intensity": 80,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 69
+      }
+    },
+    {
+      "id": "goemotions__69",
+      "text": "I’d probably need up spending all of my money on food and ammo, I like having a limit",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:06:10.709Z",
+      "latencyMs": 13052,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.1,
+        "fear": 0.2333,
+        "surprise": 0.0167,
+        "sadness": 0.05,
+        "disgust": 0.0167,
+        "anger": 0.05,
+        "anticipation": 0.3
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 306,
+      "consensus": 0.8927,
+      "divergence_index": 0.1649,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 17,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 17,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 90
+      }
+    },
+    {
+      "id": "goemotions__70",
+      "text": "It doesn't matter if 99% didn't vote for him, it only maters that he got 50% +1 of the seats.",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:06:24.492Z",
+      "latencyMs": 11782,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.0333,
+        "anger": 0.1167,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 150,
+      "consensus": 0.2673,
+      "divergence_index": 0.1661,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 19,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 19,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 77
+      }
+    },
+    {
+      "id": "goemotions__71",
+      "text": "SWTOR is horrible when you want to play together with someone. So many parts that you can't join in on.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:06:38.925Z",
+      "latencyMs": 12431,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.3,
+        "disgust": 0.3667,
+        "anger": 0.5,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 536,
+      "consensus": 0.9744,
+      "divergence_index": 0.183,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 43,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 43,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 74
+      }
+    },
+    {
+      "id": "goemotions__72",
+      "text": "Why the hell do we sit trae in crunch time we probably won't win. Give him the XP. Very frustrating.",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:06:57.081Z",
+      "latencyMs": 16154,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.0333,
+        "surprise": 0,
+        "sadness": 0.0833,
+        "disgust": 0.05,
+        "anger": 0.65,
+        "anticipation": 0.1833
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 602,
+      "consensus": 0.8544,
+      "divergence_index": 0.1346,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 56,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 69
+      }
+    },
+    {
+      "id": "goemotions__73",
+      "text": "Did people really go against [NAME] when he came out? I wasn't as in to his stuff at the time but I remember people being supportive.",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:07:08.628Z",
+      "latencyMs": 9545,
+      "average_scores": {
+        "joy": 0.15,
+        "trust": 0.3333,
+        "fear": 0.0333,
+        "surprise": 0.2333,
+        "sadness": 0.0167,
+        "disgust": 0.0167,
+        "anger": 0.0333,
+        "anticipation": 0.15
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 324,
+      "consensus": 0.8852,
+      "divergence_index": 0.1211,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 23,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 30
+      },
+      "physics": {
+        "purity": 23,
+        "intensity": 30,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 90
+      }
+    },
+    {
+      "id": "goemotions__74",
+      "text": "Wow that was a roasting... Deserved, but daaaaamn [NAME]",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:07:23.071Z",
+      "latencyMs": 12441,
+      "average_scores": {
+        "joy": 0.0667,
+        "trust": 0.1333,
+        "fear": 0.0167,
+        "surprise": 0.5667,
+        "sadness": 0.1,
+        "disgust": 0.1333,
+        "anger": 0.2,
+        "anticipation": 0.1333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 628,
+      "consensus": 0.6203,
+      "divergence_index": 0.2167,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 45,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 45,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 84
+      }
+    },
+    {
+      "id": "goemotions__75",
+      "text": "Says who? Comedians can joke about anything as long as it's funny to their audience.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:07:37.005Z",
+      "latencyMs": 11932,
+      "average_scores": {
+        "joy": 0.2167,
+        "trust": 0.1,
+        "fear": 0.0333,
+        "surprise": 0.1,
+        "sadness": 0.0333,
+        "disgust": 0.05,
+        "anger": 0.2667,
+        "anticipation": 0.1667
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 370,
+      "consensus": 0.4377,
+      "divergence_index": 0.1939,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 47,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 47,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 89
+      }
+    },
+    {
+      "id": "goemotions__76",
+      "text": "What’s the chemical make up of a word? Yea thought so genius lmfaoooooo.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:07:49.428Z",
+      "latencyMs": 10421,
+      "average_scores": {
+        "joy": 0.3333,
+        "trust": 0.0167,
+        "fear": 0.0167,
+        "surprise": 0.0833,
+        "sadness": 0.0167,
+        "disgust": 0.25,
+        "anger": 0.1333,
+        "anticipation": 0.0167
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 482,
+      "consensus": 0.5315,
+      "divergence_index": 0.3574,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 16,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 16,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 81
+      }
+    },
+    {
+      "id": "goemotions__77",
+      "text": "No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. ",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:08:02.010Z",
+      "latencyMs": 10580,
+      "average_scores": {
+        "joy": 0.2,
+        "trust": 0.0833,
+        "fear": 0.0167,
+        "surprise": 0.0167,
+        "sadness": 0.0167,
+        "disgust": 0.0167,
+        "anger": 0.05,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 76,
+      "consensus": 0.2114,
+      "divergence_index": 0.4232,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 6,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 10
+      },
+      "physics": {
+        "purity": 6,
+        "intensity": 10,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "observer",
+        "name": "The Observer",
+        "fit": 84
+      }
+    },
+    {
+      "id": "goemotions__78",
+      "text": "I will not being awkward if I am being myself but I just scared",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:08:13.348Z",
+      "latencyMs": 9337,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0.65,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 664,
+      "consensus": 0.9868,
+      "divergence_index": 0.2032,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 70,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 71
+      }
+    },
+    {
+      "id": "goemotions__79",
+      "text": "We don't do that here",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:08:27.244Z",
+      "latencyMs": 11893,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 0,
+      "consensus": 0,
+      "divergence_index": 0,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 77
+      }
+    },
+    {
+      "id": "goemotions__80",
+      "text": "Oh fuck. Is that legal?",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:08:43.189Z",
+      "latencyMs": 13944,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.4,
+        "surprise": 0.6333,
+        "sadness": 0,
+        "disgust": 0.1,
+        "anger": 0.2333,
+        "anticipation": 0.1167
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 588,
+      "consensus": 0.8746,
+      "divergence_index": 0.166,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 58,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 58,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 74
+      }
+    },
+    {
+      "id": "goemotions__81",
+      "text": "haha me neither.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:08:54.525Z",
+      "latencyMs": 9335,
+      "average_scores": {
+        "joy": 0.3,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 194,
+      "consensus": 1,
+      "divergence_index": 0.4154,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 56,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 80
+      }
+    },
+    {
+      "id": "goemotions__82",
+      "text": "Minus the eyebrows I personally think it’s an attractive look. But the fucking eyebrows ruin it all.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:09:07.944Z",
+      "latencyMs": 11416,
+      "average_scores": {
+        "joy": 0.1333,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0667,
+        "disgust": 0.5,
+        "anger": 0.6667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 730,
+      "consensus": 0.9713,
+      "divergence_index": 0.1255,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 76,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 76,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 64
+      }
+    },
+    {
+      "id": "goemotions__83",
+      "text": "Well it looks like I am going to spend at least a year renting to check the city out",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:09:21.356Z",
+      "latencyMs": 11410,
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.0333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3333
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 288,
+      "consensus": 0.9437,
+      "divergence_index": 0.2345,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 19,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 19,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 80
+      }
+    },
+    {
+      "id": "goemotions__84",
+      "text": "Thanks. I’m not ok with the behavior I’m.just having a difficult time accepting what I must do.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:09:34.809Z",
+      "latencyMs": 11450,
+      "average_scores": {
+        "joy": 0.05,
+        "trust": 0,
+        "fear": 0.3167,
+        "surprise": 0,
+        "sadness": 0.4333,
+        "disgust": 0.1167,
+        "anger": 0.1333,
+        "anticipation": 0.1833
+      },
+      "dominant_emotion": "sadness",
+      "vibe_score": 400,
+      "consensus": 0.8961,
+      "divergence_index": 0.0972,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 40,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 40,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__85",
+      "text": "hi [NAME], toxicity in a multiplayer game is something that should always be expected no matter the game cause people are assholes.",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:09:48.847Z",
+      "latencyMs": 12036,
+      "average_scores": {
+        "joy": 0.0333,
+        "trust": 0.0167,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.0167,
+        "disgust": 0.5,
+        "anger": 0.5667,
+        "anticipation": 0.1667
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 630,
+      "consensus": 0.9208,
+      "divergence_index": 0.1682,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 54,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 50
+      },
+      "physics": {
+        "purity": 54,
+        "intensity": 50,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 66
+      }
+    },
+    {
+      "id": "goemotions__86",
+      "text": "I think this does help less good pupils to learn it better and agree with the teachers. In my class thats the biggest problem when it comes to french",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:10:03.267Z",
+      "latencyMs": 12418,
+      "average_scores": {
+        "joy": 0.1167,
+        "trust": 0.3,
+        "fear": 0.0333,
+        "surprise": 0.0167,
+        "sadness": 0.0833,
+        "disgust": 0.0333,
+        "anger": 0.0667,
+        "anticipation": 0.2333
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 294,
+      "consensus": 0.4295,
+      "divergence_index": 0.2235,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 48,
+        "coherence": 40,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 48,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__87",
+      "text": "I was worried about that too honestly",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:10:18.698Z",
+      "latencyMs": 13429,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.5667,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 576,
+      "consensus": 1,
+      "divergence_index": 0.0886,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 56,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 56,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 72
+      }
+    },
+    {
+      "id": "goemotions__88",
+      "text": "Women should be able to make their own decisions about their bodies. They are conscious when their fetuses are not. Their priorities matter more in these situations.",
+      "plutchik_label": "trust",
+      "scored_at": "2026-03-26T06:10:30.971Z",
+      "latencyMs": 10271,
+      "average_scores": {
+        "joy": 0.0167,
+        "trust": 0.1667,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.0333,
+        "anger": 0.0667,
+        "anticipation": 0.2
+      },
+      "dominant_emotion": "anticipation",
+      "vibe_score": 470,
+      "consensus": 0.0596,
+      "divergence_index": 0.4489,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 0,
+        "coherence": 115,
+        "depth": 100,
+        "resonance": 0
+      },
+      "physics": {
+        "purity": 0,
+        "intensity": 0,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "scientist",
+        "name": "The Scientist",
+        "fit": 89
+      }
+    },
+    {
+      "id": "goemotions__89",
+      "text": "That's perfectly fine. I'm sorry if I offended you in any way. Have a nice day.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:10:45.176Z",
+      "latencyMs": 12203,
+      "average_scores": {
+        "joy": 0.1167,
+        "trust": 0.2833,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0.1167,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0667
+      },
+      "dominant_emotion": "trust",
+      "vibe_score": 288,
+      "consensus": 0.7676,
+      "divergence_index": 0.1078,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 24,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 20
+      },
+      "physics": {
+        "purity": 24,
+        "intensity": 20,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 88
+      }
+    },
+    {
+      "id": "goemotions__90",
+      "text": "I did not know that a map could arouse me",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:10:58.696Z",
+      "latencyMs": 11518,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.6333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 620,
+      "consensus": 0.9922,
+      "divergence_index": 0.1952,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 70,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 71
+      }
+    },
+    {
+      "id": "goemotions__91",
+      "text": "Yeah you’re implying that someone holds the shitty opinion you just made up. Which is basically an attempt to make them look bad. Character assassination.",
+      "plutchik_label": "disgust",
+      "scored_at": "2026-03-26T06:11:09.416Z",
+      "latencyMs": 8719,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0.6,
+        "anger": 0.7667,
+        "anticipation": 0
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 860,
+      "consensus": 0.9839,
+      "divergence_index": 0.1512,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 71,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 70
+      },
+      "physics": {
+        "purity": 71,
+        "intensity": 70,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 59
+      }
+    },
+    {
+      "id": "goemotions__92",
+      "text": "It makes being ugly even more pathetic. All that work just to create suffering.",
+      "plutchik_label": "anger",
+      "scored_at": "2026-03-26T06:11:24.072Z",
+      "latencyMs": 12654,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.1,
+        "surprise": 0.0333,
+        "sadness": 0.5,
+        "disgust": 0.5667,
+        "anger": 0.4,
+        "anticipation": 0
+      },
+      "dominant_emotion": "disgust",
+      "vibe_score": 630,
+      "consensus": 0.8738,
+      "divergence_index": 0.353,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 49,
+        "coherence": 55,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 49,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 73
+      }
+    },
+    {
+      "id": "goemotions__93",
+      "text": "excuse me IS THIS AN ANALOGY",
+      "plutchik_label": "surprise",
+      "scored_at": "2026-03-26T06:11:38.542Z",
+      "latencyMs": 12469,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0,
+        "surprise": 0.3167,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0.0333,
+        "anticipation": 0.0833
+      },
+      "dominant_emotion": "surprise",
+      "vibe_score": 212,
+      "consensus": 0.4333,
+      "divergence_index": 0.5432,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "divergent",
+      "signal": {
+        "clarity": 70,
+        "coherence": 100,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 77
+      }
+    },
+    {
+      "id": "goemotions__94",
+      "text": "I like Kyber",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:11:52.489Z",
+      "latencyMs": 11945,
+      "average_scores": {
+        "joy": 0.4333,
+        "trust": 0.3,
+        "fear": 0,
+        "surprise": 0,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 488,
+      "consensus": 0.9357,
+      "divergence_index": 0.2179,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 61,
+        "coherence": 85,
+        "depth": 100,
+        "resonance": 50
+      },
+      "physics": {
+        "purity": 61,
+        "intensity": 50,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "diplomat",
+        "name": "The Diplomat",
+        "fit": 88
+      }
+    },
+    {
+      "id": "goemotions__95",
+      "text": "Last time I tried to post, my post was deleted because I didn't have enough karma, wasn't even that long ago...",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:12:06.063Z",
+      "latencyMs": 11572,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0.0167,
+        "fear": 0.0833,
+        "surprise": 0.0667,
+        "sadness": 0.2667,
+        "disgust": 0.0167,
+        "anger": 0.3,
+        "anticipation": 0.0333
+      },
+      "dominant_emotion": "anger",
+      "vibe_score": 338,
+      "consensus": 0.861,
+      "divergence_index": 0.1473,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 23,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 25
+      },
+      "physics": {
+        "purity": 23,
+        "intensity": 25,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "storyteller",
+        "name": "The Storyteller",
+        "fit": 77
+      }
+    },
+    {
+      "id": "goemotions__96",
+      "text": "I always wondered what turned the deer albino. Must have been from fright.",
+      "plutchik_label": "anticipation",
+      "scored_at": "2026-03-26T06:12:20.592Z",
+      "latencyMs": 12527,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.5,
+        "surprise": 0.1333,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.4
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 588,
+      "consensus": 0.8907,
+      "divergence_index": 0.0908,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 58,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 60
+      },
+      "physics": {
+        "purity": 58,
+        "intensity": 60,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 80
+      }
+    },
+    {
+      "id": "goemotions__97",
+      "text": "HEY! Once I was out on my own, I **loved** getting socks and underwear as gifts. My son just realized the same thing.",
+      "plutchik_label": "joy",
+      "scored_at": "2026-03-26T06:12:36.422Z",
+      "latencyMs": 13828,
+      "average_scores": {
+        "joy": 0.7333,
+        "trust": 0.0333,
+        "fear": 0,
+        "surprise": 0.2167,
+        "sadness": 0,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.3167
+      },
+      "dominant_emotion": "joy",
+      "vibe_score": 726,
+      "consensus": 0.9052,
+      "divergence_index": 0.0082,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 70,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 70,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "jester",
+        "name": "The Jester",
+        "fit": 87
+      }
+    },
+    {
+      "id": "goemotions__98",
+      "text": "I'm afraid if I have a awful time or something like that I'm going to get worse..",
+      "plutchik_label": "fear",
+      "scored_at": "2026-03-26T06:12:53.735Z",
+      "latencyMs": 15311,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.7333,
+        "surprise": 0,
+        "sadness": 0.15,
+        "disgust": 0,
+        "anger": 0,
+        "anticipation": 0.4333
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 762,
+      "consensus": 0.9687,
+      "divergence_index": 0.0754,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "clear",
+      "signal": {
+        "clarity": 77,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 75
+      },
+      "physics": {
+        "purity": 77,
+        "intensity": 75,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 76
+      }
+    },
+    {
+      "id": "goemotions__99",
+      "text": "but if it weren't that way then a corrupt police force could convict many innocents. there is no correct answer to this problem.",
+      "plutchik_label": "sadness",
+      "scored_at": "2026-03-26T06:13:11.673Z",
+      "latencyMs": 15936,
+      "average_scores": {
+        "joy": 0,
+        "trust": 0,
+        "fear": 0.3333,
+        "surprise": 0,
+        "sadness": 0.05,
+        "disgust": 0.1333,
+        "anger": 0.3,
+        "anticipation": 0.0167
+      },
+      "dominant_emotion": "fear",
+      "vibe_score": 412,
+      "consensus": 0.7606,
+      "divergence_index": 0.2176,
+      "models_used": [
+        "gemini",
+        "openai",
+        "grok"
+      ],
+      "signal_quality": "mixed",
+      "signal": {
+        "clarity": 42,
+        "coherence": 70,
+        "depth": 100,
+        "resonance": 40
+      },
+      "physics": {
+        "purity": 42,
+        "intensity": 40,
+        "drag": 0,
+        "trajectory": "stable",
+        "conflicts": []
+      },
+      "archetype": {
+        "id": "philosopher",
+        "name": "The Philosopher",
+        "fit": 78
+      }
+    }
+  ]
+}

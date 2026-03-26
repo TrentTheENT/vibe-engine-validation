@@ -13,6 +13,7 @@
  *   --fixture <path>     Path to fixture JSON file (default: historical-events)
  *   --output <path>      Path for results JSON (default: auto-generated)
  *   --live               Force live API calls (ignore cache)
+ *   --per-model          Also score each text with individual models (for ablation)
  *   --delay <ms>         Delay between API calls in ms (default: 1000)
  *   --limit <n>          Max texts to score (default: all)
  *   --base-url <url>     API base URL (default: http://localhost:3000)
@@ -42,6 +43,7 @@ function parseArgs() {
     fixture: 'historical-events',
     output: null,
     live: false,
+    perModel: false,
     delay: 1000,
     limit: Infinity,
     baseUrl: 'http://localhost:3000',
@@ -53,6 +55,7 @@ function parseArgs() {
       case '--fixture': opts.fixture = args[++i]; break;
       case '--output': opts.output = args[++i]; break;
       case '--live': opts.live = true; break;
+      case '--per-model': opts.perModel = true; break;
       case '--delay': opts.delay = parseInt(args[++i]); break;
       case '--limit': opts.limit = parseInt(args[++i]); break;
       case '--base-url': opts.baseUrl = args[++i]; break;
@@ -115,6 +118,44 @@ async function scoreText(text, baseUrl, apiKey) {
     // Raw API response (for transparency)
     _raw: result,
   };
+}
+
+// ─── Score with individual models (for ablation analysis) ───
+
+async function scorePerModel(text, baseUrl, apiKey) {
+  const MODELS = ['claude', 'openai', 'gemini', 'grok'];
+  const perModel = {};
+
+  for (const model of MODELS) {
+    try {
+      const headers = { 'Content-Type': 'application/json' };
+      if (apiKey) headers['Authorization'] = `Bearer ${apiKey}`;
+
+      const response = await fetch(`${baseUrl}/api/v1/score`, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          text,
+          models: [model],
+          includePhysics: false,
+          includeArchetype: false,
+        }),
+      });
+
+      if (response.ok) {
+        const result = await response.json();
+        perModel[model] = {
+          vector: result.vector,
+          score: result.score,
+          emotion: result.emotion,
+        };
+      }
+    } catch {
+      // Model failed — skip it
+    }
+  }
+
+  return perModel;
 }
 
 function deriveSignalQuality(divergence) {
@@ -203,6 +244,7 @@ async function main() {
   console.log('═══ VIBE ENGINE BATCH SCORER ═══\n');
   console.log(`API:     ${opts.baseUrl}/api/v1/score`);
   console.log(`Auth:    ${opts.apiKey ? 'API key provided' : 'NO API KEY — set --api-key or VIBESCORE_API_KEY'}`);
+  if (opts.perModel) console.log(`Mode:    Per-model scoring enabled (5 API calls per text)`);
 
   if (!opts.apiKey) {
     console.error('\nError: API key required. Use --api-key <key> or set VIBESCORE_API_KEY env var.');
@@ -263,6 +305,14 @@ async function main() {
     try {
       const result = await scoreText(item.text, opts.baseUrl, opts.apiKey);
 
+      // Per-model scoring (optional, for ablation analysis)
+      let perModelData = null;
+      if (opts.perModel) {
+        perModelData = await scorePerModel(item.text, opts.baseUrl, opts.apiKey);
+        // Extra delay for per-model calls (4 additional API calls)
+        await new Promise(r => setTimeout(r, opts.delay));
+      }
+
       const entry = {
         ...item,
         scored_at: new Date().toISOString(),
@@ -277,6 +327,7 @@ async function main() {
         signal: result.signal,
         physics: result.physics,
         archetype: result.archetype,
+        ...(perModelData ? { per_model: perModelData } : {}),
       };
 
       results.push(entry);

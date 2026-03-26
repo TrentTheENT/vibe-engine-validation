@@ -21,9 +21,10 @@ const EMOTIONS = ['joy', 'trust', 'fear', 'surprise', 'sadness', 'disgust', 'ang
 const CORE_EMOTIONS = ['joy', 'fear', 'anger', 'sadness'];
 const MAPPED_EMOTIONS = ['trust', 'surprise', 'disgust', 'anticipation'];
 
-function load(name) {
+function load(name, required = true) {
   const path = resolve(RESULTS_DIR, name);
   if (!existsSync(path)) {
+    if (!required) return null;
     console.error(`Results file not found: ${path}`);
     console.error(`Run the scoring scripts first. See README.md for instructions.`);
     process.exit(1);
@@ -68,6 +69,7 @@ console.log('══════════════════════�
 const ge = load('goemotions-scored.json');
 const he = load('historical-events-scored.json');
 const ct = load('competitive-tests-scored.json');
+const ge4 = load('goemotions-4model-scored.json', false); // optional 4-model subset
 
 // Detect which models were used
 const sampleResult = he.results[0];
@@ -226,6 +228,46 @@ for (const r of geResults) {
 const sorted = Object.entries(confusions).sort((a, b) => b[1] - a[1]).slice(0, 8);
 for (const [pair, count] of sorted) {
   console.log(`    ${pair}: ${count}`);
+}
+
+// ─── SECTION 3b: 4-Model GoEmotions Comparison (if available) ───
+
+if (ge4) {
+  console.log('\n── SECTION 3b: 4-MODEL COMPARISON ──\n');
+
+  const ge4Results = ge4.results;
+  const ge4Correct = ge4Results.filter(r => getResultDominant(r) === r.plutchik_label);
+
+  const ge4Metrics = {};
+  for (const e of EMOTIONS) {
+    const tp = ge4Results.filter(r => r.plutchik_label === e && getResultDominant(r) === e).length;
+    const fp = ge4Results.filter(r => r.plutchik_label !== e && getResultDominant(r) === e).length;
+    const fn = ge4Results.filter(r => r.plutchik_label === e && getResultDominant(r) !== e).length;
+    const p = tp + fp > 0 ? tp / (tp + fp) : 0;
+    const recall = tp + fn > 0 ? tp / (tp + fn) : 0;
+    const f1 = p + recall > 0 ? 2 * p * recall / (p + recall) : 0;
+    ge4Metrics[e] = { tp, fp, fn, p, recall, f1 };
+  }
+
+  const ge4AllF1 = EMOTIONS.map(e => ge4Metrics[e].f1);
+  const ge4MacroF1 = ge4AllF1.reduce((s, v) => s + v, 0) / ge4AllF1.length;
+  const ge4CoreF1 = CORE_EMOTIONS.map(e => ge4Metrics[e].f1);
+  const ge4CoreMacroF1 = ge4CoreF1.reduce((s, v) => s + v, 0) / ge4CoreF1.length;
+
+  // Get model info
+  const baselineModels = ge.results[0]?.models_used?.join(', ') || 'claude, gemini (2-model)';
+  const newModels = ge4Results[0]?.models_used?.join(', ') || 'unknown';
+
+  console.log(`  Baseline models:          ${baselineModels} (${geResults.length} texts)`);
+  console.log(`    Macro F1 (all 8):       ${macroF1.toFixed(3)}`);
+  console.log(`    Macro F1 (core 4):      ${coreMacroF1.toFixed(3)}`);
+  console.log(`    Accuracy:               ${(geCorrect.length/geResults.length*100).toFixed(1)}%`);
+  console.log(`  Re-scored models:         ${newModels} (${ge4Results.length} texts)`);
+  console.log(`    Macro F1 (all 8):       ${ge4MacroF1.toFixed(3)}`);
+  console.log(`    Macro F1 (core 4):      ${ge4CoreMacroF1.toFixed(3)}`);
+  console.log(`    Accuracy:               ${(ge4Correct.length/ge4Results.length*100).toFixed(1)}%`);
+  console.log(`  Note: Different text samples — compare with caution.`);
+  console.log(`  True comparison requires scoring same texts with both model sets.`);
 }
 
 // ─── SECTION 4: Comparative Context ───
