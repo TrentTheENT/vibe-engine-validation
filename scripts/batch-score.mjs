@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * Batch Scorer — Score texts through the Vibe Engine API
+ * Batch Scorer — Score texts through the VibeScore Tungsten API
  *
  * Reads texts from a JSON fixture file, scores each through the
- * 4-model Vibe Engine, and caches results to avoid re-scoring.
+ * multi-model Vibe Engine via /api/v1/score, and caches results.
  *
  * Usage:
- *   node scripts/validation/batch-score.mjs [options]
+ *   node scripts/batch-score.mjs [options]
  *
  * Options:
  *   --fixture <path>     Path to fixture JSON file (default: historical-events)
@@ -15,10 +15,12 @@
  *   --live               Force live API calls (ignore cache)
  *   --delay <ms>         Delay between API calls in ms (default: 1000)
  *   --limit <n>          Max texts to score (default: all)
- *   --base-url <url>     API base URL (default: http://localhost:3001)
+ *   --base-url <url>     API base URL (default: http://localhost:3000)
+ *   --api-key <key>      VibeScore API key (or set VIBESCORE_API_KEY env var)
  *
- * Requires: Dev server running on localhost:3001
- *   npm run dev -- --port 3001
+ * Requires:
+ *   - A running VibeScore Tungsten instance (local or https://vibe-score.ai)
+ *   - A valid API key with 'score' permission
  */
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
@@ -26,8 +28,11 @@ import { resolve, dirname, basename } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const FIXTURES_DIR = resolve(__dirname, 'fixtures');
-const RESULTS_DIR = resolve(__dirname, 'results');
+const ROOT_DIR = resolve(__dirname, '..');
+const FIXTURES_DIR = resolve(ROOT_DIR, 'fixtures');
+const RESULTS_DIR = resolve(ROOT_DIR, 'results');
+
+const EMOTIONS = ['joy', 'trust', 'fear', 'surprise', 'sadness', 'disgust', 'anger', 'anticipation'];
 
 // ─── Parse CLI args ───
 
@@ -39,7 +44,8 @@ function parseArgs() {
     live: false,
     delay: 1000,
     limit: Infinity,
-    baseUrl: 'http://localhost:3001',
+    baseUrl: 'http://localhost:3000',
+    apiKey: process.env.VIBESCORE_API_KEY || null,
   };
 
   for (let i = 0; i < args.length; i++) {
@@ -50,21 +56,31 @@ function parseArgs() {
       case '--delay': opts.delay = parseInt(args[++i]); break;
       case '--limit': opts.limit = parseInt(args[++i]); break;
       case '--base-url': opts.baseUrl = args[++i]; break;
+      case '--api-key': opts.apiKey = args[++i]; break;
     }
   }
 
   return opts;
 }
 
-// ─── Score a single text ───
+// ─── Score a single text via /api/v1/score ───
 
-async function scoreText(text, baseUrl) {
+async function scoreText(text, baseUrl, apiKey) {
   const start = Date.now();
 
-  const response = await fetch(`${baseUrl}/api/vibe-engine`, {
+  const headers = { 'Content-Type': 'application/json' };
+  if (apiKey) {
+    headers['Authorization'] = `Bearer ${apiKey}`;
+  }
+
+  const response = await fetch(`${baseUrl}/api/v1/score`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ text, type: 'text' }),
+    headers,
+    body: JSON.stringify({
+      text,
+      includePhysics: true,
+      includeArchetype: true,
+    }),
   });
 
   if (!response.ok) {
@@ -75,7 +91,36 @@ async function scoreText(text, baseUrl) {
   const result = await response.json();
   const latencyMs = Date.now() - start;
 
-  return { ...result, latencyMs };
+  // Map v1/score response to validation format
+  return {
+    latencyMs,
+    // Consensus vector (the averaged emotional profile)
+    average_scores: result.vector,
+    // Dominant emotion
+    dominant_emotion: result.emotion,
+    // VibeScore (0-1000)
+    vibe_score: result.score,
+    // Consensus metrics
+    consensus: result.consensus?.agreement ?? 1,
+    divergence_index: result.consensus?.divergence ?? 0,
+    models_used: result.consensus?.models ?? [],
+    // Signal metrics
+    signal: result.signal,
+    // Signal quality derived from divergence
+    signal_quality: deriveSignalQuality(result.consensus?.divergence ?? 0),
+    // Physics (if included)
+    physics: result.physics ?? null,
+    // Archetype
+    archetype: result.archetype ?? null,
+    // Raw API response (for transparency)
+    _raw: result,
+  };
+}
+
+function deriveSignalQuality(divergence) {
+  if (divergence < 0.15) return 'clear';
+  if (divergence < 0.35) return 'mixed';
+  return 'divergent';
 }
 
 // ─── Load fixture file ───
@@ -127,7 +172,7 @@ function extractTexts(fixture) {
     }
   }
 
-  // Simple text list format: { items: [{ id, text, expected_dominant }] }
+  // Competitive tests format: { items: [{ id, text, expected_dominant }] }
   if (fixture.items) {
     for (const item of fixture.items) {
       texts.push(item);
@@ -150,34 +195,25 @@ function loadCache(outputPath) {
   return { results: [] };
 }
 
-// ─── Calculate average scores across models ───
-
-function averageScores(modelScores) {
-  const emotions = ['joy', 'trust', 'fear', 'surprise', 'sadness', 'disgust', 'anger', 'anticipation'];
-  const avg = {};
-  const models = Object.keys(modelScores);
-
-  for (const emotion of emotions) {
-    const values = models.map(m => modelScores[m]?.[emotion]).filter(v => typeof v === 'number');
-    avg[emotion] = values.length > 0
-      ? values.reduce((s, v) => s + v, 0) / values.length
-      : 0;
-  }
-
-  return avg;
-}
-
 // ─── Main ───
 
 async function main() {
   const opts = parseArgs();
 
   console.log('═══ VIBE ENGINE BATCH SCORER ═══\n');
+  console.log(`API:     ${opts.baseUrl}/api/v1/score`);
+  console.log(`Auth:    ${opts.apiKey ? 'API key provided' : 'NO API KEY — set --api-key or VIBESCORE_API_KEY'}`);
+
+  if (!opts.apiKey) {
+    console.error('\nError: API key required. Use --api-key <key> or set VIBESCORE_API_KEY env var.');
+    console.error('Get a key at https://vibe-score.ai/developers\n');
+    process.exit(1);
+  }
 
   // Load fixture
   const fixture = loadFixture(opts.fixture);
   const texts = extractTexts(fixture);
-  console.log(`Loaded ${texts.length} texts from fixture`);
+  console.log(`Fixture: ${opts.fixture} (${texts.length} texts)`);
 
   // Determine output path
   const fixtureName = basename(opts.fixture).replace('.json', '');
@@ -191,7 +227,7 @@ async function main() {
   // Load cache
   const cache = opts.live ? { results: [] } : loadCache(outputPath);
   const cachedIds = new Set(cache.results.map(r => r.id));
-  console.log(`Cache: ${cachedIds.size} previously scored texts`);
+  console.log(`Cache:   ${cachedIds.size} previously scored texts`);
 
   // Filter to unscored texts
   let toScore = texts.filter(t => !cachedIds.has(t.id));
@@ -199,10 +235,7 @@ async function main() {
     toScore = toScore.slice(0, opts.limit);
   }
 
-  console.log(`To score: ${toScore.length} texts`);
-  console.log(`Estimated API calls: ${toScore.length * 4} (4 models per text)`);
-  console.log(`Estimated cost: ~$${(toScore.length * 4 * 0.015).toFixed(2)}`);
-  console.log(`Estimated time: ~${Math.ceil(toScore.length * (opts.delay + 3000) / 60000)} minutes\n`);
+  console.log(`To score: ${toScore.length} texts\n`);
 
   if (toScore.length === 0) {
     console.log('Nothing to score. Use --live to re-score all texts.');
@@ -211,10 +244,10 @@ async function main() {
 
   // Check if server is running
   try {
-    await fetch(`${opts.baseUrl}`);
+    await fetch(`${opts.baseUrl}`, { signal: AbortSignal.timeout(5000) });
   } catch {
     console.error(`\nServer not reachable at ${opts.baseUrl}`);
-    console.error('Start the dev server first: npm run dev -- --port 3001');
+    console.error('Start the Tungsten dev server or use --base-url https://vibe-score.ai');
     process.exit(1);
   }
 
@@ -228,18 +261,22 @@ async function main() {
     const progress = `[${scored}/${toScore.length}]`;
 
     try {
-      const result = await scoreText(item.text, opts.baseUrl);
+      const result = await scoreText(item.text, opts.baseUrl, opts.apiKey);
 
       const entry = {
         ...item,
         scored_at: new Date().toISOString(),
         latencyMs: result.latencyMs,
-        scores: result.scores,
-        divergence: result.divergence,
-        consensus: result.consensus,
+        average_scores: result.average_scores,
         dominant_emotion: result.dominant_emotion,
+        vibe_score: result.vibe_score,
+        consensus: result.consensus,
+        divergence_index: result.divergence_index,
+        models_used: result.models_used,
         signal_quality: result.signal_quality,
-        average_scores: averageScores(result.scores),
+        signal: result.signal,
+        physics: result.physics,
+        archetype: result.archetype,
       };
 
       results.push(entry);
@@ -265,6 +302,7 @@ async function main() {
           total_texts: texts.length,
           scored_count: results.length,
           base_url: opts.baseUrl,
+          api_version: 'v1',
         },
         results,
       };

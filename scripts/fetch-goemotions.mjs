@@ -8,7 +8,7 @@
  * ready for batch scoring.
  *
  * Usage:
- *   node scripts/validation/fetch-goemotions.mjs [options]
+ *   node scripts/fetch-goemotions.mjs [options]
  *
  * Options:
  *   --sample <n>     Number of texts to sample (default: 500)
@@ -21,7 +21,8 @@ import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const FIXTURES_DIR = resolve(__dirname, 'fixtures');
+const ROOT_DIR = resolve(__dirname, '..');
+const FIXTURES_DIR = resolve(ROOT_DIR, 'fixtures');
 
 // ─── GoEmotions 27 → Plutchik 8 mapping ───
 

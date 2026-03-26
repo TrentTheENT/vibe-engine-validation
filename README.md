@@ -4,7 +4,7 @@
 
 This repo contains the full validation suite for the [Vibe Engine](https://vibe-score.ai), a multi-model emotional scoring system built on Plutchik's 8 basic emotions. No training data. No fine-tuning. Just AI models reading the room — and the receipts to prove they're reading it right.
 
-> **Results achieved with 2 of 4 models operational.** Claude and Gemini active. GPT-4o and Grok offline during this run. These numbers are the floor, not the ceiling.
+> **Initial results scored with 2 of 4 models.** Claude and Gemini were active during the first validation run (March 2026). All 4 models (Claude, GPT-4o, Gemini, Grok) are now operational. These numbers are the floor, not the ceiling.
 
 ---
 
@@ -163,27 +163,33 @@ The core 4 emotions (joy, fear, anger, sadness) map cleanly from GoEmotions and 
 ### Prerequisites
 
 - Node.js 18+
-- Access to at least 2 of: Anthropic API, OpenAI API, Google AI API, xAI API
-- A running instance of the Vibe Engine API (or use `vibe-score.ai/api`)
+- A VibeScore API key with `score` permission (get one at [vibe-score.ai/developers](https://vibe-score.ai/developers))
 
-### Run the tests
+### Setup
 
 ```bash
-# Clone this repo
 git clone https://github.com/TrentTheENT/vibe-engine-validation.git
 cd vibe-engine-validation
 
+# Copy environment template
+cp .env.example .env
+# Edit .env and add your API key
+```
+
+### Run individual steps
+
+```bash
 # 1. Score historical events
 node scripts/batch-score.mjs \
-  --fixture fixtures/historical-events.json \
-  --output results/historical-events-scored.json \
-  --base-url http://localhost:3000
+  --fixture historical-events \
+  --api-key $VIBESCORE_API_KEY \
+  --base-url https://vibe-score.ai
 
-# 2. Score competitive tests
+# 2. Score competitive tests (sarcasm, richness, domain transfer)
 node scripts/batch-score.mjs \
-  --fixture fixtures/competitive-tests.json \
-  --output results/competitive-tests-scored.json \
-  --base-url http://localhost:3000
+  --fixture competitive-tests \
+  --api-key $VIBESCORE_API_KEY \
+  --base-url https://vibe-score.ai
 
 # 3. Fetch GoEmotions dataset (downloads from Google Research)
 node scripts/fetch-goemotions.mjs --sample 500 --seed 42
@@ -191,23 +197,44 @@ node scripts/fetch-goemotions.mjs --sample 500 --seed 42
 # 4. Score GoEmotions
 node scripts/batch-score.mjs \
   --fixture fixtures/goemotions.json \
-  --output results/goemotions-scored.json \
-  --base-url http://localhost:3000
+  --api-key $VIBESCORE_API_KEY \
+  --base-url https://vibe-score.ai
 
-# 5. Run analysis
-node scripts/analyze-results.mjs \
-  --input results/historical-events-scored.json --format markdown
+# 5. Analyze historical events
+node scripts/analyze-results.mjs --results historical-events-scored
 
-node scripts/analyze-results.mjs \
-  --input results/goemotions-scored.json --format markdown
+# 6. Analyze GoEmotions
+node scripts/analyze-results.mjs --results goemotions-scored
 
-# 6. Full combined report
+# 7. Full combined report
 node scripts/deep-analysis.mjs
 ```
 
+### Or run everything at once
+
+```bash
+# Set your API key
+export VIBESCORE_API_KEY=vss_live_your_key_here
+
+# Run the full pipeline
+npm run full
+```
+
+### npm scripts
+
+| Script | Command |
+|--------|---------|
+| `npm run fetch-goemotions` | Download GoEmotions dataset |
+| `npm run score:historical` | Score historical events |
+| `npm run score:competitive` | Score competitive tests |
+| `npm run score:goemotions` | Score GoEmotions texts |
+| `npm run score:all` | Score all test suites |
+| `npm run report` | Generate full combined report |
+| `npm run full` | Fetch data + score everything + report |
+
 ### Cost estimate
 
-Scoring ~620 texts through 2 models: approximately $15-25 in API costs. With 4 models: ~$30-50.
+Scoring ~620 texts through the API: approximately $15-30 depending on tier.
 
 ---
 
@@ -215,11 +242,12 @@ Scoring ~620 texts through 2 models: approximately $15-25 in API costs. With 4 m
 
 ### Scoring Protocol
 
-1. Each text is sent to N AI models simultaneously via `Promise.allSettled`
-2. Each model scores independently on Plutchik's 8 emotions (0.0 to 1.0)
-3. Scores are averaged across responding models into a consensus vector
-4. Divergence (variance across models) is computed per-emotion
-5. Signal quality is classified: "clear" (low divergence), "mixed," or "divergent"
+1. Each text is sent to the VibeScore API (`/api/v1/score`)
+2. The API dispatches to N AI models simultaneously
+3. Each model scores independently on Plutchik's 8 emotions (0.0 to 1.0)
+4. Scores are combined into a consensus vector
+5. Divergence (model disagreement) is computed
+6. Signal quality is classified: "clear" (low divergence), "mixed," or "divergent"
 
 ### GoEmotions Mapping (27 to 8)
 
@@ -241,13 +269,12 @@ This mapping follows Plutchik's wheel of emotions. The core 4 (joy, fear, anger,
 - 20 events selected for universally understood emotional response
 - 5 headlines per event, manually curated from news archives
 - Expected dominant and secondary emotions assigned *before* scoring
-- All 100 headlines scored in a single batch on 2026-03-13
+- All 100 headlines scored in a single batch
 
 ### What We Don't Claim
 
 - We don't claim to be a general-purpose emotion classifier
 - We don't claim the mapped 4 emotions perform at BERT-level on academic benchmarks
-- We don't claim 2-model scoring matches 4-model scoring
 - We don't claim this replaces human emotional judgment — it augments it
 
 ---
@@ -266,10 +293,12 @@ vibe-engine-validation/
     goemotions-scored.json
     VALIDATION-REPORT.md
   scripts/
-    batch-score.mjs            # Score texts through the Vibe Engine API
+    batch-score.mjs            # Score texts through the VibeScore API
     analyze-results.mjs        # Compute metrics and generate reports
     fetch-goemotions.mjs       # Download and preprocess GoEmotions dataset
     deep-analysis.mjs          # Combined report across all test suites
+  .env.example                 # API key template
+  package.json                 # npm scripts for convenience
   README.md
   METHODOLOGY.md
   LICENSE

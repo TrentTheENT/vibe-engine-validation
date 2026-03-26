@@ -1,0 +1,35 @@
+{
+  "name": "vibe-engine-validation",
+  "version": "1.0.0",
+  "description": "Validation suite for the VibeScore Vibe Engine — multi-model emotional scoring",
+  "type": "module",
+  "scripts": {
+    "fetch-goemotions": "node scripts/fetch-goemotions.mjs --sample 500 --seed 42",
+    "score:historical": "node scripts/batch-score.mjs --fixture historical-events",
+    "score:competitive": "node scripts/batch-score.mjs --fixture competitive-tests",
+    "score:goemotions": "node scripts/batch-score.mjs --fixture fixtures/goemotions.json",
+    "analyze:historical": "node scripts/analyze-results.mjs --results historical-events-scored",
+    "analyze:goemotions": "node scripts/analyze-results.mjs --results goemotions-scored",
+    "report": "node scripts/deep-analysis.mjs",
+    "score:all": "npm run score:historical && npm run score:competitive && npm run score:goemotions",
+    "full": "npm run fetch-goemotions && npm run score:all && npm run report"
+  },
+  "keywords": [
+    "emotion-detection",
+    "plutchik",
+    "vibescore",
+    "nlp",
+    "multi-model",
+    "validation",
+    "benchmark"
+  ],
+  "author": "Ad+Verb Labs <trentonmcnelly@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrentTheENT/vibe-engine-validation.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
