@@ -1,0 +1,225 @@
+{
+  "ad": "Budweiser \u2014 First Delivery",
+  "category": "superbowl-2025",
+  "vibeScore": 597,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:10:23.182867",
+  "fileSize": "5.4MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.5,
+    "fear": 0.05,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "\"Still too little, buddy. So, a horse walks into a bar. And what?\"",
+    "segmentCount": 21
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 20
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.94,
+      0.847,
+      0.977,
+      0.666,
+      0.8,
+      0.939,
+      0.976,
+      0.939,
+      0.923,
+      0.977,
+      0.923,
+      0.939,
+      0.969,
+      0.939,
+      0.969,
+      0.965,
+      0.85,
+      0.969,
+      0.922,
+      0.966
+    ],
+    "average": 0.92,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": 0.666,
+      "audio": "Music continues, horse drawn carriage sounds, keg rolling",
+      "video": "Horses pulling wagon on dirt road. Keg falls off wagon. Horse looking at camera."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.977
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "Budweiser brewery",
+        "confidence": 0.99
+      },
+      {
+        "label": "Clydesdale horses",
+        "confidence": 0.99
+      },
+      {
+        "label": "Budweiser keg",
+        "confidence": 0.99
+      },
+      {
+        "label": "Budweiser baseball cap",
+        "confidence": 0.95
+      },
+      {
+        "label": "Dalmatian dog",
+        "confidence": 0.95
+      },
+      {
+        "label": "Tractor",
+        "confidence": 0.95
+      },
+      {
+        "label": "Bar",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A wide shot shows the Budweiser brewery with a red barn in the foreground. A man is seen inside the barn with the Clydesdale horses. The horses pull a Budweiser wagon out of the barn.",
+      "0:08-0:24 \u2014 A young Clydesdale horse watches the wagon leave. The wagon loses a keg.",
+      "0:24-0:34 \u2014 The young Clydesdale horse breaks through the fence and follows the keg.",
+      "0:34-0:52 \u2014 The young Clydesdale horse pushes the keg through various landscapes.",
+      "0:52-1:15 \u2014 The keg is loaded onto a truck. The Clydesdale horses pull a wagon through town. The young Clydesdale horse is seen in town.",
+      "1:15-1:38 \u2014 The young Clydesdale horse is seen outside a bar. The horse is seen inside the bar. The man from the beginning of the video is seen in the bar drinking a Budweiser."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Budweiser has served a broad demographic, primarily targeting working-class to middle-class adults aged 25-55, with a slight skew towards males. Geographically, they have strong roots in the Midwest and Southern US. Income ranges from $30,000 to $75,000.",
+      "psychographics": "The core audience values tradition, Americana, hard work, and simple pleasures. They identify with a sense of community, loyalty, and patriotism. Their aspirations often revolve around family, friends, and enjoying life's everyday moments.",
+      "brandMeaning": "To its core audience, Budweiser represents a classic American beer, a symbol of shared experiences, and a reliable, familiar choice for social gatherings and celebrations."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad appears to target a slightly younger demographic, perhaps 21-45, while still appealing to the existing base. It aims for both men and women who appreciate heartwarming stories and a sense of nostalgia. It also appeals to animal lovers.",
+      "psychographics": "The ad appeals to values such as determination, perseverance, and the importance of pursuing one's goals. It also taps into feelings of nostalgia and a love for classic Americana. The anticipation and hope themes suggest an audience that is optimistic and forward-looking.",
+      "tone": "The ad uses a heartwarming and slightly humorous tone, aiming to connect with viewers on an emotional level."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Budweiser's traditional imagery (Clydesdales, brewery) while introducing a heartwarming narrative. The themes of perseverance and Americana will resonate with the core audience, making them feel proud of their association with the brand.",
+    "actualResonance": "The ad will likely resonate most strongly with families, particularly those with young children, due to the heartwarming story and the appeal of the Clydesdale horse. It will also resonate with those who appreciate traditional American values and a sense of nostalgia.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad is a safe bet that reinforces brand values while having a chance to pull in a slightly younger audience without alienating the core."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 9,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 3,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Patriotism decays into sentimentality, then mild annoyance.",
+    "detonationRadius": 2.8,
+    "explanation": "The Super Bowl provides massive reach and immediate social amplification, but it also comes with high costs and a primed audience ready to judge. Budweiser's attempt at patriotic unity in 2020 aligned reasonably well with the cultural moment, mitigating some of the risk. The single airing during the broadcast limits frequency pressure, but the permanent record of the ad means any missteps will be amplified. The brand's existing equity in Americana helps, but the high cost of the spot makes efficient audience alignment crucial.",
+    "whatIfScenario": "If this ad had run during a less culturally sensitive time, like a regular season game, the contextual vulnerability and social propagation would have been lower, resulting in a lower attention economy multiplier. However, the reach and cost efficiency would also be significantly reduced.",
+    "timingContext": {
+      "event": "Super Bowl LIV",
+      "date": "2020-02-02",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 5600000,
+      "liveViewership": 102000000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Election year 2020. Budweiser attempting patriotic unity. 'Typical American' as reclamation. More successful than Pepsi Jenner because Budweiser OWNS Americana in their brand DNA.",
+      "slot": "Q2",
+      "estimatedSpend": 16000000,
+      "followUp": "digital campaign extending Super Bowl spot",
+      "note": "Budweiser traditionally owns SB emotional territory \u2014 Clydesdales, puppies"
+    }
+  }
+}

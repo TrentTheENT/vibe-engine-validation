@@ -1,0 +1,259 @@
+{
+  "ad": "Dunkin \u2014 Affleck Brothers & Belichick",
+  "category": "superbowl-2025",
+  "vibeScore": 634,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:13:42.968425",
+  "fileSize": "8.0MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.4,
+    "fear": 0.1,
+    "surprise": 0.55,
+    "sadness": 0.05,
+    "disgust": 0.2,
+    "anger": 0.2,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.2,
+      "anger": 0.2,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Welcome to Java Jam. Battle of the coffee brand bands. Your favorite Dunkings. This ain't the Dunkings. Where the hell are Matt and Tom? Forget them suckers. Matt Damon and Tom Brady don't have the heart of a champion. We got a new squad. Dunkings sequel. Afflecks and Belichick. Dunkings! A little more spirit on the uh, you know, on the charge next time. All right. We got a fourth Dunking too coming. Hey man. Is that coffee? What are you doing in there? I'm just trying to find the character. We got to battle the barista buds. I'm all in for Dunkin. You should have paid for Matt. I told you that. Dunkings are about to get roasted. Like a dark seasonal roast with coriander and slight balsamic drizzle. Sounds like what's in my garbage disposal. See you coach. How much to wait a half hour to get my name spelled wrong on the cup? Nobody wants a goat milk double half calf soy milk cap. You could just brew it it's beans and water. Oh damn. Listen, Dunkin's for all of us. America runs on Dunkin'.",
+    "segmentCount": 14
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.2,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 23
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.724,
+      0.946,
+      0.792,
+      0.911,
+      0.825,
+      0.689,
+      0.746,
+      0.948,
+      0.801,
+      0.925,
+      0.799,
+      0.914,
+      0.946,
+      0.874
+    ],
+    "average": 0.846,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.689,
+      "audio": "Dialogue with a disgusted and angry tone.",
+      "video": "The scene shows Ben Affleck and Casey Affleck looking at Jeremy Strong covered in coffee grounds. The scene then shows a"
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.948
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "Dunkin' Donuts",
+        "confidence": 0.98
+      },
+      {
+        "label": "baseball cap",
+        "confidence": 0.95
+      },
+      {
+        "label": "Ben Affleck",
+        "confidence": 0.99
+      },
+      {
+        "label": "coffee grounds",
+        "confidence": 0.9
+      },
+      {
+        "label": "Dunkin' barrel",
+        "confidence": 0.97
+      },
+      {
+        "label": "Jeremy Strong",
+        "confidence": 0.95
+      },
+      {
+        "label": "Barista Buds",
+        "confidence": 0.9
+      },
+      {
+        "label": "Bill Belichick",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Jeremy Strong",
+        "magnitude": 0.354,
+        "emotion": "disgust",
+        "baseline": 0.1,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "Dunkin' barrel",
+        "magnitude": 0.24,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.5,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 The video begins with a blurred view of a stadium, then transitions to a crowded indoor venue with Dunkin' Donuts branding. Text appears announcing a Dunkin' Super Bowl commercial featuring various celebrities. A young boy in a Dunkin' jacket expresses confusion about the cast.",
+      "0:08-0:17 \u2014 Ben Affleck, in a Dunkin' jacket, talks about replacing Matt Damon and Tom Brady with a new squad, including himself and Bill Belichick. The group shouts 'Dunkings!'",
+      "0:17-0:23 \u2014 Affleck coaches the group, asking for more spirit. A door with 'Jeremy Strong' is shown.",
+      "0:23-0:36 \u2014 Jeremy Strong is shown submerged in a barrel of coffee grounds. Affleck and another man question him about it, and Strong explains he's trying to find the character.",
+      "0:36-0:46 \u2014 A group of men in green suits, labeled 'Barista Buds,' perform acrobatics. The 'Dunkings' group stands behind a counter. The Barista Buds leader speaks about roasting the Dunkings like a dark seasonal roast.",
+      "0:46-0:55 \u2014 Affleck questions the cost of getting his name misspelled on a cup. The Barista Buds gather with briefcases.",
+      "0:55-1:02 \u2014 The Dunkings celebrate with donuts and coffee. The video ends with the tagline 'America Runs on Dunkin'.'",
+      "1:02-1:48 \u2014 A montage of scenes from the commercial, including Ben Affleck, the Barista Buds, and various celebrities, is shown. A narrator discusses the Dunkin' cinematic universe and the new Super Bowl commercial.",
+      "1:48-2:01 \u2014 The video concludes with a 'Happy Super Bowl Sunday' message and a call to subscribe to the channel."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.55,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Dunkin's core audience is broad, typically ranging from 18-55+, skewing slightly towards female, with middle to lower-middle income brackets. Geographically, they are heavily concentrated in the Northeastern United States but have a growing presence nationwide. They are often busy individuals, including students, commuters, and working professionals.",
+      "psychographics": "They value convenience, affordability, and a sense of community. They see Dunkin' as an accessible and reliable everyday treat, not necessarily a luxury. They appreciate a no-frills, down-to-earth brand personality and value familiarity and consistency.",
+      "brandMeaning": "Dunkin' represents a daily ritual, a quick pick-me-up, and a familiar comfort. It's the 'everyman's' coffee, a place where you can get a decent cup of coffee and a donut without breaking the bank or feeling intimidated by complicated menus."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, including millennials and Gen X, who are familiar with Ben Affleck, Matt Damon, Tom Brady, and Bill Belichick. It also aims to capture the attention of younger viewers (Gen Z) through the use of current trends like 'Barista Buds' and Jeremy Strong, and the overall humorous and slightly absurd tone.",
+      "psychographics": "The ad appeals to those who enjoy celebrity cameos, humor, and pop culture references. It targets those who appreciate a lighthearted and self-aware brand personality. The anticipation element also suggests targeting those who enjoy surprises and unexpected twists.",
+      "tone": "The ad addresses the viewer with a playful, humorous, and slightly chaotic tone, aiming for entertainment and memorability over serious brand messaging."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Dunkin's accessible and humorous brand personality, while the celebrity cameos and Super Bowl context elevate the brand's perceived value. The core audience will likely appreciate the humor and recognize the familiar Dunkin' brand within the chaotic setting, making them feel proud to be associated with a brand that can poke fun at itself.",
+    "actualResonance": "The ad will likely resonate most strongly with millennials and Gen X who grew up with the celebrities featured and appreciate the self-aware humor. It may also appeal to Gen Z through the use of current trends and the overall absurdity of the scenario.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "The CMO should be aware that while the ad effectively leverages celebrity appeal and humor for broad reach, it should ensure the core brand values of accessibility and affordability are not overshadowed by the star power."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Mild Amusement",
+    "detonationRadius": 5.6,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny. Dunkin's ad, while likely well-received (validated core reaction, positive cultural alignment), faces extreme cost inefficiency. The high contextual vulnerability and social propagation mean any misstep will be amplified instantly and permanently. The single airing mitigates frequency pressure somewhat, but social replay extends the risk. The attention economy multiplier is high due to the Super Bowl's amplifying effect on both success and failure.",
+    "whatIfScenario": "If this ad ran on YouTube with targeted demographics, the cost would be significantly lower, and the risk of widespread negative backlash would be reduced. The reach would be smaller initially, but positive reception could lead to organic growth and a more sustainable impact. However, the lack of immediate, massive exposure would also mean less immediate brand awareness.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

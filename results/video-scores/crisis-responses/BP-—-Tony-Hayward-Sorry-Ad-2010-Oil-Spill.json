@@ -1,0 +1,162 @@
+{
+  "ad": "BP \u2014 Tony Hayward 'Sorry' Ad (2010 Oil Spill)",
+  "category": "crisis-responses",
+  "contentType": "corporate crisis response",
+  "vibeScore": 445,
+  "dominantEmotion": "sadness",
+  "scoredAt": "2026-04-04T21:59:36.985181",
+  "fileSize": "3.2MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.1,
+    "fear": 0.3,
+    "surprise": 0.05,
+    "sadness": 0.4,
+    "disgust": 0.2,
+    "anger": 0.15,
+    "anticipation": 0.25
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.2,
+      "fear": 0.3,
+      "surprise": 0.1,
+      "sadness": 0.4,
+      "disgust": 0.2,
+      "anger": 0.2,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "The Gulf spill is a tragedy that never should have happened. I'm Tony Hayward. BP has taken full responsibility for cleaning up the spill in the Gulf. We've helped organize the largest environmental response in this country's history. More than 2 million feet of boom, 30 planes and over 1300 boats are working to protect the shoreline. Where oil reaches the shore, thousands of people are ready to clean it up. We will honor all legitimate claims and our cleanup efforts will not come at any cost to taxpayers. To those affected in your families, I'm deeply sorry. The Gulf is home for thousands of BP employees and we all feel the impact. To all the volunteers and for the strong support of the government, thank you. We know it is our responsibility to keep you informed and do everything we can so this never happens again. There's no one who wants this thing over more than I do. You know, I'd like my life back.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.3,
+      "surprise": 0.0,
+      "sadness": 0.4,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.2
+    },
+    "dominant": "sadness",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.376,
+      0.512,
+      0.897,
+      0.897,
+      0.897,
+      0.897,
+      -0.6,
+      0.886,
+      0.886,
+      0.886,
+      0.886,
+      -1
+    ],
+    "average": 0.535,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "Tony Hayward",
+        "confidence": 0.98
+      },
+      {
+        "label": "oil spill",
+        "confidence": 0.95
+      },
+      {
+        "label": "BP logo",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "BP logo",
+        "magnitude": 1.507,
+        "emotion": "disgust",
+        "direction": "amplified"
+      },
+      {
+        "object": "Tony Hayward",
+        "magnitude": 0.985,
+        "emotion": "joy",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 aerial view of the Gulf of Mexico with oil slick, followed by Tony Hayward speaking",
+      "0:10-0:17 \u2014 pelicans on rocks, crowd on beach, workers deploying boom from a boat, cargo plane unloading",
+      "0:20-0:27 \u2014 workers on a boat with orange material, boat deploying boom, workers cleaning a beach",
+      "0:31-0:33 \u2014 workers cleaning a bird",
+      "0:39-0:40 \u2014 crowded beach",
+      "0:40-0:41 \u2014 man in hard hat",
+      "0:44-0:45 \u2014 women working at computers with headsets",
+      "0:45-0:47 \u2014 workers building a barrier on the beach",
+      "0:47-0:49 \u2014 workers in a control room",
+      "0:55-0:59 \u2014 BP contact information on screen"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Despair",
+        "strength": 0.35,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Despair",
+      "strength": 0.35,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "General public, consumers of BP's products, shareholders, and communities where BP operates.",
+      "psychographics": "People who rely on energy for daily life, investors interested in the energy sector, and residents of areas impacted by BP's operations.",
+      "brandMeaning": "BP aims to be seen as a reliable energy provider, committed to safety and environmental responsibility, and contributing positively to the communities it serves."
+    },
+    "adTargetAudience": {
+      "demographics": "General public, residents of the Gulf Coast region, environmental groups, government officials, and stakeholders affected by the oil spill.",
+      "psychographics": "Concerned about the environmental and economic impacts of the oil spill, seeking reassurance and accountability from BP, and looking for information on cleanup efforts and compensation.",
+      "tone": "Apologetic, reassuring, and committed to taking responsibility and cleaning up the spill."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The core audience may have mixed feelings. Some may appreciate the apology and commitment to cleanup, while others may remain skeptical due to the severity of the environmental damage.",
+    "actualResonance": "People directly affected by the oil spill, environmental groups, and those seeking information about BP's response.",
+    "friendlyFireRisk": 3,
+    "marketExpansion": 4,
+    "verdict": "This ad is a necessary crisis response, but its effectiveness is limited by the scale of the disaster and the inherent distrust many feel towards large corporations after environmental incidents."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 7,
+    "costEfficiency": 1,
+    "fatigueVelocity": 0.8,
+    "repetitionInversion": "anger",
+    "culturalAlignment": -8,
+    "explanation": "The ad, given the context of the Deepwater Horizon disaster and Hayward's prior insensitive comments, was perceived as insincere and self-serving. The high spend amplified the negative sentiment, turning a crisis response into a PR disaster. The audience, already emotionally charged, quickly grew fatigued with the repeated apologies, which further fueled their anger. The cultural misalignment stems from the perceived lack of empathy and accountability from BP.",
+    "whatIfScenario": "If BP had focused on concrete actions, such as funding local cleanup efforts and compensating affected communities, instead of running apology ads featuring Tony Hayward, the public reaction would have been significantly less negative. A genuine demonstration of commitment to recovery, rather than a focus on public image, could have mitigated the damage to their reputation.",
+    "detonationRadius": 13.5,
+    "timingContext": {
+      "date": "2010-06",
+      "platform": "TV (US Gulf states)",
+      "estimatedSpend": 50000000,
+      "context": "Deepwater Horizon killed 11 people and spilled 210M gallons of oil. Tony Hayward said 'I'd like my life back.' Then they ran apology ads. Made everything worse.",
+      "aftermath": "$65B total cleanup + legal costs. Hayward fired. Worst corporate apology in history."
+    }
+  }
+}

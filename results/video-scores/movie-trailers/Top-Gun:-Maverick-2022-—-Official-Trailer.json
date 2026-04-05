@@ -1,0 +1,229 @@
+{
+  "ad": "Top Gun: Maverick (2022) \u2014 Official Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 615,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T21:56:11.954605",
+  "fileSize": "3.6MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.4,
+    "fear": 0.4,
+    "surprise": 0.55,
+    "sadness": 0.2,
+    "disgust": 0.1,
+    "anger": 0.25,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.5,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "30 plus years of service. Combat medals, citations. Only man to shoot down three enemy planes in last 40 years. Yet you can't get a promotion, won't retire. Despite your best efforts, you refuse to die. Time on target. You should be at least a two-star admiral by now. Yet here you are, captain. Why is that? It's one of life's mysteries, sir. The end is inevitable, Maverick. Your kind is headed for extinction. Maybe so, sir. But not today.",
+    "segmentCount": 43
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.3,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 43
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.819,
+      0.896,
+      0.859,
+      0.768,
+      0.452,
+      0.778,
+      0.769,
+      0.769,
+      0.721,
+      0.721,
+      0.452,
+      0.778,
+      0.668,
+      0.71,
+      0.668,
+      0.769,
+      0.452,
+      0.769,
+      0.769,
+      0.778,
+      0.778,
+      0.452,
+      0.668,
+      0.71,
+      0.769,
+      0.769,
+      0.769,
+      0.778,
+      0.778,
+      0.778,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      0.769,
+      -1,
+      0.778
+    ],
+    "average": 0.653,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "Tom Cruise",
+        "confidence": 0.99
+      },
+      {
+        "label": "Top Gun: Maverick logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "fighter jet",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Tom Cruise",
+        "magnitude": 0.245,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "fighter jet",
+        "magnitude": 0.245,
+        "emotion": "anticipation",
+        "direction": "amplified"
+      },
+      {
+        "object": "Top Gun: Maverick logo",
+        "magnitude": 0.224,
+        "emotion": "trust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A title card for Top Gun: Maverick appears, followed by a shot of a desert landscape with mountains in the distance."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.53,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Anxiety",
+        "strength": 0.53,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Awe",
+        "strength": 0.48,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.48,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.47,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.43,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Submission",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Love",
+        "strength": 0.35,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Guilt",
+        "strength": 0.35,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.53,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Primarily male, aged 35-55, often with a military background or interest in aviation and action films.",
+      "psychographics": "Values patriotism, heroism, and the thrill of high-stakes situations. Enjoys nostalgia and classic action tropes.",
+      "brandMeaning": "The original Top Gun represents peak 80s action cinema, embodying themes of skill, bravery, and camaraderie. It's a symbol of American exceptionalism and the pursuit of excellence."
+    },
+    "adTargetAudience": {
+      "demographics": "Appeals to both the original fans and a younger audience interested in modern action and spectacle.",
+      "psychographics": "Seeks a blend of nostalgia and contemporary filmmaking. Appreciates high-quality visuals, intense action sequences, and character-driven stories.",
+      "tone": "A mix of respectful homage to the original, with a modern, high-octane approach. Aims to evoke excitement and anticipation."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The trailer delivers on the nostalgia factor with familiar imagery and themes, while also showcasing updated visuals and action sequences that should appeal to the original fanbase.",
+    "actualResonance": "Will resonate with both original fans and a broader audience interested in action, adventure, and Tom Cruise's star power.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This trailer successfully balances nostalgia with modern action, making it a strong contender for both retaining the core audience and attracting a new generation of fans."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 7.5,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Nostalgia",
+    "culturalAlignment": 8,
+    "explanation": "Top Gun: Maverick tapped into a powerful combination of nostalgia, practical effects appreciation, and Tom Cruise's star power. The long-awaited sequel, coupled with the emphasis on real stunts and a respectful update of the original, created a massive wave of positive attention. The film's box office success and enduring popularity demonstrate a significant amplification effect.",
+    "whatIfScenario": "If the film had relied heavily on CGI or strayed too far from the original's spirit, the attention economy multiplier would have been significantly lower, potentially resulting in a more muted reception and lower box office returns. A poorly executed sequel could have damaged the legacy of the original film.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2022-05-04",
+      "platform": "Theaters + YouTube",
+      "context": "36-year sequel. Tom Cruise insisted on practical effects. Honored original while updating for new audience. NO CGI jets.",
+      "aftermath": "$1.49 BILLION worldwide. Proved legacy IP revival done right."
+    }
+  }
+}

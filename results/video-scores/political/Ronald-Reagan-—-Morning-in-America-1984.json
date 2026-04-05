@@ -1,0 +1,165 @@
+{
+  "ad": "Ronald Reagan \u2014 Morning in America (1984)",
+  "category": "political",
+  "contentType": "political advertisement",
+  "vibeScore": 629,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:01:03.889301",
+  "fileSize": "3.2MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.6,
+    "fear": 0.1,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "It's morning again in America. Today, more men and women will go to work than ever before in our country's history. With interest rates at about half the record highs of 1980, nearly 2,000 families today will buy new homes. More than at any time in the past four years. This afternoon, 6,500 young men and women will be married. And with inflation at less than half of what it was just four years ago, they can look forward with confidence to the future. to the future. It's morning again in America. And under the leadership of President Reagan, our country is prouder and stronger. and better. Why would we ever want to return to where we were? less than four short years ago. PRESIDENT REAGAN PAID FOR BY REAGAN-BUSH '84",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.787,
+      0.796,
+      0.869,
+      0.846,
+      0.962,
+      0.967,
+      0.968,
+      0.86,
+      0.846,
+      0.888,
+      0.872,
+      0.958
+    ],
+    "average": 0.885,
+    "assessment": "SYNCHRONIZED"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "American flag",
+        "confidence": 0.99
+      },
+      {
+        "label": "Ronald Reagan",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "American flag",
+        "magnitude": 0.283,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "Ronald Reagan",
+        "magnitude": 0.283,
+        "emotion": "joy",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:05-0:11 \u2014 description",
+      "0:11-0:15 \u2014 description",
+      "0:15-0:20 \u2014 description",
+      "0:20-0:35 \u2014 description",
+      "0:35-0:40 \u2014 description",
+      "0:40-0:54 \u2014 description",
+      "0:54-1:00 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.62,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.57,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.55,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.62,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle-class, white, suburban families; older Americans; small business owners",
+      "psychographics": "Conservative values, belief in American exceptionalism, desire for economic prosperity and traditional family values, strong sense of patriotism and national pride",
+      "brandMeaning": "Reagan represents a return to traditional values, economic growth, and a strong America. He symbolizes optimism, freedom, and a belief in the American dream."
+    },
+    "adTargetAudience": {
+      "demographics": "Likely undecided voters, middle-class families, those concerned about the economy and national pride",
+      "psychographics": "People who value stability, optimism, and a sense of national unity; those who may be swayed by positive messaging and appeals to traditional values",
+      "tone": "Hopeful, optimistic, patriotic, reassuring"
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the core audience's existing beliefs and values, validating their support for Reagan and his policies.",
+    "actualResonance": "Middle-class families, older Americans, and those who value traditional values and national pride will likely resonate with the ad's positive message and imagery.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively reinforces Reagan's appeal to his core base while also attempting to broaden his support by appealing to undecided voters with a message of optimism and national pride."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 7.5,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Complacency, apathy, disconnect from those left behind.",
+    "culturalAlignment": 8,
+    "explanation": "The 'Morning in America' ad was perfectly timed and targeted. The message of optimism resonated deeply with a nation eager to move past economic hardship. The heavy rotation on TV amplified its impact, contributing to Reagan's landslide victory. The low FF risk and validated reaction indicate a receptive audience. The distance score suggests some potential for disconnect, but the overall effect was overwhelmingly positive, leading to a high attention economy multiplier. However, the repetitive nature of the ad could lead to fatigue and a sense of complacency over time.",
+    "whatIfScenario": "If the ad had been released during a period of greater economic hardship or social unrest, the message of optimism might have been perceived as tone-deaf or insensitive, potentially leading to a negative reaction and a lower attention economy multiplier. A higher FF risk audience would also reduce the multiplier.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "1984",
+      "platform": "TV (heavy rotation)",
+      "context": "Reagan re-election. Pure optimism. 'It's morning again in America.' Counter-programming to Carter-era malaise. The ad equivalent of a national hug.",
+      "aftermath": "Reagan won 49/50 states."
+    }
+  }
+}

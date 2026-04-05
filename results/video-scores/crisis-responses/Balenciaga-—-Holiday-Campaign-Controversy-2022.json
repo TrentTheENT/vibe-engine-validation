@@ -1,0 +1,236 @@
+{
+  "ad": "Balenciaga \u2014 Holiday Campaign Controversy (2022)",
+  "category": "crisis-responses",
+  "contentType": "corporate crisis response",
+  "vibeScore": 534,
+  "dominantEmotion": "disgust",
+  "scoredAt": "2026-04-04T23:23:19.204123",
+  "fileSize": "9.0MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.35,
+    "fear": 0.4,
+    "surprise": 0.2,
+    "sadness": 0.3,
+    "disgust": 0.55,
+    "anger": 0.45,
+    "anticipation": 0.3
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.6,
+      "fear": 0.5,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.7,
+      "anger": 0.6,
+      "anticipation": 0.4
+    },
+    "dominant": "trust",
+    "arcShape": "flat",
+    "transcript": "now with our GMA cover story and the popular luxury brand Balenciaga is under fire for its recent ad campaign with children. Janai Norman has those details for us. Good morning, Janai. Good morning. Good morning and happy birthday Robin. So Balenciaga is known for its edgy designs, the brand often pushing the envelope, but critics are accusing the brand now of crossing the line in this latest campaign. This morning, fashion house Balenciaga, a favorite of stars like Kim Kardashian, and celebrated in songs by Lizzo, walking in my Balenciaga. And Cardi B. I like those Balenciaga. facing backlash, accused of sexualizing children in a controversial new ad campaign. The luxury brand now apologizing for these photos showing little girls in Balenciaga sweat suits with plush bears and what appeared to be BDSM inspired harnesses and these uncovered documents on the desk showing an excerpt from the 2008 US Supreme Court opinion, USV Williams, which upheld the criminalization of pandering of child pornography. We sincerely apologize for any offense our holiday campaign may have caused. Our plush bear bags should not have been featured with children in this campaign, adding that the documents in the Adidas partnership, including a featured page from a child pornography lawsuit was unapproved. People with responsibility should be eyeing these campaigns. Clearly, whoever was in charge at Balenciaga, failed at this. Critics sounding off on social media, one writing, I understand that a lot of Balenciaga's marketing is the shock factor of it all, but this is just disgusting. The luxury label aligned with many big names, including Bella Hadid and Nicole Kidman, who are a part of the brand's spring 2023 line, has since removed those controversial images from its site. Everything about the picture will attract a child to it. There's a toy, there's another child, which is why I really think this can be so, you know, damaging. And Balenciaga also says of those documents shown with the bag from their Adidas partnership that they're taking legal action against parties responsible for the set. And it's worth mentioning that both of those companies, Balenciaga and Adidas were just in headlines cutting ties with Yay over his controversial remarks, guys. All right. Thank you so much for that, Janai. Well, hey there GMA fans, Robin Roberts here. Thanks for checking out our YouTube channel. Lots of great stuff here. So go on, click the subscribe button right over right over here to get more of awesome videos and content from GMA every day, anytime. We thank you for watching and we'll see you in the morning on GMA.",
+    "segmentCount": 24
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.3,
+      "surprise": 0.1,
+      "sadness": 0.2,
+      "disgust": 0.4,
+      "anger": 0.3,
+      "anticipation": 0.2
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 49
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      0.856,
+      -0.117,
+      0.69,
+      -0.103,
+      0.931,
+      0.918,
+      0.906,
+      0.906,
+      0.906,
+      0.457,
+      0.857,
+      0.908,
+      0.46,
+      0.86,
+      0.831,
+      0.891,
+      0.674,
+      0.674,
+      -0.013,
+      -0.155,
+      -0.155,
+      -0.155
+    ],
+    "average": 0.418,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "Broadway street sign",
+        "confidence": 0.99
+      },
+      {
+        "label": "GMA logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Balenciaga logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Robin Roberts",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Balenciaga logo",
+        "magnitude": 1.2,
+        "emotion": "disgust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A shot of a Broadway street sign in New York City, followed by a shot of three GMA hosts on set.",
+      "0:05-0:12 \u2014 A young girl stands on a couch holding a teddy bear with a harness. The GMA logo and text \"Fashion House Faux Pas\" are displayed.",
+      "0:12-0:22 \u2014 A news reporter stands in front of a screen with the GMA logo and text \"Fashion House Faux Pas\".",
+      "0:22-0:36 \u2014 A montage of images related to the Balenciaga controversy, including photos of children in Balenciaga clothing and accessories.",
+      "0:36-0:46 \u2014 A young girl stands in front of a screen with the GMA logo and text \"Fashion House Faux Pas\".",
+      "0:46-0:56 \u2014 A close-up of a document with the text \"Supreme Court of the United States\".",
+      "0:56-1:05 \u2014 A close-up of a document with the text \"United States vs. Williams\".",
+      "1:05-1:15 \u2014 A close-up of a document with the text \"We sincerely apologize for any offense our holiday campaign may have caused\".",
+      "1:15-1:22 \u2014 A close-up of a document with the text \"unapproved\".",
+      "1:22-1:31 \u2014 A woman speaks in front of a screen with the GMA logo and text \"Fashion House Faux Pas\".",
+      "1:31-1:41 \u2014 A woman's Twitter profile is displayed with the text \"I understand that a lot of Balenciaga's marketing is the shock factor of it all but this is just disgusting\".",
+      "1:41-1:53 \u2014 A montage of images related to the Balenciaga controversy, including photos of Bella Hadid and Nicole Kidman in Balenciaga clothing.",
+      "1:53-2:03 \u2014 A woman speaks in front of a screen with the GMA logo and text \"Fashion House Faux Pas\".",
+      "2:03-2:22 \u2014 A news reporter stands in front of a screen with the GMA logo and text \"Fashion House Faux Pas\".",
+      "2:22-2:43 \u2014 Robin Roberts speaks in front of a screen with the GMA logo and text \"Keep Watching\" and \"Subscribe Now\"."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Contempt",
+        "strength": 0.5,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Shame",
+        "strength": 0.48,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Remorse",
+        "strength": 0.43,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Cynicism",
+        "strength": 0.43,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Dominance",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Submission",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Envy",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Despair",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Anxiety",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Hope",
+        "strength": 0.32,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Sentimentality",
+        "strength": 0.32,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Pessimism",
+        "strength": 0.3,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Contempt",
+      "strength": 0.5,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "High-income individuals, fashion-conscious consumers, celebrities, and influencers.",
+      "psychographics": "Value luxury, exclusivity, avant-garde design, and brand recognition. They seek to express their status and individuality through fashion.",
+      "brandMeaning": "Represents high fashion, luxury, and cutting-edge design. It signifies status, exclusivity, and a bold, unconventional approach to fashion."
+    },
+    "adTargetAudience": {
+      "demographics": "General news viewers, parents, social media users, and those concerned about child safety and exploitation.",
+      "psychographics": "Concerned about ethical issues in advertising, child welfare, and the potential for exploitation in the fashion industry. They value transparency, accountability, and social responsibility from brands.",
+      "tone": "Serious, concerned, and critical of the brand's actions."
+    },
+    "audienceDistance": 8,
+    "coreReaction": "ALIENATED",
+    "coreReactionExplanation": "The core audience is likely alienated by the negative publicity and ethical concerns surrounding the ad campaign. The brand's association with child exploitation and controversial imagery clashes with the values of luxury and exclusivity they seek.",
+    "actualResonance": "This content will resonate with parents, child welfare advocates, and individuals concerned about ethical issues in advertising. It will also attract attention from those interested in celebrity endorsements and brand controversies.",
+    "friendlyFireRisk": 9,
+    "marketExpansion": 2,
+    "verdict": "This crisis response is necessary to address the ethical concerns and negative publicity, but it may further alienate the core audience who value the brand's unconventional approach, while failing to attract a new audience due to the severity of the controversy."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": "High",
+    "costEfficiency": "Very Low",
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Disgust and anger decay into apathy and morbid curiosity.",
+    "culturalAlignment": -9,
+    "explanation": "The Balenciaga holiday campaign controversy was a brand safety nuclear event. The combination of children, BDSM imagery, and allusions to child exploitation created a perfect storm of outrage. The high FF Risk score (9/10) indicates a significant potential for negative attention, and the 'ALIENATED' reaction confirms this. The 'Distance' score of 8/10 suggests a strong desire by the audience to disassociate from the brand. The timing, just before the holidays, amplified the negative impact. The attention economy multiplier is very high (4.5) due to the severity of the offense and the widespread outrage. Fatigue velocity is relatively low (0.3) because the core issue is so disturbing that repeated exposure, while diminishing initial shock, doesn't fundamentally change the negative perception for many. The cultural alignment is extremely negative (-9) reflecting the deep violation of societal norms regarding child safety.",
+    "whatIfScenario": "If Balenciaga had immediately and unequivocally apologized, pulled the campaign, and donated a substantial sum to child protection charities, the attention economy multiplier might have been reduced to 2.5-3.0. However, the initial response was perceived as tone-deaf, exacerbating the situation. A proactive and empathetic response could have mitigated some of the damage.",
+    "detonationRadius": 40.5,
+    "timingContext": {
+      "date": "2022-11-21",
+      "platform": "Website + social",
+      "context": "Holiday campaign featured children holding teddy bears in BDSM gear. Separate campaign had court documents about child exploitation visible in props. Brand safety nuclear event.",
+      "aftermath": "Massive celebrity backlash. Kim Kardashian distanced. Sales reportedly dropped 50%+ in Q4. Brand safety became industry conversation."
+    }
+  }
+}

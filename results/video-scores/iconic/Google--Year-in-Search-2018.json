@@ -1,0 +1,239 @@
+{
+  "ad": "Google \u2014 Year in Search 2018",
+  "category": "iconic",
+  "vibeScore": 652,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:42:14.188380",
+  "fileSize": "5.1MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.65,
+    "fear": 0.15,
+    "surprise": 0.4,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "It takes a few seconds, so I'll switch this one on. And we'll just say, Mommy talks. Alex. Alex? Alex? Hello you. This is a miracle rescue that all 13 members of the soccer team are out of the cave. He turns into a superhero set on feeding as many homeless people as possible. This election, we've seen historic voter turnout. An all Asian cast. There's nothing more empowering. Oh, yes! It'll be all right. Yeah, yeah, yeah. Let the music play. Will you marry me? I was saying the word Yanny. An all for a difficult life may seem. While there's life, there is hope. Kids have the dream. They just want to know that someone cares. You got love for you. It's only right. We got to stick together. They just proposed to me. Life is good. The world is filled with people doing the best they can, you know. Who love their kids and would like to live their lives with a little dignity and hope just like everybody else. Good things are worth searching for.",
+    "segmentCount": 21
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 32
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0,
+      0.952,
+      0.969,
+      0.973,
+      0.946,
+      0.933,
+      0.978,
+      0.966,
+      0.959,
+      0.978,
+      0.971,
+      0.969,
+      0.978,
+      0.963,
+      0.906,
+      0.904,
+      0.906,
+      0.904,
+      0.906,
+      0.904,
+      0.924
+    ],
+    "average": 0.899,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0,
+      "audio": "It takes a few seconds, so I'll switch this one on.",
+      "video": "White screen with text 'In 2018, more than ever' then a woman turns on a device."
+    },
+    "maxAlignment": {
+      "timestamp": "30s",
+      "coherence": 0.978
+    }
+  },
+  "objects": {
+    "count": 11,
+    "top": [
+      {
+        "label": "text",
+        "confidence": 0.99
+      },
+      {
+        "label": "baby",
+        "confidence": 0.99
+      },
+      {
+        "label": "search bar",
+        "confidence": 0.99
+      },
+      {
+        "label": "people",
+        "confidence": 0.99
+      },
+      {
+        "label": "cape",
+        "confidence": 0.99
+      },
+      {
+        "label": "ballot box",
+        "confidence": 0.99
+      },
+      {
+        "label": "whale",
+        "confidence": 0.99
+      },
+      {
+        "label": "basketball hoop",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "people",
+        "magnitude": 0.212,
+        "emotion": "trust",
+        "baseline": 0.5,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Globally diverse, tech-savvy individuals aged 25-55, with a moderate to high income, and a lifestyle centered around information access, productivity, and connectivity. Includes students, professionals, and families.",
+      "psychographics": "Values innovation, efficiency, inclusivity, and staying informed. Identifies as curious, open-minded, and progressive. Aspires to be knowledgeable, connected, and make a positive impact on the world.",
+      "brandMeaning": "Google represents ubiquitous access to information, problem-solving, and global connection. It's seen as a tool for empowerment, learning, and staying informed in a rapidly changing world."
+    },
+    "adTargetAudience": {
+      "demographics": "Broad, globally diverse audience of all ages, particularly those who are socially conscious and interested in current events. Skews slightly younger (18-45) due to the focus on trending topics and viral moments.",
+      "psychographics": "Values hope, unity, resilience, and positive change. Appreciates stories of human connection, overcoming adversity, and celebrating diversity. Seeks inspiration and a sense of shared humanity.",
+      "tone": "Hopeful, uplifting, and inclusive, aiming to evoke a sense of collective progress and shared experience."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Google's core values of providing access to information and highlighting positive global trends, making existing users feel proud to be associated with a brand that promotes hope and inclusivity.",
+    "actualResonance": "The ad will resonate most strongly with socially conscious individuals, particularly millennials and Gen Z, who are actively engaged in current events and seek brands that align with their values of inclusivity, hope, and positive change. It will also resonate with anyone who appreciates heartwarming stories and a sense of global community.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively expands Google's reach by focusing on universal human values and positive global trends, but the CMO should be aware of the very small risk of alienating users who may find the ad overly sentimental or politically charged."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 7,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 3,
+    "socialPropagation": 6,
+    "temporalCompounding": 5,
+    "frequencyPressure": 4,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Neutrality",
+    "detonationRadius": 2.5,
+    "explanation": "The 'Year in Search' ad benefits from a generally positive cultural alignment, especially during the Q4 holiday season when people are reflective. The ad's placement, while not Super Bowl-level, still garners significant reach. However, the AI focus and Gemini demo could be seen as tone-deaf if the technology isn't perceived as beneficial or accessible to all, creating some contextual vulnerability. Social propagation is moderate, as the ad is likely to be shared but not necessarily meme-ified. The temporal compounding is moderate; it's a year-end recap, so its relevance fades with the new year, but the message of Google's role in information access has longer-term implications.",
+    "whatIfScenario": "If this ad ran during a period of heightened public distrust in technology companies (e.g., after a major data breach), the contextual vulnerability and cultural alignment scores would be significantly lower, potentially leading to a negative attention economy multiplier.",
+    "timingContext": {
+      "slot": "Q4",
+      "estimatedSpend": 16000000,
+      "note": "AI-focused, Gemini product demo"
+    }
+  }
+}

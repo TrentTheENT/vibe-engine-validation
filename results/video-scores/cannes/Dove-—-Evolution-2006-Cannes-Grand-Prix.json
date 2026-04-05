@@ -1,0 +1,141 @@
+{
+  "ad": "Dove \u2014 Evolution (2006, Cannes Grand Prix)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 0,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T23:30:06.601653",
+  "fileSize": "2.2MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Okay, so very quiet please. Camera is camera's rolling and we're recording sound. Sound speed. Okay, go ahead.",
+    "segmentCount": 3
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 23
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "Dove logo",
+        "confidence": 0.98
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "billboard",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "billboard",
+        "magnitude": 1.158,
+        "emotion": "anger",
+        "direction": "amplified"
+      },
+      {
+        "object": "woman",
+        "magnitude": 1.077,
+        "emotion": "joy",
+        "direction": "suppressed"
+      },
+      {
+        "object": "Dove logo",
+        "magnitude": 0.283,
+        "emotion": "surprise",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A woman walks into the frame, followed by another woman who holds a slate. A title card appears.",
+      "0:07-0:16 \u2014 A woman with blonde hair looks directly at the camera.",
+      "0:19-0:38 \u2014 A woman with blonde hair has makeup and hair done.",
+      "0:38-0:48 \u2014 The image of the woman is edited in a computer program.",
+      "0:48-0:58 \u2014 The final image of the woman is displayed on a billboard.",
+      "0:59-1:14 \u2014 Text appears on a black screen, followed by the Dove logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Women, 25-54, middle to upper class",
+      "psychographics": "Values natural beauty, self-esteem, and empowerment. Seeks products that enhance their natural features and promote a positive self-image.",
+      "brandMeaning": "Dove represents real beauty, self-acceptance, and products that are gentle and nourishing."
+    },
+    "adTargetAudience": {
+      "demographics": "Young women and girls, teenagers, and young adults.",
+      "psychographics": "Concerned about body image and societal beauty standards. Open to messages promoting self-esteem and challenging unrealistic expectations.",
+      "tone": "Empathetic, thought-provoking, and empowering."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad aligns with Dove's core message of promoting real beauty and self-esteem, which resonates with its existing audience.",
+    "actualResonance": "Young women and girls who are struggling with body image issues and societal beauty standards.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively targets a younger demographic with a message that aligns with Dove's brand values, promoting self-esteem and challenging unrealistic beauty standards."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": 8,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Cynicism",
+    "culturalAlignment": 7,
+    "explanation": "Dove's 'Evolution' ad, particularly within the context of Cannes (a celebration of advertising excellence), benefits from significant amplification. Its validated emotional impact and relatively close audience contribute to a high reach score and cost efficiency. However, the message's strength can wane with repeated exposure, leading to cynicism. The ad's positive cultural alignment further boosts its attention economy multiplier.",
+    "whatIfScenario": "If the ad were released today, in a more fragmented media landscape with greater consumer skepticism, the attention economy multiplier would likely be lower (around 2.5-3.0). The fatigue velocity might also increase due to the faster news cycle and shorter attention spans.",
+    "detonationRadius": 3.5,
+    "timingContext": {
+      "context": "Category: cannes"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "ad": "Hellmanns \u2014 When Sally Met",
+  "category": "superbowl-2025",
+  "vibeScore": 538,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T18:11:13.975090",
+  "fileSize": "2.1MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.3,
+    "fear": 0.05,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.0,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "joy",
+    "arcShape": "crescendo",
+    "transcript": "I can't believe they let us back in this place. Well, it'll be good? No. Oh. Here we go. Oh my gosh! So good! Oh, it's so... This one's real. Oh. That is a sandwich. I'll have what she's having.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.804,
+      0.814,
+      0.907,
+      0.807,
+      0.72,
+      0.923
+    ],
+    "average": 0.829,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0.72,
+      "audio": "Sound of table breaking. Dialogue: Oh, that is a sandwich.",
+      "video": "The woman throws her sandwich on the table. An older man eating nearby looks startled. The woman and man look at each ot"
+    },
+    "maxAlignment": {
+      "timestamp": "25s",
+      "coherence": 0.923
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "sandwich",
+        "confidence": 0.98
+      },
+      {
+        "label": "Hellmann's mayonnaise",
+        "confidence": 0.95
+      },
+      {
+        "label": "table",
+        "confidence": 0.95
+      },
+      {
+        "label": "water glass",
+        "confidence": 0.9
+      },
+      {
+        "label": "salt shaker",
+        "confidence": 0.85
+      },
+      {
+        "label": "pepper shaker",
+        "confidence": 0.85
+      },
+      {
+        "label": "soda",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man and a woman are sitting at a table in a crowded deli. They are eating sandwiches. The woman adds mayonnaise to her sandwich."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Households aged 25-54, skewing slightly female, middle-income, suburban or urban dwellers, who regularly cook at home.",
+      "psychographics": "Values convenience, family meals, and affordable quality. Identifies as practical and resourceful. Aspires to create delicious and satisfying meals without excessive effort.",
+      "brandMeaning": "A reliable, everyday staple that helps families create tasty and comforting meals."
+    },
+    "adTargetAudience": {
+      "demographics": "Adults aged 25-45, both male and female, with a sense of humor and appreciation for classic romantic comedy tropes. Likely urban dwellers who enjoy dining out and trying new foods.",
+      "psychographics": "Values connection, shared experiences, and finding joy in everyday moments. Appreciates humor and nostalgia. Open to new experiences and willing to try new things.",
+      "tone": "Lighthearted, humorous, and relatable."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's association with delicious food and shared enjoyment, while adding a touch of humor and relatability that resonates with their desire for easy and satisfying meal solutions.",
+    "actualResonance": "Adults aged 25-45 who enjoy lighthearted humor and romantic comedy tropes, particularly those who appreciate the 'When Harry Met Sally' reference. Also, people who enjoy food and shared meal experiences.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a safe bet to expand the brand's appeal to a younger, more humor-oriented audience without alienating its core demographic."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Humor decays to Annoyance",
+    "detonationRadius": 2.8,
+    "explanation": "A Super Bowl ad guarantees massive reach, but also intense scrutiny and high cost. The 'friendly fire' risk is low, suggesting good audience alignment, but the high contextual vulnerability and social propagation scores mean any misstep will be amplified rapidly and permanently. The positive cultural alignment helps, but the cost efficiency is terrible if the ad doesn't resonate. The Attention Economy Multiplier is 2.8, reflecting the high-stakes environment.",
+    "whatIfScenario": "If this ad ran on a streaming service with a smaller, more targeted audience, the reach would be lower, but the cost efficiency would improve, and the risk of widespread negative backlash would be reduced. The attention economy multiplier would likely be closer to 1.0.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q2",
+      "estimatedSpend": 8000000,
+      "note": "Food brand entering humor territory"
+    }
+  }
+}

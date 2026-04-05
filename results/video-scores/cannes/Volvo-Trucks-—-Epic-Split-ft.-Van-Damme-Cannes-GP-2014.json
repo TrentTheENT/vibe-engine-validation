@@ -1,0 +1,162 @@
+{
+  "ad": "Volvo Trucks \u2014 Epic Split ft. Van Damme (Cannes GP 2014)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 307,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:04:54.730685",
+  "fileSize": "3.5MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.3,
+    "fear": 0.1,
+    "surprise": 0.15,
+    "sadness": 0.1,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.35
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.1,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "I've had my ups and downs. My fair share of bumpy roads and heavy winds. That's what made me what I am today. Now I stand here before you. What you see is a body crafted to perfection. A pair of legs engineered to defy the laws of physics. And a mindset to master the most epic of splits. Who can say where the road goes, where the day flows, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time. And who can say if your love grows, as your heart chose, only time.",
+    "segmentCount": 24
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 23
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.571,
+      0.508,
+      0.373,
+      0.373,
+      0.373,
+      0.373,
+      0.373,
+      0.812,
+      0.812,
+      0.812,
+      0.812,
+      0.812,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -0.174,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "Jean-Claude Van Damme",
+        "confidence": 0.99
+      },
+      {
+        "label": "Volvo Trucks",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Volvo Trucks",
+        "magnitude": 0.424,
+        "emotion": "surprise",
+        "direction": "amplified"
+      },
+      {
+        "object": "Jean-Claude Van Damme",
+        "magnitude": 0.346,
+        "emotion": "anger",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A man stands between two trucks, talking about his life experiences.",
+      "0:17-0:35 \u2014 The man is standing between two trucks, doing a split.",
+      "0:35-0:45 \u2014 The man is standing between two trucks, doing a split.",
+      "0:45-1:11 \u2014 The man is standing between two trucks, doing a split."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.32,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.32,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Volvo trucks historically serve a core audience of professional truck drivers, fleet managers, and logistics companies. These are typically individuals and businesses involved in the transportation and distribution of goods.",
+      "psychographics": "This audience values reliability, durability, safety, and efficiency in their vehicles. They are practical, focused on performance and cost-effectiveness, and appreciate innovation that enhances their operational capabilities.",
+      "brandMeaning": "Volvo trucks represent a commitment to quality, safety, and long-term value. They are seen as a trusted partner in the transportation industry, providing vehicles that can withstand demanding conditions and deliver consistent performance."
+    },
+    "adTargetAudience": {
+      "demographics": "This specific ad targets a broader audience beyond just truck drivers and fleet managers. It aims to reach potential customers, brand enthusiasts, and the general public interested in engineering and innovation.",
+      "psychographics": "The ad appeals to those who appreciate impressive feats of strength, precision, and human achievement. It uses a blend of nostalgia, humor, and technical demonstration to capture attention and create a memorable brand experience.",
+      "tone": "The tone is inspirational, confident, and slightly humorous. It leverages the iconic status of Jean-Claude Van Damme to create a sense of awe and wonder, while also highlighting the technical capabilities of Volvo Dynamic Steering."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad validates the core audience by showcasing the advanced technology and stability of Volvo trucks, reinforcing the brand's commitment to quality and performance. It also adds an element of entertainment and spectacle that can be appreciated by a wider audience.",
+    "actualResonance": "This ad will likely resonate with a broad audience, including those interested in engineering, action movies, and viral marketing campaigns. The combination of a well-known celebrity, impressive stunt, and technical demonstration is designed to capture attention and generate buzz.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively expands Volvo's market reach by using a memorable and entertaining stunt to showcase the brand's technical capabilities, while still validating its core audience's appreciation for quality and performance."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 8.5,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Amusement/Cynicism",
+    "culturalAlignment": 7,
+    "explanation": "The Volvo 'Epic Split' ad achieved massive viral reach due to its novelty, Van Damme's star power, and the impressive stunt. The B2B brand successfully crossed over to a consumer audience. The high view count in a short time frame indicates significant amplification. Fatigue is moderate, as the stunt's impressiveness fades with repeated viewing, potentially leading to cynicism or amusement at its absurdity. The cultural alignment is positive due to Van Damme's iconic status and the generally positive reception of impressive physical feats.",
+    "whatIfScenario": "If the stunt had been poorly executed or perceived as fake, the attention economy multiplier would have been significantly lower, potentially even negative, leading to ridicule and brand damage. A different celebrity with less cultural resonance would also have reduced the impact.",
+    "detonationRadius": 8.4,
+    "timingContext": {
+      "date": "2013-11-13",
+      "platform": "YouTube first, then TV",
+      "adFrequency": "100M+ views in weeks",
+      "context": "B2B brand going viral to consumer audience. Van Damme doing the splits between two reversing trucks. One take."
+    }
+  }
+}

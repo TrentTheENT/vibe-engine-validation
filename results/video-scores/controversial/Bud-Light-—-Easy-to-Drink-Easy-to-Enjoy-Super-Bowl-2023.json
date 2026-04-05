@@ -1,0 +1,227 @@
+{
+  "ad": "Bud Light \u2014 Easy to Drink Easy to Enjoy (Super Bowl 2023)",
+  "category": "controversial",
+  "vibeScore": 244,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T20:56:14.112405",
+  "fileSize": "2.7MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.4,
+    "fear": 0.05,
+    "surprise": 0.35,
+    "sadness": 0.05,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "The estimated hold time is now less than 96 minutes. We thank you for your patience. Sorry, are you still there? Yes. Okay, please hold.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.5,
+      "fear": 0.0,
+      "surprise": 0.5,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "phone",
+        "confidence": 0.99
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "Bud Light",
+        "confidence": 0.99
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "dog",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "phone",
+        "magnitude": 1.241,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:05-0:12 \u2014 description",
+      "0:12-0:18 \u2014 description",
+      "0:18-0:28 \u2014 description",
+      "0:28-0:31 \u2014 description",
+      "0:31-0:38 \u2014 description",
+      "0:38-1:00 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "JoTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.43,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "JoAn",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.43,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 1.0,
+        "reactivity": 0.1,
+        "toxicity": 0.05,
+        "halfLife": 0.8
+      },
+      {
+        "formula": "JoSu",
+        "name": "Delight",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.05,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "TrSu",
+        "name": "Curiosity",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "SuAn",
+        "name": "Confusion",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      }
+    ],
+    "dominant": {
+      "formula": "JoTr",
+      "name": "Love",
+      "type": "primary",
+      "strength": 0.43,
+      "stability": 0.95,
+      "reactivity": 0.15,
+      "toxicity": 0.05,
+      "halfLife": 0.76
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Bud Light has targeted a broad audience, particularly working-class to middle-class adults aged 21-45, with a slight skew towards males. It's often associated with social gatherings, sports events, and casual drinking occasions.",
+      "psychographics": "The core audience values affordability, approachability, and a sense of community. They seek a beer that is easy to drink and doesn't require a sophisticated palate. The brand represents relaxation, fun, and shared experiences with friends.",
+      "brandMeaning": "Bud Light means an easy-drinking, affordable beer for casual, social occasions."
+    },
+    "adTargetAudience": {
+      "demographics": "This specific ad seems to target a slightly more upscale, younger demographic (25-35), likely dual-income households. The presence of a well-appointed home and the relaxed, playful interaction between the couple suggest a comfortable lifestyle.",
+      "psychographics": "The ad appeals to those who value spontaneity, fun, and shared moments with their partner. It also subtly promotes the idea of finding joy in everyday situations and not taking life too seriously. The ad suggests a desire for a balanced life, where work and responsibilities are balanced with leisure and enjoyment.",
+      "tone": "The tone is lighthearted, playful, and relatable, aiming to create a sense of warmth and connection with the viewer."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad maintains the core values of fun and approachability, while presenting it in a slightly more aspirational setting. The core audience will likely see this as a natural evolution of the brand, rather than a departure from its roots.",
+    "actualResonance": "The ad will likely resonate with younger millennials and older Gen Z who are establishing their careers and relationships, and who appreciate a balance between work and leisure.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively modernizes Bud Light's image by showcasing it within a contemporary lifestyle context, appealing to a slightly younger, more affluent demographic without alienating its core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.5,
+    "reachScore": 9,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 6,
+    "socialPropagation": 7,
+    "temporalCompounding": 8,
+    "frequencyPressure": 7,
+    "culturalAlignment": 3,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Humor decays to Neutral",
+    "detonationRadius": 1.5,
+    "explanation": "Pre-controversy, the Bud Light Super Bowl ad had a high reach and significant social propagation potential due to the event's nature. However, the cost was extremely high, and the audience, while generally aligned, was also primed to judge ads critically. The cultural alignment was slightly positive, reflecting a general acceptance of standard beer marketing at the time. The attention economy multiplier is 1.5 because while reach was high, the cost was prohibitive, and the potential for negative social propagation existed even before the controversy.",
+    "whatIfScenario": "If this ad ran on a smaller platform like YouTube with a targeted audience, the cost efficiency would improve, but the reach and social propagation would be reduced. The contextual vulnerability would also decrease, leading to a lower attention economy multiplier.",
+    "timingContext": {
+      "date": "2023-01-01",
+      "platform": "TV + digital",
+      "adFrequency": "heavy rotation pre-Super Bowl 2023",
+      "context": "This was the 'normal' Bud Light before the Mulvaney controversy. Standard beer marketing. Important baseline."
+    }
+  }
+}

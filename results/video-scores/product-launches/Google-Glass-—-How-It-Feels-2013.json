@@ -1,0 +1,195 @@
+{
+  "ad": "Google Glass \u2014 How It Feels (2013)",
+  "category": "product-launches",
+  "contentType": "product launch video",
+  "vibeScore": 323,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:19:29.911412",
+  "fileSize": "10.9MB",
+  "consensus": {
+    "joy": 0.25,
+    "trust": 0.3,
+    "fear": 0.1,
+    "surprise": 0.2,
+    "sadness": 0.1,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "description",
+    "segmentCount": 46
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 46
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.886,
+      0.852,
+      0.852,
+      0.947,
+      0.943,
+      -1,
+      -1,
+      -0.244,
+      0.633,
+      1.0,
+      0.352,
+      0.918,
+      0.633,
+      0.633,
+      0.414,
+      0.352,
+      0.352,
+      0.633,
+      0.782,
+      0.782,
+      0.76,
+      0.76,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -0.277,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "coffee cup",
+        "confidence": 0.99
+      },
+      {
+        "label": "sandwich",
+        "confidence": 0.99
+      },
+      {
+        "label": "Google",
+        "confidence": 0.95
+      },
+      {
+        "label": "ukulele",
+        "confidence": 0.99
+      },
+      {
+        "label": "food truck",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:08-0:13 \u2014 description",
+      "0:13-0:17 \u2014 description",
+      "0:17-0:28 \u2014 description",
+      "0:31-0:35 \u2014 description",
+      "0:35-0:45 \u2014 description",
+      "0:45-0:55 \u2014 description",
+      "0:55-1:00 \u2014 description",
+      "1:00-1:07 \u2014 description",
+      "1:07-1:13 \u2014 description",
+      "1:13-1:28 \u2014 description",
+      "1:28-1:35 \u2014 description",
+      "1:35-1:40 \u2014 description",
+      "1:40-1:50 \u2014 description",
+      "1:50-2:18 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.35,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.35,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech enthusiasts, early adopters, professionals, and individuals interested in innovative technology.",
+      "psychographics": "Open-minded, curious, value convenience and efficiency, interested in seamless integration of technology into daily life, appreciate cutting-edge design and functionality.",
+      "brandMeaning": "Google represents innovation, accessibility, and the future of technology. It signifies a commitment to making information readily available and simplifying everyday tasks through technology."
+    },
+    "adTargetAudience": {
+      "demographics": "Young professionals, urban dwellers, tech-savvy individuals, social media users, and people who value connectivity and efficiency.",
+      "psychographics": "Active, social, value experiences, interested in staying connected, appreciate convenience, and seek ways to enhance their daily routines through technology.",
+      "tone": "Modern, aspirational, engaging, and showcases the seamless integration of technology into everyday life."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad aligns well with the core audience's desire for innovative and seamlessly integrated technology, validating their expectations of Google's products.",
+    "actualResonance": "The ad will likely resonate with tech enthusiasts, urban professionals, and individuals interested in wearable technology and seamless connectivity.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively showcases the potential of Google Glass to enhance daily life and connectivity, appealing to a tech-savvy audience while maintaining the brand's core values of innovation and accessibility."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 6,
+    "costEfficiency": 7,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "annoyance",
+    "culturalAlignment": -7,
+    "explanation": "The Google Glass launch video, while initially exciting to a core tech audience, quickly became a symbol of tech elitism and social awkwardness. The 'Glasshole' phenomenon demonstrates a significant negative cultural backlash. The high attentionEconomyMultiplier reflects the rapid and widespread negative attention the product received, amplified by social media and cultural commentary. The fatigueVelocity is high because the novelty wore off quickly, replaced by annoyance. Cost efficiency is high because the video was widely viewed, but the negative cultural impact dragged down the overall value.",
+    "whatIfScenario": "If Google had focused on specific use cases (e.g., medical, industrial) instead of a general consumer product, the cultural alignment might have been neutral or positive, mitigating the negative amplification and potentially leading to a more sustainable product adoption. A lower price point may have also reduced the perception of elitism.",
+    "detonationRadius": 3.5,
+    "timingContext": {
+      "date": "2013-02-20",
+      "platform": "YouTube + Google I/O",
+      "context": "Wearable computing. 'How It Feels' POV video. $1,500 Explorer Edition. Initially positioned as aspirational tech. Core tech audience excited. General public immediately mocked it.",
+      "aftermath": "Created the term 'Glasshole.' Became a cultural punchline. Killed consumer AR for a decade. Enterprise pivot."
+    }
+  }
+}

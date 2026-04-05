@@ -1,0 +1,224 @@
+{
+  "ad": "Poppi \u2014 Soda Thoughts",
+  "category": "superbowl-2025",
+  "vibeScore": 578,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:08:47.231100",
+  "fileSize": "2.7MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.3,
+    "fear": 0.1,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Bright this second at some diner somewhere. I'll have uh someone really wants a soda and they're not alone. Cuz somewhere else, there's a bunch of other someones that are also thinking about soda. Like her. Hello, are you okay? I'm thinking. See? But soda feels like a lot of sugar right now. And these other drinks, too much buzz. No flavor. What if there were a better soda? Be up. Hey, yo. Hun. Bestie. Here, I'm gonna freak out. It's a drive through, not a confession booth. Show of a poppy, please. Stop spiraling. Get a poppy. Get a poppy. Get a poppy. Pizza? Hello, poppy. Oh yes. What a lineup. I mean a soda with 5 grams of sugar. 5G sugar, prebiotics, no baggage. Uh-huh, it is good.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.846,
+      0.861,
+      0.873,
+      0.967,
+      0.746,
+      0.912,
+      0.984,
+      0.915,
+      0.864,
+      0.945,
+      0.932,
+      0.924
+    ],
+    "average": 0.897,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0.746,
+      "audio": "And these other drinks, too much buzz. No flavor.",
+      "video": "A woman sits on a couch surrounded by water bottles and cans. She looks displeased. A man walks toward a refrigerated se"
+    },
+    "maxAlignment": {
+      "timestamp": "30s",
+      "coherence": 0.984
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "diner menu",
+        "confidence": 0.95
+      },
+      {
+        "label": "waitress",
+        "confidence": 0.98
+      },
+      {
+        "label": "soda cans",
+        "confidence": 0.9
+      },
+      {
+        "label": "convertible car",
+        "confidence": 0.95
+      },
+      {
+        "label": "swimming pool",
+        "confidence": 0.9
+      },
+      {
+        "label": "grocery store",
+        "confidence": 0.9
+      },
+      {
+        "label": "pizza box",
+        "confidence": 0.85
+      }
+    ],
+    "inversions": [
+      {
+        "object": "diner menu",
+        "magnitude": 0.221,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A group of friends are at a diner, ordering food. A woman is relaxing by a pool. A man is in a grocery store.",
+      "0:08-0:16 \u2014 A woman is driving a convertible car with friends. ",
+      "0:16-0:23 \u2014 A woman is looking at a menu. A woman is sitting on a couch surrounded by drinks. A man is in a grocery store looking at drinks.",
+      "0:23-0:30 \u2014 A man is looking at drinks in a grocery store. A woman is drinking a soda. A woman is driving a convertible car with friends.",
+      "0:30-0:37 \u2014 A man is in a grocery store. A woman is relaxing by a pool. A group of friends are in a convertible car at a drive-through.",
+      "0:37-0:45 \u2014 A woman is relaxing by a pool. A waitress is talking to a customer. A man is standing in a store with a sign that says 'No Overthinking Allowed'. A man is delivering pizza and soda.",
+      "0:45-0:52 \u2014 A man is delivering pizza and soda. A woman is reaching into a cooler for a soda. A woman is relaxing by a pool. A group of soda cans are on a counter. A woman is looking at a menu.",
+      "0:52-1:00 \u2014 A woman is looking at a soda can. A group of friends are drinking soda by a car."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Poppi's core audience is primarily Gen Z and Millennials (18-40 years old), skewing slightly towards female, with a middle-class income. They are digitally native and active on social media platforms like TikTok and Instagram.",
+      "psychographics": "They value health and wellness, but also enjoy indulging in treats. They are drawn to brands that are authentic, transparent, and have a strong social mission. They aspire to a balanced lifestyle that incorporates both healthy choices and moments of fun and enjoyment.",
+      "brandMeaning": "Poppi represents a guilt-free indulgence, a way to enjoy the taste of soda without the negative health consequences. It signifies a commitment to wellness without sacrificing enjoyment and aligns with a lifestyle that values both health and pleasure."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, but primarily focuses on health-conscious Millennials and Gen Z (20-40 years old) who are looking for healthier alternatives to traditional sodas. It also appeals to those who are influenced by social trends and value convenience.",
+      "psychographics": "They are driven by a desire for healthier choices, but also seek convenience and enjoyment. They are open to trying new products and are influenced by social trends and peer recommendations. They value brands that are transparent and authentic.",
+      "tone": "The ad uses a lighthearted and relatable tone, acknowledging the common desire for soda while highlighting the health benefits of Poppi. It aims to be inclusive and appealing to a wide range of consumers."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Poppi's brand identity as a healthy and enjoyable soda alternative, making existing customers feel proud of their choice and validated in their decision to support a brand that aligns with their values.",
+    "actualResonance": "The ad will resonate most with health-conscious Millennials and Gen Z who are actively seeking healthier alternatives to traditional sodas and are open to trying new and innovative products. It will also appeal to those who are influenced by social trends and peer recommendations.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively broadens Poppi's appeal without alienating its core audience, but the CMO should ensure the message of health and wellness remains central to avoid losing brand identity."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 4,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to indifference",
+    "detonationRadius": 2.8,
+    "explanation": "Poppi's Super Bowl ad benefits from massive reach and potential for social amplification, aligning with a health-conscious zeitgeist. However, the high cost and intense scrutiny of Super Bowl ads create significant vulnerability. The single airing limits frequency pressure, but the permanent record of the ad means any misstep will be amplified. The positive cultural alignment mitigates some risk, but the overall attention economy multiplier is high due to the Super Bowl's inherent amplification effects.",
+    "whatIfScenario": "If Poppi had launched this ad on YouTube, the reach would be smaller initially, but the cost would be significantly lower. The contextual vulnerability would decrease, as the audience is less primed to judge harshly. Social propagation would still be present, but the temporal compounding effect would be less severe, allowing for adjustments based on audience feedback. The attention economy multiplier would likely be lower, but the overall ROI could be higher due to the reduced cost and increased flexibility.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

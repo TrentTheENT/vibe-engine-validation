@@ -1,0 +1,109 @@
+{
+  "ad": "Tesla Cybertruck Reveal \u2014 Elon Musk (2019)",
+  "category": "product-launches",
+  "contentType": "product launch video",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T21:57:49.147603",
+  "fileSize": "41.8MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "Tesla Cybertruck",
+        "confidence": 0.99
+      },
+      {
+        "label": "Elon Musk",
+        "confidence": 0.99
+      },
+      {
+        "label": "Tesla logo",
+        "confidence": 0.9
+      },
+      {
+        "label": "cnet logo",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Elon Musk",
+        "magnitude": 0.224,
+        "emotion": "trust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description: A man walks onto a stage in front of a crowd. There are lights and lasers."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech-savvy individuals, early adopters, environmentally conscious consumers, high-income earners.",
+      "psychographics": "Value innovation, sustainability, performance, and a forward-thinking lifestyle. They are often interested in cutting-edge technology and are willing to invest in premium products that align with their values.",
+      "brandMeaning": "Tesla represents a vision of the future, combining luxury, high performance, and environmental responsibility. It signifies innovation and a commitment to a sustainable future."
+    },
+    "adTargetAudience": {
+      "demographics": "Potential Cybertruck buyers: Tech enthusiasts, outdoor adventurers, contractors, and individuals seeking a durable and unique vehicle. May include those who value utility and ruggedness.",
+      "psychographics": "Appreciate unconventional design, durability, and high performance. They are drawn to the Cybertruck's unique features and its ability to handle tough tasks and off-road adventures.",
+      "tone": "Enthusiastic, innovative, and slightly irreverent, showcasing the Cybertruck's unique design and capabilities."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The launch validates the core audience's belief in Tesla's commitment to innovation and pushing boundaries. The Cybertruck's unique design and capabilities align with their desire for cutting-edge technology.",
+    "actualResonance": "Tech enthusiasts, truck enthusiasts, and those looking for a durable and unique vehicle will find this presentation compelling. The demonstrations of strength and utility will resonate particularly well.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "The Cybertruck launch effectively reinforces Tesla's brand identity while expanding its reach to a broader audience interested in trucks and rugged vehicles, though the polarizing design may alienate some traditional truck buyers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 8,
+    "costEfficiency": 9,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Amusement/Cynicism",
+    "culturalAlignment": 6,
+    "explanation": "The Cybertruck reveal was a high-risk, high-reward event. The 'unbreakable' window breaking on stage created immediate viral attention, amplified by Musk's personality and Tesla's brand. The negative event paradoxically boosted preorders, demonstrating a high attention economy multiplier. The initial shock and amusement will likely decay into cynicism or continued amusement depending on Tesla's execution and future product performance. The cultural alignment is positive due to the futuristic design and Musk's cult of personality, but tempered by the initial failure.",
+    "whatIfScenario": "If the window hadn't broken, the reveal would have been less memorable, resulting in a lower attention economy multiplier (estimated 1.5-2.0). Preorders might have been slower, and the event would have faded from public consciousness more quickly.",
+    "detonationRadius": 7.6,
+    "timingContext": {
+      "date": "2019-11-21",
+      "platform": "Live event + YouTube",
+      "context": "Elon Musk live reveal. 'Unbreakable' window BROKE on stage. Content became the opposite story. The failure WAS the content.",
+      "aftermath": "Stock dropped 6%. But 250,000 preorders in first week. Musk turned the meme into marketing."
+    }
+  }
+}

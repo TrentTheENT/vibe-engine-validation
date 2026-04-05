@@ -1,0 +1,218 @@
+{
+  "ad": "Nike \u2014 Find Your Greatness (Olympics 2012)",
+  "category": "iconic",
+  "vibeScore": 607,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:38:06.152074",
+  "fileSize": "2.7MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.2,
+    "sadness": 0.2,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Greatness. It's just something we made up. Somehow we've come to believe that greatness is a gift, reserved for a chosen few. For prodigies, for superstars. And the rest of us can only stand by watching. You can forget that. Greatness is not some rare DNA strand. It's not some precious thing. Greatness is no more unique to us than breathing. We're all capable of it. All of us.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "increasing",
+    "segmentCount": 13
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.901,
+      0.923,
+      0.949,
+      0.958,
+      0.878,
+      0.953,
+      0.963,
+      0.966,
+      0.958,
+      0.97,
+      0.967,
+      0.967
+    ],
+    "average": 0.946,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0.878,
+      "audio": "\u201cAnd the rest of us can only stand by watching.\u201d",
+      "video": "The man continues to jog towards the camera. The sky is still a mix of soft colors, and the road continues to stretch ou"
+    },
+    "maxAlignment": {
+      "timestamp": "45s",
+      "coherence": 0.97
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "road",
+        "confidence": 0.98
+      },
+      {
+        "label": "mailboxes",
+        "confidence": 0.9
+      },
+      {
+        "label": "sky",
+        "confidence": 0.99
+      },
+      {
+        "label": "man",
+        "confidence": 0.95
+      },
+      {
+        "label": "t-shirt",
+        "confidence": 0.85
+      },
+      {
+        "label": "shorts",
+        "confidence": 0.8
+      },
+      {
+        "label": "grass",
+        "confidence": 0.9
+      },
+      {
+        "label": "Nike logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "man",
+        "magnitude": 0.203,
+        "emotion": "joy",
+        "baseline": 0.0,
+        "contextual": 0.5,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A long, straight, asphalt road stretches into the distance under a cloudy sky with a pinkish hue near the horizon. Two mailboxes stand on the left side of the road. A person is running in the distance.",
+      "0:08-1:01 \u2014 The camera follows a man running on a road at dawn. The man is wearing a white t-shirt and black shorts. The sky is cloudy and the sun is rising. The road is surrounded by fields. The man runs closer to the camera. The words 'FIND YOUR GREATNESS' and the Nike logo appear on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Nike's core audience historically consists of athletes and fitness enthusiasts, both male and female, aged 15-45, with a middle to upper-middle-class income. They are active individuals who participate in sports, exercise regularly, and value performance and style.",
+      "psychographics": "They identify with values such as achievement, competition, self-improvement, and pushing boundaries. They aspire to be their best selves, both physically and mentally, and seek inspiration and motivation from athletes and role models. They see themselves as driven, ambitious, and part of a community that values hard work and dedication.",
+      "brandMeaning": "To its core audience, Nike represents athletic excellence, innovation, and empowerment. It's a symbol of achieving personal goals, overcoming obstacles, and belonging to a community of like-minded individuals who strive for greatness."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad speaks to a broader audience than just elite athletes. It targets anyone who aspires to be better, regardless of their current fitness level or athletic ability. This includes individuals of all ages, genders, and socioeconomic backgrounds who are looking for motivation and inspiration to pursue their personal goals.",
+      "psychographics": "The ad appeals to values such as perseverance, self-belief, and the pursuit of personal excellence. It targets individuals who may feel intimidated by the idea of 'greatness' but are willing to challenge themselves and strive for improvement. It speaks to those who value authenticity, inclusivity, and the idea that everyone is capable of achieving something extraordinary.",
+      "tone": "The ad addresses the viewer in an encouraging and empowering tone, suggesting that greatness is within reach for everyone, not just a select few."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Nike's core message of athletic achievement and pushing boundaries, but it broadens the definition of 'athlete' to include anyone striving for personal improvement. This will make the core audience feel proud to be associated with a brand that champions inclusivity and empowers individuals of all abilities.",
+    "actualResonance": "This ad will resonate most strongly with individuals who are new to fitness or who have previously felt excluded from the world of athletics. It will also appeal to those who are looking for motivation and inspiration to overcome personal challenges and achieve their goals.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively expands Nike's reach by democratizing the concept of 'greatness,' but the CMO should be aware of a slight risk of alienating some core consumers who may perceive the message as diluting the brand's focus on elite athletic performance."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 9,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 7,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Pride decays to defiance",
+    "detonationRadius": 4.5,
+    "explanation": "The Nike 'Find Your Greatness' ad, amplified by the Colin Kaepernick controversy, demonstrates a masterful understanding of the attention economy. The initial risk of alienating some consumers was outweighed by the intense validation and loyalty gained from Nike's core demographic. The heavy rotation across TV and digital platforms, combined with the highly charged cultural moment, created a massive wave of attention, both positive and negative, which ultimately benefited the brand. The intentional targeting miss was a calculated gamble that paid off handsomely, turning potential vulnerability into a significant advantage.",
+    "whatIfScenario": "If the ad had run *before* the Kaepernick controversy, it would have been a well-received but ultimately unremarkable sports ad. The controversy provided the necessary friction to ignite the conversation and propel Nike into the cultural spotlight, resulting in a much smaller attention economy multiplier.",
+    "timingContext": {
+      "slot": "in-game",
+      "estimatedSpend": 50000000,
+      "note": "First SB ad in 27 years \u2014 massive cultural expectation",
+      "date": "2018-09-05",
+      "platform": "YouTube + TV (Monday Night Football premiere)",
+      "adFrequency": "heavy TV + digital rotation for 3 months",
+      "socialAmplification": "#JustBurnIt trended (people burning Nike shoes) \u2014 but ALSO #JustDoIt surged. Polarization AS strategy.",
+      "context": "Colin Kaepernick kneeling controversy. Nike chose a side. Stock initially dropped 3% then hit ALL-TIME HIGH within weeks. The targeting was intentional \u2014 Nike's core demo (18-35 urban) aligned with Kaepernick.",
+      "culturalMoment": "NFL kneeling controversy, Trump tweets against Nike, racial justice debate",
+      "aftermath": "$6B increase in brand value. Online sales up 31% in days. The INTENTIONAL targeting miss (alienating older conservative buyers) was calculated \u2014 they weren't buying Jordans anyway."
+    }
+  }
+}

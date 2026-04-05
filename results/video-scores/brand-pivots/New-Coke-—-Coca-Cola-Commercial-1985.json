@@ -1,0 +1,146 @@
+{
+  "ad": "New Coke \u2014 Coca-Cola Commercial (1985)",
+  "category": "brand-pivots",
+  "contentType": "brand identity video",
+  "vibeScore": 194,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T23:19:52.270270",
+  "fileSize": "1.2MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.35,
+    "fear": 0.05,
+    "surprise": 0.25,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.35
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Recently, an independent research firm ran a taste test between Coke and Pepsi. And the taste more people chose was the taste of Coca-Cola. Yes, more people all across the country, when comparing Coke to Pepsi, chose the taste of Coke as the better taste. Let's look at it this way, we gave America a choice, and more people said... Coke is it! Coke is it!",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "Pepsi",
+        "confidence": 0.99
+      },
+      {
+        "label": "Coca-Cola",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Pepsi",
+        "magnitude": 1.463,
+        "emotion": "trust",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.35,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.32,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.32,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.35,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Families, young adults, and the general population across various demographics, particularly in the United States.",
+      "psychographics": "Individuals who value tradition, Americana, and the experience of sharing a refreshing beverage. They may be brand-loyal and seek familiar tastes.",
+      "brandMeaning": "Coca-Cola represents a sense of nostalgia, happiness, and togetherness. It's often associated with American culture and is seen as a classic, reliable choice."
+    },
+    "adTargetAudience": {
+      "demographics": "General population, with a focus on consumers who are undecided between Coke and Pepsi or who may be considering switching brands.",
+      "psychographics": "Consumers who are influenced by taste tests and prefer to align with the majority opinion. They may be swayed by data and statistics.",
+      "tone": "Informative, persuasive, and confident. The ad aims to establish Coke as the preferred choice based on independent research."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's popularity and superior taste, validating the choices of loyal Coke drinkers.",
+    "actualResonance": "Consumers who are open to being persuaded by taste tests and data, as well as those who are already Coke drinkers and want to feel validated in their choice.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 5,
+    "verdict": "This ad effectively reinforces Coke's brand image and attempts to sway undecided consumers, though it may not significantly expand the market beyond its core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 7.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Outrage fatigue, then ironic amusement",
+    "culturalAlignment": -8,
+    "explanation": "New Coke was a massive brand pivot failure that triggered intense negative reactions. The national TV placement amplified the outrage, creating a significant negative multiplier. The scale of the backlash (400,000 hotline calls) indicates a catastrophic amplification of attention, driven by a sense of betrayal. While cost efficiency was high due to TV reach, the negative cultural alignment and brand damage outweigh the benefits. Fatigue sets in relatively quickly as the outrage subsides, eventually leading to ironic amusement.",
+    "whatIfScenario": "If Coca-Cola had tested the new formula in a smaller market with a controlled release and gathered feedback before a national launch, the negative attention economy multiplier could have been significantly reduced, potentially avoiding the brand crisis.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "1985-04-23",
+      "platform": "TV (national)",
+      "context": "Coca-Cola reformulated its 99-year-old recipe. THE most famous brand pivot failure in business history. Core audience (everyone) felt BETRAYED. Protest hotline got 400,000 calls.",
+      "aftermath": "Reversed in 79 days. 'Classic Coke' returned. Some conspiracy theorists think it was intentional marketing. It wasn't."
+    }
+  }
+}

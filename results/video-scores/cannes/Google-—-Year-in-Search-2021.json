@@ -1,0 +1,257 @@
+{
+  "ad": "Google \u2014 Year in Search 2021",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 352,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:08:24.005562",
+  "fileSize": "6.7MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.5,
+    "fear": 0.35,
+    "surprise": 0.35,
+    "sadness": 0.5,
+    "disgust": 0.2,
+    "anger": 0.3,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.4,
+      "surprise": 0.3,
+      "sadness": 0.6,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "This year more than ever the world searched\nThis year has been extremely challenging for me.\nI am broken.\nAnd I am healing.\nI'm here at the memorial wall. I wanted to do something to remember my mom.\nFor some reason, I'm having anxiety. Obviously, it's normal with everything that's going on right now.\nI think I'm going to take a break for a while.\nYou can get through it. And if you can get through it, there's a greater reward on the other side.\nJust like anybody else, you know, I'm just trying to do my little part to try and save my community.\nI'm just really excited we're back open. And I am smiling under my mask.\nIncredible scenes on the day the fans came back.\nWelcome back to the theater.\nYou're looking at yourself in the mirror and you're just like, there I am.\nBe your best. Never ever ever stop dreaming. I don't care what they tell you.\nWe the jury in the above entitled matter as to count three, find the defendant guilty.\nWe are not drowning. We are fighting.\nWe cannot keep quiet about climate injustice. No action is too small.\nWe just have to band together as a community and get people's lives back.\nCan I visit my family?\nEven as we grieved, we grew, that even as we hurt, we hoped that even as we tired, we tried that we'll forever be tied together victorious.\nTo everyone fighting to come back stronger\nSearch on.",
+    "segmentCount": 32
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.5,
+      "fear": 0.3,
+      "surprise": 0.4,
+      "sadness": 0.4,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 40
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.589,
+      0.429,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -0.906,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "Google",
+        "confidence": 0.99
+      },
+      {
+        "label": "fireworks",
+        "confidence": 0.95
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      },
+      {
+        "label": "text",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Google",
+        "magnitude": 0.224,
+        "emotion": "joy",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05",
+        "description": "Two healthcare workers in protective gear sit outside a building with an EXIT sign. The scene transitions to an airplane with people disembarking, highlighting the challenges and changes of the year."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.53,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Pessimism",
+        "strength": 0.53,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Sentimentality",
+        "strength": 0.5,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.48,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Anxiety",
+        "strength": 0.45,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.43,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Submission",
+        "strength": 0.42,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Disapproval",
+        "strength": 0.42,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.42,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Despair",
+        "strength": 0.42,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Envy",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Dominance",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Guilt",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Delight",
+        "strength": 0.38,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Awe",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Pride",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.32,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.53,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Global internet users, all ages, genders, and socioeconomic backgrounds",
+      "psychographics": "People who value information, problem-solving, connectivity, and staying informed about current events. They are curious, open-minded, and seek knowledge to improve their lives and understand the world around them.",
+      "brandMeaning": "Google represents access to information, innovation, and the ability to find answers to any question. It symbolizes empowerment through knowledge and the potential to connect with others globally."
+    },
+    "adTargetAudience": {
+      "demographics": "Global audience, all ages, genders, and socioeconomic backgrounds",
+      "psychographics": "Individuals who have experienced challenges, loss, or uncertainty in the past year and are seeking hope, resilience, and ways to move forward. They are empathetic, community-minded, and value connection and support.",
+      "tone": "Inspirational, hopeful, empathetic, and community-focused"
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad aligns with Google's core purpose of providing information and solutions, resonating with its core audience's desire for knowledge and empowerment.",
+    "actualResonance": "The ad will resonate with a broad audience, particularly those who have faced difficulties and are seeking inspiration and guidance on how to cope and move forward.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively leverages Google's brand to connect with a global audience by addressing universal themes of resilience, hope, and community in the face of adversity, reinforcing its role as a source of information and support."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 7.5,
+    "costEfficiency": 6.0,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Sentimentality",
+    "culturalAlignment": 7,
+    "explanation": "The 'Year in Search' campaign benefits from its timing (end of year, post-COVID reflection) and placement (YouTube, a high-reach platform). The audience data indicates low risk and high validation, suggesting positive initial reception. However, the emotional nature of the content means fatigue velocity is moderate, and repeated viewing could lead to sentimentality rather than continued engagement. The cultural alignment is positive, reflecting the shared experience of the year.",
+    "whatIfScenario": "If the campaign had been released earlier in the year, before the full impact of post-COVID life was realized, the cultural alignment and attention economy multiplier would likely be lower.",
+    "detonationRadius": 2.8,
+    "timingContext": {
+      "date": "2021-12",
+      "platform": "YouTube",
+      "context": "Annual emotional recap. Post-COVID year. Highly emotional cultural moment."
+    }
+  }
+}

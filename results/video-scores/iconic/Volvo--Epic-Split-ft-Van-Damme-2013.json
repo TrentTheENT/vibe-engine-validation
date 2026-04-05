@@ -1,0 +1,243 @@
+{
+  "ad": "Volvo \u2014 Epic Split ft. Van Damme (2013)",
+  "category": "iconic",
+  "vibeScore": 597,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:38:29.520693",
+  "fileSize": "3.5MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.6,
+    "fear": 0.15,
+    "surprise": 0.3,
+    "sadness": 0.2,
+    "disgust": 0.05,
+    "anger": 0.1,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.0,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "I've had my ups and downs, my fair share of bumpy roads and heavy winds. That's what made me what I am today. Now I stand here before you. What you see is a body crafted to perfection, a pair of legs engineered to defy the laws of physics. And a mindset to master the most epic of splits.",
+    "segmentCount": 14
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "increasing",
+    "segmentCount": 16
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.903,
+      0.896,
+      0.876,
+      0.843,
+      0.843,
+      0.849,
+      0.849,
+      0.849,
+      0.849,
+      0.849,
+      0.849,
+      0.849,
+      0.643,
+      0.643
+    ],
+    "average": 0.828,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "112s",
+      "coherence": 0.643,
+      "audio": "Female vocals, building tension",
+      "video": "Black screen."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.903
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "Jean-Claude Van Damme",
+        "confidence": 0.99
+      },
+      {
+        "label": "truck",
+        "confidence": 0.98
+      },
+      {
+        "label": "Volvo Globetrotter",
+        "confidence": 0.95
+      },
+      {
+        "label": "denim shirt",
+        "confidence": 0.9
+      },
+      {
+        "label": "road",
+        "confidence": 0.95
+      },
+      {
+        "label": "sunset",
+        "confidence": 0.9
+      },
+      {
+        "label": "split",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "truck",
+        "magnitude": 0.318,
+        "emotion": "surprise",
+        "baseline": 0.1,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "Volvo Globetrotter",
+        "magnitude": 0.252,
+        "emotion": "surprise",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "split",
+        "magnitude": 0.252,
+        "emotion": "trust",
+        "baseline": 0.4,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 Jean-Claude Van Damme stands between two gold Volvo trucks with a sunset in the background, talking about his life experiences."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Volvo's core audience historically consists of safety-conscious, educated, and affluent individuals and families, typically aged 35-65, with a slight skew towards male drivers. Income levels are generally upper-middle class to high income. Lifestyle leans towards practicality, reliability, and a desire for understated luxury.",
+      "psychographics": "They value safety, reliability, environmental responsibility, and intelligent design. They see themselves as responsible, discerning consumers who prioritize long-term value over fleeting trends. They aspire to a comfortable and secure life for themselves and their families.",
+      "brandMeaning": "To its core audience, Volvo represents safety, reliability, and understated luxury. It's a symbol of responsible and intelligent consumerism, a brand that prioritizes substance over flash."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broader audience than Volvo's traditional base, including those interested in action sports, engineering feats, and viral marketing. It appeals to a younger demographic (25-55), both male and female, who appreciate spectacle and a sense of awe. It also targets those who appreciate Jean-Claude Van Damme and his iconic status.",
+      "psychographics": "The ad appeals to values of strength, precision, and defying limitations. It taps into a sense of wonder and the desire to witness extraordinary achievements. It also speaks to those who appreciate humor and a touch of nostalgia.",
+      "tone": "The ad addresses the viewer with a tone of awe and respect, highlighting the incredible feat and the engineering prowess behind it. It uses a confident and slightly humorous tone, leveraging Van Damme's persona."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "While the ad is unconventional, it reinforces Volvo's core values of engineering excellence and pushing boundaries. The demonstration of precision and control will resonate with the core audience's appreciation for safety and reliability, even if presented in a surprising way.",
+    "actualResonance": "The ad will resonate most strongly with a broad audience interested in viral marketing, engineering feats, and action sports. It will also appeal to fans of Jean-Claude Van Damme and those who appreciate a well-executed stunt. The ad's virality will extend its reach beyond Volvo's typical demographic.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a brilliant risk that leverages viral marketing to expand brand awareness while subtly reinforcing core values, but ensure the message doesn't overshadow the brand's commitment to safety and reliability for the core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 3,
+    "socialPropagation": 8,
+    "temporalCompounding": 7,
+    "frequencyPressure": 4,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Awe decays to Appreciation",
+    "detonationRadius": 3.5,
+    "explanation": "The Volvo Epic Split ad benefited significantly from its YouTube-first release, allowing for controlled viral spread and positive social propagation. The timing aligned perfectly with a cultural moment receptive to impressive stunts and displays of engineering prowess. While not a Super Bowl-level reach, the targeted digital placement ensured cost efficiency and minimized friendly fire risk. The ad's inherent memorability and positive reception led to a strong attention economy multiplier, amplifying its impact far beyond traditional advertising metrics.",
+    "whatIfScenario": "If the ad had debuted during a period of heightened safety concerns or corporate distrust, the stunt's risk factor could have been perceived negatively, leading to a lower cultural alignment score and a potentially damaging social media backlash. Releasing it during a major news event could have also buried it.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

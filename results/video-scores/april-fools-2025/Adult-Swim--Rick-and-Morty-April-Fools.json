@@ -1,0 +1,227 @@
+{
+  "ad": "Adult Swim \u2014 Rick and Morty April Fools",
+  "category": "april-fools-2025",
+  "vibeScore": 627,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:04:07.506898",
+  "fileSize": "1.8MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.4,
+    "fear": 0.3,
+    "surprise": 0.6,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.3,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Okay, no more.",
+    "segmentCount": 9
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.3,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 9
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.984,
+      0.949,
+      0.861,
+      0.925,
+      0,
+      0,
+      0,
+      0.936,
+      0.666
+    ],
+    "average": 0.591,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0,
+      "audio": "Silence",
+      "video": "The curtains are closed on the stage."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.984
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "theater stage",
+        "confidence": 0.99
+      },
+      {
+        "label": "stage lighting",
+        "confidence": 0.95
+      },
+      {
+        "label": "Rick Sanchez costume",
+        "confidence": 0.98
+      },
+      {
+        "label": "toy ray gun",
+        "confidence": 0.95
+      },
+      {
+        "label": "theatrical costumes",
+        "confidence": 0.97
+      },
+      {
+        "label": "stage curtain",
+        "confidence": 0.99
+      },
+      {
+        "label": "title card",
+        "confidence": 0.98
+      },
+      {
+        "label": "geodesic dome",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A stage show begins with people in costume, including one dressed as Rick Sanchez, performing on stage.",
+      "0:08-0:17 \u2014 The stage show continues with more characters and a monster.",
+      "0:17-0:21 \u2014 The title card for \"The Rick and Morty Playhouse Players Present: Portal People\" is shown.",
+      "0:21-0:44 \u2014 The stage show continues with the curtain opening and closing, and the performers taking the stage."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.6,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.6,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Adult Swim's core audience is primarily composed of young adults and millennials, aged 18-34, with a slight skew towards males. They often have a moderate disposable income and are digitally native, spending significant time online and engaging with internet culture.",
+      "psychographics": "This audience values irreverence, dark humor, satire, and intellectual stimulation. They identify with outsider perspectives and appreciate content that challenges societal norms. They aspire to be seen as intelligent, witty, and in-the-know regarding niche interests and trends.",
+      "brandMeaning": "Adult Swim represents a counter-cultural escape, a source of intelligent and absurd humor that validates their unique perspectives and provides a sense of community through shared appreciation of its unconventional content."
+    },
+    "adTargetAudience": {
+      "demographics": "The ad targets existing Rick and Morty fans, particularly those who enjoy the show's meta-humor and willingness to experiment with different formats. It also appeals to fans of theater and performance art, as well as those who appreciate April Fools' Day pranks.",
+      "psychographics": "This audience appreciates self-aware humor, unexpected twists, and a willingness to embrace the absurd. They enjoy being part of an inside joke and value brands that demonstrate creativity and a sense of playfulness.",
+      "tone": "The ad addresses the viewer with a playful, self-aware, and slightly chaotic tone, inviting them to participate in the joke."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad leans heavily into the show's established meta-humor and willingness to experiment, which are core tenets of the Rick and Morty brand. The absurdity of a low-budget stage play is exactly the kind of unexpected content the core audience expects and appreciates from Adult Swim.",
+    "actualResonance": "The ad will resonate most strongly with dedicated Rick and Morty fans who are familiar with the show's meta-narrative and appreciate its willingness to break the fourth wall. It will also appeal to those who enjoy absurdist humor and performance art.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 4,
+    "verdict": "While the ad is likely to be well-received by the core audience, its niche humor might limit its appeal to a broader audience, so ensure the joke lands and doesn't alienate casual viewers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "extremely_efficient",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 7,
+    "frequencyPressure": 3,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Surprise decays to Amusement, then Acceptance",
+    "detonationRadius": 3.5,
+    "explanation": "Rick and Morty's April Fools stunts are designed for maximum attention economy impact. The timing (April Fools) inherently lowers trust and raises the humor bar, creating a high-risk, high-reward scenario. However, the brand's established reputation for meta-humor and the audience's expectation of trickery significantly amplify the positive reception. High social propagation ensures rapid spread, while the single-drop nature limits frequency pressure. The cultural alignment is strong, as the audience actively seeks out and enjoys these types of stunts.",
+    "whatIfScenario": "If this ad ran on a random Tuesday, it would likely be perceived as bizarre and confusing, lacking the contextual framework of April Fools' Day. The audience would be less receptive, and the social amplification would be significantly reduced, resulting in a much lower attention economy multiplier.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "ad": "Apple \u2014 A Critter Carol Shot on iPhone 17 Pro",
+  "category": "apple",
+  "vibeScore": 577,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:18:50.678927",
+  "fileSize": "9.6MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.4,
+    "fear": 0.25,
+    "surprise": 0.55,
+    "sadness": 0.15,
+    "disgust": 0.1,
+    "anger": 0.15,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "footsteps in snow, thud, phone falling in snow, phone tapping, ping, pum pum pum, pum pum pum, pum pum pum, ping, dum dum dum dum dum dum, pum pum pum, ping, dum dum dum dum dum dum, pum pum pum, ping, dum dum dum dum dum dum, friends sing together, la la la, friends do things together, la la la, friends love together, ha ha ha, friends eat trash together, la la la, friends help you when you're in danger, friends are people who are not strangers, friends help you shift in to a new place, tell you if you've got food on your face, friends are the ones on whom you can depend, he's my friend, he's not my friend, friends are the ones who are there in the end, thud, hey, that's not the vibe, this is very triggering, drop the rat, my friend, he's not my friend, if you cross the road and a truck struck you, I'll scrape you up and reconstruct you, I'll cheer you up if you're depressed, if they hunt you down I'll avenge your death, okay, that's a bit dark, friends walk together, la la la, often walk together, me and him together, la la la, everyone together, friends friends friends, la la la, friends friends friends, they're coming, humans, ahhhhh, silence",
+    "segmentCount": 25
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.3,
+      "surprise": 0.7,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 44
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0,
+      0,
+      0,
+      0,
+      0.722,
+      0.879,
+      0.879,
+      0.879,
+      0.879,
+      0.879,
+      0.631,
+      0.045,
+      -0.301,
+      -0.301,
+      0.129,
+      -0.178,
+      -0.368,
+      0,
+      0,
+      0,
+      0.776,
+      0.776,
+      0.196,
+      0.182,
+      0
+    ],
+    "average": 0.268,
+    "assessment": "INDEPENDENT",
+    "maxDivergence": {
+      "timestamp": "80s",
+      "coherence": -0.368,
+      "audio": "drop the rat, my friend, he's not my friend",
+      "video": "The animals start to band together, showing support and friendship."
+    },
+    "maxAlignment": {
+      "timestamp": "25s",
+      "coherence": 0.879
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "snowy forest",
+        "confidence": 0.99
+      },
+      {
+        "label": "iPhone 14 Pro",
+        "confidence": 0.98
+      },
+      {
+        "label": "raccoon puppet",
+        "confidence": 0.95
+      },
+      {
+        "label": "bear puppet",
+        "confidence": 0.95
+      },
+      {
+        "label": "squirrel puppet",
+        "confidence": 0.95
+      },
+      {
+        "label": "wolf puppet",
+        "confidence": 0.95
+      },
+      {
+        "label": "heart shape",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 Two people hike through a snowy forest.",
+      "0:08-0:17 \u2014 An iPhone falls in the snow and a bear paw picks it up.",
+      "0:17-0:21 \u2014 The iPhone records a raccoon in the snowy forest.",
+      "0:21-1:09 \u2014 The raccoon and other animal puppets sing about friendship.",
+      "1:09-1:14 \u2014 The raccoon puppet says that's not the vibe and the bear puppet drops the rat puppet.",
+      "1:14-1:28 \u2014 The wolf puppet eats the rat puppet.",
+      "1:28-1:57 \u2014 The raccoon puppet says that's a bit dark and the animal puppets sing about friendship again.",
+      "1:57-2:04 \u2014 The squirrel puppet is hanging from a tree branch and the human hikers find the iPhone in a heart shape.",
+      "2:04-2:18 \u2014 The human hikers look at the iPhone and the animal puppets are seen again.",
+      "2:18-2:24 \u2014 The video ends with a black screen and the text 'Additional hardware and software used'."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "ad": "NFL \u2014 Flag 50",
+  "category": "superbowl-2025",
+  "vibeScore": 647,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:15:21.983879",
+  "fileSize": "7.9MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.3,
+    "fear": 0.2,
+    "surprise": 0.5,
+    "sadness": 0.1,
+    "disgust": 0.3,
+    "anger": 0.45,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Bell ringing, people yelling, principal yelling \"Toworski, you're on thin ice mister!\" Principal yelling \"Hey Principal P! Stop kicking your principal! Everybody's on thin ice!\" \"What's this? A dorkasaurus rex?\" \"Come on Chad, I don't want any trouble. Leave him alone, I'll kick your butt Chad!\" \"Hey Chad, check out the new girl. Ew, what is she wearing?\" \"Girls don't play football. They do where I'm from. Get a load of this one.\" Sound of football hitting someone, girls screaming, \"Right in the Jimmy Johnson!\" \"See, it ain't over. We just getting started, Chad.\" Music, \"Let's go, let's go!\" Music, \"Ooh, new girl bad!\" Music \"Enough! Let's settle this once and for all. Your best guy, girl, whatever, versus our best guy.\" \"The Brad!\" \"Oh, not the Brad.\" \"I'm Brad. I can read.\"",
+    "segmentCount": 32
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 32
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.975,
+      0.902,
+      0.885,
+      0.748,
+      0.903,
+      0.624,
+      0.647,
+      0.921,
+      0.982,
+      0.935,
+      0.859,
+      0.874,
+      0.914,
+      0.783,
+      0.899,
+      0.952,
+      0.863,
+      0.683,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863,
+      0.863
+    ],
+    "average": 0.857,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.624,
+      "audio": "\"Girls don't play football. They do where I'm from. Get a load of this one.\"",
+      "video": "The new girl throws the football at one of the football players, hitting him in the face. The cheerleaders scream."
+    },
+    "maxAlignment": {
+      "timestamp": "40s",
+      "coherence": 0.982
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "high school building",
+        "confidence": 0.98
+      },
+      {
+        "label": "roll of toilet paper",
+        "confidence": 0.95
+      },
+      {
+        "label": "\"Kick Me\" sign",
+        "confidence": 0.95
+      },
+      {
+        "label": "letterman jacket",
+        "confidence": 0.95
+      },
+      {
+        "label": "football",
+        "confidence": 0.95
+      },
+      {
+        "label": "cheerleader uniform",
+        "confidence": 0.95
+      },
+      {
+        "label": "football field",
+        "confidence": 0.95
+      },
+      {
+        "label": "mullet hairstyle",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "roll of toilet paper",
+        "magnitude": 0.203,
+        "emotion": "surprise",
+        "baseline": 0.2,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "\"Kick Me\" sign",
+        "magnitude": 0.203,
+        "emotion": "surprise",
+        "baseline": 0.2,
+        "contextual": 0.6,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A principal chases students down a school hallway. The students are playing a prank on him, and he has a \"Kick Me\" sign on his back.",
+      "0:09-0:20 \u2014 Students walk down the hallway of Central High School. Some students are teasing a nerdy student, while others are trying to stop them.",
+      "0:21-0:39 \u2014 A new girl arrives at school and is immediately judged by the cheerleaders and football players.",
+      "0:40-0:55 \u2014 Girls try out for the flag football team.",
+      "0:56-1:13 \u2014 A football player challenges the new girl to a game of flag football.",
+      "1:14-1:31 \u2014 The new girl prepares to play flag football against the football player.",
+      "1:32-1:41 \u2014 The new girl and the football player play flag football.",
+      "1:42-2:00 \u2014 The new girl wins the flag football game and celebrates with her teammates."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.45,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "AgJy",
+        "name": "Pride",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.5,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Predominantly male, aged 25-54, middle to upper-middle class income, sports enthusiasts, often with families, value tradition and community.",
+      "psychographics": "Values include competition, teamwork, loyalty, and a sense of belonging. Identity is often tied to their favorite team and the rituals of game day. Aspirations include success, camaraderie, and passing on their love of the game to future generations.",
+      "brandMeaning": "The NFL represents tradition, excitement, competition, and a shared cultural experience. It's a source of entertainment, community, and national pride."
+    },
+    "adTargetAudience": {
+      "demographics": "Younger generation (13-25), both male and female, more inclusive and progressive values, digitally native, interested in social justice and equality.",
+      "psychographics": "Values inclusivity, fairness, and challenging traditional gender roles. Identity is tied to their generation's values and a desire for a more equitable society. Aspirations include making a positive impact on the world and being part of a more inclusive community.",
+      "tone": "Empowering and celebratory, aiming to resonate with a younger, more progressive audience by highlighting inclusivity and challenging traditional gender roles in football."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The ad's focus on flag football and female empowerment might confuse some older, more traditional NFL fans who primarily associate the league with male-dominated, tackle football. They may not immediately understand the connection or appreciate the shift in focus.",
+    "actualResonance": "Younger audiences (both male and female) who value inclusivity and gender equality, particularly those interested in sports and female empowerment. It will also resonate with parents who want to see their daughters have equal opportunities in sports.",
+    "friendlyFireRisk": 3,
+    "marketExpansion": 7,
+    "verdict": "This ad has strong potential to expand the NFL's audience but requires careful monitoring of core fan sentiment to mitigate any backlash from those who feel the brand is straying too far from its traditional roots."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 10,
+    "frequencyPressure": 3,
+    "culturalAlignment": -2,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 5.4,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny and high costs. The 'CONFUSED' core reaction and slight negative cultural alignment indicate the message isn't resonating, leading to wasted spend. Social propagation and temporal compounding mean any misstep will be amplified and remembered. While the single airing limits frequency pressure, the high contextual vulnerability makes this a risky placement.",
+    "whatIfScenario": "If this ad ran on a smaller streaming platform with a more niche audience, the cost efficiency would improve, but the reach and social propagation would be significantly reduced. The contextual vulnerability would also decrease, allowing for more experimentation without the risk of widespread negative backlash.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

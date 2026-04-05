@@ -1,0 +1,178 @@
+{
+  "ad": "Tropicana \u2014 Rebrand Packaging Change (2009)",
+  "category": "brand-pivots",
+  "contentType": "brand identity video",
+  "vibeScore": 392,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T23:20:38.946682",
+  "fileSize": "8.4MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.3,
+    "fear": 0.05,
+    "surprise": 0.15,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.25
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "trust",
+    "arcShape": "steady",
+    "transcript": "Hello, I'm Antonio Neves and this is 3-minute AdAge, your daily video news show. Earlier this week, the New York Times reported that PepsiCo's Tropicana orange juice brand was dumping the new package design it just launched weeks ago. The move responds to negative consumer reaction. The new packaging was created by Omnicom's Arnell Group. They replaced Tropicana's original carton design that looked like this with a new design that looked like this, eliminating the orange and straw logo. At a Pepsi press conference five weeks ago, Peter Arnell defended the carton design that is now being withdrawn. We uh started on a journey approximately um uh five months ago. to try to give a uh new refresh a new energy to Tropicana. So we thought it would be very, very important to take this uh this brand and bring it or evolve it into a more um uh current or modern state. Emotionally, it was very, very difficult and it still remains difficult for everyone to grasp the importance of that change was so dramatic, but of course, historically, we always showed the outside of the orange. Um, what was fascinating uh was of course that we had never shown the product called the juice. There was a a strong drive to bring a big messaging onto the carton where the biggest single billboarding was. Having said that, we wanted to take the orange and put it somewhere. We engineered um this interesting little squeeze cap here, which you guys can call up and see after. so that um the notion of squeezing the orange was implied ergonomically every day when you actually went to the actual carton. The skin of the orange is replicated on the cap and tooled into the cap. The idea of course is to have a consistency between the purity of the juice, which is coming directly from the orange, the cap, which you squeeze every day, and of course the carton, right? Um, now, the reason why that's all important is because of course squeeze also maintains a certain level of I guess um of power when it comes to this notion emotionally about what squeeze means like my squeeze or give me a squeeze or the notion of a hug or the ideas behind, you know, the um the power of uh of of of of love and the idea of transferring that love or converting that attitude between mom and the kids, right? And now, Tropicana is switching back to its old orange and straw design, but will retain Arnell's orange screw cap. And that's it for this three minute AdAge. Thanks for being with us. I'm Antonio Neves at advertising agent in New York.",
+    "segmentCount": 24
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.0,
+      "surprise": 0.1,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.1
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 51
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.936,
+      0.873,
+      0.913,
+      0.872,
+      0.872,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.872,
+      0.872
+    ],
+    "average": 0.55,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Tropicana",
+        "confidence": 0.98
+      },
+      {
+        "label": "orange juice carton",
+        "confidence": 0.99
+      },
+      {
+        "label": "Peter Arnell",
+        "confidence": 0.95
+      },
+      {
+        "label": "Antonio Neves",
+        "confidence": 0.99
+      },
+      {
+        "label": "New York Times",
+        "confidence": 0.9
+      },
+      {
+        "label": "orange",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "orange",
+        "magnitude": 0.933,
+        "emotion": "joy",
+        "direction": "suppressed"
+      },
+      {
+        "object": "Tropicana",
+        "magnitude": 0.911,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "orange juice carton",
+        "magnitude": 0.872,
+        "emotion": "sadness",
+        "direction": "amplified"
+      },
+      {
+        "object": "Peter Arnell",
+        "magnitude": 0.548,
+        "emotion": "surprise",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Adults, particularly families, seeking convenient and healthy breakfast or beverage options.",
+      "psychographics": "Value convenience, health, and natural products. Trust established brands and familiar packaging. Appreciate a sense of tradition and reliability.",
+      "brandMeaning": "Tropicana represents a trusted, convenient, and healthy way to start the day with natural orange juice."
+    },
+    "adTargetAudience": {
+      "demographics": "Marketing and advertising professionals, brand strategists, and business executives interested in brand identity, packaging design, and consumer behavior.",
+      "psychographics": "Interested in industry news, case studies, and insights into successful and unsuccessful marketing campaigns. Appreciate analysis of consumer reactions and the impact of design choices.",
+      "tone": "Informative, analytical, and professional, providing a critical overview of a branding decision."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The core audience is not directly addressed, as this is an industry news report. However, the topic of Tropicana's packaging change and consumer reaction is relevant to their experience as consumers.",
+    "actualResonance": "Marketing and advertising professionals, brand strategists, and business executives will find this content most resonant, as it provides a case study of a branding decision and its consequences.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 3,
+    "verdict": "This video serves as an informative industry news piece, unlikely to alienate Tropicana's core consumers while providing valuable insights for marketing professionals."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 0.7,
+    "costEfficiency": 0.2,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Annoyance",
+    "culturalAlignment": -8,
+    "explanation": "The Tropicana rebrand is a classic case of catastrophic misjudgment. The immediate negative reaction and significant financial losses indicate a massive failure to capture and retain audience attention. The speed of the reversal amplifies the negative impact. The reach was broad (retail), but the cost efficiency was terrible due to the massive losses. People quickly grew tired of the new design, and the initial neutrality decayed into annoyance. The design was fundamentally misaligned with the brand's established cultural identity.",
+    "whatIfScenario": "If Tropicana had A/B tested the new packaging in a limited market, they could have identified the negative consumer response before a full-scale rollout, preventing significant financial losses and brand damage.",
+    "detonationRadius": 4.5,
+    "timingContext": {
+      "date": "2009-01-08",
+      "platform": "Retail (in-store packaging)",
+      "context": "PepsiCo redesigned Tropicana's iconic 'straw in orange' packaging. Replaced with generic minimal design. Core audience couldn't find their juice on shelves.",
+      "aftermath": "Sales dropped 20% in 2 months. $50M in lost revenue. Reversed to original packaging within 2 months. The fastest major rebrand reversal in CPG history."
+    }
+  }
+}

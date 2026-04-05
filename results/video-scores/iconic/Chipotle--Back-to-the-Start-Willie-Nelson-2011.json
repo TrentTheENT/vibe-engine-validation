@@ -1,0 +1,227 @@
+{
+  "ad": "Chipotle \u2014 Back to the Start (Willie Nelson, 2011)",
+  "category": "iconic",
+  "vibeScore": 534,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:36:06.900718",
+  "fileSize": "5.6MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.45,
+    "fear": 0.25,
+    "surprise": 0.4,
+    "sadness": 0.4,
+    "disgust": 0.3,
+    "anger": 0.15,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.6,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "sadness",
+    "arcShape": "constant",
+    "transcript": "I was just guessing at numbers and figures, wrong and the puzzle apart. Questions of science, science and progress, don't speak as loud as my heart. Nobody said it was easy. It's such a shame for us to part. Nobody said it was easy. No one ever said it would be so hard. I'm going back to the start.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.3,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.4,
+      "anger": 0.2,
+      "anticipation": 0.6
+    },
+    "dominant": "fear",
+    "arcShape": "valley",
+    "segmentCount": 37
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.665,
+      0.625,
+      0.455,
+      0.455,
+      0.712,
+      0.708,
+      0.768,
+      0.746,
+      0.435,
+      0.262,
+      0.262,
+      0.262
+    ],
+    "average": 0.53,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "45s",
+      "coherence": 0.262,
+      "audio": "No one ever said it would be so hard.",
+      "video": "The pigs are processed through a system of pills and green liquid. This is a disturbing and unpleasant image."
+    },
+    "maxAlignment": {
+      "timestamp": "30s",
+      "coherence": 0.768
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "miniature trees",
+        "confidence": 0.98
+      },
+      {
+        "label": "miniature mountains",
+        "confidence": 0.95
+      },
+      {
+        "label": "miniature pig",
+        "confidence": 0.97
+      },
+      {
+        "label": "miniature tractor",
+        "confidence": 0.96
+      },
+      {
+        "label": "miniature cows",
+        "confidence": 0.95
+      },
+      {
+        "label": "prescription pills",
+        "confidence": 0.9
+      },
+      {
+        "label": "Chipotle delivery truck",
+        "confidence": 0.95
+      },
+      {
+        "label": "miniature chickens",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 The scene opens with a dark, blurry view of a field, which gradually brightens to reveal a miniature landscape with green fields, trees, and mountains in the background.",
+      "0:08-0:21 \u2014 A family of three stylized figures appears, followed by a pig. The pig walks towards a wooden frame structure. More pigs appear.",
+      "0:21-0:36 \u2014 The scene transitions to show the progression of building a barn, a tractor, and cows.",
+      "0:36-0:56 \u2014 The scene shifts to a more industrial setting, showing pigs being processed in a factory-like environment.",
+      "0:56-1:15 \u2014 The camera moves to show the pigs being transported on a conveyor belt, then the scene transitions to a snowy landscape with a figure on a tractor.",
+      "1:15-1:25 \u2014 The scene shows a figure with thought bubbles containing images of pills, flowers, and pigs in cages.",
+      "1:25-1:53 \u2014 The scene returns to a rural landscape, where the figure walks towards a barn, then to a Chipotle delivery truck, surrounded by chickens.",
+      "1:53-2:19 \u2014 The family of figures is reunited. The camera pans to show a sign that reads 'Cultivate a Better World' with the Chipotle logo and website."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpSd",
+        "name": "Disapproval",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.5,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.4,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.45,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Millennials and Gen Z, skewing slightly towards urban and suburban areas, with a mid-range income demonstrating disposable income for fast-casual dining. They are digitally native and health-conscious.",
+      "psychographics": "Values sustainability, ethical sourcing, and transparency in food production. They identify with brands that align with their values and aspire to a healthier and more socially responsible lifestyle. They appreciate authenticity and dislike corporate excess.",
+      "brandMeaning": "Chipotle represents a commitment to 'food with integrity,' offering a convenient yet ethically sourced and relatively healthy fast-casual option. It signifies a conscious choice and a rejection of traditional fast food values."
+    },
+    "adTargetAudience": {
+      "demographics": "Adults aged 25-55, with a focus on those who are environmentally conscious and appreciate artisanal or handcrafted products. Income is likely mid-to-upper range, reflecting a willingness to pay more for quality and ethical considerations.",
+      "psychographics": "Values authenticity, sustainability, and a return to simpler, more traditional methods of production. They are likely skeptical of large corporations and appreciate brands that prioritize ethical sourcing and environmental responsibility. They aspire to a more meaningful and connected lifestyle.",
+      "tone": "Thoughtful, reflective, and hopeful, appealing to a sense of nostalgia and a desire for positive change."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Chipotle's commitment to ethical sourcing and sustainability, aligning with the core audience's values and making them feel proud to support the brand.",
+    "actualResonance": "Environmentally conscious consumers across a broader age range, including older millennials and Gen X, who appreciate the message of sustainability and ethical food production.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively reinforces Chipotle's core values and expands its appeal to a broader audience interested in sustainability and ethical practices, with minimal risk of alienating its existing customer base."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 5,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 3,
+    "socialPropagation": 6,
+    "temporalCompounding": 7,
+    "frequencyPressure": 4,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Nostalgia decays to Acceptance",
+    "detonationRadius": 2.5,
+    "explanation": "Chipotle's 'Back to the Start' benefited from a generally positive cultural alignment towards sustainability and ethical farming practices. While the timing and placement were standard, the message resonated well with a significant portion of the audience, leading to positive word-of-mouth and social sharing. The lack of a specific high-pressure context (like the Super Bowl) reduced contextual vulnerability, but also limited the potential for massive simultaneous reach. The ad's emotional core of nostalgia and hope helped mitigate fatigue, though repeated exposure could lead to a sense of acceptance rather than continued enthusiasm.",
+    "whatIfScenario": "If the ad had been released during a period of intense scrutiny of the food industry's environmental impact, the friendly fire risk would have been higher, potentially leading to a negative backlash despite the positive message. Conversely, a Super Bowl placement could have amplified the reach significantly, but also increased the risk of negative social propagation if the ad was perceived as inauthentic or preachy.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "ad": "John Lewis \u2014 Man on the Moon (Christmas 2015)",
+  "category": "iconic",
+  "vibeScore": 593,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:41:08.573311",
+  "fileSize": "4.2MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.5,
+    "fear": 0.15,
+    "surprise": 0.35,
+    "sadness": 0.5,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.5,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "I would like to leave this city, this old town don't smell too pretty and I can feel the warning signs running around my mind. And when I leave this planet, even though I'd stay, but I just can't stand it and I can feel the warning signs running around my mind. So here I go, I'm still scratching around in the same old hole. My body feels young but my mind is very old. So what do you say? You can't give me the dreams that are mine anyway. You'll have the world away. You'll have the world away. I've been lost, I've been found but I don't feel done. You'll have the world away. I've been lost, I've been found but I don't feel done. I don't feel done.",
+    "segmentCount": 32
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.5,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "trust",
+    "arcShape": "peak",
+    "segmentCount": 31
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.769,
+      0.768,
+      0.635,
+      0.716,
+      0.677,
+      0.716,
+      0.92,
+      0.716,
+      0.716,
+      0.704,
+      0.704,
+      0.949,
+      0.96,
+      0.96,
+      0.96,
+      0.96,
+      0.926,
+      0.751,
+      0.894,
+      0.904,
+      0.904,
+      0.904,
+      0.92,
+      0.926,
+      0.751,
+      0.894,
+      0.904,
+      0.859,
+      0.96,
+      0.96,
+      0.751
+    ],
+    "average": 0.84,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "10s",
+      "coherence": 0.635,
+      "audio": "\"...I can feel the warning signs running around my mind.\"",
+      "video": "The view through the telescope shows a house on the moon. The girl looks shocked. The scene changes to a close-up of the"
+    },
+    "maxAlignment": {
+      "timestamp": "60s",
+      "coherence": 0.96
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "young girl",
+        "confidence": 0.98
+      },
+      {
+        "label": "living room",
+        "confidence": 0.95
+      },
+      {
+        "label": "moon",
+        "confidence": 0.99
+      },
+      {
+        "label": "telescope",
+        "confidence": 0.97
+      },
+      {
+        "label": "small house",
+        "confidence": 0.96
+      },
+      {
+        "label": "old man",
+        "confidence": 0.98
+      },
+      {
+        "label": "christmas tree",
+        "confidence": 0.97
+      },
+      {
+        "label": "balloons",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A young girl looks thoughtful, then a scene of a living room with a boy playing video games and a girl looking through a telescope.",
+      "0:08-0:25 \u2014 The girl looks through the telescope and sees the moon, then a small house on the moon.",
+      "0:25-0:33 \u2014 The girl looks surprised through the telescope and sees an old man on the moon.",
+      "0:33-0:42 \u2014 The girl is back in the living room, looking through the telescope. She then sees the old man walking near the house on the moon.",
+      "0:42-0:50 \u2014 The girl looks through the telescope and sees the old man sitting on a bench on the moon, looking at Earth.",
+      "0:50-1:00 \u2014 Close-up of the old man's eye, then the girl in a car. She then climbs a ladder to the roof.",
+      "1:00-1:10 \u2014 The girl holds up a drawing to the moon, then the old man sits on the bench on the moon.",
+      "1:10-1:21 \u2014 The girl takes down a Christmas tree and decorates the house for Christmas. She then hugs her mother at a Christmas party.",
+      "1:21-1:38 \u2014 The old man sits on the bench on the moon. A gift attached to balloons floats to him. He opens it.",
+      "1:38-1:55 \u2014 The old man looks at Earth through the telescope. The girl looks through the telescope at the old man. The old man waves."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.5,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "SpSd",
+        "name": "Disapproval",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.5,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle to upper-middle class families in the UK, aged 30-60, with a focus on parents and grandparents. Likely homeowners or aspiring to be, with a focus on quality and value.",
+      "psychographics": "Values tradition, family, and community. Aspires to create a warm, loving home environment. Appreciates thoughtful gifts and experiences. Identifies with a sense of Britishness and nostalgia.",
+      "brandMeaning": "John Lewis represents quality, trust, and the spirit of Christmas. It's a brand that evokes feelings of warmth, nostalgia, and togetherness, associated with creating special moments with loved ones."
+    },
+    "adTargetAudience": {
+      "demographics": "Families with young children, particularly those who value imagination, empathy, and connection. Also, older adults who appreciate heartwarming stories and a sense of wonder.",
+      "psychographics": "Values kindness, generosity, and the importance of human connection. Believes in the power of imagination and the importance of looking out for others, especially those who are lonely or vulnerable. Appreciates stories that evoke emotion and a sense of hope.",
+      "tone": "Heartfelt, empathetic, and hopeful, encouraging viewers to connect with others and spread kindness."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces John Lewis's brand values of thoughtfulness, quality, and emotional connection, aligning with the core audience's desire for heartwarming and meaningful experiences, especially during the Christmas season. It makes them feel proud to be associated with a brand that promotes such positive values.",
+    "actualResonance": "Families with young children who will be captivated by the story and the emotional connection between the girl and the old man on the moon. Also, older adults who appreciate the message of loneliness and the importance of reaching out to others.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a strong emotional play that reinforces brand values and has a high potential for broad appeal, but the CMO should be aware of the slight risk of alienating those who prefer more straightforward or humorous advertising."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 6,
+    "temporalCompounding": 8,
+    "frequencyPressure": 5,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Nostalgia holds through 10+ viewings",
+    "detonationRadius": 3.5,
+    "explanation": "The John Lewis Christmas ad benefited immensely from its timing and placement. By establishing the 'Christmas ad tradition,' it created a cultural event that amplified its reach and impact. The emotional openness of the holiday season further enhanced its reception. While heavy rotation could lead to fatigue, the positive cultural alignment and strong narrative helped maintain its appeal. The YouTube component allowed for social propagation and extended its lifespan.",
+    "whatIfScenario": "If this ad had been released during a period of economic recession or social unrest, the message of heartwarming connection might have been perceived as tone-deaf, leading to a negative reaction and a significantly lower attention economy multiplier.",
+    "timingContext": {
+      "date": "2011-11-11",
+      "platform": "TV (UK) + YouTube",
+      "adFrequency": "Holiday season heavy rotation + 8M YouTube views in first week",
+      "context": "Started the John Lewis Christmas ad tradition. UK cultural event. The kid-waiting-for-Christmas format became annual appointment viewing."
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "ad": "Google \u2014 Parisian Love (Super Bowl 2010)",
+  "category": "iconic",
+  "vibeScore": 470,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:34:22.764040",
+  "fileSize": "1.5MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.25,
+    "fear": 0.05,
+    "surprise": 0.25,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Music playing with a hopeful and slightly melancholic tone. Male voice speaking in French, sounding informative and neutral. Baby crying",
+    "segmentCount": 11
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.2,
+      "fear": 0.0,
+      "surprise": 0.3,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 10
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.886,
+      0.801,
+      0.774,
+      0.801,
+      0.801,
+      0.801,
+      0.801,
+      0.801,
+      0.801,
+      0.291
+    ],
+    "average": 0.756,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "45s",
+      "coherence": 0.291,
+      "audio": "Music continues, joined by a male voice speaking in French, sounding informative and neutral.",
+      "video": "The video shows a Google search bar. The search terms 'how to assemble a crib' are typed into the search bar."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.886
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Google search bar",
+        "confidence": 0.98
+      },
+      {
+        "label": "Google logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "search results page",
+        "confidence": 0.95
+      },
+      {
+        "label": "Google Maps",
+        "confidence": 0.95
+      },
+      {
+        "label": "translation result",
+        "confidence": 0.95
+      },
+      {
+        "label": "flight status",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A Google search for 'study abroad paris france' is performed.",
+      "0:08-0:11 \u2014 A Google search for 'cafes near the louvre' is performed.",
+      "0:11-0:15 \u2014 A Google search for 'translate tu es tres mignon' is performed, resulting in the translation 'you're very cute'.",
+      "0:15-0:19 \u2014 A Google search for 'impress a french girl' is performed.",
+      "0:19-0:22 \u2014 A Google search for 'chocolate shops paris france' is performed, showing a map with chocolate shops.",
+      "0:22-0:24 \u2014 A Google search for 'what are truffles' is performed.",
+      "0:24-0:28 \u2014 A Google search for 'who is truffaut' is performed, showing results about Fran\u00e7ois Truffaut.",
+      "0:28-0:31 \u2014 A Google search for 'long distance relationship advice' is performed.",
+      "0:31-0:34 \u2014 A Google search for 'jobs in paris' is performed.",
+      "0:35-0:38 \u2014 A Google search for 'AA120' is performed, showing flight status information.",
+      "0:38-0:42 \u2014 A Google search for 'churches in paris' is performed, showing a map with churches.",
+      "0:43-0:47 \u2014 A Google search for 'how to assemble a crib' is performed.",
+      "0:47-0:51 \u2014 The screen displays 'Search on.'"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech-savvy individuals, students, professionals, and families, typically aged 18-55, with a moderate to high income, and a lifestyle that values convenience, information access, and global connectivity.",
+      "psychographics": "Values innovation, efficiency, learning, and staying connected. Identifies as curious, open-minded, and forward-thinking. Aspires to be informed, productive, and globally aware.",
+      "brandMeaning": "Google represents instant access to information, problem-solving, and seamless connectivity, empowering users to explore, learn, and achieve their goals."
+    },
+    "adTargetAudience": {
+      "demographics": "Young adults (18-35) interested in travel, romance, and new experiences. Likely students or young professionals with disposable income and a desire for adventure.",
+      "psychographics": "Values romance, travel, cultural experiences, and personal growth. Aspires to find love, explore the world, and create meaningful memories.",
+      "tone": "Hopeful, romantic, and subtly humorous, inviting the viewer to imagine their own Parisian love story facilitated by Google."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad showcases Google's utility in everyday life and highlights its ability to facilitate meaningful experiences, reinforcing the brand's value proposition and making existing customers proud.",
+    "actualResonance": "Young adults, particularly those interested in travel, romance, and learning new languages. Also resonates with anyone who has experienced or dreams of a romantic encounter abroad.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a low-risk, high-reward play that effectively expands Google's appeal to a younger, more romantically inclined audience while reinforcing its core value proposition."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 9,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 8,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Warmth decays to Sentimentality",
+    "detonationRadius": 3.5,
+    "explanation": "The Google Parisian Love ad, while heartwarming, faced significant attention economy pressures during the Super Bowl. The massive reach amplified both its positive and negative aspects. The high cost of the ad slot meant any misstep would be extremely wasteful. The Super Bowl's review culture increased contextual vulnerability, and social propagation through instant meme culture could quickly amplify negative reactions. The permanent record of the Super Bowl meant any damage would be long-lasting. While the ad aligned well with the cultural moment, the frequency pressure of repeated viewings could lead to fatigue. Overall, the Super Bowl context significantly amplified the ad's impact, making it a high-risk, high-reward endeavor.",
+    "whatIfScenario": "If the ad had been released on YouTube first, the reach would have been slower but more targeted, allowing Google to gauge audience reaction and adjust the campaign accordingly. The lower cost would have reduced the financial risk, and the ability to remove or edit the ad would have mitigated temporal compounding. The absence of the Super Bowl's review culture would have lowered contextual vulnerability.",
+    "timingContext": {
+      "slot": "Q4",
+      "estimatedSpend": 16000000,
+      "note": "AI-focused, Gemini product demo"
+    }
+  }
+}

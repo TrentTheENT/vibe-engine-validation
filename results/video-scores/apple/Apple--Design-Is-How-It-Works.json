@@ -1,0 +1,251 @@
+{
+  "ad": "Apple \u2014 Design Is How It Works",
+  "category": "apple",
+  "vibeScore": 582,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:17:55.074083",
+  "fileSize": "4.7MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.5,
+    "fear": 0.05,
+    "surprise": 0.35,
+    "sadness": 0.05,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "",
+    "segmentCount": 27
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 27
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.414,
+      0.228,
+      0.656,
+      0.697,
+      0.697,
+      0.697,
+      0.697,
+      0.697,
+      0.697,
+      0.697,
+      0.729,
+      0.729,
+      0.752,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0.729,
+      0
+    ],
+    "average": 0.662,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "130s",
+      "coherence": 0,
+      "audio": "Silence",
+      "video": "Black screen."
+    },
+    "maxAlignment": {
+      "timestamp": "60s",
+      "coherence": 0.752
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "quote text",
+        "confidence": 0.98
+      },
+      {
+        "label": "HomePod Mini",
+        "confidence": 0.95
+      },
+      {
+        "label": "iPhone 14 Pro",
+        "confidence": 0.97
+      },
+      {
+        "label": "AirTag",
+        "confidence": 0.96
+      },
+      {
+        "label": "Apple Watch Ultra",
+        "confidence": 0.97
+      },
+      {
+        "label": "HomeKit Smart Plug",
+        "confidence": 0.95
+      },
+      {
+        "label": "Mac Mini",
+        "confidence": 0.96
+      },
+      {
+        "label": "Face ID",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A quote by Steve Jobs about design appears on a black screen with piano music playing.",
+      "0:08-0:13 \u2014 A HomePod Mini is shown, and a hand places an iPhone near it to play music.",
+      "0:13-0:22 \u2014 The video shows various iPhone features, including wireless charging and remote finding.",
+      "0:22-0:34 \u2014 The video showcases AirTag tracking and Apple Watch Ultra features.",
+      "0:34-0:46 \u2014 The video shows HomeKit smart plugs, the Mac Mini, and iPhone features like Face ID and contact sharing.",
+      "0:46-1:04 \u2014 The video shows a rabbit, a photo of the rabbit being edited on an iPad, and Apple Watch health features.",
+      "1:04-1:16 \u2014 The video shows the Apple Pencil, MagSafe charging, and other iPhone features.",
+      "1:16-1:29 \u2014 The video showcases various Apple Store designs and the Apple logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Apple's core audience spans a wide age range (25-55), with a slight skew towards male, and an upper-middle to high income. They are typically urban or suburban dwellers, tech-savvy, and early adopters of new technologies. They value design, user experience, and seamless integration of devices.",
+      "psychographics": "They see themselves as creative, innovative, and discerning. They value simplicity, efficiency, and aesthetics. They aspire to a connected lifestyle and appreciate brands that reflect their personal style and values.",
+      "brandMeaning": "Apple represents quality, innovation, and a status symbol. It signifies a commitment to a premium user experience and a seamless ecosystem."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience interested in technology and convenience, likely aged 25-50, with a moderate to high income. They are interested in smart home technology, fitness tracking, and seamless integration of their devices.",
+      "psychographics": "They value efficiency, convenience, and a connected lifestyle. They are interested in products that simplify their lives and enhance their daily routines. They appreciate innovation and design.",
+      "tone": "The ad speaks to the viewer in an aspirational and informative tone, highlighting the seamless integration and user-friendly design of Apple products."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Apple's core values of design and innovation, making existing customers feel proud of their choice and validated in their loyalty to the brand.",
+    "actualResonance": "This ad will resonate most with tech-savvy individuals aged 25-45 who are looking for a seamless and integrated technology experience. It will also appeal to those interested in smart home technology and fitness tracking.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively reinforces Apple's core values while subtly expanding its appeal to a broader audience interested in smart home and lifestyle integration."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 8,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 3,
+    "socialPropagation": 5,
+    "temporalCompounding": 7,
+    "frequencyPressure": 6,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Acceptance",
+    "detonationRadius": 3.5,
+    "explanation": "The 'Design is How it Works' campaign benefited significantly from its timing and placement. Launching at WWDC ensured an initial receptive audience of developers and tech enthusiasts, amplifying the message's impact. The pre-internet social amplification, while slower, still contributed to the ad's reach through word-of-mouth and news coverage. The cultural moment, with Jobs' return and Apple's near-death experience, created a narrative of redemption and innovation that resonated with the audience. The focus on privacy as a differentiator further aligned with emerging concerns about data security, boosting the ad's effectiveness.",
+    "whatIfScenario": "If the ad had launched during a period of economic recession or public distrust in technology, the message might have been perceived as tone-deaf or out of touch, leading to a significantly lower attention economy multiplier and potentially negative brand associations.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

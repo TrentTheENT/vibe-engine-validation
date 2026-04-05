@@ -1,0 +1,231 @@
+{
+  "ad": "Guinness \u2014 Surfer (1999)",
+  "category": "iconic",
+  "vibeScore": 650,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:33:12.677130",
+  "fileSize": "3.5MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.45,
+    "fear": 0.55,
+    "surprise": 0.35,
+    "sadness": 0.2,
+    "disgust": 0.1,
+    "anger": 0.45,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.6,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "It waits. That's what he does. And I'll tell you what. Tick followed tock followed tick followed tock followed tick. Ahab says I don't care who you are, here's to your dream. The old sailors return to the bar. Here's to you Ahab. And the fat drummer hit the beat with all his heart. Here's to waiting.",
+    "segmentCount": 28
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.5,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.4,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 16
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.867,
+      0.904,
+      0.898,
+      0.898,
+      0.673,
+      0.75,
+      0.88,
+      0.776,
+      0.776,
+      0.86,
+      0.86,
+      0.86,
+      0.836,
+      0.836,
+      0.836,
+      0.854
+    ],
+    "average": 0.835,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0.673,
+      "audio": "voiceover: Tick followed tock followed tick followed tock followed tick.",
+      "video": "A group of men on a beach with surfboards, preparing to enter the water. The scene is in black and white, with a focus o"
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.904
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "man's face",
+        "confidence": 0.98
+      },
+      {
+        "label": "surfboards",
+        "confidence": 0.95
+      },
+      {
+        "label": "ocean waves",
+        "confidence": 0.99
+      },
+      {
+        "label": "horses",
+        "confidence": 0.85
+      },
+      {
+        "label": "surfers",
+        "confidence": 0.95
+      },
+      {
+        "label": "Guinness beer",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "horses",
+        "magnitude": 0.245,
+        "emotion": "fear",
+        "baseline": 0.2,
+        "contextual": 0.6,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 Close-up of a man's face in black and white.",
+      "0:08-0:22 \u2014 The man speaks about waiting.",
+      "0:22-0:30 \u2014 Surfers carry surfboards to the ocean and paddle out.",
+      "0:30-0:46 \u2014 Surfers ride waves with superimposed images of horses.",
+      "0:46-1:11 \u2014 More surfing scenes with superimposed horses.",
+      "1:11-1:23 \u2014 Surfers celebrate on the beach.",
+      "1:23-1:39 \u2014 A Guinness beer advertisement appears."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "TrFr",
+        "name": "Submission",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.4,
+        "reactivity": 0.7,
+        "toxicity": 0.6,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.45,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      }
+    ],
+    "dominant": {
+      "formula": "TrFr",
+      "name": "Submission",
+      "type": "primary",
+      "strength": 0.45,
+      "stability": 0.4,
+      "reactivity": 0.7,
+      "toxicity": 0.6,
+      "halfLife": 0.3
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Guinness has served a predominantly male audience, aged 25-55, with a middle to upper-middle income. They are often found in pubs and social settings, enjoying a relaxed and convivial atmosphere.",
+      "psychographics": "The core audience values tradition, authenticity, and camaraderie. They see themselves as discerning drinkers who appreciate quality and heritage. They aspire to a sense of belonging and shared experience.",
+      "brandMeaning": "Guinness represents a sense of history, quality, and community. It's a symbol of Irish heritage and a reward for a hard day's work, enjoyed in the company of friends."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a slightly younger demographic, 25-40, both male and female, who are interested in adventure, surfing, and a more active lifestyle. They likely have a moderate to high disposable income.",
+      "psychographics": "The ad appeals to those who value freedom, risk-taking, and the pursuit of dreams. They identify with the themes of perseverance, overcoming challenges, and the beauty of nature. They are drawn to visually stunning and emotionally evocative content.",
+      "tone": "The ad speaks in a poetic and inspirational tone, using metaphors and symbolism to connect with the viewer's emotions and aspirations."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad maintains the brand's core values of perseverance and reward, while presenting them in a visually captivating and modern way. The themes of waiting and achieving dreams resonate with the core audience's appreciation for tradition and hard work, making them feel proud to be associated with the brand.",
+    "actualResonance": "This ad will resonate most strongly with adventurous individuals, surfers, and those who appreciate visually stunning and emotionally evocative storytelling. It will also appeal to those who are drawn to the themes of perseverance, overcoming challenges, and the pursuit of dreams, regardless of their specific lifestyle.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a brilliant piece of advertising that successfully expands the brand's appeal without alienating its core audience, but it's important to monitor feedback to ensure the symbolic imagery is universally understood and appreciated."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 6,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 3,
+    "socialPropagation": 5,
+    "temporalCompounding": 6,
+    "frequencyPressure": 4,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Awe decays to Appreciation",
+    "detonationRadius": 2.5,
+    "explanation": "The Guinness 'Surfer' ad benefited from strong cultural alignment and positive core reaction, amplifying its impact. While the timing and placement were standard, the ad's artistic merit and emotional resonance allowed it to cut through the noise. Social propagation was moderate, as the ad generated conversation but didn't become a viral sensation. The lack of specific timing context limits a higher multiplier, but the ad's enduring appeal suggests a positive temporal compounding effect.",
+    "whatIfScenario": "If the ad had been released during a period of economic downturn or social unrest, its aspirational and somewhat escapist themes might have been perceived as tone-deaf, leading to a lower attention economy multiplier and potentially negative brand associations.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

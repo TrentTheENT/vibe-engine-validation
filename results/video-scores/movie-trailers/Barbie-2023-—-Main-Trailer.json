@@ -1,0 +1,198 @@
+{
+  "ad": "Barbie (2023) \u2014 Main Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 652,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T21:54:44.509922",
+  "fileSize": "8.1MB",
+  "consensus": {
+    "joy": 0.7,
+    "trust": 0.5,
+    "fear": 0.25,
+    "surprise": 0.6,
+    "sadness": 0.15,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.8
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.3,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 48
+  },
+  "video": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 27
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.803,
+      0.951,
+      0.937,
+      0.976,
+      0.924,
+      0.85,
+      0.846,
+      -1,
+      0.241,
+      0.514,
+      0.542,
+      -1,
+      0.4,
+      0.389,
+      0.396,
+      0.396,
+      0.396,
+      0.396,
+      0.889,
+      -1,
+      0.404,
+      0.404,
+      0.404,
+      0.407,
+      0.407,
+      0.407,
+      0.901
+    ],
+    "average": 0.414,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "high heels",
+        "confidence": 0.98
+      },
+      {
+        "label": "Margot Robbie",
+        "confidence": 0.99
+      },
+      {
+        "label": "Ryan Gosling",
+        "confidence": 0.99
+      },
+      {
+        "label": "Barbie",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "high heels",
+        "magnitude": 1.72,
+        "emotion": "sadness",
+        "direction": "amplified"
+      },
+      {
+        "object": "Ryan Gosling",
+        "magnitude": 0.436,
+        "emotion": "surprise",
+        "direction": "amplified"
+      },
+      {
+        "object": "Margot Robbie",
+        "magnitude": 0.346,
+        "emotion": "surprise",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description: A close-up shot shows a woman walking in pink, fluffy high heels on a pink floor. The scene transitions to a wide shot of a pink, fantastical city, where a woman in a pink dress stands on a rooftop, waving."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Optimism",
+        "strength": 0.75,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Hope",
+        "strength": 0.65,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.65,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.6,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.55,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Optimism",
+      "strength": 0.75,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Barbie's core audience has been young girls, typically aged 3-12.",
+      "psychographics": "They are imaginative, creative, and enjoy playing with dolls, creating stories, and role-playing. They are drawn to themes of friendship, fashion, and aspirational lifestyles.",
+      "brandMeaning": "Barbie represents the idea that girls can be anything they want to be, offering a wide range of careers and roles. It's about empowerment, imagination, and self-expression."
+    },
+    "adTargetAudience": {
+      "demographics": "The trailer targets a broader audience, including millennials and Gen Z who grew up with Barbie, as well as parents who might introduce Barbie to their children. It also aims to attract those interested in comedy, satire, and feminist themes.",
+      "psychographics": "This audience appreciates self-aware humor, nostalgia, and progressive values. They are interested in movies that challenge societal norms and offer a fresh perspective on familiar concepts.",
+      "tone": "The tone is comedic, satirical, and self-aware, with a touch of nostalgia and a focus on female empowerment."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The trailer validates the core audience by acknowledging Barbie's history and cultural impact, while also presenting a fresh and modern take on the character.",
+    "actualResonance": "The trailer will likely resonate with a wide audience, including those who have a nostalgic connection to Barbie, those who appreciate satirical comedy, and those who are interested in feminist themes.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 8,
+    "verdict": "This trailer effectively leverages nostalgia and self-aware humor to broaden Barbie's appeal while retaining the brand's core message of empowerment and imagination."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.5,
+    "costEfficiency": 7.0,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Amusement",
+    "culturalAlignment": 9,
+    "explanation": "The Barbie trailer's strategic timing, massive marketing spend, and cultural context (Greta Gerwig, Margot Robbie, 'Barbenheimer') created a perfect storm for attention amplification. The film intentionally targeted a specific demographic (women) while acknowledging potential alienation of others, which fueled online discussion and drove engagement. The trailer's aesthetic (PINK EVERYTHING) was highly distinctive and shareable. The film's ultimate box office success ($1.44 billion) validates the high attention economy multiplier.",
+    "whatIfScenario": "If the marketing campaign had been less bold and more generic, the attention economy multiplier would have been significantly lower (around 1.5-2.0). The film might still have been successful, but it wouldn't have achieved the same level of cultural impact or box office revenue.",
+    "detonationRadius": 8.4,
+    "timingContext": {
+      "date": "2023-04-04",
+      "platform": "Theaters + YouTube",
+      "estimatedSpend": 150000000,
+      "context": "Greta Gerwig. Margot Robbie. Marketing budget exceeded production budget. PINK EVERYTHING. Intentionally targeted women while knowing it would alienate some men. Barbenheimer cultural moment.",
+      "aftermath": "$1.44 BILLION worldwide. Highest-grossing film of 2023."
+    }
+  }
+}

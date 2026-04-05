@@ -1,0 +1,196 @@
+{
+  "ad": "Apple Intelligence \u2014 Clean Up Photos",
+  "category": "apple",
+  "vibeScore": 529,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:18:12.761608",
+  "fileSize": "2.4MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.2,
+    "fear": 0.05,
+    "surprise": 0.3,
+    "sadness": 0.0,
+    "disgust": 0.15,
+    "anger": 0.05,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.0,
+      "disgust": 0.1,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Workout. Work that. Push that. Pull that. Run that. Pump. Work that. Push that. Workout.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.88,
+      0.892,
+      0.75,
+      0.687,
+      0.897,
+      0.717
+    ],
+    "average": 0.804,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": 0.687,
+      "audio": "Pump.",
+      "video": "Close-up shots of the phone screen show the photos of the young man flexing. The phone's editing features are displayed."
+    },
+    "maxAlignment": {
+      "timestamp": "20s",
+      "coherence": 0.897
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "mirror",
+        "confidence": 0.95
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "iPhone",
+        "confidence": 0.98
+      },
+      {
+        "label": "bed",
+        "confidence": 0.95
+      },
+      {
+        "label": "weight bench",
+        "confidence": 0.9
+      },
+      {
+        "label": "AT&T logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "Apple logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man flexes his muscles in front of a mirror while a woman takes photos of him with her phone.",
+      "0:08-0:12 \u2014 The woman continues to take photos as the man poses.",
+      "0:12-0:27 \u2014 The man sits on his bed and looks at the photos on his phone, then edits one of them.",
+      "0:27-0:30 \u2014 The AT&T and Apple logos appear on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.3,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Apple's core audience spans a wide age range (25-55), skewing slightly towards male, with a higher-than-average income ($75,000+). They are tech-savvy, early adopters, and value seamless integration across devices. They are urban or suburban dwellers with active lifestyles.",
+      "psychographics": "They value innovation, design, and user experience. They see themselves as creative, successful, and appreciate brands that reflect their status and aspirations. They identify with a modern, minimalist aesthetic and value privacy and security.",
+      "brandMeaning": "Apple represents a lifestyle choice centered around innovation, ease of use, and premium quality. It signifies belonging to a community of forward-thinkers and a commitment to excellence."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a younger demographic (20-40) interested in fitness and self-improvement. They are active on social media, likely use photo editing apps, and are concerned with their appearance. Income is likely mid-range, as they are aspirational but not necessarily affluent.",
+      "psychographics": "They value convenience, efficiency, and looking their best. They are motivated by social validation and self-expression. They appreciate tools that help them achieve their goals quickly and easily.",
+      "tone": "The ad addresses the viewer in a relatable, aspirational, and slightly humorous way, suggesting that Apple Intelligence can effortlessly enhance their everyday life."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad showcases a practical application of Apple Intelligence that aligns with the core audience's desire for seamless integration and enhanced user experience. It reinforces the brand's commitment to innovation and making life easier.",
+    "actualResonance": "This ad will resonate most strongly with young adults and millennials who are active on social media, interested in fitness, and value convenient photo editing tools. It will also appeal to those who appreciate a minimalist and aspirational aesthetic.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively broadens Apple's appeal to a younger, more visually-oriented audience without alienating its core base, but the focus on appearance could be perceived as superficial by some."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 8,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 4,
+    "socialPropagation": 6,
+    "temporalCompounding": 7,
+    "frequencyPressure": 5,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Skepticism",
+    "detonationRadius": 3.5,
+    "explanation": "Launching at WWDC provides a concentrated, tech-savvy audience initially receptive to Apple's message of privacy and innovation. However, the moderate TV and heavy digital frequency could lead to fatigue and skepticism among a broader audience, especially if the message isn't consistently reinforced with tangible benefits. The pre-internet social amplification limits the immediate damage from missteps, but the cultural moment of Apple's resurgence adds significant weight to the message, amplifying both positive and negative perceptions. The cost is high, making efficient targeting crucial.",
+    "whatIfScenario": "If this ad ran during a privacy scandal involving Apple, the contextual vulnerability would skyrocket, leading to a potentially catastrophic attention economy multiplier as the message would be seen as hypocritical and opportunistic.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

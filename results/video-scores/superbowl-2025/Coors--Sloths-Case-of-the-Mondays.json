@@ -1,0 +1,205 @@
+{
+  "ad": "Coors \u2014 Sloths Case of the Mondays",
+  "category": "superbowl-2025",
+  "vibeScore": 581,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:12:43.785497",
+  "fileSize": "2.3MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.25,
+    "fear": 0.1,
+    "surprise": 0.45,
+    "sadness": 0.15,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Be Monday, what a game. Monday, Monday. So good to me. Monday morning. Tomorrow we'll all have a case of the Mondays. So Coors Light made a better case to help you chill. Get a case of the Mondays.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "surprise",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.861,
+      0.904,
+      0.973,
+      0.941,
+      0.896,
+      0.71
+    ],
+    "average": 0.881,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.71,
+      "audio": "The music continues. A voice says, \"Get a case of the Mondays.\"",
+      "video": "The video ends with a logo for the brand."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.973
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "digital alarm clock",
+        "confidence": 0.98
+      },
+      {
+        "label": "sloth",
+        "confidence": 0.99
+      },
+      {
+        "label": "computer monitor",
+        "confidence": 0.95
+      },
+      {
+        "label": "cash register",
+        "confidence": 0.9
+      },
+      {
+        "label": "pineapple",
+        "confidence": 0.85
+      },
+      {
+        "label": "exercise bike",
+        "confidence": 0.9
+      },
+      {
+        "label": "beer case",
+        "confidence": 0.95
+      },
+      {
+        "label": "couch",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "beer case",
+        "magnitude": 0.283,
+        "emotion": "joy",
+        "baseline": 0.0,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.45,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.45,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Coors historically serves working-class to middle-class adults, primarily men aged 25-54. Geographically, they are often found in the Mountain West and Midwest regions of the United States. Income ranges from $40,000 to $80,000. Lifestyle includes outdoor activities, sports, and casual social gatherings.",
+      "psychographics": "The core audience values authenticity, straightforwardness, and a sense of community. They identify with a rugged, outdoorsy image and aspire to a relaxed, unpretentious lifestyle. They appreciate brands that are genuine and don't try to be something they're not.",
+      "brandMeaning": "Coors represents a sense of refreshment, relaxation, and connection to the outdoors. It's seen as an accessible, no-frills beer that's perfect for unwinding after a long day or sharing with friends."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a slightly younger demographic, likely 21-40, who are familiar with the 'case of the Mondays' concept and appreciate humor. It also targets individuals who experience work-related stress and seek lighthearted ways to cope. The ad likely appeals to both men and women.",
+      "psychographics": "The ad appeals to those who value humor, escapism, and a lighthearted approach to life's challenges. They are likely active on social media, enjoy pop culture references, and appreciate brands that don't take themselves too seriously. They are looking for a brief moment of joy and anticipation in their otherwise stressful lives.",
+      "tone": "The ad addresses the viewer with a playful, relatable, and slightly absurd tone, acknowledging the common experience of dreading Mondays."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The ad is humorous and relatable, but the sloth theme might not strongly resonate with the core audience's existing perception of Coors as a rugged, outdoorsy brand. They likely won't be offended, but it might not elicit a strong positive response.",
+    "actualResonance": "This ad will resonate most with younger millennials and Gen Z who are familiar with internet humor, meme culture, and the concept of 'the Mondays.' It will also appeal to those who appreciate quirky, unexpected advertising.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "The CMO should be aware that while the ad is unlikely to alienate the core audience, its primary strength lies in its potential to attract a younger, more digitally engaged demographic, and the brand should monitor social media sentiment to gauge the ad's reception."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 3,
+    "culturalAlignment": 3,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Humor decays to mild Annoyance",
+    "detonationRadius": 3.6,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny. The high cost amplifies the risk of a misstep. While the 'Sloths' theme has some cultural alignment with relaxation and humor, the core reaction being neutral and audience distance being moderate suggests it won't be a breakout hit. Social propagation is high, meaning any missteps will be amplified quickly and permanently. The relatively low frequency pressure helps mitigate potential negative effects of overexposure.",
+    "whatIfScenario": "If this ad ran on a streaming platform like Hulu during a regular TV night, the reach would be significantly lower, but the cost would also be much less. The contextual vulnerability would decrease, as the audience is less primed to judge harshly. Social propagation would be slower, and temporal compounding less severe, allowing for course correction if needed. The attention economy multiplier would likely be closer to 1.0.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

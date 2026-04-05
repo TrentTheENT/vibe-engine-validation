@@ -1,0 +1,161 @@
+{
+  "ad": "Star Wars The Last Jedi (2017) \u2014 Official Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 159,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:08:49.528964",
+  "fileSize": "5.3MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.2,
+    "surprise": 0.15,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.2,
+    "anticipation": 0.3
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.4,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "When I found you, I saw raw, untamed power. And beyond that, something truly special. Something inside me has always been there. But now is awake, and I need help. I've seen this raw strength only once before. It didn't scare me enough then, it does now. Let the past die, kill it. That's the only way to become what you were meant to be. We have everything we need. We have a spark that will light the fire that will burn the first order down. Come on, your destiny. I need someone to show me my place in all this.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 46
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 13,
+    "top": [
+      {
+        "label": "AT-AT walkers",
+        "confidence": 0.95
+      },
+      {
+        "label": "lightsaber",
+        "confidence": 0.98
+      },
+      {
+        "label": "Lucasfilm logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Rey",
+        "confidence": 0.99
+      },
+      {
+        "label": "Luke Skywalker",
+        "confidence": 0.99
+      },
+      {
+        "label": "Kylo Ren",
+        "confidence": 0.99
+      },
+      {
+        "label": "Carrie Fisher",
+        "confidence": 0.99
+      },
+      {
+        "label": "Chewbacca",
+        "confidence": 0.99
+      },
+      {
+        "label": "Porg",
+        "confidence": 0.99
+      },
+      {
+        "label": "Oscar Isaac",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      {
+        "scene": "0:00-0:05",
+        "description": "A figure stands silhouetted against a large window overlooking a vast, industrial interior. The scene cuts to a line of AT-AT walkers moving across a desolate landscape, followed by a dark, abstract image with white figures descending."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Sci-fi and fantasy fans, ages 13-50, globally.",
+      "psychographics": "Interested in epic stories, good vs. evil, adventure, and space opera. Value nostalgia, community, and escapism.",
+      "brandMeaning": "Star Wars represents a timeless battle between good and evil, a sense of wonder and adventure, and a shared cultural experience."
+    },
+    "adTargetAudience": {
+      "demographics": "Fans of the Star Wars franchise, especially those invested in the sequel trilogy, ages 16-45.",
+      "psychographics": "Interested in character development, complex narratives, and the evolution of the Star Wars universe. Appreciate action, visual spectacle, and emotional depth.",
+      "tone": "Intense, dramatic, and mysterious, hinting at significant character arcs and high stakes."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The trailer delivers on the established themes of the franchise while introducing new elements and character arcs, satisfying core fans' expectations.",
+    "actualResonance": "Likely to resonate strongly with existing Star Wars fans, particularly those invested in the sequel trilogy, and may draw in new viewers interested in a visually stunning and emotionally charged space opera.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This trailer effectively targets the core audience while hinting at broader appeal, making it a strong promotional piece for the film."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 0.7,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Anger/Disappointment",
+    "culturalAlignment": -7,
+    "explanation": "The Last Jedi trailer was a masterclass in generating initial hype, amplified by the Star Wars Celebration launch and the franchise's massive fanbase. However, the film's divisive content, which deliberately subverted expectations, led to a significant backlash. This negative reaction, fueled by the trailer's promises, resulted in a catastrophic amplification of negative sentiment, impacting the film's reception and subsequent franchise performance. The high reach score reflects the initial widespread attention, but the low cost efficiency indicates that the large investment did not translate into proportional positive returns due to the negative reception.",
+    "whatIfScenario": "If the trailer had more accurately reflected the film's tone and content, or if Lucasfilm had addressed fan concerns more effectively post-release, the negative amplification could have been mitigated, potentially leading to a more positive reception and improved long-term franchise health.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2017-04-14",
+      "platform": "Star Wars Celebration + YouTube",
+      "estimatedSpend": 175000000,
+      "context": "Rian Johnson directing. First trailer at Star Wars Celebration. Franchise with 40-year passionate fanbase. Deliberately subverted expectations of Luke Skywalker character.",
+      "aftermath": "$1.33B worldwide but SPLIT the fanbase. 91% RT critics vs 42% audience. Created 'The Fandom Menace.' Solo underperformed directly because of TLJ backlash."
+    }
+  }
+}

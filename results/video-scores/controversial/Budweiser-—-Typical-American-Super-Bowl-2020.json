@@ -1,0 +1,285 @@
+{
+  "ad": "Budweiser \u2014 Typical American (Super Bowl 2020)",
+  "category": "controversial",
+  "vibeScore": 259,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T20:57:49.195140",
+  "fileSize": "6.1MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.35,
+    "fear": 0.15,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.3,
+    "anticipation": 0.45
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "They call us typical Americans. Maybe because we live typical American lives. Like this typical American. Showing off his strength. So typical. Look at him, touching other people's things. Always so competitive. Typical Americans, showing up uninvited. Removing their clothes in public. Yelling and being loud. Just look at them, thinking they can save the world. Typical Americans, always celebrating with their typical American beer. So, next time someone labels you typical. Show them what typical can do. You know, you space bar to press play. We'll give you a minute. We're going to get set up really quick. This is going to be Budweiser's Super Bowl commercial. We're going to show you the spot. Are you guys ready to see it? Yes. We're ready. first one. Okay. So good. It's so powerful. That gives me chills.",
+    "segmentCount": 29
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 29
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "crowd",
+        "confidence": 0.99
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      },
+      {
+        "label": "Budweiser",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "person",
+        "magnitude": 0.894,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "person",
+        "magnitude": 0.894,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "person",
+        "magnitude": 0.894,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "crowd",
+        "magnitude": 0.735,
+        "emotion": "trust",
+        "baseline": 0.6,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "Budweiser",
+        "magnitude": 0.361,
+        "emotion": "trust",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A busy city street, a woman standing in a doorway, a man walking down an alley, and a man working in a brewery.",
+      "0:05-0:10 \u2014 A man driving a tractor and a firefighter looking out of a fire truck.",
+      "0:10-0:14 \u2014 A firefighter putting out a forest fire.",
+      "0:14-0:18 \u2014 A man pushing a car stuck in the snow.",
+      "0:18-0:21 \u2014 A woman marathon runner crossing the finish line.",
+      "0:21-0:29 \u2014 A soldier visiting a doctor.",
+      "0:29-0:32 \u2014 A man helping a homeless person on a subway.",
+      "0:32-0:34 \u2014 A woman speaking into a megaphone at a protest.",
+      "0:34-0:36 \u2014 A large crowd of people protesting.",
+      "0:36-0:40 \u2014 A man offering free hugs to police officers.",
+      "0:40-0:46 \u2014 People celebrating with beer and champagne.",
+      "0:46-0:52 \u2014 A close-up of a Budweiser can and bottle being opened.",
+      "0:52-0:56 \u2014 People smiling at the camera.",
+      "0:56-1:00 \u2014 A bottle of Budweiser."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.05,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "JoAn",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.85,
+        "reactivity": 0.25,
+        "toxicity": 0.05,
+        "halfLife": 0.68
+      },
+      {
+        "formula": "AnAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.85,
+        "reactivity": 0.25,
+        "toxicity": 0.35,
+        "halfLife": 0.68
+      },
+      {
+        "formula": "JoTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.32,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "AnTr",
+        "name": "Dominance",
+        "type": "primary",
+        "strength": 0.32,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.35,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "AnJo",
+        "name": "Pride",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 1.0,
+        "reactivity": 0.1,
+        "toxicity": 0.35,
+        "halfLife": 0.8
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.9,
+      "reactivity": 0.2,
+      "toxicity": 0.05,
+      "halfLife": 0.72
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Working-class to middle-class adults, 21-55, skewing slightly male, across various ethnicities in the United States.",
+      "psychographics": "Values tradition, community, hard work, and patriotism. Identifies with a sense of American pride and down-to-earth values. Aspires to enjoy simple pleasures, celebrate achievements, and connect with friends and family.",
+      "brandMeaning": "Budweiser represents classic American values, a sense of belonging, and the spirit of celebration. It's seen as an accessible, reliable, and unpretentious beer for everyday occasions and special moments."
+    },
+    "adTargetAudience": {
+      "demographics": "Broad demographic appeal, targeting adults 21-55, with a focus on inclusivity and diversity. Aims to resonate with individuals who value community, resilience, and authentic American experiences.",
+      "psychographics": "Appeals to values of unity, compassion, and overcoming adversity. Emphasizes the importance of everyday heroes, community support, and celebrating diverse achievements. Promotes a sense of shared identity and pride in American values.",
+      "tone": "Inspirational, uplifting, and inclusive. Uses a narrative voice that is both humorous and heartfelt, celebrating the diversity and strength of the American spirit."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Budweiser's association with American values and everyday heroes, which resonates with its core audience's sense of patriotism and community. The humorous and heartfelt tone aligns with the brand's accessible and unpretentious image.",
+    "actualResonance": "The ad will resonate with a broad audience, particularly those who appreciate stories of resilience, community support, and diverse achievements. It's likely to appeal to individuals who value inclusivity and a sense of shared American identity.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces Budweiser's core values while expanding its appeal to a more diverse and inclusive audience, making it a strong choice for the Super Bowl."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 9,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 8,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 4,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Pride decays to Neutrality",
+    "detonationRadius": 2.5,
+    "explanation": "The Budweiser 'Typical American' ad benefited from the Super Bowl's massive reach, amplifying its message to a huge audience. However, the high cost of the ad placement made it extremely wasteful if it didn't resonate. The politically charged atmosphere of the 2020 election year increased contextual vulnerability, with potential for strong positive or negative reactions. The Super Bowl's meme culture ensured rapid social propagation of opinions. The ad's message, while aiming for unity, risked alienating some viewers, leading to a moderate attention economy multiplier. The brand's established Americana image helped it more than it would have helped other brands.",
+    "whatIfScenario": "If this ad had run during a less politically charged time, such as a summer Olympics, the contextual vulnerability would have been lower, potentially leading to a more positive reception and a higher attention economy multiplier. If it had run on YouTube only, the reach would have been lower, but the cost efficiency would have been much higher.",
+    "timingContext": {
+      "event": "Super Bowl LIV",
+      "date": "2020-02-02",
+      "costPer30Sec": 5600000,
+      "liveViewership": 102000000,
+      "platform": "Fox",
+      "context": "Election year 2020. Budweiser attempting patriotic unity. 'Typical American' as reclamation. More successful than Pepsi Jenner because Budweiser OWNS Americana in their brand DNA."
+    }
+  }
+}

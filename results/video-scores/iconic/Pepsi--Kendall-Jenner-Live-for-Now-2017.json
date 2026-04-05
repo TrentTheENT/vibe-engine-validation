@@ -1,0 +1,247 @@
+{
+  "ad": "Pepsi \u2014 Kendall Jenner Live for Now (2017)",
+  "category": "iconic",
+  "vibeScore": 698,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:43:45.937990",
+  "fileSize": "2.9MB",
+  "consensus": {
+    "joy": 0.65,
+    "trust": 0.55,
+    "fear": 0.1,
+    "surprise": 0.35,
+    "sadness": 0.1,
+    "disgust": 0.05,
+    "anger": 0.1,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "You better know who we are. We are the lovers. We are the chosen. We gonna shine now. It's our time. We are the movement. This generation. You better know who we are. Who we are.",
+    "segmentCount": 8
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 8
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.983,
+      0.988,
+      0.988,
+      0.983,
+      0.989,
+      0.99,
+      0.989,
+      0.992
+    ],
+    "average": 0.988,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.983,
+      "audio": "Upbeat pop song with male vocals",
+      "video": "The video opens with a close-up shot of a hand reaching into a cooler filled with ice and Pepsi cans and bottles. The sc"
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.992
+    }
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "Pepsi can",
+        "confidence": 0.99
+      },
+      {
+        "label": "police officers",
+        "confidence": 0.98
+      },
+      {
+        "label": "camera",
+        "confidence": 0.95
+      },
+      {
+        "label": "Kendall Jenner",
+        "confidence": 0.99
+      },
+      {
+        "label": "protest",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Pepsi can",
+        "magnitude": 0.573,
+        "emotion": "sadness",
+        "baseline": 0.1,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "protest",
+        "magnitude": 0.457,
+        "emotion": "trust",
+        "baseline": 0.2,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "police officers",
+        "magnitude": 0.395,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "camera",
+        "magnitude": 0.322,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A hand reaches into a cooler full of Pepsi cans and bottles. The scene cuts to a crowd of people marching and protesting, including Kendall Jenner holding a Pepsi can.",
+      "0:08-0:17 \u2014 The camera focuses on Kendall Jenner as she walks through the crowd. She approaches a line of police officers and offers one of them a Pepsi.",
+      "0:17-0:22 \u2014 The police officer accepts the Pepsi and takes a drink. The photographer smiles.",
+      "0:22-0:37 \u2014 The crowd cheers and celebrates. People are dancing and hugging. Kendall Jenner smiles and raises her fist in the air.",
+      "0:37-0:41 \u2014 The words \"LIVE BOLDER\" appear on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Primarily younger consumers, Gen Z and Millennials (13-35), skewing slightly towards urban and suburban areas, with a middle-class income. Historically, Pepsi has also targeted African American communities.",
+      "psychographics": "Values include a sense of fun, social connection, trendiness, and a desire for experiences. They identify with being 'in the know' and often aspire to be seen as cool and relevant. They seek brands that reflect their youthful energy and optimism.",
+      "brandMeaning": "Pepsi represents youthful rebellion, a challenger brand to Coca-Cola's classic appeal, and a symbol of pop culture relevance."
+    },
+    "adTargetAudience": {
+      "demographics": "Young, socially conscious Millennials and Gen Z, particularly those involved in or supportive of social justice movements. The ad attempts to appeal to a diverse, progressive audience.",
+      "psychographics": "Values include social justice, equality, activism, and a desire to make a positive impact on the world. They identify with being progressive and engaged citizens. The ad attempts to appeal to their sense of optimism and hope for change.",
+      "tone": "The ad attempts to be inspirational and unifying, suggesting Pepsi can bridge divides and promote peace."
+    },
+    "audienceDistance": 7,
+    "coreReaction": "ALIENATED",
+    "coreReactionExplanation": "The ad trivializes complex social issues and co-opts protest imagery for commercial gain, which will be seen as inauthentic and tone-deaf by the core audience, especially those who are actively involved in social justice movements. The perceived exploitation of serious issues will likely lead to feelings of disconnect and betrayal.",
+    "actualResonance": "The ad will likely resonate most strongly with individuals who have a superficial understanding of social justice issues or those who are not deeply invested in activism. It may also appeal to those who are easily swayed by celebrity endorsements and visually appealing imagery, regardless of the underlying message.",
+    "friendlyFireRisk": 9,
+    "marketExpansion": 2,
+    "verdict": "This ad risks significant brand damage due to its tone-deaf appropriation of social justice themes and is likely to alienate the core audience while failing to genuinely connect with a new one."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 4,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 8,
+    "frequencyPressure": 2,
+    "culturalAlignment": -9,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Hope decays to Anger",
+    "detonationRadius": 34.2,
+    "explanation": "The Pepsi ad's attention economy impact was catastrophic. While the initial reach was moderate via YouTube, the social amplification was immense and overwhelmingly negative. The ad's tone-deaf message, released during heightened Black Lives Matter activism, triggered widespread outrage. The Streisand Effect ensured that pulling the ad only amplified its reach and negative impact. The cost efficiency was terrible, as the substantial spend yielded a PR disaster. The cultural misalignment was profound, turning a well-produced ad into a symbol of corporate insensitivity.",
+    "whatIfScenario": "If the ad had been released during a period of relative social calm, or if it had featured a more nuanced and respectful approach to social issues, the reaction might have been neutral or even positive. A different cultural moment could have allowed the ad's production values to shine without the overshadowing controversy.",
+    "timingContext": {
+      "date": "2017-04-04",
+      "platform": "YouTube (primary), pulled within 24 hours",
+      "estimatedSpend": 5000000,
+      "adFrequency": "aired ONCE then pulled \u2014 but Streisand Effect made it the most-watched ad of 2017",
+      "socialAmplification": "CATASTROPHIC \u2014 Bernice King tweeted 'If only Daddy had known about the power of Pepsi' \u2014 400K+ retweets",
+      "context": "Black Lives Matter protests were active. Kendall Jenner solving police tension with a Pepsi was read as trivializing civil rights. The ad was COMPETENTLY MADE \u2014 high production, great music, perfect sync. The failure was purely targeting/cultural.",
+      "culturalMoment": "BLM movement, police violence protests, celebrity activism debate",
+      "aftermath": "Pulled in <24hrs. Pepsi apologized. Creative agency dissolved. CMO departed within months. Became textbook case in advertising schools worldwide."
+    }
+  }
+}

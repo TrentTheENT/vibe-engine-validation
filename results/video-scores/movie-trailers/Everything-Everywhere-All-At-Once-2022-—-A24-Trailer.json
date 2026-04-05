@@ -1,0 +1,257 @@
+{
+  "ad": "Everything Everywhere All At Once (2022) \u2014 A24 Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 391,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:09:38.479476",
+  "fileSize": "6.1MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.3,
+    "fear": 0.45,
+    "surprise": 0.6,
+    "sadness": 0.2,
+    "disgust": 0.1,
+    "anger": 0.3,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.5,
+      "surprise": 0.7,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "This is Wang, This is Wang. Mrs. Wang, are you with us? I am paying attention. Now you may only see a pile of receipts, but I see a story. I can see where this story is going. It does not look good. What's happening? Evelyn, I'm not your husband. I'm an evolution of one from another universe. I'm here because we need your help. Very busy today. No time to help you. I crash the multiverse. I've seen thousands of Evelyns. We can access all their memories, their emotions, even their skills. There's a great evil spreading throughout the multiverses, and you may be our only chance of stopping it. Don't make me fight you. I am really good. I don't believe you. Pa, I'm really good. This spring. The universe is so much bigger than you realize. There is no way I am the Evelyn you are looking for. Every rejection, every disappointment has led you here to do this moment.",
+    "segmentCount": 48
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.4,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 48
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "Michelle Yeoh",
+        "confidence": 0.98
+      },
+      {
+        "label": "A24 logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "Jamie Lee Curtis",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Michelle Yeoh",
+        "magnitude": 0.656,
+        "emotion": "surprise",
+        "direction": "amplified"
+      },
+      {
+        "object": "Jamie Lee Curtis",
+        "magnitude": 0.469,
+        "emotion": "anger",
+        "direction": "amplified"
+      },
+      {
+        "object": "A24 logo",
+        "magnitude": 0.224,
+        "emotion": "anticipation",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05",
+        "description": "The scene opens with a close-up shot inside a washing machine, showing clothes tumbling around. The camera zooms out to reveal the washing machine's door and then transitions to a shot of Michelle Yeoh in a laundromat. The scene then cuts to a blurred image of someone working behind a counter, followed by a shot of Jamie Lee Curtis in an office cubicle. The scene ends with a shot of Michelle Yeoh sitting at a desk with two other people in an office cubicle."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Anxiety",
+        "strength": 0.57,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Awe",
+        "strength": 0.53,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.5,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.5,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Hope",
+        "strength": 0.5,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.45,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Submission",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Guilt",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Love",
+        "strength": 0.3,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Pride",
+        "strength": 0.3,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Dominance",
+        "strength": 0.3,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Anxiety",
+      "strength": 0.57,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "A24 films typically attract a younger, more educated audience, often in their 20s to 40s, with a slight skew towards urban areas.",
+      "psychographics": "They appreciate independent and arthouse cinema, are interested in unique storytelling, and seek out films that challenge conventional narratives and explore complex themes. They value originality, artistic merit, and films that spark conversation.",
+      "brandMeaning": "A24 represents quality independent cinema, boundary-pushing storytelling, and a curated selection of films that stand apart from mainstream Hollywood."
+    },
+    "adTargetAudience": {
+      "demographics": "This trailer targets a broad audience interested in action, sci-fi, and comedy, but with a focus on those who appreciate unconventional and visually stunning films. It appeals to fans of Michelle Yeoh and Jamie Lee Curtis, as well as those interested in multiverse narratives.",
+      "psychographics": "The target audience is open to bizarre and surreal humor, enjoys fast-paced action sequences, and is intrigued by stories that blend genres and explore themes of family, identity, and the meaning of life. They are likely to be drawn to films that offer a unique and memorable cinematic experience.",
+      "tone": "The trailer uses a fast-paced, chaotic, and humorous tone to convey the film's unconventional and genre-bending nature. It emphasizes the action, visual spectacle, and emotional core of the story."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The trailer aligns with A24's brand by showcasing a visually striking and narratively complex film. While it leans more heavily into action and comedy than some of A24's previous releases, it still promises a unique and thought-provoking cinematic experience that will resonate with the core audience.",
+    "actualResonance": "The film will likely resonate with a broader audience than A24's core demographic, attracting fans of action, sci-fi, and comedy, as well as those interested in multiverse narratives and the actors involved.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This trailer effectively expands A24's reach by showcasing a genre-bending film with broad appeal, while still maintaining the brand's core values of originality and artistic merit."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 7.0,
+    "costEfficiency": 9.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Confusion",
+    "culturalAlignment": 7,
+    "explanation": "Everything Everywhere All At Once benefited from perfect timing. Releasing a creative, original multiverse story *before* the concept became oversaturated by Marvel gave it a huge advantage. The film's critical acclaim, Michelle Yeoh's star power, and A24's brand as a purveyor of quality indie films further amplified its reach. The low budget relative to its massive box office success resulted in a high attention economy multiplier. The audience felt validated by the originality and risk-taking. However, the film's complex plot and frenetic editing could lead to fatigue upon repeated viewings, potentially inverting the initial excitement into confusion.",
+    "whatIfScenario": "If released six months later, after 'Doctor Strange in the Multiverse of Madness', the film's impact would have been significantly diminished. Audience fatigue with the multiverse concept would have lowered the attention economy multiplier to around 2.0, and the cultural alignment would have dropped to 3.",
+    "detonationRadius": 8.4,
+    "timingContext": {
+      "date": "2022-03-11",
+      "platform": "Theaters (A24 limited release) + YouTube",
+      "context": "The Daniels directing. Michelle Yeoh lead. $25M budget. Multiverse story BEFORE Marvel overdid it. A24 counter-programming to blockbuster fatigue.",
+      "aftermath": "$141M worldwide on $25M budget. Won 7 Oscars including Best Picture. The indie that beat the machine."
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "ad": "Bud Light \u2014 Shane Gillis & Post Malone",
+  "category": "superbowl-2025",
+  "vibeScore": 656,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:11:57.285158",
+  "fileSize": "4.0MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.55,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "You want to go fishing tomorrow? I got a colonoscopy tomorrow. Fellas, I accidentally threw a lame party. Okay, Ted. They're on their way. They're here. You call this a party? Call this a cul-de-sac party. Launch. Launch. Beers are a metaphor for an invitation. Is that our leaf blower? Party at the sac. You're cordially invited to the end of the cul-de-sac. Your mower smokes meat? No, smoker cuts grass. Hell yeah. I spent most of my money on this. You rig? Fully custom. How many Bud Lights can you fit in that bucket? As many Bud Lights as it takes. It's a lot of Bud Light. This cul-de-sac's popping. Power up! Come on out, Bill! Bill, get off the boat. The HOA is already breathing down my neck.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.698,
+      0.959,
+      0.943,
+      0.919,
+      0.98,
+      0.98,
+      0.985,
+      0.991,
+      0.991,
+      0.983,
+      0.981,
+      0.985
+    ],
+    "average": 0.95,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.698,
+      "audio": "Man: You want to go fishing tomorrow? Man 2: I got a colonoscopy tomorrow.",
+      "video": "Two men sit in chairs in a driveway next to a Bud Light cooler. The camera zooms out to show a man walking toward them."
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.991
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "Bud Light cooler",
+        "confidence": 0.98
+      },
+      {
+        "label": "lawn chairs",
+        "confidence": 0.95
+      },
+      {
+        "label": "man in floral shirt",
+        "confidence": 0.97
+      },
+      {
+        "label": "white picket fence",
+        "confidence": 0.96
+      },
+      {
+        "label": "leaf blowers",
+        "confidence": 0.95
+      },
+      {
+        "label": "Bud Light beer cans",
+        "confidence": 0.99
+      },
+      {
+        "label": "lawn mower",
+        "confidence": 0.95
+      },
+      {
+        "label": "boat",
+        "confidence": 0.96
+      }
+    ],
+    "inversions": [
+      {
+        "object": "lawn chairs",
+        "magnitude": 0.675,
+        "emotion": "sadness",
+        "baseline": 2.0,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "lawn mower",
+        "magnitude": 0.255,
+        "emotion": "surprise",
+        "baseline": 0.3,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "leaf blowers",
+        "magnitude": 0.25,
+        "emotion": "joy",
+        "baseline": 0.3,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 Two men sit in lawn chairs in front of a house. One says he has a colonoscopy tomorrow. A neighbor says he accidentally threw a lame party.",
+      "0:08-0:16 \u2014 The two men drive a Bud Light cooler on wheels through the neighbor's yard, using leaf blowers for propulsion.",
+      "0:16-0:23 \u2014 The men arrive at the party and launch Bud Light beers with the leaf blowers.",
+      "0:23-0:31 \u2014 Beers are launched into various locations, including a front door, a car wash bucket, and a jello mold.",
+      "0:31-0:41 \u2014 People are running around, and the party is in disarray. A man shows off his lawn mower that smokes meat.",
+      "0:41-0:59 \u2014 The party is in full swing, with people dancing and having fun. The lawn mower is used to grill meat, and a man stands on a boat with a megaphone."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Bud Light has targeted a broad demographic, primarily men aged 21-45, with a focus on blue-collar and middle-class individuals. Income levels range from lower-middle to middle class. Lifestyle is often associated with casual social gatherings, sports viewing, and outdoor activities.",
+      "psychographics": "The brand appeals to values of camaraderie, relaxation, and unpretentious fun. The core audience identifies with a down-to-earth, 'everyman' persona and aspires to enjoy simple pleasures and social connections.",
+      "brandMeaning": "Bud Light represents an accessible, easy-drinking beer that facilitates social bonding and uncomplicated enjoyment."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a similar demographic to Bud Light's core, but with a slightly younger skew (25-40) and an emphasis on those who appreciate humor and celebrity endorsements. It also seems to target those who enjoy a more 'bro' or 'fratty' culture.",
+      "psychographics": "The ad appeals to values of humor, irreverence, and a desire for social acceptance. It targets those who enjoy lighthearted entertainment and are influenced by celebrity culture. The 'cul-de-sac party' theme suggests a focus on suburban social life and neighborly interactions.",
+      "tone": "The ad adopts a humorous, slightly absurd, and self-aware tone, aiming to entertain and create a sense of shared amusement."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad features familiar themes of casual social gatherings and lighthearted humor, aligning with the brand's established image. The inclusion of Shane Gillis and Post Malone likely reinforces the brand's appeal to its core demographic, particularly those who appreciate their respective comedic and musical styles. The focus on a 'cul-de-sac party' reinforces the brand's association with everyday social settings.",
+    "actualResonance": "The ad will likely resonate most strongly with Bud Light's existing core audience, particularly those who appreciate the humor of Shane Gillis and the musical style of Post Malone. It may also appeal to a slightly younger demographic who are drawn to celebrity endorsements and lighthearted, irreverent humor.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "This ad is a calculated move to solidify the existing base while testing the waters with a slightly younger, more humor-oriented audience, but the choice of Shane Gillis could be polarizing and needs careful monitoring."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.0,
+    "detonationRadius": 2.0,
+    "timingContext": {
+      "event": "Super Bowl LVII",
+      "date": "2023-02-12",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 7000000,
+      "liveViewership": 113000000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "Super Bowl single airing + digital",
+      "context": "Super Bowl 2023 \u2014 two months BEFORE the Mulvaney post. The last 'normal' Bud Light Super Bowl ad. Compare audience alignment here vs after.",
+      "note": "Pre-Mulvaney: America's #1 selling beer. Core audience: working-class men 25-54, sports culture, 'everyman' positioning",
+      "friendlyFireNote": "April 2023: Single Instagram post with Dylan Mulvaney. Not a TV ad. Not a campaign. ONE social media post. Lost $27B in market cap."
+    }
+  }
+}

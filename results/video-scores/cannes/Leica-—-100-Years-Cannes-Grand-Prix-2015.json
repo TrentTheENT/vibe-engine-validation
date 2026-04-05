@@ -1,0 +1,235 @@
+{
+  "ad": "Leica \u2014 100 Years (Cannes Grand Prix 2015)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 279,
+  "dominantEmotion": "sadness",
+  "scoredAt": "2026-04-04T22:03:20.318962",
+  "fileSize": "5.9MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.35,
+    "fear": 0.35,
+    "surprise": 0.3,
+    "sadness": 0.45,
+    "disgust": 0.25,
+    "anger": 0.3,
+    "anticipation": 0.45
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.4,
+      "fear": 0.3,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.2,
+      "anger": 0.2,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "description",
+    "segmentCount": 41
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.4,
+      "surprise": 0.3,
+      "sadness": 0.5,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 41
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "Leica logo",
+        "confidence": 0.98
+      },
+      {
+        "label": "camera",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 dark, smoky background with a figure walking through a narrow alley",
+      "0:05-0:14 \u2014 various scenes including a couple in silhouette, people in a courtyard, and a man on a mountain with a flag",
+      "0:14-0:24 \u2014 a man holding a camera, an astronaut on a rocky surface, and people in a courtyard",
+      "0:24-0:30 \u2014 a woman and child sitting on steps, a man playing an accordion",
+      "0:30-0:41 \u2014 a man and woman kissing, a man in a cowboy hat",
+      "0:41-0:50 \u2014 a boy carrying baguettes, a man with a book in his mouth, and a dark alleyway",
+      "0:50-1:03 \u2014 a dark alleyway with graffiti, a couple kissing by the water",
+      "1:03-1:12 \u2014 a person in a black robe, a plate of sandwiches, and children pointing fingers",
+      "1:12-1:23 \u2014 a man pointing a gun, a man kissing a person in bed",
+      "1:23-1:34 \u2014 a person standing in front of a curtain, two girls standing in front of a curtain, and people at a party",
+      "1:34-1:45 \u2014 a man looking in a car mirror, a couple lying on the floor, and people in a desert",
+      "1:45-1:57 \u2014 a man sitting on a pile of rocks with a rifle",
+      "1:57-2:03 \u2014 the Leica logo and text"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Pessimism",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Despair",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Hope",
+        "strength": 0.4,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Sentimentality",
+        "strength": 0.4,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Anxiety",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Disapproval",
+        "strength": 0.38,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Envy",
+        "strength": 0.38,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Submission",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Awe",
+        "strength": 0.32,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.32,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Dominance",
+        "strength": 0.32,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.3,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Pessimism",
+      "strength": 0.45,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent, educated individuals, often with a professional or artistic background, skewing slightly older (35+).",
+      "psychographics": "Value quality, craftsmanship, and heritage. Appreciate the art of photography and storytelling. Seek authenticity and timelessness in their purchases. Often interested in travel, culture, and social issues.",
+      "brandMeaning": "Leica represents a commitment to excellence, a passion for capturing meaningful moments, and a connection to a rich history of photographic innovation."
+    },
+    "adTargetAudience": {
+      "demographics": "Photographers and photography enthusiasts, both professional and amateur. Individuals interested in history, art, and culture.",
+      "psychographics": "Those who appreciate the power of photography to document and shape our understanding of the world. People who are drawn to visually compelling narratives and emotionally resonant imagery. Those who value quality and craftsmanship.",
+      "tone": "Thoughtful, evocative, and celebratory."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Leica's historical significance and commitment to capturing impactful moments, aligning with the core audience's values.",
+    "actualResonance": "Photographers, history buffs, art lovers, and anyone who appreciates the power of visual storytelling will resonate with this ad.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively celebrates Leica's legacy and reinforces its brand identity while potentially attracting new customers who appreciate the art and history of photography."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.2,
+    "reachScore": 6.0,
+    "costEfficiency": 7.0,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Numbness",
+    "culturalAlignment": 7,
+    "explanation": "The Leica ad, boosted by the Cannes Grand Prix win, gains significant attention. The 'VALIDATED' reaction from the audience amplifies its impact. However, the emotional intensity might lead to viewer fatigue relatively quickly. The high cultural alignment stems from the brand's prestige and the film's artistic merit.",
+    "whatIfScenario": "If the ad had not won the Cannes Grand Prix, its attention economy multiplier would likely be closer to 1.5-2.0, relying solely on its inherent quality and YouTube promotion. The fatigue velocity would remain similar, but the overall impact would be significantly reduced.",
+    "detonationRadius": 3.2,
+    "timingContext": {
+      "date": "2015",
+      "platform": "Cannes Film Festival premiere + YouTube",
+      "context": "Cannes Grand Prix winner. Cinematic brand film."
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "ad": "Duracell \u2014 Built Different",
+  "category": "superbowl-2025",
+  "vibeScore": 542,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:11:31.684757",
+  "fileSize": "1.6MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.35,
+    "fear": 0.1,
+    "surprise": 0.4,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Will you grab the Duracell batteries? Now what's it matter? Batteries are all the same, aren't they? Power boost! All the same? That's not true. What's happening? Duracell is the only brand built different with power boost ingredients inside. Power boost ingredients are a unique blend of nickel and lithium. No other battery brand has them. Still think all batteries are the same? Will you grab the uh Duracell batteries? With power boost ingredients inside.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.619,
+      0.836,
+      1.0,
+      0.967,
+      0.986,
+      0.966
+    ],
+    "average": 0.896,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.619,
+      "audio": "Dialogue between a couple discussing Duracell batteries",
+      "video": "A couple is shown in a store aisle with a shopping cart. They stop at a Duracell battery display. A muscular man in a wh"
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 1.0
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "shopping cart",
+        "confidence": 0.98
+      },
+      {
+        "label": "Duracell battery display",
+        "confidence": 0.95
+      },
+      {
+        "label": "Duracell batteries",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "grocery store aisle",
+        "confidence": 0.98
+      },
+      {
+        "label": "man in lab coat",
+        "confidence": 0.95
+      },
+      {
+        "label": "Duracell battery with power boost ingredients graphic",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Duracell battery display",
+        "magnitude": 0.376,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "Duracell batteries",
+        "magnitude": 0.376,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "man in lab coat",
+        "magnitude": 0.376,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "Duracell battery with power boost ingredients graphic",
+        "magnitude": 0.376,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "shopping cart",
+        "magnitude": 0.367,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A couple is shopping in a grocery store. The woman asks the man to grab Duracell batteries. He questions the need for a specific brand. Suddenly, a muscular man in a lab coat appears, holding up the Duracell battery display."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.4,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Age 30-65, middle to upper-middle class, suburban homeowners, families with children, DIY enthusiasts, tech-savvy but not early adopters.",
+      "psychographics": "Value reliability, practicality, and longevity. Seek dependable products that simplify their lives. Identify as responsible and prepared. Aspire to provide for their families and maintain a comfortable lifestyle.",
+      "brandMeaning": "Duracell represents dependable power and long-lasting performance, a brand you can trust to keep your devices running when you need them most."
+    },
+    "adTargetAudience": {
+      "demographics": "Adults aged 25-54, both male and female, who are practical shoppers and may not be deeply invested in battery technology. Includes those who are price-conscious but willing to pay slightly more for perceived quality and longevity.",
+      "psychographics": "Values convenience and avoiding hassle. Open to new information but skeptical of marketing hype. Seeks value for money and wants to make informed purchasing decisions. Appreciates clear and simple messaging.",
+      "tone": "Informative and slightly humorous, aiming to pique curiosity and overcome skepticism."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The ad's focus on 'power boost ingredients' and a lab-coat-wearing character is a departure from Duracell's traditional focus on reliability and longevity. While not alienating, it may not strongly resonate with the core audience who already trust the brand's performance.",
+    "actualResonance": "Consumers who are generally brand-agnostic when it comes to batteries and are open to being persuaded by a clear, albeit slightly quirky, value proposition. Those who appreciate a touch of humor in advertising and are curious about the 'power boost ingredients'.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "The ad's attempt to differentiate Duracell with 'power boost ingredients' is a moderate risk that may not strongly resonate with the core but could attract new customers seeking a perceived technological edge."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 3,
+    "culturalAlignment": 2,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Neutrality decays to Mild Annoyance",
+    "detonationRadius": 5.6,
+    "explanation": "A Super Bowl ad guarantees massive reach, but also intense scrutiny. The high cost demands near-perfect audience alignment, and any misstep will be amplified across social media and cemented in advertising history. Duracell's neutral core reaction and slight market expansion suggest a safe but potentially unremarkable play. The risk lies in the high contextual vulnerability and social propagation; a poorly executed ad will become a meme instantly.",
+    "whatIfScenario": "If this ad ran on YouTube with targeted demographics, the reach would be lower, but the cost efficiency would improve dramatically. Negative reactions would be contained within the comment section, and the temporal compounding effect would be minimal, allowing for quick course correction.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

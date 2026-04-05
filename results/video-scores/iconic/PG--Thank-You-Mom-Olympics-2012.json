@@ -1,0 +1,246 @@
+{
+  "ad": "P&G \u2014 Thank You Mom (Olympics 2012)",
+  "category": "iconic",
+  "vibeScore": 587,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:37:43.644804",
+  "fileSize": "5.9MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.55,
+    "fear": 0.15,
+    "surprise": 0.3,
+    "sadness": 0.25,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "steady",
+    "transcript": "Hi Sweetie, wake up. It's time to wake up. Time to get up baby. Come on. Come on, I'll make you breakfast.",
+    "segmentCount": 34
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 25
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.501,
+      0.898,
+      0.441,
+      0.687,
+      0.893,
+      0.899,
+      0.508,
+      0.82,
+      0.652,
+      0.82,
+      0.82,
+      0.819,
+      0.82,
+      0.819,
+      0.811,
+      0.802,
+      0.794,
+      0.786,
+      0.756,
+      0.73,
+      0.756,
+      0.802,
+      0.819,
+      0.2,
+      0.2
+    ],
+    "average": 0.714,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "115s",
+      "coherence": 0.2,
+      "audio": "Music continues, no dialogue.",
+      "video": "Black screen."
+    },
+    "maxAlignment": {
+      "timestamp": "25s",
+      "coherence": 0.899
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "bicycle",
+        "confidence": 0.98
+      },
+      {
+        "label": "child",
+        "confidence": 0.99
+      },
+      {
+        "label": "house",
+        "confidence": 0.95
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "bed",
+        "confidence": 0.98
+      },
+      {
+        "label": "street",
+        "confidence": 0.95
+      },
+      {
+        "label": "toast",
+        "confidence": 0.9
+      },
+      {
+        "label": "bus",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man on a bicycle rides down a dark, wet street. A woman opens a window and says 'Hi Sweetie'. A man wakes up a child in bed, saying 'It's time to wake up'.",
+      "0:08-0:14 \u2014 A house is shown at dusk. A woman walks into a child's bedroom and wakes her up.",
+      "0:14-0:24 \u2014 A street with houses is shown at dusk. A woman wakes up a child and says 'Come on'. A woman wakes up a child and says 'C'mon, I'll make you breakfast'.",
+      "0:24-0:31 \u2014 A person makes toast with beans. A person steams dumplings. A woman serves dumplings to children. A woman and child leave a house. A crowd of people get on a bus.",
+      "0:31-0:40 \u2014 A person and child walk through a subway tunnel. A woman drives a car. A woman closes a curtain.",
+      "0:40-0:50 \u2014 A woman helps a child onto a bus. A child swims in a pool. A woman hangs clothes on a clothesline. A woman sorts laundry.",
+      "0:50-1:00 \u2014 A woman hangs clothes on a clothesline. A child plays volleyball. Children run in a park. A child stretches on a track.",
+      "1:00-1:10 \u2014 A woman sits on a bench. A person bandages another person's leg. A woman drives a car. A child performs gymnastics on a balance beam.",
+      "1:10-1:20 \u2014 A child performs gymnastics on a balance beam. A family watches a swimmer on television. A child runs on a track.",
+      "1:20-1:30 \u2014 People play volleyball on a beach. People play volleyball in an arena. A child is hugged after performing gymnastics.",
+      "1:30-1:40 \u2014 A woman cries while hugging a child. People watch a swimmer on television.",
+      "1:40-1:50 \u2014 A person celebrates after running a race. A crowd celebrates. Text appears: 'The hardest job in the world'.",
+      "1:50-2:00 \u2014 Text appears: 'The hardest job in the world, is the best job in the world. Thank you, Mom.' The Pampers logo appears, followed by the P&G logo and the text 'Proud sponsor of Moms'.",
+      "2:00-2:16 \u2014 A logo for causemarketing.com appears."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Primarily women aged 25-54, middle to upper-middle class, often mothers, focused on family and household management.",
+      "psychographics": "Values family, nurturing, cleanliness, health, and creating a comfortable home environment. Aspires to be a good parent and provide the best for their children. Identifies with being responsible, caring, and practical.",
+      "brandMeaning": "P&G represents trusted, reliable, and effective products that help them care for their families and homes."
+    },
+    "adTargetAudience": {
+      "demographics": "Parents, particularly mothers, aged 25-54, across various socioeconomic backgrounds, who have children involved in activities requiring dedication and support.",
+      "psychographics": "Values dedication, sacrifice, and the importance of parental support in helping children achieve their dreams. Appreciates emotional storytelling and relatable experiences. Identifies with the challenges and rewards of parenthood.",
+      "tone": "Heartfelt, appreciative, and celebratory of the role of mothers."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces P&G's association with family values and the emotional connection between mothers and their children. It makes existing customers feel proud to support a brand that recognizes and celebrates the sacrifices parents make.",
+    "actualResonance": "Parents, especially mothers, who have supported their children's athletic or other ambitious pursuits will deeply resonate with the ad's message of dedication and love.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively leverages universal themes of parental love and support to broaden P&G's appeal while strongly reinforcing its core brand values."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 8,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 2,
+    "socialPropagation": 7,
+    "temporalCompounding": 8,
+    "frequencyPressure": 5,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Pride decays to Sentimentality",
+    "detonationRadius": 3.5,
+    "explanation": "The 'Thank You Mom' ad aligned perfectly with the Olympic spirit, creating a powerful emotional connection with a massive audience. While the cost of Olympic advertising is high, the positive cultural alignment and potential for social propagation significantly amplified the ad's impact. The emotional nature of the ad, however, means that repeated viewing could lead to sentimentality and a slight decrease in effectiveness over time. The limited friendly fire risk mitigates potential negative amplification.",
+    "whatIfScenario": "If the ad had run during a period of intense political division or social unrest, the emotional message could have been perceived as tone-deaf or exploitative, leading to a negative backlash and a significantly lower attention economy multiplier.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

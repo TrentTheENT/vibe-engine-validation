@@ -1,0 +1,157 @@
+{
+  "ad": "Wendy's \u2014 Where's the Beef (1984)",
+  "category": "iconic",
+  "vibeScore": 424,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:32:00.685491",
+  "fileSize": "1.3MB",
+  "consensus": {
+    "joy": 0.1,
+    "trust": 0.2,
+    "fear": 0.0,
+    "surprise": 0.25,
+    "sadness": 0.05,
+    "disgust": 0.25,
+    "anger": 0.15,
+    "anticipation": 0.35
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.2,
+      "fear": 0.0,
+      "surprise": 0.3,
+      "sadness": 0.0,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "It certainly is a big bun. It's a very big bun. Big fluffy bun. It's a very big fluffy bun. Where's the beef? Some hamburger places give you a lot less beef and a lot of bun. Where's the beef? At Wendy's, we serve a hamburger we modestly call a single. And Wendy's single has more beef than the Whopper or Big Mac. At Wendy's you get more beef and less bun. Hey, where's the beef? I don't think there's anybody back there. You want something better. You're Wendy's kind of people.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.2,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.2,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "flat",
+    "segmentCount": 7
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.937,
+      0.673,
+      0.853,
+      0,
+      0,
+      0.859
+    ],
+    "average": 0.554,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": 0,
+      "audio": "Voiceover about Wendy's. \"At Wendy's, we serve a hamburger we modestly call a single. And Wendy's single has more beef t",
+      "video": "Close up of a hamburger with lettuce, tomato, onion, pickle, and cheese."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.937
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "elderly woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "hamburger",
+        "confidence": 0.98
+      },
+      {
+        "label": "sign",
+        "confidence": 0.95
+      },
+      {
+        "label": "Wendy's logo",
+        "confidence": 0.98
+      },
+      {
+        "label": "burger bun",
+        "confidence": 0.95
+      },
+      {
+        "label": "beef patty",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 Three elderly women are sitting at a table with a large bun in front of them. The sign behind them says 'HOME OF THE BIG BUN'. They are discussing how big and fluffy the bun is.",
+      "0:08-0:14 \u2014 The women continue to discuss the bun, and one of them asks, 'Where's the beef?'",
+      "0:14-0:22 \u2014 A close-up shot of a Wendy's hamburger is shown, with the text 'Net weight before cooking'.",
+      "0:22-0:29 \u2014 The women are back at the table, and one of them says, 'Hey, where's the beef?' The Wendy's logo is shown."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Wendy's has targeted a broad demographic, primarily adults aged 25-54, with a slight skew towards middle-income families and individuals who value quality and freshness in their fast food choices. They appeal to both genders and various lifestyles, from busy professionals to families on the go.",
+      "psychographics": "Wendy's core audience values authenticity, quality ingredients, and a no-nonsense approach to food. They identify with a brand that offers a slightly more premium fast-food experience without being pretentious. They aspire to make smart choices without sacrificing convenience or taste.",
+      "brandMeaning": "Wendy's represents a step up from basic fast food, offering a perceived higher quality and more substantial meal. It signifies a brand that's not afraid to be a little cheeky and challenge the status quo."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, leveraging humor and a memorable catchphrase to appeal to consumers of all ages. The elderly women in the ad suggest an appeal to older demographics, while the focus on value and beef content resonates with budget-conscious consumers across all age groups.",
+      "psychographics": "The ad appeals to consumers who appreciate humor, value getting their money's worth, and are skeptical of marketing hype. It targets those who are looking for a straightforward, honest assessment of a product's quality and quantity.",
+      "tone": "The ad uses a humorous and slightly sarcastic tone, questioning the value proposition of competitors and highlighting Wendy's commitment to providing more beef for the price."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Wendy's brand identity as a challenger brand that prioritizes quality and value. The humor and memorable catchphrase will likely resonate positively with the core audience, making them feel validated in their choice of Wendy's.",
+    "actualResonance": "This ad will resonate most strongly with consumers who are looking for value and substance in their fast food choices, particularly those who are tired of marketing gimmicks and empty promises. It will also appeal to those who appreciate a good sense of humor and a brand that isn't afraid to poke fun at its competitors.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a classic for a reason, but the CMO should be aware that while it's highly effective at driving awareness and challenging competitors, its success is heavily reliant on its comedic timing and memorable catchphrase, which may not translate perfectly to modern audiences without careful consideration."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 10,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 7,
+    "temporalCompounding": 9,
+    "frequencyPressure": 1,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.1,
+    "repetitionInversion": "Humor decays to Nostalgia",
+    "detonationRadius": 4.5,
+    "explanation": "The 'Where's the Beef?' ad benefited immensely from its Super Bowl placement. The massive live viewership provided unparalleled reach, and the ad's clever humor resonated strongly with the audience. The pre-internet era limited immediate social amplification, but word-of-mouth and news coverage ensured its spread. The ad's scarcity (airing only once) contributed to its legendary status, and its alignment with the cultural moment (skepticism towards large corporations) further amplified its impact. The low frequency pressure meant the ad didn't suffer from overexposure, and its cleverness meant it held up well to repeated viewings via VHS copies.",
+    "whatIfScenario": "If the ad had been released on YouTube in 2024, it would have likely gone viral, but the impact would have been diluted by the sheer volume of content. The instant feedback and meme culture could have amplified any negative reactions, but the ability to iterate and respond to feedback might have mitigated any potential damage. The lack of scarcity would have likely reduced its legendary status.",
+    "timingContext": {
+      "event": "Super Bowl XVIII",
+      "date": "1984-01-22",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "CBS",
+      "adFrequency": "aired ONCE during Super Bowl, never again on TV",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "The ad that INVENTED Super Bowl advertising. Directed by Ridley Scott. Apple board tried to kill it. Aired once, became the most discussed commercial in history. The scarcity made it legendary.",
+      "culturalMoment": "1984 George Orwell fear + IBM PC dominance + Apple Macintosh launch"
+    }
+  }
+}

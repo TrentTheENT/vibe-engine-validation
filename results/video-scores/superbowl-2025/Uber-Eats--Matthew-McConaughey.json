@@ -1,0 +1,247 @@
+{
+  "ad": "Uber Eats \u2014 Matthew McConaughey",
+  "category": "superbowl-2025",
+  "vibeScore": 701,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:12:26.575663",
+  "fileSize": "4.7MB",
+  "consensus": {
+    "joy": 0.65,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.5,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "It has been a banner year for the National Football League. Or should I call it the National Football League. From the very beginning, football has been a conspiracy to make us hungry. And we'll call this a pig skin. Make people crave bacon. Bacon. Bacon. And everybody loves bacon. They do anything to sell food. Coach, how come we only play on Sundays? Because nobody's eating ice cream Saturdays, kid. So the Packers were named after meat packers. So what should we call the fans? Curd? Jesus. Of course. Why do you think Buffalo got a team? These wings deserve a team. I think I got a good team name for Buffalo. Buffalo. Buffalo. Buffalo. And their biggest game? Come on. Our championship will be a Super Cup. Can't eat out of a cup, Ted. But a bowl? How about a Super Bowl. And we'll start naming players after clients. Hey coach, do I have to be called refrigerator? Yes. And Peyton, he was a beef salesman. Omaha. Omaha. And they're still playing us. This year we're not even hiding it anymore. That Super Bowl Licks. But the halftime show presented by an apple. And a stadium named after a salad. A salad. Matthew. Yeah, hey. Sorry, so you want me to make a movie about a football conspiracy? Yes. No. Come on, Greta. Bacon's in. Everybody loves bacon. No one believes that football is just some conspiracy to sell food.",
+    "segmentCount": 17
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 21
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.958,
+      0.992,
+      0.867,
+      0.927,
+      0.951,
+      0.951,
+      0.951,
+      0.951,
+      0.982,
+      0.969,
+      0.933,
+      0.951,
+      0.951,
+      0.982,
+      0.969,
+      0.928,
+      0.928
+    ],
+    "average": 0.949,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "10s",
+      "coherence": 0.867,
+      "audio": "And we'll call this a pig skin. Make people crave bacon. Bacon. Bacon. And everybody loves bacon.",
+      "video": "A black and white scene shows a man writing \"Football\" on a chalkboard. The scene cuts to a group of men in old football"
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.992
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "Matthew McConaughey",
+        "confidence": 0.99
+      },
+      {
+        "label": "NFL logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "Uber Eats bag",
+        "confidence": 0.98
+      },
+      {
+        "label": "donuts",
+        "confidence": 0.95
+      },
+      {
+        "label": "football players",
+        "confidence": 0.95
+      },
+      {
+        "label": "buffalo wings",
+        "confidence": 0.95
+      },
+      {
+        "label": "Super Bowl trophy",
+        "confidence": 0.95
+      },
+      {
+        "label": "Martha Stewart",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 Matthew McConaughey is in a high-rise office giving a presentation to a board of directors about the NFL. He jokes that it should be called the National Foodball League, and the board laughs and applauds.",
+      "0:08-0:23 \u2014 A black and white scene shows the origins of football. A man writes \"Football\" on a chalkboard and says they will call the ball a pigskin. Another man says that will make people crave bacon. The scene cuts to a football game with a crowd eating ice cream.",
+      "0:23-0:30 \u2014 A man in a suit is standing in front of the Green Bay Packers stadium under construction. He says the Packers were named after meat packers. Another man asks what they will call the fans, and the first man says \"cheeseheads.\"",
+      "0:30-0:45 \u2014 Three men are eating buffalo wings in a restaurant. One of them suggests the team name should be the Buffalo Bills. The scene cuts back to the board meeting where Matthew McConaughey is presenting. He says the championship will be a Super Cup, but someone says you can't eat out of a cup. McConaughey suggests a Super Bowl.",
+      "0:45-1:05 \u2014 Matthew McConaughey continues his presentation. He says they will start naming players after appliances. He says Peyton Manning was a beef salesman. The scene cuts to Peyton Manning on the field calling out \"Omaha!\" The scene cuts back to the board meeting where the board is eating food delivered by Uber Eats. Another man says that they are not even hiding it anymore.",
+      "1:05-1:15 \u2014 The scene cuts to a Super Bowl logo. Matthew McConaughey says the halftime show will be presented by an apple, and the stadium will be named after a salad. The board laughs.",
+      "1:15-1:37 \u2014 A montage of scenes from the commercial plays. Matthew McConaughey is in a living room with Kristen Wiig. He is holding a buffalo wing and trying to convince her to make a movie about a football conspiracy. She says no one believes that football is just some conspiracy to sell food. The commercial ends with the Uber Eats logo and the tagline \"When football makes you hungry, order Uber Eats.\""
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Uber Eats' core audience spans ages 18-45, skewing slightly towards urban and suburban dwellers with moderate to high disposable income. It includes both genders, with a focus on tech-savvy individuals and busy professionals.",
+      "psychographics": "They value convenience, variety, and instant gratification. They identify as foodies, enjoy trying new restaurants, and appreciate the ease of ordering meals and groceries online. They aspire to a lifestyle that balances work, leisure, and social activities, with food playing a central role.",
+      "brandMeaning": "Uber Eats represents convenience, choice, and a modern, tech-enabled lifestyle. It's a solution for busy schedules and a gateway to culinary exploration."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, particularly those interested in the Super Bowl and NFL, likely aged 18-55, encompassing both male and female viewers. It aims for a national reach, appealing to football fans and casual viewers alike.",
+      "psychographics": "The ad appeals to those who enjoy humor, pop culture references, and celebrity endorsements. It targets individuals who associate food with social gatherings and entertainment, especially during sporting events. It also targets those who enjoy nostalgia and the history of football.",
+      "tone": "The ad uses a humorous and lighthearted tone, leveraging celebrity appeal and playful observations about the connection between football and food."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Uber Eats' association with convenience and entertainment, aligning with the core audience's values. The celebrity endorsement and humorous approach will likely resonate positively, making them feel proud to be associated with the brand.",
+    "actualResonance": "This ad will resonate most strongly with casual football fans and those who enjoy celebrity-driven humor. It will also appeal to individuals who appreciate the convenience of food delivery services, particularly during events like the Super Bowl.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively leverages the Super Bowl platform to broaden Uber Eats' appeal while maintaining relevance to its core audience, though the humor might not land with everyone."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 7,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Humor decays to Irritation",
+    "detonationRadius": 3.8,
+    "explanation": "A Super Bowl ad starring Matthew McConaughey for Uber Eats benefits from massive reach and potential for social amplification. However, the high cost creates immense pressure for positive ROI. The Super Bowl's review culture amplifies any missteps. While the audience alignment is generally positive, any negative reaction will be magnified and permanently recorded. The celebrity-heavy, comedic nature of the ad risks becoming irritating with repeated exposure, diminishing its impact over time.",
+    "whatIfScenario": "If this ad ran as a pre-roll on YouTube, the cost efficiency would improve dramatically, but the reach and immediate social impact would be significantly lower. The contextual vulnerability would also decrease, as the audience is less primed for critical review. However, negative reactions could still spread through the comment section, albeit at a slower pace.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q1",
+      "estimatedSpend": 16000000,
+      "followUp": "app promo extensions",
+      "note": "Celebrity-heavy, comedy slot"
+    }
+  }
+}

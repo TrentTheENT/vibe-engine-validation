@@ -1,0 +1,198 @@
+{
+  "ad": "Cats (2019) \u2014 Official Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 623,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:08:04.594407",
+  "fileSize": "4.6MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.4,
+    "fear": 0.25,
+    "surprise": 0.5,
+    "sadness": 0.2,
+    "disgust": 0.25,
+    "anger": 0.1,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.3,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 45
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.5,
+      "sadness": 0.2,
+      "disgust": 0.3,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 45
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.944,
+      0.979,
+      0.957,
+      0.984,
+      0.807,
+      1.0,
+      0.97,
+      0.892,
+      0.981,
+      0.972,
+      0.821,
+      0.894,
+      0.97,
+      0.896,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826,
+      0.964,
+      0.826
+    ],
+    "average": 0.905,
+    "assessment": "SYNCHRONIZED"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:05-0:09 \u2014 description",
+      "0:09-0:12 \u2014 description",
+      "0:12-0:19 \u2014 description",
+      "0:19-0:22 \u2014 description",
+      "0:22-0:34 \u2014 description",
+      "0:34-0:43 \u2014 description",
+      "0:43-0:58 \u2014 description",
+      "0:58-1:12 \u2014 description",
+      "1:12-1:25 \u2014 description",
+      "1:25-1:43 \u2014 description",
+      "1:43-2:02 \u2014 description",
+      "2:02-2:13 \u2014 description",
+      "2:13-2:23 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.5,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.4,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.35,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.5,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Fans of musical theater, particularly those familiar with the stage production of Cats. Skews older, with a significant portion having seen the original show or subsequent revivals. Geographically diverse, with strong representation in urban areas with active theater scenes.",
+      "psychographics": "Appreciates spectacle, elaborate costumes, and emotionally resonant storytelling. Enjoys both traditional and contemporary interpretations of classic works. Values artistic expression and theatrical performance.",
+      "brandMeaning": "Cats represents a unique and enduring theatrical experience, a blend of dance, music, and feline fantasy. It evokes nostalgia for many, while also offering a visually stunning and emotionally engaging spectacle."
+    },
+    "adTargetAudience": {
+      "demographics": "A broader audience than the core fans, including families, younger viewers, and those unfamiliar with the stage production. Aiming for mainstream appeal.",
+      "psychographics": "Seeking visually impressive entertainment with a touch of fantasy and spectacle. Open to new experiences and familiar with celebrity casting. Tone is whimsical, slightly dark, and emotionally driven.",
+      "tone": "Whimsical, slightly dark, emotionally driven, star-studded."
+    },
+    "audienceDistance": 5,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The trailer's visual style and character design deviate significantly from the stage production, potentially alienating core fans who have specific expectations. The heavy reliance on CGI and the 'human-cat' hybrid appearance may be unsettling or distracting for some.",
+    "actualResonance": "May resonate with younger audiences unfamiliar with the stage production, drawn in by the celebrity cast and visually striking effects. Families seeking a holiday spectacle may also be drawn in.",
+    "friendlyFireRisk": 6,
+    "marketExpansion": 7,
+    "verdict": "The trailer's visual style may alienate core fans, but the celebrity cast and spectacle could attract a broader audience, though the risk of negative reception is significant."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 8,
+    "costEfficiency": 1,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Disgust",
+    "culturalAlignment": -8,
+    "explanation": "The 'Cats' trailer was a perfect storm for negative attention amplification. The combination of a well-known property, a star-studded cast, and the bizarre CGI created immediate and widespread mockery. The high production budget and extensive marketing spend amplified the negative reaction, leading to a significant financial loss. The initial confusion quickly turned to disgust and ridicule as the trailer was dissected and parodied online. The cultural misalignment was severe, as the film's aesthetic clashed with audience expectations.",
+    "whatIfScenario": "If the CGI had been more polished and less uncanny, the initial reaction might have been more positive or at least neutral. A less aggressive marketing campaign could have also mitigated the amplification of negative sentiment. A smaller budget would have reduced the financial impact of the film's failure.",
+    "detonationRadius": 27.0,
+    "timingContext": {
+      "date": "2019-07-18",
+      "platform": "YouTube + theaters",
+      "estimatedSpend": 100000000,
+      "context": "Musical adaptation. All-star cast (Judi Dench, Ian McKellen, Taylor Swift, Idris Elba). CGI 'digital fur technology' uncanny valley. Trailer immediately mocked worldwide.",
+      "aftermath": "$73M worldwide vs $95M budget. One of biggest box office bombs ever. Director released a PATCHED VERSION to theaters. Lost $71-114M."
+    }
+  }
+}

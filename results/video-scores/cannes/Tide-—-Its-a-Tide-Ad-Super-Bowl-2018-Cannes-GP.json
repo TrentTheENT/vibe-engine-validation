@@ -1,0 +1,181 @@
+{
+  "ad": "Tide \u2014 It's a Tide Ad (Super Bowl 2018, Cannes GP)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 592,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:07:12.608146",
+  "fileSize": "3.8MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.45,
+    "fear": 0.1,
+    "surprise": 0.45,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Yeah, just your typical Super Bowl car at, right? Or a hilarious beer ad. Or whatever ad this is. Whatever. But it's a Tide ad. What? It's a Tide ad. What makes it a Tide ad? There are no stains. Look at those clean clothes. What else would this be an ad for? Diamonds? A gift that lasts for a no. Tide. It's time for a cold refreshing. Tide ad. Fall into the sleep of your. No. Tide. No. Tide ad. Extreme. No. Tide. Tide. Meet the all new. No, it's a Tide ad. Tide. So, does this make every Super Bowl ad a Tide ad? I think it does. Watch and see. So what's your bit? Jelly queso? Sorry, what? Tide Super Bowl commercial. Gotta have a thing. Yeah, you know, I can't play that, Terry. I had a thing. My thing was barbecue. Looks like it still is.",
+    "segmentCount": 17
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 18
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.986,
+      0.983,
+      0.708,
+      0.907,
+      0.693,
+      0.996,
+      0.912,
+      0.209,
+      0.651,
+      0.965,
+      0.651,
+      0.693,
+      0.693,
+      0.651,
+      0.693,
+      0.651,
+      0.693
+    ],
+    "average": 0.749,
+    "assessment": "SYNCHRONIZED"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "David Harbour",
+        "confidence": 0.99
+      },
+      {
+        "label": "car",
+        "confidence": 0.95
+      },
+      {
+        "label": "Tide logo",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "David Harbour",
+        "magnitude": 0.245,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "car",
+        "magnitude": 0.224,
+        "emotion": "fear",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05 \u2014 description",
+        "description": "A silver car drives along a scenic road at sunset, followed by a shot of David Harbour in the driver's seat."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Optimism",
+        "strength": 0.53,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Hope",
+        "strength": 0.53,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.45,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.45,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Optimism",
+      "strength": 0.53,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Families and individuals who value cleanliness and effective stain removal. Primarily middle to upper-middle class.",
+      "psychographics": "Value convenience, reliability, and a sense of security in their household products. They are practical and seek products that deliver on their promises.",
+      "brandMeaning": "Tide represents a trusted and dependable solution for keeping clothes clean and fresh, offering peace of mind to busy households."
+    },
+    "adTargetAudience": {
+      "demographics": "Broad audience, targeting Super Bowl viewers. Skews slightly towards younger, more digitally engaged consumers.",
+      "psychographics": "Humor-oriented, appreciates self-aware and meta-commentary. Enjoys pop culture references and unexpected twists in advertising.",
+      "tone": "Humorous, self-deprecating, and engaging. Aims to be memorable and shareable."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Tide's core benefit (cleanliness) in a humorous and memorable way, while also acknowledging the absurdity of Super Bowl advertising.",
+    "actualResonance": "Likely to resonate with a broad audience, including those who are not regular Tide users but appreciate clever advertising.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a clever and effective way to reinforce Tide's brand identity while expanding its reach to a younger, more digitally engaged audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.5,
+    "costEfficiency": 2.1,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Annoyance",
+    "culturalAlignment": 7,
+    "explanation": "The Tide ad's meta-narrative and Super Bowl placement created massive buzz and virality. The Cannes Grand Prix further amplified its reach. However, the repetitive nature of the 'every ad is a Tide ad' concept could quickly become irritating, leading to fatigue. The high cultural alignment stems from its clever deconstruction of advertising tropes.",
+    "whatIfScenario": "If the ad had not won the Cannes Grand Prix, the attention economy multiplier would likely have been closer to 3.0, as the sustained media coverage and validation from the advertising industry significantly boosted its longevity and impact.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2018-02-04",
+      "platform": "Super Bowl LII",
+      "costPer30Sec": 5000000,
+      "liveViewership": 103000000,
+      "context": "Meta-advertising. Every ad is a Tide ad. Won Cannes Grand Prix + Clio."
+    }
+  }
+}

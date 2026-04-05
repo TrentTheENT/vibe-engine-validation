@@ -1,0 +1,160 @@
+{
+  "ad": "Gap \u2014 Logo Redesign Announcement (2010)",
+  "category": "brand-pivots",
+  "contentType": "brand identity video",
+  "vibeScore": 0,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T23:21:32.024296",
+  "fileSize": "7.8MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hi my friends, Emily is here and you are listening to me through the ASFP channel. And as they say, learn from others mistakes, not your own. Yours might be the last. Today we're going to discuss a failed marketing story and learn the reasons behind its failure. Let's go. In October 2010, Gap, the iconic American clothing retailer, decided to update its logo for the first time in over 20 years. The original logo, a classic white Sarah font on a blue box, was replaced with a more modern design, featuring a bold Helvetica font and a small blue gray ant square in the upper right corner. The intention was to refresh the brand's image and make it more contemporary. What went wrong? Alienating loyal customers. Gap's original logo was not just a brand identifier, but also a symbol that had built emotional connections with customers over decades. The sudden change was jarring for many loyal customers who felt a sense of loss and betrayal as the new design did not resonate with them. Lack of consumer engagement. The redesign was rolled out with little to no input or feedback from customers. The new logo was simply unveiled without any prior engagement or explanation, leading consumers confused and unhappy. The lack of transparency and involvement made the change feel arbitrary and disconnected from the brand's identity. Negative public reaction. The reaction to the new logo was overwhelmingly negative. Social media erupted with criticism and within days a make your own gap logo website was created allowing users to mock the redesign. The backlash was swift and intense with many customers and design professionals deriding the new logo as generic, uninspired, and unnecessary. Rapid retraction. Just six days after the new logo was introduced, Gap announced that it would revert to the original design due to the overwhelming negative feedback. The quick reversal made the company appear indecisive and out of touch with its audience. Outcome. The logo redesign was a costly misstep for Gap, both financially and in terms of brand image. The company's hasty retreat back to the original logo, highlighted a disconnect between the brand and its customers. This incident became a case study in how not to handle brand redesign. Lessons learned. Engage customers, seek input to avoid backlash and create buy in. Respect brand equity. Handle iconic logo changes with care. Test changes. Test with a segment of your audience before a full roll out. The gap logo fiasco is a classic example. how even well intentioned changes can backfire, if they're not properly planned and executed, especially when they involve an element as central to the brand identity as a logo. We've reached the end of this video, my friends. This was Emily and you were listening to me on the ASFP channel. Do not forget to support us by subscribing and liking, and write what you want to discuss in the comments. Thank you all. See you later.",
+    "segmentCount": 47
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 61
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "Gap logo",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Gap logo",
+        "magnitude": 1.709,
+        "emotion": "disgust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle to upper-class consumers, ages 20-40, skewing slightly female.",
+      "psychographics": "Values classic, casual American style; seeks quality and comfort; appreciates a brand with a long history and a sense of familiarity.",
+      "brandMeaning": "Gap represents accessible, timeless fashion that is reliable and comfortable. It's a brand that evokes a sense of nostalgia and a connection to American culture."
+    },
+    "adTargetAudience": {
+      "demographics": "Marketing professionals, brand strategists, and business students, ages 25-55, with an interest in brand identity, marketing failures, and case studies.",
+      "psychographics": "Analytical, curious about business strategies, and interested in learning from past mistakes. Values insights and practical advice.",
+      "tone": "Informative, analytical, and educational."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The video is not directly aimed at Gap's core consumer base, but rather at marketing professionals. Therefore, the core audience would likely be neutral to the content.",
+    "actualResonance": "Marketing professionals, brand strategists, and business students interested in learning from a failed logo redesign.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This video is a good case study for marketing professionals and brand strategists, and it carries minimal risk of alienating Gap's core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 0.6,
+    "costEfficiency": 0.7,
+    "fatigueVelocity": 0.8,
+    "repetitionInversion": "Irritation",
+    "culturalAlignment": -8,
+    "explanation": "The Gap logo redesign announcement in 2010 is a classic example of a brand pivot gone wrong. The audience, though not initially strongly attached (low risk), reacted neutrally at first, but the radical change amplified negative sentiment quickly. The high fatigue velocity indicates that repeated exposure to the backlash only worsened the perception. The cultural misalignment was significant, as the new logo was widely perceived as generic and lacking the brand's heritage. The attention economy multiplier is high due to the rapid and widespread negative attention the redesign received.",
+    "whatIfScenario": "If Gap had A/B tested the new logo with a small segment of their audience and gathered feedback before a full rollout, they could have avoided the massive negative backlash and potentially refined the design to be more palatable. A more gradual transition, acknowledging the brand's history, might have also mitigated the negative reaction.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "context": "Category: brand-pivots"
+    }
+  }
+}

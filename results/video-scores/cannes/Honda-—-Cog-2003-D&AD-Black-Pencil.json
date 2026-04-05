@@ -1,0 +1,180 @@
+{
+  "ad": "Honda \u2014 Cog (2003, D&AD Black Pencil)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 453,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:29:37.658475",
+  "fileSize": "6.3MB",
+  "consensus": {
+    "joy": 0.1,
+    "trust": 0.1,
+    "fear": 0.1,
+    "surprise": 0.45,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 40
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "surprise",
+    "arcShape": "peak",
+    "segmentCount": 40
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.892,
+      -1,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      0.892,
+      -0.611,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": 0.334,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "Honda logo",
+        "confidence": 0.98
+      },
+      {
+        "label": "car",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "car",
+        "magnitude": 0.245,
+        "emotion": "trust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A gear rolls across a wooden surface, triggering a Rube Goldberg machine.",
+      "0:05-0:10 \u2014 The machine continues, with various car parts interacting.",
+      "0:10-0:15 \u2014 The sequence progresses, showing more car components.",
+      "0:15-0:20 \u2014 The machine's complexity increases, involving a car hood.",
+      "0:20-0:25 \u2014 A car engine and tire are introduced into the chain reaction.",
+      "0:25-0:30 \u2014 Tires roll down a ramp, activating another part of the machine.",
+      "0:30-0:35 \u2014 A car seat is launched, leading to a falling object.",
+      "0:35-0:40 \u2014 A series of balls roll down a ramp, triggering the next step.",
+      "0:40-0:45 \u2014 An engine block moves along a track, activating a fan.",
+      "0:45-0:50 \u2014 The fan's movement triggers another device.",
+      "0:50-0:55 \u2014 A metal rod falls, causing a crash.",
+      "0:55-1:00 \u2014 A car muffler rolls, leading to another component.",
+      "1:00-1:05 \u2014 A tire falls onto a car hood, triggering a lever.",
+      "1:05-1:10 \u2014 A metal piece rolls off a lever, activating the next step.",
+      "1:10-1:15 \u2014 A car door is used as part of the machine.",
+      "1:15-1:20 \u2014 Water is sprayed, leading to the next action.",
+      "1:20-1:25 \u2014 Windshield wipers activate, triggering a falling object.",
+      "1:25-1:30 \u2014 A car dashboard falls, activating the final sequence.",
+      "1:30-1:35 \u2014 The dashboard lights up, showing the car's interior.",
+      "1:35-1:40 \u2014 A spring falls onto a glass table with speakers.",
+      "1:40-1:45 \u2014 The machine's final actions lead to a car key.",
+      "1:45-1:50 \u2014 A car is revealed on a platform, completing the machine.",
+      "1:50-1:55 \u2014 The car is showcased, with the word 'ACCORD' appearing.",
+      "1:55-2:00 \u2014 The Honda logo appears, ending the advertisement."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle-class to upper-middle-class individuals and families, aged 30-55, with a focus on reliability, practicality, and value for money.",
+      "psychographics": "Values dependability, fuel efficiency, and safety. They are often practical, family-oriented, and seek a balance between functionality and comfort. They appreciate innovation but prioritize proven technology.",
+      "brandMeaning": "Honda represents reliable transportation, innovative engineering, and a commitment to quality. It signifies a smart, sensible choice for those who value long-term performance and practicality."
+    },
+    "adTargetAudience": {
+      "demographics": "Likely targeting a similar demographic as the core audience but with a slightly more refined taste for engineering and innovation. This ad may appeal to those who appreciate clever design and mechanical artistry.",
+      "psychographics": "Appreciates intricate design, mechanical ingenuity, and a sense of humor. They are likely interested in how things work and enjoy creative problem-solving.",
+      "tone": "Intriguing, artistic, and slightly humorous. The ad uses a Rube Goldberg machine to showcase the engineering prowess and reliability of Honda vehicles in an unconventional way."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad validates the core audience's belief in Honda's engineering and reliability by showcasing it in a creative and unexpected way. While unconventional, it reinforces the brand's commitment to innovation and quality.",
+    "actualResonance": "Individuals who appreciate clever engineering, artistic expression, and a touch of humor will find this ad particularly appealing. It may also resonate with those who enjoy Rube Goldberg machines and intricate mechanical designs.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "This ad is a creative and engaging way to reinforce Honda's core values while potentially attracting a new audience that appreciates engineering artistry and innovative design."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7.0,
+    "costEfficiency": 6.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Annoyance",
+    "culturalAlignment": 7,
+    "explanation": "The 'Cog' ad is a classic, highly regarded for its ingenuity and execution. Its placement within the 'Cannes' category suggests a sophisticated, advertising-savvy audience already predisposed to appreciate its artistry. The 'VALIDATED' reaction and moderate 'Distance' score indicate positive initial reception, but the Risk score suggests a limited potential for widespread negative backlash. The high attentionEconomyMultiplier reflects the ad's potential for virality and discussion, driven by its unique concept and high production value. However, the fatigueVelocity indicates that repeated exposure may diminish its impact, potentially leading to annoyance.",
+    "whatIfScenario": "If the ad were released today, the attentionEconomyMultiplier would likely be even higher due to the increased prevalence of social media and online sharing. However, the fatigueVelocity might also be accelerated due to the constant bombardment of content.",
+    "detonationRadius": 7.0,
+    "timingContext": {
+      "context": "Category: cannes"
+    }
+  }
+}

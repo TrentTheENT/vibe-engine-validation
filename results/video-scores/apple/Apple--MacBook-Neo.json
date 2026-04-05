@@ -1,0 +1,217 @@
+{
+  "ad": "Apple \u2014 MacBook Neo",
+  "category": "apple",
+  "vibeScore": 655,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T18:19:28.668082",
+  "fileSize": "2.2MB",
+  "consensus": {
+    "joy": 0.65,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.4,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "joy",
+    "arcShape": "constant",
+    "transcript": "Smile so big that your eyes can go back in your face. Love so large you can hear it from outer space. I really wanna talk to you. I really wanna know what you... I really wanna talk to you. I really wanna... I really wanna talk to you. I really wanna...",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.985,
+      0.984,
+      0.985,
+      0.978,
+      0.985,
+      0.985
+    ],
+    "average": 0.984,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": 0.978,
+      "audio": "Female voice singing, \"I really wanna...\" with a sound effect of a record scratch.",
+      "video": "The video shows the colorful Macbooks being passed between people. The laptops are shown being passed between people wit"
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.985
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "MacBook",
+        "confidence": 0.98
+      },
+      {
+        "label": "laptop screen",
+        "confidence": 0.95
+      },
+      {
+        "label": "keyboard",
+        "confidence": 0.9
+      },
+      {
+        "label": "iMessage app",
+        "confidence": 0.85
+      },
+      {
+        "label": "stickers",
+        "confidence": 0.8
+      },
+      {
+        "label": "Apple logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A hand places a yellow MacBook on top of a blue one. Then, a white MacBook is placed on a pink one. The pink MacBook is opened to reveal a screen that says 'Hello Neo'.",
+      "0:08-0:13 \u2014 The video shows a person using the trackpad and keyboard on a blue MacBook. Then, a person is shown using the iMessage app on their phone, which is also displayed on the MacBook screen.",
+      "0:13-0:25 \u2014 The video shows hands passing MacBooks of different colors to each other. The pink MacBook is shown with stickers being placed on it. The video ends with the MacBook Neo logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Apple's core audience spans a wide age range (18-55+), skewing slightly towards younger demographics. Income levels are typically mid-to-high, reflecting the premium pricing of Apple products. Lifestyle focuses on technology adoption, design appreciation, and seamless integration of devices. Geographically diverse, with strong presence in urban and suburban areas.",
+      "psychographics": "Values include innovation, creativity, user-friendliness, and status. Identity is often tied to being 'tech-savvy,' 'modern,' and 'part of the Apple ecosystem.' Aspirations center around productivity, self-expression, and staying connected.",
+      "brandMeaning": "Apple represents a lifestyle choice centered around seamless technology, elegant design, and a sense of belonging to a community of innovators and creatives. It signifies quality, reliability, and a certain level of social status."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets Gen Z and younger Millennials (16-25), particularly students and young professionals. It likely appeals to those with moderate to high disposable income, or those who prioritize technology purchases. Geographically, it targets urban and suburban areas with strong internet connectivity.",
+      "psychographics": "Values include self-expression, creativity, individuality, and social connection. The ad appeals to those who see technology as a tool for communication, entertainment, and personal branding. They aspire to be seen as unique, stylish, and connected.",
+      "tone": "The ad speaks to the viewer in a playful, energetic, and inclusive tone, using vibrant colors and a fast-paced editing style. It aims to create a sense of excitement and belonging."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Apple's commitment to innovation and design, while also showcasing the brand's ability to stay relevant and appeal to younger generations. The bright colors and focus on self-expression will be seen as a natural evolution of Apple's design philosophy.",
+    "actualResonance": "This ad will resonate most strongly with Gen Z and younger Millennials who are drawn to vibrant colors, personalized technology, and a sense of community. It will also appeal to those who value self-expression and see technology as a tool for creativity and connection.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively targets a younger demographic without alienating the core audience, but the CMO should monitor sentiment to ensure the brand's premium image isn't diluted."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 8,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 3,
+    "socialPropagation": 4,
+    "temporalCompounding": 7,
+    "frequencyPressure": 6,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to acceptance",
+    "detonationRadius": 5.6,
+    "explanation": "The 2003 MacBook Neo launch at WWDC, coupled with a broad media push, benefited from a receptive tech-savvy audience and a cultural moment where Apple's resurgence was a compelling narrative. The launch timing amplified the message, reaching a core audience and then expanding outwards. While pre-internet, word-of-mouth and news coverage still provided significant social amplification. The focus on privacy as a differentiator further resonated, enhancing the positive impact. However, the moderate TV and heavy digital ad frequency could lead to fatigue if the message wasn't compelling enough.",
+    "whatIfScenario": "If the MacBook Neo had launched during a period of economic downturn or amidst a major Apple scandal, the reception could have been significantly more critical, potentially leading to a negative attention economy multiplier. Launching at a general consumer electronics show instead of WWDC would have diluted the initial impact on the core developer audience.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

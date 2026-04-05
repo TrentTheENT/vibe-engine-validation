@@ -1,0 +1,223 @@
+{
+  "ad": "British Museum \u2014 Chip a Bit Off",
+  "category": "april-fools-2025",
+  "vibeScore": 580,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:01:52.301615",
+  "fileSize": "2.5MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.55,
+    "fear": 0.15,
+    "surprise": 0.2,
+    "sadness": 0.1,
+    "disgust": 0.25,
+    "anger": 0.45,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Since 1759, the British Museum has amassed the world's greatest collection of antiquities. We couldn't do it without you. So when you're on holiday, visiting the greatest locations in history, remember one thing. Chip a bit off for us. I chipped off a whole wall. I chipped off a whole island ancestor. So do your part this summer. Chip, chip. Chip a bit off for the British Museum.",
+    "segmentCount": 8
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 8
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.887,
+      0.896,
+      0.879,
+      0.804,
+      0.056,
+      0.096,
+      0.148,
+      0
+    ],
+    "average": 0.471,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "35s",
+      "coherence": 0,
+      "audio": " ",
+      "video": "A logo for 404 Films is displayed."
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.896
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "British Museum building",
+        "confidence": 0.99
+      },
+      {
+        "label": "Tutankhamun death mask",
+        "confidence": 0.98
+      },
+      {
+        "label": "family looking at artifact",
+        "confidence": 0.95
+      },
+      {
+        "label": "airplane taking off",
+        "confidence": 0.99
+      },
+      {
+        "label": "Great Wall of China",
+        "confidence": 0.98
+      },
+      {
+        "label": "Great Pyramid of Giza",
+        "confidence": 0.98
+      },
+      {
+        "label": "Colosseum",
+        "confidence": 0.98
+      },
+      {
+        "label": "hand chipping stone",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "AgJy",
+        "name": "Pride",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent, educated individuals and families, aged 35-65+, with a strong interest in history, art, and culture. Likely to have postgraduate degrees and travel internationally.",
+      "psychographics": "Values intellectual curiosity, historical preservation, and cultural enrichment. Identifies as a global citizen and appreciates authenticity. Aspires to broaden their knowledge and understanding of the world.",
+      "brandMeaning": "A trusted authority on world history and culture, a place for learning and inspiration, and a guardian of human heritage."
+    },
+    "adTargetAudience": {
+      "demographics": "Individuals aged 25-45, active on social media, with a dark sense of humor and an interest in travel and memes. Likely to be environmentally conscious and aware of issues surrounding cultural appropriation.",
+      "psychographics": "Values humor, irony, and social commentary. Enjoys subversive content and challenging established norms. May feel a sense of guilt or awareness regarding the ethics of tourism and historical artifacts.",
+      "tone": "Ironic, satirical, and subtly provocative."
+    },
+    "audienceDistance": 7,
+    "coreReaction": "ALIENATED",
+    "coreReactionExplanation": "The ad's satirical tone and encouragement of artifact 'chipping' will likely offend the core audience, who deeply value historical preservation and respect for cultural heritage. They may perceive it as trivializing the museum's mission and promoting irresponsible behavior.",
+    "actualResonance": "Younger, digitally-native audiences who appreciate dark humor and are aware of the controversies surrounding the acquisition and ownership of historical artifacts. It may also resonate with people who enjoy travel memes and ironic social commentary.",
+    "friendlyFireRisk": 8,
+    "marketExpansion": 3,
+    "verdict": "This ad risks alienating the British Museum's core audience with its controversial humor and should be carefully reconsidered due to the high potential for negative backlash."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 0.7,
+    "reachScore": 6,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 9,
+    "socialPropagation": 8,
+    "temporalCompounding": 6,
+    "frequencyPressure": 3,
+    "culturalAlignment": -4,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Humor decays to Annoyance",
+    "detonationRadius": 5.6,
+    "explanation": "The British Museum's April Fool's Day campaign faces a significant challenge. While the potential reach is high and the cost is low, the context of April Fool's Day primes audiences for skepticism and harsh judgment. The high 'Friendly Fire Risk' and negative 'Cultural Alignment' suggest the joke may not land well, leading to alienation rather than amusement. Social propagation will amplify both positive and negative reactions, and while the single-drop nature limits frequency pressure, the potential for lasting negative impressions due to temporal compounding is considerable. The overall effect is a slight reduction in the ad's impact due to the challenging context.",
+    "whatIfScenario": "If this ad ran during a less cynical time, like Museum Week, the audience would be more receptive to the humor, potentially leading to positive engagement and brand affinity. The friendly fire risk would be lower, and the cultural alignment would be more positive, resulting in a higher attention economy multiplier.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

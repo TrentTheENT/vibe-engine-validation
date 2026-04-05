@@ -1,0 +1,192 @@
+{
+  "ad": "Coca-Cola \u2014 Mean Joe Greene (Super Bowl 1979)",
+  "category": "iconic",
+  "vibeScore": 629,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:31:43.386360",
+  "fileSize": "1.6MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.65,
+    "fear": 0.05,
+    "surprise": 0.25,
+    "sadness": 0.1,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.6
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "Crowd: please, please, wiggle down. Child: Mr. Green? Mr. Green? Yeah. You need any help? Mmm. I just want you to know, I think, I think you're the best ever. Yeah, sure. Want my Coke? It's okay, you can have it. No, no. Really, you can have it. Okay. Thanks, Mean Joe.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.0,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "increasing",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.921,
+      0.967,
+      0.928,
+      0.951,
+      0.952,
+      0.902,
+      0.97,
+      0.949,
+      0.942,
+      0.959,
+      0.97,
+      0.971
+    ],
+    "average": 0.949,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.902,
+      "audio": "Child: \"Really, you can have it.\" Man: \"Okay.\"",
+      "video": "The football player looks down, then the boy holds up the bottle again."
+    },
+    "maxAlignment": {
+      "timestamp": "55s",
+      "coherence": 0.971
+    }
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "football player",
+        "confidence": 0.99
+      },
+      {
+        "label": "boy",
+        "confidence": 0.99
+      },
+      {
+        "label": "Coca-Cola bottle",
+        "confidence": 0.99
+      },
+      {
+        "label": "football shoulder pads",
+        "confidence": 0.95
+      },
+      {
+        "label": "tunnel",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A football player walks down a tunnel, followed by a young boy who asks if he needs help.",
+      "0:08-0:19 \u2014 The boy tells the football player that he thinks he is the best ever.",
+      "0:19-0:33 \u2014 The boy offers the football player his Coca-Cola.",
+      "0:33-0:48 \u2014 The football player accepts the Coca-Cola and drinks it.",
+      "0:48-1:01 \u2014 The boy walks away, and the football player smiles. Text appears on the screen: 'Have a Coke and a smile. Coke adds life.'"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Coca-Cola has served a broad audience, but its core has been families, young adults (13-35), and working-class individuals across various income levels. Geographically diverse, with a strong presence in North America, Latin America, and increasingly, Asia.",
+      "psychographics": "Coca-Cola's core audience values connection, happiness, and shared experiences. They identify with Americana, tradition, and simple pleasures. They aspire to moments of joy and optimism in their everyday lives.",
+      "brandMeaning": "Coca-Cola represents moments of happiness, connection, and simple pleasure. It's a symbol of Americana, nostalgia, and shared experiences."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad speaks to a broad audience, particularly families, sports fans (especially football), and those who appreciate heartwarming stories. It targets all ages, genders, and socioeconomic backgrounds.",
+      "psychographics": "The ad appeals to values of kindness, empathy, hope, and the power of human connection. It resonates with those who appreciate genuine moments of joy and believe in the goodness of people.",
+      "tone": "The ad addresses the viewer in a heartwarming, nostalgic, and optimistic tone."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Coca-Cola's brand values of happiness, connection, and Americana. It evokes nostalgia and reminds existing customers why they love the brand, making them proud to be associated with it.",
+    "actualResonance": "This ad will resonate most strongly with families, sports fans (especially football), and those who appreciate heartwarming stories and genuine human connection. It will also appeal to those who value nostalgia and Americana.",
+    "friendlyFireRisk": 0,
+    "marketExpansion": 8,
+    "verdict": "This ad is a timeless classic that reinforces Coca-Cola's brand values and expands its appeal to a broader audience through its heartwarming message of human connection."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 9,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 8,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Joy decays to Nostalgia",
+    "detonationRadius": 0.0,
+    "explanation": "The 'Mean Joe Greene' Coca-Cola ad benefited immensely from its Super Bowl placement. The massive, simultaneous reach amplified its impact, but also increased the stakes. While the ad was well-received, a misstep would have been magnified instantly. The cultural alignment was perfect, tapping into feel-good emotions and sportsmanship. The ad's positive message and heartwarming narrative helped it withstand repeated viewings, but the cost of a Super Bowl spot meant any negative reaction would have been extremely wasteful.",
+    "whatIfScenario": "If the ad had run during a period of economic hardship or social unrest, its feel-good message might have been perceived as tone-deaf, leading to a negative backlash. Similarly, if it had been released online only, the reach would have been far smaller, diminishing its impact despite potentially lower costs.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

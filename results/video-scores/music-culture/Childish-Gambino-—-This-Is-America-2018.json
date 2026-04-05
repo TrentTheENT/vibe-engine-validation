@@ -1,0 +1,122 @@
+{
+  "ad": "Childish Gambino \u2014 This Is America (2018)",
+  "category": "music-culture",
+  "contentType": "music video / cultural content",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T23:28:54.994863",
+  "fileSize": "9.7MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "text",
+        "confidence": 0.95
+      },
+      {
+        "label": "gun",
+        "confidence": 0.98
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "text",
+        "magnitude": 1.649,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "person",
+        "magnitude": 1.646,
+        "emotion": "trust",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      {
+        "description": "The video begins with a black screen displaying the words 'this is America' in white, handwritten-style font."
+      },
+      {
+        "description": "The scene transitions to a large, empty warehouse. A lone red chair sits in the center, with a guitar leaning against it. A man walks toward the chair, picks up the guitar, and begins to play. A woman walks past in the background. The man stops playing and walks toward the camera, shirtless. He begins to dance. A hooded figure sits in the chair. The man pulls out a gun and shoots the hooded figure. Other people enter the scene and begin cleaning up the body. The man continues to dance."
+      },
+      {
+        "description": "The scene changes to a group of people in choir robes singing and dancing. The man from the previous scene dances in front of them. He then shoots them all with an assault rifle. The man runs away."
+      },
+      {
+        "description": "The man is then seen running through a dark hallway, pursued by a crowd of people."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Gen Z and Millennials, skewing younger, urban, and diverse.",
+      "psychographics": "Socially conscious, politically engaged, interested in art, music, and culture that challenges norms and sparks conversation. Value authenticity, creativity, and a unique perspective.",
+      "brandMeaning": "A platform for thought-provoking commentary on race, identity, and societal issues, delivered through innovative and genre-bending music and visuals."
+    },
+    "adTargetAudience": {
+      "demographics": "Young adults (18-35), particularly those interested in current events, social justice, and progressive art.",
+      "psychographics": "Individuals who are open to complex and challenging themes, appreciate symbolism and artistic expression, and are willing to engage in critical discussions about race and America.",
+      "tone": "Provocative, artistic, and thought-provoking, aiming to spark dialogue and challenge conventional perspectives."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The video reinforces the brand's commitment to addressing complex social issues through art, validating the core audience's expectations for meaningful and thought-provoking content.",
+    "actualResonance": "The video will resonate with a broad audience interested in social commentary, art, and music, particularly those who are open to challenging and provocative content.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 8,
+    "verdict": "This video effectively expands the brand's reach by sparking widespread conversation and attracting new viewers interested in its unique blend of art, music, and social commentary, while staying true to its core values."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 9.5,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Cynicism/Desensitization",
+    "culturalAlignment": -3,
+    "explanation": "The 'This Is America' video was a cultural phenomenon that premiered at a moment of high social tension. Its deliberate chaos and layered symbolism sparked intense analysis and debate, driving massive viewership and media coverage. The association with Donald Glover's established brand and the SNL premiere amplified its initial impact. However, the video's heavy themes and reliance on shock value contribute to a relatively high fatigue velocity, with repeated viewing potentially leading to cynicism or desensitization. The cultural alignment is slightly negative due to the divisive nature of the subject matter, despite its artistic merit.",
+    "whatIfScenario": "If the video had been released without the SNL premiere or Donald Glover's existing platform, the initial reach and attention economy multiplier would likely have been significantly lower. The impact relied heavily on the pre-existing audience and the curated launch event.",
+    "detonationRadius": 8.4,
+    "timingContext": {
+      "date": "2018-05-05",
+      "platform": "YouTube (premiered during SNL)",
+      "context": "Childish Gambino (Donald Glover). Music video as cultural commentary. Deliberate visual chaos masking systemic violence. Jim Crow poses. Church shooting. Every frame is an essay.",
+      "aftermath": "#1 Hot 100. Won 4 Grammys. First rap song to win Record/Song of the Year. The video IS the art \u2014 more analyzed than any music video since Thriller."
+    }
+  }
+}

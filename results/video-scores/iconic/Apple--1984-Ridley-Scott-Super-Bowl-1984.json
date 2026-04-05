@@ -1,0 +1,269 @@
+{
+  "ad": "Apple \u2014 1984 (Ridley Scott, Super Bowl 1984)",
+  "category": "iconic",
+  "vibeScore": 687,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:31:01.969410",
+  "fileSize": "2.3MB",
+  "consensus": {
+    "joy": 0.05,
+    "trust": 0.15,
+    "fear": 0.65,
+    "surprise": 0.35,
+    "sadness": 0.2,
+    "disgust": 0.45,
+    "anger": 0.55,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.3,
+      "fear": 0.6,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.4,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "The day we celebrate the first glorious anniversary of the information purification benefits. We have created for all of time in all history, a garden of pure ideology where each worker may bloom secure from the pests of any contradictory thoughts. Our unification as a force is more powerful a weapon than any fleet or army on earth. We are one people with one will, one resolve, one cause. Our enemies shall talk themselves to death and we will bury them with their own confusion. We shall prevail! On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be like 1984.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.7,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.5,
+      "anger": 0.6,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.904,
+      0.937,
+      0.91,
+      0.909,
+      0.844,
+      0.912,
+      0.789,
+      0.942,
+      0.912,
+      0.537,
+      0,
+      0.936
+    ],
+    "average": 0.794,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "50s",
+      "coherence": 0,
+      "audio": "voiceover: And you'll see why 1984 won't be like 1984.",
+      "video": "Text appears on the screen: \"On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be "
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.942
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "elevator floor indicator",
+        "confidence": 0.95
+      },
+      {
+        "label": "tunnel",
+        "confidence": 0.98
+      },
+      {
+        "label": "television monitors",
+        "confidence": 0.95
+      },
+      {
+        "label": "gas mask",
+        "confidence": 0.9
+      },
+      {
+        "label": "riot helmets",
+        "confidence": 0.95
+      },
+      {
+        "label": "crowd",
+        "confidence": 0.98
+      },
+      {
+        "label": "sledgehammer",
+        "confidence": 0.9
+      },
+      {
+        "label": "Apple logo",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "television monitors",
+        "magnitude": 0.371,
+        "emotion": "fear",
+        "baseline": 0.0,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "crowd",
+        "magnitude": 0.371,
+        "emotion": "fear",
+        "baseline": 0.0,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "tunnel",
+        "magnitude": 0.322,
+        "emotion": "fear",
+        "baseline": 0.0,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "gas mask",
+        "magnitude": 0.26,
+        "emotion": "anger",
+        "baseline": 0.0,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A dark, industrial setting is shown, with a voiceover discussing the anniversary of information purification. People in masks and uniforms are seen walking through a tunnel.",
+      "0:08-0:15 \u2014 Three men in riot gear walk forward, followed by a line of people walking in unison through the tunnel.",
+      "0:15-0:21 \u2014 A large crowd watches a screen displaying a man's face. A woman runs through a corridor carrying a sledgehammer.",
+      "0:21-0:30 \u2014 The crowd continues to watch the screen. The woman runs towards them with the sledgehammer.",
+      "0:30-0:43 \u2014 The woman stops in front of the crowd and prepares to swing the sledgehammer. The man on the screen speaks about fighting with confusion.",
+      "0:43-0:47 \u2014 The woman swings the sledgehammer at the screen, causing it to explode in a flash of light.",
+      "0:47-0:59 \u2014 The crowd is shown in the aftermath of the explosion. Text appears on the screen announcing the introduction of the Macintosh computer by Apple Computer on January 24th, and stating that 1984 won't be like \"1984\".",
+      "0:59-1:00 \u2014 The Apple logo is displayed."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "DgAg",
+        "name": "Contempt",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.7,
+        "reactivity": 0.8,
+        "toxicity": 0.9,
+        "halfLife": 0.8
+      },
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      }
+    ],
+    "dominant": {
+      "formula": "AgAn",
+      "name": "Aggressiveness",
+      "type": "primary",
+      "strength": 0.55,
+      "stability": 0.5,
+      "reactivity": 0.9,
+      "toxicity": 0.7,
+      "halfLife": 0.4
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Early adopters, tech enthusiasts, creatives, and professionals aged 25-55 with disposable income. Skews slightly male but increasingly gender-neutral.",
+      "psychographics": "Values innovation, design, user-friendliness, and challenging the status quo. Identifies with creativity, individuality, and a desire to 'think different'. Aspires to be seen as forward-thinking, successful, and part of a community of innovators.",
+      "brandMeaning": "A symbol of innovation, creativity, and empowerment. It represents a departure from conformity and a commitment to user-centric design."
+    },
+    "adTargetAudience": {
+      "demographics": "Anyone who feels oppressed by large corporations or institutions, particularly those aged 18-45 who are politically aware and value individuality. Appeals to a broad audience, not just tech enthusiasts.",
+      "psychographics": "Values freedom, individuality, and rebellion against conformity. Feels a sense of frustration with established power structures and a desire for change. Appreciates bold messaging and a sense of empowerment.",
+      "tone": "Empowering, rebellious, and urgent. It positions the viewer as a potential agent of change."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad reinforces Apple's image as a challenger to the status quo and a champion of individuality, aligning perfectly with the core audience's values and aspirations.",
+    "actualResonance": "Individuals who feel stifled by conformity, those who value innovation and creativity, and anyone who identifies with the underdog narrative. This includes a broad range of people beyond just the existing Apple customer base.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 9,
+    "verdict": "This ad is a bold statement that effectively expands Apple's reach by tapping into a universal desire for freedom and individuality, but the overt aggression may alienate some."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 3,
+    "socialPropagation": 7,
+    "temporalCompounding": 8,
+    "frequencyPressure": 4,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.1,
+    "repetitionInversion": "Awe decays to Respect",
+    "detonationRadius": 4.2,
+    "explanation": "The '1984' ad, re-contextualized for a 2013 WWDC keynote and subsequent digital release, benefits immensely from the alignment of timing, placement, and audience. The initial Super Bowl shock value is replaced by a strategic positioning against competitors like Google and Meta regarding privacy. The developer-heavy WWDC audience is primed to appreciate Apple's anti-establishment message, while the broader consumer audience reached via YouTube and TV amplifies the message's reach. The cultural moment of Apple's resurgence further enhances the ad's impact, creating a strong positive multiplier effect.",
+    "whatIfScenario": "If the ad had been released during a period of Apple's dominance and without a clear competitive differentiator, the message might have been perceived as arrogant and tone-deaf, significantly reducing its impact and potentially creating a backlash.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

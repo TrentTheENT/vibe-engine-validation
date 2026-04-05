@@ -1,0 +1,284 @@
+{
+  "ad": "Gillette \u2014 We Believe The Best Men Can Be (2019)",
+  "category": "controversial",
+  "vibeScore": 512,
+  "dominantEmotion": "disgust",
+  "scoredAt": "2026-04-04T20:57:10.535329",
+  "fileSize": "3.6MB",
+  "consensus": {
+    "joy": 0.1,
+    "trust": 0.2,
+    "fear": 0.3,
+    "surprise": 0.2,
+    "sadness": 0.35,
+    "disgust": 0.4,
+    "anger": 0.4,
+    "anticipation": 0.3
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.2,
+      "fear": 0.3,
+      "surprise": 0.2,
+      "sadness": 0.3,
+      "disgust": 0.4,
+      "anger": 0.4,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Bullying. The Me Too movement against sexual harassment. Toxic masculinity. Is this the best a man can get? Is it? Freak! It's likely happening here in Philly as well. A problem. We can't hide from it. Sexual harassment is taking over Hollywood. It's been going on far too long. We can't laugh it off. Who's the daddy? What I actually think she's trying to say. Making the same old excuses. Boys will be boys. Boys will be boys. Boys will be boys. But something finally changed. Allegations regarding sexual assault and sexual harassment. Sexual harassment. And there will be no going back. And there will be no going back. Because we, we believe in the best in men. Men need to hold other men accountable. Smile, sweetie. Come on. To say the right thing. To act the right way. Bro, not cool. Not cool. Some already are. Then ways big. Yo, men, for everyone. And small. I am strong. I am strong. Is that how we treat each other, okay? Okay? Because the boys watching today. Will be the men of tomorrow.",
+    "segmentCount": 19
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.2,
+      "fear": 0.3,
+      "surprise": 0.2,
+      "sadness": 0.4,
+      "disgust": 0.4,
+      "anger": 0.4,
+      "anticipation": 0.3
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 30
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.924,
+      0.977,
+      0.944,
+      0.823,
+      0.769,
+      0.936,
+      0.905,
+      0.905,
+      0.818,
+      0.747,
+      0.911,
+      0.911,
+      0.911,
+      0.911,
+      0.709,
+      0.911,
+      0.911,
+      0.911
+    ],
+    "average": 0.781,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "bullying",
+        "confidence": 0.95
+      },
+      {
+        "label": "Gillette logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "The Guardian logo",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "bullying",
+        "magnitude": 1.712,
+        "emotion": "trust",
+        "baseline": 0.1,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "Gillette logo",
+        "magnitude": 1.581,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.86,
+        "emotion": "anticipation",
+        "baseline": 0.6,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A man looks in the mirror, followed by close-ups of other men, and the Gillette logo appears with the tagline 'The Best a Man Can Get.'"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "DiAn",
+        "name": "Contempt",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 1.0,
+        "reactivity": 0.1,
+        "toxicity": 0.35,
+        "halfLife": 0.8
+      },
+      {
+        "formula": "SaDi",
+        "name": "Remorse",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.35,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "SaAn",
+        "name": "Envy",
+        "type": "primary",
+        "strength": 0.38,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.35,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "AnAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.35,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "DiAn",
+        "name": "Cynicism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.35,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "FeDi",
+        "name": "Shame",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.35,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "FeAn",
+        "name": "Frozenness",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.35,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "FeSa",
+        "name": "Despair",
+        "type": "primary",
+        "strength": 0.32,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.35,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "SaAn",
+        "name": "Pessimism",
+        "type": "primary",
+        "strength": 0.32,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "AnFe",
+        "name": "Anxiety",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 1.0,
+        "reactivity": 0.1,
+        "toxicity": 0.35,
+        "halfLife": 0.8
+      }
+    ],
+    "dominant": {
+      "formula": "DiAn",
+      "name": "Contempt",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 1.0,
+      "reactivity": 0.1,
+      "toxicity": 0.35,
+      "halfLife": 0.8
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Gillette's core audience has been men aged 18-55, primarily focused on shaving needs. This includes a broad range of income levels, but with a focus on those who value a clean, professional appearance.",
+      "psychographics": "Gillette's core audience values masculinity, self-confidence, and success. They aspire to present themselves well in both professional and personal settings, and see grooming as a key part of that.",
+      "brandMeaning": "To its core audience, Gillette represents quality, reliability, and a traditional sense of masculine identity."
+    },
+    "adTargetAudience": {
+      "demographics": "This specific ad is speaking to a broader audience, including younger men and those who are more socially conscious. It also includes women and those who are concerned about issues like bullying, sexual harassment, and toxic masculinity.",
+      "psychographics": "The ad appeals to values of empathy, social responsibility, and a desire for a more inclusive and equitable society. It targets those who are open to challenging traditional gender roles and promoting positive change.",
+      "tone": "The ad adopts a serious and reflective tone, aiming to provoke thought and encourage action."
+    },
+    "audienceDistance": 6,
+    "coreReaction": "ALIENATED",
+    "coreReactionExplanation": "Existing fans may feel alienated or betrayed by the ad's departure from traditional masculine themes. Some may view it as an attack on their values and identity, leading to a negative perception of the brand.",
+    "actualResonance": "The ad will likely resonate with a younger, more progressive audience who are already engaged with social justice issues. It may also appeal to those who have experienced or witnessed the problems highlighted in the ad.",
+    "friendlyFireRisk": 8,
+    "marketExpansion": 6,
+    "verdict": "This ad risks alienating Gillette's core audience in an attempt to appeal to a younger, more socially conscious demographic, potentially damaging brand loyalty in the short term but possibly expanding market reach in the long term."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 6,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 7,
+    "culturalAlignment": -8,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Righteousness decays to Annoyance and Anger",
+    "detonationRadius": 28.0,
+    "explanation": "The Gillette ad detonated in the attention economy due to a confluence of factors. Its timing during the height of the MeToo movement, combined with its message lecturing its core audience on toxic masculinity, created a perfect storm of negative attention. The ad's placement on YouTube amplified the backlash through viral sharing and the comment section. The cultural moment was highly sensitive, and the ad's message clashed with the perceived values of a significant portion of its target demographic. The high frequency of views, driven by the controversy, only exacerbated the negative sentiment, leading to a significant backlash and brand damage.",
+    "whatIfScenario": "If the ad had been released during a period of less intense cultural division, or if it had focused on celebrating positive aspects of masculinity rather than lecturing, the reception might have been more neutral or even positive. A different platform with less immediate feedback (e.g., a print campaign) could have mitigated the social propagation of negative reactions.",
+    "timingContext": {
+      "date": "2019-01-13",
+      "platform": "YouTube + limited TV",
+      "estimatedSpend": 10000000,
+      "adFrequency": "YouTube viral \u2014 37M views, 1.5M dislikes (most disliked ad ever at the time)",
+      "socialAmplification": "POLARIZING \u2014 #BoycottGillette trended for days. Men shaving their faces on camera and throwing razors away.",
+      "context": "MeToo era. A men's grooming brand telling men to be better. Core audience (men who buy razors) felt LECTURED. New audience (progressive consumers) applauded but didn't change buying behavior.",
+      "culturalMoment": "MeToo movement, toxic masculinity debate, culture wars accelerating",
+      "aftermath": "P&G took $8B writedown on Gillette brand. Unclear how much was this ad vs market trends, but the timing was brutal."
+    }
+  }
+}

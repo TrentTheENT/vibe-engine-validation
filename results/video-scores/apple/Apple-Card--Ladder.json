@@ -1,0 +1,232 @@
+{
+  "ad": "Apple Card \u2014 Ladder",
+  "category": "apple",
+  "vibeScore": 559,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:16:32.744058",
+  "fileSize": "1.3MB",
+  "consensus": {
+    "joy": 0.25,
+    "trust": 0.35,
+    "fear": 0.3,
+    "surprise": 0.45,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.25,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.5,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Did you pay the Apple card like I asked? Yep. Oh no, oh no, you forgot, you forgot. Do it quick before she looks, do it quick, the neighbor's watching, good job, you're doing great. Oh my, that was fast. I did, a while ago. He did it.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.361,
+      0.486,
+      0.534,
+      0.572,
+      0.391,
+      0.749
+    ],
+    "average": 0.515,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.361,
+      "audio": "Woman asks if the Apple card was paid. Man replies 'Yep'.",
+      "video": "A woman on a ladder cleans a gutter. A man stands near the ladder, looking up. The man looks surprised. The camera shows"
+    },
+    "maxAlignment": {
+      "timestamp": "25s",
+      "coherence": 0.749
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "ladder",
+        "confidence": 0.98
+      },
+      {
+        "label": "brick house",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "Apple Card app",
+        "confidence": 0.95
+      },
+      {
+        "label": "smartphone",
+        "confidence": 0.99
+      },
+      {
+        "label": "neighbor",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "man",
+        "magnitude": 0.335,
+        "emotion": "joy",
+        "baseline": 0.5,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "smartphone",
+        "magnitude": 0.247,
+        "emotion": "joy",
+        "baseline": 0.7,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A woman is cleaning the gutters on a house while standing on a ladder. A man is standing on the ground holding the ladder. He looks at his phone and seems worried. A neighbor is standing in the yard watching them."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.45,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "TrFr",
+        "name": "Submission",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.4,
+        "reactivity": 0.7,
+        "toxicity": 0.6,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.45,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent, tech-savvy individuals aged 25-55, with a higher disposable income and a preference for seamless digital experiences. Skews slightly towards urban dwellers.",
+      "psychographics": "Values simplicity, design, and integration within the Apple ecosystem. Aspires to a modern, efficient lifestyle and appreciates brands that reflect their forward-thinking identity. Sees themselves as early adopters and trendsetters.",
+      "brandMeaning": "Apple represents innovation, ease of use, and a premium lifestyle. The Apple Card, in particular, signifies a modern, secure, and rewarding financial tool that integrates seamlessly with their digital lives."
+    },
+    "adTargetAudience": {
+      "demographics": "Younger adults (25-40) who are digitally native and comfortable managing finances via mobile apps. Likely renters or first-time homeowners, possibly with a partner or spouse. Middle-income.",
+      "psychographics": "Values convenience, transparency, and avoiding financial mishaps. Appreciates humor and relatable situations. Might feel some anxiety around managing finances and seeks simple solutions.",
+      "tone": "Lighthearted, slightly anxious, and ultimately reassuring."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The ad's focus on a slightly anxious, relatable scenario might not strongly resonate with the core Apple audience who are used to aspirational and sleek marketing. It's not offensive, but it's not particularly exciting or validating.",
+    "actualResonance": "Younger couples or individuals who are relatively new to managing shared finances and appreciate a simple, tech-driven solution to avoid common pitfalls like missed payments. Those who find humor in everyday anxieties.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "This ad attempts to broaden the Apple Card's appeal by showcasing a relatable, slightly anxious scenario, but it may not strongly resonate with the core audience accustomed to a more aspirational brand image."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 7,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 4,
+    "socialPropagation": 3,
+    "temporalCompounding": 6,
+    "frequencyPressure": 5,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Neutral decays to Mild Annoyance",
+    "detonationRadius": 3.6,
+    "explanation": "Launching the Apple Card at WWDC provided a strong initial boost due to the targeted tech-savvy audience. The focus on privacy resonated well given growing concerns about Google and Meta. However, the moderate TV and heavy digital frequency, combined with the high estimated spend, created some cost inefficiency. The pre-internet social amplification limited the immediate spread of reactions, but the cultural moment of Apple's resurgence added a positive lift. Overall, the context amplified the ad's impact, but not to an extreme degree.",
+    "whatIfScenario": "If the ad had launched during a major data privacy scandal involving Apple, the contextual vulnerability would have been much higher, leading to a negative attention economy multiplier. Conversely, if the ad had been launched during a period of greater economic prosperity, the focus on financial responsibility might have resonated even more strongly, further amplifying its positive impact.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

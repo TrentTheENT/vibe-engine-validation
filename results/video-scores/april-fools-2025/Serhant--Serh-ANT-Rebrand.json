@@ -1,0 +1,259 @@
+{
+  "ad": "Serhant \u2014 Serh-ANT Rebrand",
+  "category": "april-fools-2025",
+  "vibeScore": 622,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:03:06.409757",
+  "fileSize": "8.0MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.6,
+    "fear": 0.1,
+    "surprise": 0.35,
+    "sadness": 0.05,
+    "disgust": 0.1,
+    "anger": 0.25,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "trust",
+    "arcShape": "static",
+    "transcript": "Hello, Serhant is one of the most successful real estate companies in the history of the world. Right now, our brand is so tightly linked to my name, Serhant. For the last 40 years, agents, the media, my first grade teacher, Mrs. Fisher, and many others have struggled to pronounce it. Because of this, it is time for us to adopt a new company brand. One that encompasses everything we represent. And helps people remember how to say my name. I am proud to announce that starting today, we are changing our brand from Serhant to Serhant. Ants aren't just strong, they're relentless. They can carry up to 50 times their body weight. They work together, they move with purpose, and they build structures that last. Sound familiar? That's exactly what we do at Serhant. We amplify together. We are relentless. This isn't just a rebrand, it's a reminder, a statement, a declaration of who we are and where we are going. Serhant is bold. Serhant is disruptive. And now Serhant is unmistakable. If anyone pronounces our name wrong and they say Serhant one more time It is not that hard. It's not Serhan, it's not Serhant, it's not Seacrest. It is Serhant. You put me next to Ryan Seacrest, I'm like, I'm like, oh, you're the ant. When I was a hand model, it was Sir Hand, and everyone knew it. You're laughing? You're laughing? You know what you are? You know what you are? You're an ant. I'm an ant eater. You know what that means? That means I eat you. I eat you up through my nose like this. Get the fuck out of my chair. Get out of my chair. Get out of my chair.",
+    "segmentCount": 32
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 48
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.932,
+      0.932,
+      0.921,
+      0.943,
+      0.876,
+      0.877,
+      0.916,
+      0.937,
+      0.937,
+      0.943,
+      0.891,
+      0.894,
+      0.901,
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.901,
+      0.86,
+      0.86,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "average": 0.642,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "115s",
+      "coherence": 0,
+      "audio": "Music",
+      "video": "Close up of a blue plastic ant on top of a document."
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.943
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "Ryan Serhant",
+        "confidence": 1.0
+      },
+      {
+        "label": "oversized letter S",
+        "confidence": 0.95
+      },
+      {
+        "label": "living room",
+        "confidence": 0.9
+      },
+      {
+        "label": "Serhant logo",
+        "confidence": 1.0
+      },
+      {
+        "label": "ant",
+        "confidence": 0.9
+      },
+      {
+        "label": "keyboard",
+        "confidence": 0.7
+      },
+      {
+        "label": "pencil",
+        "confidence": 0.8
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 Ryan Serhant enters the scene and begins to speak about his company.",
+      "0:08-0:15 \u2014 Ryan Serhant continues to speak about his company and how his name is often mispronounced.",
+      "0:15-0:22 \u2014 Ryan Serhant announces that his company is adopting a new brand.",
+      "0:22-0:31 \u2014 Ryan Serhant explains that his name is often mispronounced.",
+      "0:31-0:40 \u2014 Ryan Serhant explains that it is time for his company to adopt a new brand.",
+      "0:40-0:48 \u2014 Ryan Serhant explains that the new brand will encompass everything they represent.",
+      "0:48-0:52 \u2014 The new Serhant logo is revealed.",
+      "0:52-1:01 \u2014 Ryan Serhant announces that his company is changing its brand from Serhant to Serhant.",
+      "1:01-1:11 \u2014 An ant is shown.",
+      "1:11-1:19 \u2014 Ryan Serhant is shown on a document with the new Serhant logo.",
+      "1:19-1:26 \u2014 Ryan Serhant continues to speak about his company.",
+      "1:26-1:38 \u2014 Various real estate agents are shown in different homes.",
+      "1:38-1:47 \u2014 Ryan Serhant continues to speak about his company.",
+      "1:47-1:57 \u2014 Ryan Serhant explains that his company is now unmistakable.",
+      "1:57-2:06 \u2014 The new Serhant logo is shown with ants.",
+      "2:06-2:39 \u2014 Ryan Serhant gets angry and tells people to pronounce his name correctly.",
+      "2:39-2:41 \u2014 The new Serhant logo is shown with an ant."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.6,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "High-net-worth individuals and investors (age 35-65) interested in luxury real estate in major metropolitan areas. Skews slightly male.",
+      "psychographics": "Values success, exclusivity, and sophisticated living. Aspires to own prime real estate and build wealth. Identifies with Ryan Serhant's entrepreneurial spirit and 'hustle' mentality.",
+      "brandMeaning": "Serhant represents access to the highest echelons of the real estate market, a symbol of achievement, and a lifestyle of luxury and success."
+    },
+    "adTargetAudience": {
+      "demographics": "Current and potential clients, real estate professionals, and a broader audience interested in business and marketing trends (age 25-55).",
+      "psychographics": "Values humor, innovation, and authenticity. Appreciates brands that don't take themselves too seriously and are willing to experiment. Enjoys behind-the-scenes glimpses into successful businesses.",
+      "tone": "Playful, self-aware, and slightly absurd."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The core audience, focused on serious real estate transactions, might initially be confused by the April Fool's joke. They may question the brand's seriousness and commitment to their needs if they don't immediately recognize the humor.",
+    "actualResonance": "Younger real estate professionals, marketing enthusiasts, and people who follow Ryan Serhant for his personality and business insights will find this ad most resonant. They'll appreciate the humor and the self-deprecating nature of the rebrand.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "Ensure the April Fool's nature of the ad is immediately clear to avoid alienating the core audience, while leveraging the humor to attract a wider, more digitally engaged audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 6,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 7,
+    "frequencyPressure": 5,
+    "culturalAlignment": 4,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 5.0,
+    "explanation": "An April Fool's rebrand from a real estate personality like Serhant is primed for high engagement, but also high scrutiny. The social media platforms amplify both positive and negative reactions. The single drop nature limits frequency pressure, but the inherent skepticism of April Fool's Day and the potential for rapid social propagation create a significant attention economy multiplier. The cultural alignment is slightly positive, as playful pranks can be well-received if executed effectively.",
+    "whatIfScenario": "If this ad ran on a normal day, the confusion would likely be interpreted as incompetence or a genuine rebrand attempt, leading to less engagement and a lower multiplier. The inherent skepticism of April Fool's is what drives the conversation, for better or worse.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

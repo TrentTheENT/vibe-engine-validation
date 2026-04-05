@@ -1,0 +1,273 @@
+{
+  "ad": "Metro Trains \u2014 Dumb Ways to Die (2012)",
+  "category": "iconic",
+  "vibeScore": 718,
+  "dominantEmotion": "surprise",
+  "scoredAt": "2026-04-04T18:37:08.521597",
+  "fileSize": "4.6MB",
+  "consensus": {
+    "joy": 0.6,
+    "trust": 0.5,
+    "fear": 0.45,
+    "surprise": 0.75,
+    "sadness": 0.3,
+    "disgust": 0.45,
+    "anger": 0.2,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.5,
+      "surprise": 0.8,
+      "sadness": 0.3,
+      "disgust": 0.4,
+      "anger": 0.2,
+      "anticipation": 0.9
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Set fire to your hair, poke a stick at a grizzly bear, eat medicine that's out of date, use your private parts as piranha bait, dumb ways to die, so many dumb ways to die, dumb ways to die, so many dumb ways to die. Get your toast out with a fork, do your own electrical work, teach yourself how to fly, eat a two-week-old unrefrigerated pie, dumb ways to die, so many dumb ways to die. Invite a psycho killer inside, scratch a drug dealer's brand new ride, take your helmet off in outer space, use a clothes dryer as a hiding place, dumb ways to die, so many dumb ways to die. Keep a rattlesnake as a pet, sell both your kidneys on the internet, eat a tube of superglue, I wonder what this red button do? Dumb ways to die, so many dumb ways to die. Dress up like a moose during hunting season, disturb a nest of wasps for no good reason, stand on the edge of a train station platform, drive around the boom gates at a level crossing, run across the tracks between the platforms, they may not rhyme but they're quite possibly...Dumbest ways to die, the dumbest ways to die, the dumbest ways to die, so many dumb, so many dumb ways to die. Be safe around trains, a message from Metro.",
+    "segmentCount": 19
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.3,
+      "fear": 0.4,
+      "surprise": 0.7,
+      "sadness": 0.3,
+      "disgust": 0.5,
+      "anger": 0.2,
+      "anticipation": 0.6
+    },
+    "dominant": "surprise",
+    "arcShape": "peak",
+    "segmentCount": 21
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.736,
+      0.927,
+      0.941,
+      0.871,
+      0.713,
+      0.856,
+      0.939,
+      0.682,
+      0.824,
+      0.939,
+      0.682,
+      0.931,
+      0.781,
+      0.923,
+      0.74,
+      0.781,
+      0.802,
+      0.931,
+      0
+    ],
+    "average": 0.789,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "90s",
+      "coherence": 0,
+      "audio": "\"Be safe around trains, a message from Metro\"",
+      "video": "Black screen."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.941
+    }
+  },
+  "objects": {
+    "count": 15,
+    "top": [
+      {
+        "label": "dandelion",
+        "confidence": 0.98
+      },
+      {
+        "label": "flames",
+        "confidence": 0.95
+      },
+      {
+        "label": "grizzly bear",
+        "confidence": 0.9
+      },
+      {
+        "label": "medicine bottle",
+        "confidence": 0.85
+      },
+      {
+        "label": "piranhas",
+        "confidence": 0.92
+      },
+      {
+        "label": "toaster",
+        "confidence": 0.75
+      },
+      {
+        "label": "airplane",
+        "confidence": 0.8
+      },
+      {
+        "label": "pie",
+        "confidence": 0.88
+      }
+    ],
+    "inversions": [
+      {
+        "object": "nuclear explosion",
+        "magnitude": 0.585,
+        "emotion": "anger",
+        "baseline": 0.9,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "pie",
+        "magnitude": 0.529,
+        "emotion": "joy",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "condom",
+        "magnitude": 0.52,
+        "emotion": "anticipation",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "airplane",
+        "magnitude": 0.486,
+        "emotion": "joy",
+        "baseline": 0.7,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "chainsaw",
+        "magnitude": 0.462,
+        "emotion": "anger",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A blue character sets their hair on fire and a yellow character pokes a grizzly bear with a stick, resulting in their head being chopped off.",
+      "0:08-0:18 \u2014 A green character eats expired medicine and swells up. A pink character uses their private parts as piranha bait and is eaten.",
+      "0:18-0:34 \u2014 The four characters are shown together, then the song repeats.",
+      "0:34-0:46 \u2014 A purple character tries to get toast out of a toaster with a fork and is electrocuted. A blue character sets their house on fire. A green character tries to teach themself how to fly and crashes.",
+      "0:46-0:50 \u2014 A blue character eats a two-week-old unrefrigerated pie and gets sick.",
+      "0:50-1:05 \u2014 The characters are shown together, then the song repeats.",
+      "1:05-1:16 \u2014 A green character invites a psycho killer inside. A grey character scratches a drug dealer's brand new ride. A green character takes their helmet off in outer space and their head explodes.",
+      "1:16-1:21 \u2014 A pink character uses a clothes dryer as a hiding place and is crushed.",
+      "1:21-1:35 \u2014 The characters are shown together, then the song repeats.",
+      "1:35-1:51 \u2014 A green character keeps a rattlesnake as a pet and is bitten in the face. A blue character sells both their kidneys on the internet. A brown character eats a tube of super glue. A yellow character wonders what a red button does and presses it, resulting in a nuclear explosion.",
+      "1:51-2:07 \u2014 The characters are shown together, then the song repeats.",
+      "2:07-2:24 \u2014 A green character dresses up like a moose during hunting season and is shot. A yellow character disturbs a nest of wasps for no good reason and is stung. A pink character stands on the edge of a train station platform and is hit by a train.",
+      "2:24-2:35 \u2014 A green character drives around the boom gates at a level crossing and is hit by a train. A purple character runs across the tracks between the platforms and drops their balloon."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.75,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.75,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Melbourne commuters, primarily aged 18-45, encompassing students, young professionals, and families who rely on the Metro Trains network for daily transportation. Income levels vary, reflecting the diverse socioeconomic makeup of Melbourne.",
+      "psychographics": "Value safety and convenience in their daily commute. They appreciate humor and creativity in public service announcements, and identify with a sense of community responsibility. They aspire to a safe and efficient public transport system.",
+      "brandMeaning": "Metro Trains represents a reliable and essential service for navigating Melbourne. It signifies connectivity, accessibility, and a shared urban experience."
+    },
+    "adTargetAudience": {
+      "demographics": "General public, with a particular emphasis on younger demographics (13-35) due to the cartoonish style, catchy song, and viral potential. Also targets parents and caregivers responsible for the safety of children and young adults.",
+      "psychographics": "Values humor, entertainment, and social sharing. Appreciates creative and unconventional approaches to serious topics. Open to learning about safety in an engaging and memorable way.",
+      "tone": "Humorous, lighthearted, and slightly absurd, using dark humor to convey a serious message about safety."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Metro Trains' commitment to safety in a memorable and creative way. The core audience will appreciate the innovative approach and feel that the brand is actively working to improve their commuting experience and well-being.",
+    "actualResonance": "The ad will resonate most strongly with younger demographics (13-35) who are active on social media and appreciate shareable content. It will also resonate with parents and caregivers who are concerned about the safety of their children and young adults around trains.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 9,
+    "verdict": "This ad is a brilliant and highly effective safety campaign that successfully expands Metro Trains' reach while reinforcing its commitment to passenger well-being, but be aware that the dark humor might not appeal to everyone."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.0,
+    "detonationRadius": 1.0,
+    "timingContext": {
+      "date": "2012-11-14",
+      "platform": "YouTube + app store + radio",
+      "adFrequency": "310M+ views, spawned mobile game with 200M+ downloads",
+      "socialAmplification": "Became a CULTURAL PRODUCT \u2014 the song charted on iTunes, the game became a franchise",
+      "context": "Train safety PSA that became more famous than most brand campaigns. Won 5 Cannes Grand Prix. The music was so catchy people forgot it was about dying.",
+      "aftermath": "20% reduction in rail-related near-misses. The most awarded ad in history."
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "ad": "Budweiser \u2014 Whassup (1999)",
+  "category": "iconic",
+  "vibeScore": 527,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:32:41.356515",
+  "fileSize": "1.3MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.3,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.15,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.2,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Background sports commentary. Hello. Yo, who? What's up? Nothin', just watching the game, having a Bud. So with you? Nothin', watching the game, having a Bud. True. True. Wazzzaaaap! Yo, who's that? Yo, you pick up the phone! Hello. Wazzzaaaap! Yo, where's Dukey? Yo. Wazzzaaaap! So what's up B? Watching the game, having a Bud.",
+    "segmentCount": 11
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.3
+    },
+    "dominant": "joy",
+    "arcShape": "increasing",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.902,
+      0.922,
+      0.431,
+      0.519,
+      0.462,
+      0.664,
+      0.448,
+      0.664,
+      0.664,
+      0.664,
+      0.576
+    ],
+    "average": 0.629,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "10s",
+      "coherence": 0.431,
+      "audio": "'True. True.'",
+      "video": "The man in overalls is on the phone. The scene cuts back to the man in the red sweatshirt, who is also on the phone. A p"
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.922
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "beer bottle",
+        "confidence": 0.98
+      },
+      {
+        "label": "couch",
+        "confidence": 0.95
+      },
+      {
+        "label": "telephone",
+        "confidence": 0.97
+      },
+      {
+        "label": "overalls",
+        "confidence": 0.9
+      },
+      {
+        "label": "table lamp",
+        "confidence": 0.85
+      },
+      {
+        "label": "jersey",
+        "confidence": 0.92
+      },
+      {
+        "label": "computer monitor",
+        "confidence": 0.88
+      },
+      {
+        "label": "intercom",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man is relaxing on a couch, watching a game and drinking a beer. He answers a phone call from a friend.",
+      "0:08-0:15 \u2014 The man on the couch continues his phone conversation with his friend.",
+      "0:15-0:25 \u2014 The man on the couch continues his phone conversation, then another person starts yelling on the phone.",
+      "0:25-0:33 \u2014 The man in the yellow jersey answers the phone and talks to the man in overalls.",
+      "0:33-0:41 \u2014 The man at the computer answers the phone and talks to the man in the yellow jersey.",
+      "0:41-0:52 \u2014 The men on the phone start making strange noises and laughing.",
+      "0:52-1:00 \u2014 The man on the couch ends the call and the Budweiser logo appears."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Working-class to middle-class men, 21-45 years old, often blue-collar or in service industries. Geographically diverse, but with a strong presence in the Midwest and South of the United States.",
+      "psychographics": "Values camaraderie, loyalty, and shared experiences. Identity is often tied to their social group and local community. Aspires to a comfortable, uncomplicated life, enjoying simple pleasures like watching sports and spending time with friends.",
+      "brandMeaning": "Budweiser represents a sense of American tradition, authenticity, and shared experiences with friends. It's seen as an accessible, reliable beer for everyday occasions."
+    },
+    "adTargetAudience": {
+      "demographics": "Men aged 21-35, particularly those who enjoy watching sports and socializing with friends. Likely to be in the same demographic as the core audience, but potentially slightly younger and more urban-focused.",
+      "psychographics": "Values humor, friendship, and being part of a group. Appreciates lighthearted entertainment and relatable situations. Seeks connection and belonging through shared experiences.",
+      "tone": "Humorous, relatable, and inclusive. The ad speaks directly to the viewer as a friend, inviting them to participate in the shared experience."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The 'Whassup' ad perfectly captures the essence of male bonding and shared experiences that Budweiser has always represented. The humor and relatability of the ad will resonate strongly with the core audience, reinforcing their connection to the brand.",
+    "actualResonance": "The ad will resonate most strongly with young men aged 21-35 who value friendship, humor, and shared experiences, particularly those who enjoy watching sports and drinking beer with their friends. It will also appeal to a broader audience due to its simple, catchy humor.",
+    "friendlyFireRisk": 0,
+    "marketExpansion": 7,
+    "verdict": "This ad is a home run; it reinforces the brand's core values while expanding its reach through humor and relatability."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.0,
+    "detonationRadius": 0.0,
+    "timingContext": {
+      "slot": "Q2",
+      "estimatedSpend": 16000000,
+      "followUp": "digital campaign extending Super Bowl spot",
+      "note": "Budweiser traditionally owns SB emotional territory \u2014 Clydesdales, puppies",
+      "event": "Super Bowl LIV",
+      "date": "2020-02-02",
+      "costPer30Sec": 5600000,
+      "liveViewership": 102000000,
+      "platform": "Fox",
+      "context": "Election year 2020. Budweiser attempting patriotic unity. 'Typical American' as reclamation. More successful than Pepsi Jenner because Budweiser OWNS Americana in their brand DNA."
+    }
+  }
+}

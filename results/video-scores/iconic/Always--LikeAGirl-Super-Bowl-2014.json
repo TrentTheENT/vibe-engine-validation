@@ -1,0 +1,266 @@
+{
+  "ad": "Always \u2014 LikeAGirl (Super Bowl 2014)",
+  "category": "iconic",
+  "vibeScore": 642,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:39:32.394732",
+  "fileSize": "2.8MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.55,
+    "fear": 0.15,
+    "surprise": 0.35,
+    "sadness": 0.25,
+    "disgust": 0.25,
+    "anger": 0.25,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.4,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hi Aaron. Show me what it looks like to run like a girl. My hair. Show me what it looks like to fight like a girl. Now throw like a girl. Oh. So do you think you just insulted your sister? No. I mean, yeah, insulted girls, but not my sister. My name is Dakota and I'm 10 years old. Show me what it looks like to run like a girl. Throw like a girl. Fight like a girl. What does it mean to you when I say run like a girl? It means run fast as you can. Let's make #likeagirl mean amazing things.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.6
+    },
+    "dominant": "trust",
+    "arcShape": "increasing",
+    "segmentCount": 14
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.878,
+      0.582,
+      0.895,
+      0.64,
+      0.942,
+      0.92,
+      0.879,
+      0.902,
+      0.945,
+      0.815,
+      0.869,
+      0.895
+    ],
+    "average": 0.847,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.582,
+      "audio": "Sounds of people running and dialogue with a slightly negative tone. \"My hair.\"",
+      "video": "A woman in a vest and jeans is asked to run like a girl, and she does a silly, exaggerated run. A woman with dark hair d"
+    },
+    "maxAlignment": {
+      "timestamp": "40s",
+      "coherence": 0.945
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "studio lights",
+        "confidence": 0.95
+      },
+      {
+        "label": "young woman",
+        "confidence": 0.98
+      },
+      {
+        "label": "text",
+        "confidence": 0.99
+      },
+      {
+        "label": "young boy",
+        "confidence": 0.98
+      },
+      {
+        "label": "man",
+        "confidence": 0.98
+      },
+      {
+        "label": "camera",
+        "confidence": 0.95
+      },
+      {
+        "label": "young girl",
+        "confidence": 0.98
+      },
+      {
+        "label": "dress",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "young boy",
+        "magnitude": 0.366,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "young girl",
+        "magnitude": 0.366,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "young woman",
+        "magnitude": 0.337,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.337,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "dress",
+        "magnitude": 0.296,
+        "emotion": "trust",
+        "baseline": 0.6,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Females aged 12-50, primarily teenagers and young adults, with a focus on those experiencing menstruation. Income varies, lifestyle includes active participation in school, sports, and social activities.",
+      "psychographics": "Values include comfort, reliability, and discretion related to feminine hygiene. Identity is tied to being a young woman navigating adolescence and adulthood. Aspirations include confidence, freedom from worry, and the ability to participate fully in life without being hindered by menstruation.",
+      "brandMeaning": "Provides reliable protection and allows women to live their lives without interruption or embarrassment due to their periods. It represents a sense of security and normalcy."
+    },
+    "adTargetAudience": {
+      "demographics": "Young girls (8-16) and their parents, particularly mothers. Also appeals to a broader audience interested in gender equality and female empowerment.",
+      "psychographics": "Values include challenging gender stereotypes, promoting female empowerment, and fostering confidence in young girls. Appreciates messages of hope, optimism, and social change.",
+      "tone": "Empowering, uplifting, and thought-provoking, challenging societal norms and encouraging self-acceptance."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's commitment to supporting women and girls, aligning with the core audience's values of confidence and freedom. It makes them proud to be associated with a brand that champions female empowerment.",
+    "actualResonance": "Young girls and women who have experienced gender bias or limitations based on their gender. Also resonates with parents and educators who are committed to raising confident and empowered girls.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 9,
+    "verdict": "This ad effectively expands the brand's reach by tapping into a broader cultural conversation about gender equality and female empowerment, while still resonating with its core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 10,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 10,
+    "temporalCompounding": 9,
+    "frequencyPressure": 3,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Empowerment holds, slight cynicism after 10+ viewings",
+    "detonationRadius": 4.5,
+    "explanation": "The 'Like a Girl' campaign benefited immensely from its strategic timing and placement. Launching on YouTube allowed it to gain viral momentum before the Super Bowl, maximizing reach and impact. The Super Bowl airing then amplified the message to a massive, simultaneous audience. The alignment with a growing cultural conversation around gender equality further fueled its success, turning potential vulnerability into a powerful wave of social propagation. The positive message and narrative structure helped maintain its impact over repeated viewings.",
+    "whatIfScenario": "If the ad had launched *only* during the Super Bowl without the preceding YouTube campaign, it would have been perceived as a calculated marketing ploy rather than a genuine social statement. The lack of organic viral spread would have reduced its credibility and social amplification, resulting in a significantly lower attention economy multiplier. Conversely, if it had launched *only* on YouTube, it would have had a slower burn, but would have been more authentic.",
+    "timingContext": {
+      "date": "2014-06-26",
+      "platform": "YouTube + Super Bowl XLIX (2015-02-01)",
+      "liveViewership": 114400000,
+      "adFrequency": "YouTube viral (70M+ views pre-SB) THEN Super Bowl airing",
+      "socialAmplification": "#LikeAGirl became a cultural movement \u2014 4.4B impressions",
+      "context": "Feminine hygiene brand making a social statement about gender stereotypes. The targeting was PRECISE \u2014 spoke to their audience's deepest insecurity and turned it into empowerment.",
+      "aftermath": "76% of viewers had a more positive view of the phrase 'like a girl'. Sales up double digits."
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "ad": "Nike \u2014 So Win",
+  "category": "superbowl-2025",
+  "vibeScore": 570,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:08:20.443631",
+  "fileSize": "2.8MB",
+  "consensus": {
+    "joy": 0.25,
+    "trust": 0.45,
+    "fear": 0.15,
+    "surprise": 0.3,
+    "sadness": 0.1,
+    "disgust": 0.05,
+    "anger": 0.4,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "You can't be demanding. You can't be relentless. You can't put yourself first. So, put yourself first. You can't be confident. So be confident. You can't challenge. So challenge. You can't dominate. So dominate. You can't flex. So flex. You can't fill a stadium. So fill that stadium. You can't be emotional. So be emotional. You can't take credit. You can't speak up. You can't be so ambitious. You can't break records. You can't have any fun. You can't make demands. You can't keep score. You can't stand out. Whatever you do, you can't win. So win.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.3,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.874,
+      0.935,
+      0.649,
+      0.702,
+      0.775,
+      0.775,
+      0.886,
+      0.898,
+      0.898,
+      0.88,
+      0.951,
+      0
+    ],
+    "average": 0.769,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "55s",
+      "coherence": 0,
+      "audio": "Silence.",
+      "video": "The video ends with the text \"YOU CAN'T WIN. SO WIN.\" The Nike logo then appears."
+    },
+    "maxAlignment": {
+      "timestamp": "50s",
+      "coherence": 0.951
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "hurdle",
+        "confidence": 0.95
+      },
+      {
+        "label": "basketball",
+        "confidence": 0.98
+      },
+      {
+        "label": "track",
+        "confidence": 0.95
+      },
+      {
+        "label": "gymnastics mat",
+        "confidence": 0.9
+      },
+      {
+        "label": "basketball hoop",
+        "confidence": 0.97
+      },
+      {
+        "label": "microphone",
+        "confidence": 0.85
+      },
+      {
+        "label": "tennis racket",
+        "confidence": 0.9
+      },
+      {
+        "label": "trophy",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A black and white video shows different women in athletic settings. A woman with long nails stands in front of a hurdle. A woman with long hair walks down a dark road. A woman dribbles a basketball in a dark hallway. A woman spins a basketball on her finger.",
+      "0:08-0:16 \u2014 A woman looks over her shoulder. A woman puts her finger to her lips. A woman stands on a track. A woman dribbles a basketball. A woman shoots a basketball. A woman celebrates a win. A woman does a backflip.",
+      "0:16-0:25 \u2014 A woman dances in front of a cloud of smoke. A woman looks down. A woman dunks a basketball. A woman plays basketball. A woman poses in a dance pose. A woman flexes her muscles.",
+      "0:25-0:34 \u2014 A woman stands in an empty stadium holding a soccer ball. A woman poses with her hands up. A woman celebrates a win. A woman looks at the camera. A woman cries. A woman celebrates a win.",
+      "0:34-0:43 \u2014 A woman stands in a cage. A woman stands in front of microphones. A woman gets out of a car. A woman dribbles a basketball. A woman looks down. A woman looks up. A woman looks at the camera.",
+      "0:43-0:51 \u2014 A woman looks at the camera. A woman kicks a soccer ball into a goal. A woman kicks a soccer ball. A woman poses in a flying pose. A woman meditates. A woman poses with a basketball.",
+      "0:51-1:00 \u2014 A woman runs on a track. A woman celebrates a win. A woman claps her hands. A woman celebrates a win. A woman kisses a trophy. The words \"YOU CAN'T WIN. SO WIN.\" appear on the screen. A woman does a dance pose. The Nike logo appears on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.3,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.45,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Nike's core audience spans ages 15-45, skewing slightly towards male, with a middle-class to upper-middle-class income. They are active individuals involved in various sports and fitness activities, from casual jogging to competitive athletics. They live an active lifestyle and are digitally savvy.",
+      "psychographics": "They value performance, innovation, and self-improvement. They see themselves as driven, competitive, and stylish. They aspire to achieve their personal best, push boundaries, and be recognized for their accomplishments. They identify with athletes and seek inspiration from their stories.",
+      "brandMeaning": "Nike represents athletic achievement, pushing limits, and a 'just do it' mentality. It signifies quality, innovation, and being part of a community of athletes and fitness enthusiasts."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad specifically targets young women and girls, particularly those involved in sports and athletics, aged 13-35. It also appeals to a broader audience interested in female empowerment and challenging societal norms.",
+      "psychographics": "The ad appeals to values of ambition, confidence, resilience, and challenging the status quo. It speaks to those who feel underestimated or face barriers due to their gender. They aspire to break records, defy expectations, and achieve greatness in their chosen fields.",
+      "tone": "The ad adopts an empowering and defiant tone, directly challenging limiting beliefs and encouraging viewers to overcome obstacles."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Nike's core message of empowerment and pushing boundaries, but with a specific focus on women. This aligns with the brand's existing values and will likely make existing customers proud to see Nike championing female athletes.",
+    "actualResonance": "This ad will resonate most strongly with young women and girls involved in sports, as well as those who identify with feminist ideals and the fight for gender equality. It will also appeal to parents and coaches who want to empower young female athletes.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a strong move to solidify Nike's position as a champion for female athletes, but be mindful of potential backlash from those who feel it alienates the broader athletic community."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 10,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 8,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Validation decays into Defensiveness",
+    "detonationRadius": 4.2,
+    "explanation": "Nike's 'So Win' ad, featuring Colin Kaepernick during the Super Bowl, was a masterclass in attention economy manipulation. The massive reach of the Super Bowl amplified the already controversial message, creating a firestorm of social media activity, both positive and negative. While the initial stock drop suggested a misstep, the long-term impact was a significant increase in brand value and online sales, demonstrating that Nike intentionally targeted a specific demographic and was willing to alienate others. The high cost of the Super Bowl ad was offset by the immense reach and the cultural relevance of the message, resulting in a powerful attention economy multiplier.",
+    "whatIfScenario": "If this ad ran during a less culturally charged event, like the NBA Finals, the reach would have been smaller, the social propagation less intense, and the overall impact significantly diminished. The controversy was a key ingredient in the ad's success, and without it, the message would have likely been perceived as less impactful and potentially less effective in driving sales and brand value.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2018-09-05",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "YouTube + TV (Monday Night Football premiere)",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "#JustBurnIt trended (people burning Nike shoes) \u2014 but ALSO #JustDoIt surged. Polarization AS strategy.",
+      "adFrequency": "heavy TV + digital rotation for 3 months",
+      "context": "Colin Kaepernick kneeling controversy. Nike chose a side. Stock initially dropped 3% then hit ALL-TIME HIGH within weeks. The targeting was intentional \u2014 Nike's core demo (18-35 urban) aligned with Kaepernick.",
+      "slot": "in-game",
+      "estimatedSpend": 50000000,
+      "note": "First SB ad in 27 years \u2014 massive cultural expectation",
+      "culturalMoment": "NFL kneeling controversy, Trump tweets against Nike, racial justice debate",
+      "aftermath": "$6B increase in brand value. Online sales up 31% in days. The INTENTIONAL targeting miss (alienating older conservative buyers) was calculated \u2014 they weren't buying Jordans anyway."
+    }
+  }
+}

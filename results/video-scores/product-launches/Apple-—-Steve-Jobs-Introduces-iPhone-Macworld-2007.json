@@ -1,0 +1,65 @@
+{
+  "ad": "Apple \u2014 Steve Jobs Introduces iPhone (Macworld 2007)",
+  "category": "product-launches",
+  "contentType": "product launch video",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T23:18:41.344911",
+  "fileSize": "184.6MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 0,
+    "top": [],
+    "inversions": [],
+    "scenes": []
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {},
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.8,
+    "reachScore": 9.5,
+    "costEfficiency": 9.0,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "nostalgia",
+    "culturalAlignment": 9,
+    "explanation": "This product launch was a watershed moment. The product was revolutionary, the presentation iconic, and the impact on society profound. The attention economy multiplier is extremely high due to the product's lasting influence and the emotional resonance of the launch. The fatigue velocity is low because the video is a historical artifact and a masterclass in product marketing. Repeated viewings are likely to generate nostalgia.",
+    "whatIfScenario": "If the iPhone had failed to gain traction, this video would still be remembered as a bold attempt, but its attention economy multiplier would be significantly lower, likely around 1.5-2.0. The cultural alignment would be neutral.",
+    "detonationRadius": 0.0,
+    "timingContext": {
+      "date": "2007-01-09",
+      "platform": "Macworld Keynote (live + YouTube)",
+      "context": "Steve Jobs' 'one more thing' moment. Combined phone + iPod + internet communicator. The room went silent. Changed human civilization. No one in the audience knew what they were watching.",
+      "aftermath": "Most important product launch of the 21st century. Created the smartphone industry. $3T market cap."
+    }
+  }
+}

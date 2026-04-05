@@ -1,0 +1,291 @@
+{
+  "ad": "WestJet \u2014 Child-Free Cabins KargoKids",
+  "category": "april-fools-2025",
+  "vibeScore": 621,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:02:27.630977",
+  "fileSize": "5.2MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.65,
+    "fear": 0.1,
+    "surprise": 0.35,
+    "sadness": 0.05,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.0,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "flat",
+    "transcript": "Hi, I'm Richard Bartrem, Vice President Communications for WestJet. Here with some exciting news. Effective today, we're introducing child-free cabins on board select flights. We've heard from many of our guests that they're tired of kids screaming and running up and down the aisle and are looking quite simply for some peace and quiet. So, you may be asking, how do I get my children to their destination? Well, that's a great question, and we've got a great answer. We call it cargo kids. Let's take a look at the process. When you arrive at the airport, simply ask for cargo kids when you check in. Our friendly WestJet customer service agents are more than happy to help. They'll assist you in getting your child ready for their trip on the travel toboggan. Your child will be whisked away on a magic carpet ride and your work is done. Meanwhile, our WestJetters are hard at work. Your child's toboggan will arrive safely with the luggage and other kids who will be boarding that flight. From there, one of our friendly WestJetters will take the children to their waiting flight. On board each flight, we have a cargo kids counselor who's there to make sure that your kids are well taken care of and supervised. With plenty of toys and a state-of-the-art feed trough, your children will be able to run, play, scream, and eat all they want, while you enjoy your flight in peace and quiet. So book cargo kids today by going to westjet.com/cargokids. That's cargo and kids with a K. And let us give you the peace and quiet you need. From all of us at WestJet, you're welcome. Happy April Fools from WestJet. Look for your savings below.",
+    "segmentCount": 28
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "trust",
+    "arcShape": "peak",
+    "segmentCount": 28
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.966,
+      0.49,
+      0.922,
+      0.7,
+      0.785,
+      0.948,
+      0.958,
+      0.554,
+      0.959,
+      0.959,
+      0.964,
+      0.961,
+      0.943,
+      0.943,
+      0.929,
+      0.964,
+      0.964,
+      0.964,
+      0.964,
+      0.964,
+      0.943,
+      0.943,
+      0.942,
+      0.93,
+      0,
+      0,
+      0,
+      0
+    ],
+    "average": 0.77,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "120s",
+      "coherence": 0,
+      "audio": " ",
+      "video": "Richard speaks again."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.966
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "airline logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "airport check-in counter",
+        "confidence": 0.98
+      },
+      {
+        "label": "child",
+        "confidence": 0.99
+      },
+      {
+        "label": "luggage conveyor belt",
+        "confidence": 0.95
+      },
+      {
+        "label": "airplane",
+        "confidence": 0.99
+      },
+      {
+        "label": "cargo hold",
+        "confidence": 0.95
+      },
+      {
+        "label": "airplane seats",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "child",
+        "magnitude": 0.379,
+        "emotion": "joy",
+        "baseline": 0.8,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.337,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "airline logo",
+        "magnitude": 0.337,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "airplane",
+        "magnitude": 0.33,
+        "emotion": "trust",
+        "baseline": 0.7,
+        "contextual": 0.2,
+        "direction": "suppressed"
+      },
+      {
+        "object": "airport check-in counter",
+        "magnitude": 0.289,
+        "emotion": "disgust",
+        "baseline": 0.1,
+        "contextual": 0.5,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A man introduces himself as Richard Bartrem, VP Communications for WestJet, and announces exciting news.",
+      "0:08-0:18 \u2014 Richard Bartrem announces the introduction of child-free cabins on select flights, addressing customer concerns about noisy children.",
+      "0:18-0:29 \u2014 Richard Bartrem introduces 'Cargo Kids,' a new service for transporting children.",
+      "0:29-0:42 \u2014 A family checks in at the airport and asks for the Cargo Kids service.",
+      "0:42-0:49 \u2014 Children are placed in a blue container and sent down a conveyor belt.",
+      "0:49-1:12 \u2014 Richard Bartrem explains that the children will be taken care of by WestJetters and placed in the cargo hold.",
+      "1:12-1:18 \u2014 Parents enjoy a peaceful flight while their children are in the cargo hold.",
+      "1:18-1:38 \u2014 Richard Bartrem encourages viewers to book Cargo Kids and an employee wishes viewers a happy April Fool's Day."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.6,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "WestJet's core audience typically consists of middle-class families and individuals, aged 25-55, with moderate to high disposable income. They are often located in Canada and the US, with a significant portion being frequent travelers for leisure and business.",
+      "psychographics": "They value convenience, affordability, and a positive travel experience. They appreciate family-friendly services and a sense of community. They aspire to seamless travel experiences and creating lasting memories.",
+      "brandMeaning": "WestJet represents friendly, reliable, and accessible air travel, particularly within Canada and to vacation destinations. It signifies a comfortable and enjoyable journey, often associated with positive experiences and family vacations."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets adults, primarily aged 30-55, who are frequent travelers and may or may not have children. It specifically appeals to those who value peace and quiet during flights and may have experienced frustration with disruptive children on board.",
+      "psychographics": "They value tranquility, personal space, and a stress-free travel environment. They may be more individualistic and prioritize their own comfort and convenience. They appreciate humor and satire, particularly when it addresses common travel annoyances.",
+      "tone": "The ad uses a humorous and satirical tone, exaggerating a common frustration to create a lighthearted and engaging experience."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "While some core audience members may appreciate the humor, many will be confused by the concept of 'Cargo Kids' and child-free cabins, as WestJet has historically positioned itself as a family-friendly airline. The satirical nature might not resonate with all, leading to uncertainty about the brand's stance.",
+    "actualResonance": "The ad will likely resonate most with childless adults or parents who occasionally desire a child-free travel experience. Those who appreciate satire and can recognize the exaggeration for comedic effect will find it amusing. It may also appeal to individuals who have had negative experiences with children on flights.",
+    "friendlyFireRisk": 5,
+    "marketExpansion": 6,
+    "verdict": "The CMO should be aware that while the ad aims for humor and potential market expansion, it risks alienating a segment of the core family audience due to its potentially controversial premise, and should gauge public sentiment carefully before widespread release."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 6,
+    "frequencyPressure": 4,
+    "culturalAlignment": 5,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 12.5,
+    "explanation": "The WestJet April Fool's ad leverages the high-engagement environment of April Fool's Day, where audiences are actively seeking humorous and deceptive content. The social media platform amplifies the reach and propagation of the ad, leading to a potentially high ROI due to its shareable nature. However, the context also introduces a high degree of contextual vulnerability, as audiences are primed for skepticism and critical judgment. The confusion-based humor may wear thin with repeated exposure, leading to annoyance. The cultural alignment is moderately positive, as humorous content is generally well-received, but the specific topic could be divisive.",
+    "whatIfScenario": "If this ad ran during the holiday season, the contextual vulnerability would be significantly lower, as audiences are more receptive to heartwarming and genuine content. The ad's humor might be perceived as inappropriate or insensitive, leading to a negative cultural alignment and a lower attention economy multiplier.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

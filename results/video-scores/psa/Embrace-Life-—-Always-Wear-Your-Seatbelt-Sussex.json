@@ -1,0 +1,191 @@
+{
+  "ad": "Embrace Life \u2014 Always Wear Your Seatbelt (Sussex)",
+  "category": "psa",
+  "contentType": "public service announcement",
+  "vibeScore": 468,
+  "dominantEmotion": "fear",
+  "scoredAt": "2026-04-04T23:27:58.660978",
+  "fileSize": "4.3MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.3,
+    "fear": 0.4,
+    "surprise": 0.25,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.4,
+      "surprise": 0.2,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.3
+    },
+    "dominant": "fear",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 26
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.4,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 26
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.461,
+      0.897,
+      0.536,
+      0.664,
+      0.327,
+      0.77,
+      0.77,
+      0.77,
+      -1,
+      0.77,
+      0.817,
+      0.817,
+      0.817,
+      0.817,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      -1,
+      -1
+    ],
+    "average": 0.526,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "hand",
+        "confidence": 0.99
+      },
+      {
+        "label": "person",
+        "confidence": 0.99
+      },
+      {
+        "label": "seat belt",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "hand",
+        "magnitude": 1.2,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "person",
+        "magnitude": 1.192,
+        "emotion": "fear",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description: A close-up shot shows a hand clenching into a fist, followed by a shot of bare feet on a rug. The scene then transitions to a woman and a young girl sitting on a couch, smiling."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Anxiety",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.35,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Submission",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Guilt",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Hope",
+        "strength": 0.35,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Love",
+        "strength": 0.3,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Anxiety",
+      "strength": 0.4,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "General public, all ages, genders, and socioeconomic backgrounds.",
+      "psychographics": "Values safety, family, and community. Concerned about road safety and the well-being of themselves and others. Responsive to emotional appeals and relatable scenarios.",
+      "brandMeaning": "Sussex Safer Roads Partnership aims to reduce road accidents and fatalities through education and awareness campaigns. The brand stands for safety, responsibility, and community well-being."
+    },
+    "adTargetAudience": {
+      "demographics": "Parents and families, particularly those with young children. All ages, genders, and socioeconomic backgrounds.",
+      "psychographics": "Values family, safety, and responsibility. Concerned about the well-being of their children and loved ones. Likely to be influenced by emotional appeals and relatable scenarios.",
+      "tone": "Emotional, cautionary, and family-oriented."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's core message of road safety and responsibility, validating the audience's existing beliefs and values.",
+    "actualResonance": "The ad will likely resonate with parents and families who are concerned about road safety and the well-being of their children. The emotional appeal and relatable scenario will likely be effective in capturing their attention and influencing their behavior.",
+    "friendlyFireRisk": 0,
+    "marketExpansion": 5,
+    "verdict": "This PSA effectively reinforces the importance of seatbelt use with a poignant visual metaphor, resonating with families and aligning with the brand's safety-focused mission."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 9.0,
+    "costEfficiency": 10.0,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Sentimentality",
+    "culturalAlignment": 8,
+    "explanation": "This PSA achieved massive organic reach with zero media spend, indicating extremely high virality and efficient attention capture. The positive emotional tone resonated strongly, leading to widespread sharing. The low fatigue velocity suggests the message retains its impact even with repeated viewing. High cultural alignment due to universal appeal of family and safety.",
+    "whatIfScenario": "If this PSA had been released during a period of heightened anxiety or societal division, the positive message might have been misinterpreted or overshadowed, potentially reducing its impact and virality.",
+    "detonationRadius": 0.0,
+    "timingContext": {
+      "date": "2010-01-18",
+      "platform": "YouTube",
+      "context": "Sussex Safer Roads. Family forms seatbelt around father. Slow motion. Beautiful. No crash. No blood. Just love. $0 media spend.",
+      "aftermath": "20M+ views with ZERO paid media. Proved emotional PSAs outperform fear-based ones. Most shared safety ad ever."
+    }
+  }
+}

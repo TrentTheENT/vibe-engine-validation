@@ -1,0 +1,180 @@
+{
+  "ad": "NZ Transport \u2014 Mistakes (Speed Ad 2014)",
+  "category": "psa",
+  "contentType": "public service announcement",
+  "vibeScore": 402,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:27:23.992958",
+  "fileSize": "2.4MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.05,
+    "fear": 0.55,
+    "surprise": 0.45,
+    "sadness": 0.25,
+    "disgust": 0.15,
+    "anger": 0.35,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.1,
+      "fear": 0.5,
+      "surprise": 0.4,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.6,
+      "surprise": 0.5,
+      "sadness": 0.3,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.966,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      0.033,
+      0.389,
+      0.383
+    ],
+    "average": -0.519,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "car",
+        "confidence": 0.99
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "stop sign",
+        "confidence": 0.98
+      },
+      {
+        "label": "child",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "child",
+        "magnitude": 1.473,
+        "emotion": "joy",
+        "direction": "suppressed"
+      },
+      {
+        "object": "car",
+        "magnitude": 1.338,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "man",
+        "magnitude": 1.311,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "stop sign",
+        "magnitude": 1.221,
+        "emotion": "anger",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description: A silver SUV approaches a stop sign at an intersection, then proceeds through the intersection. The scene cuts to a man driving a car, then to a view from the back seat of the car as it drives down a road."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Anxiety",
+        "strength": 0.57,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Awe",
+        "strength": 0.5,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.47,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.4,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Anxiety",
+      "strength": 0.57,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "New Zealand residents, all ages, all socioeconomic statuses",
+      "psychographics": "People who value safety, responsible driving habits, and community well-being. They are likely to be risk-averse when it comes to road safety and appreciate clear, impactful messaging.",
+      "brandMeaning": "The New Zealand government aims to ensure the safety and well-being of its citizens through public service announcements that promote responsible behavior and reduce accidents."
+    },
+    "adTargetAudience": {
+      "demographics": "Drivers of all ages, particularly those who may be prone to speeding or distracted driving, all socioeconomic statuses",
+      "psychographics": "Drivers who may sometimes underestimate the risks of speeding or who may feel pressured to drive faster due to time constraints. The tone is serious and cautionary, aiming to create a sense of urgency and responsibility.",
+      "tone": "Serious and cautionary"
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The core audience will likely feel validated by the message, as it reinforces the importance of safe driving practices and addresses a common cause of accidents.",
+    "actualResonance": "The message will likely resonate with a broad audience, especially those who have experienced or witnessed the consequences of speeding or reckless driving. It may also appeal to parents who prioritize the safety of their children.",
+    "friendlyFireRisk": 0,
+    "marketExpansion": 5,
+    "verdict": "This PSA effectively reinforces the importance of slowing down and being aware of other drivers' potential mistakes, aligning with the core mission of promoting road safety and potentially reaching drivers who need a reminder to drive more cautiously."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 6,
+    "costEfficiency": 8,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "apathy",
+    "culturalAlignment": 7,
+    "explanation": "The PSA's message about road safety is generally well-received, leading to a positive cultural alignment. The validated reaction and short distance suggest the message resonates with the target audience. However, repeated exposure could lead to apathy, and the attention economy multiplier reflects the potential for both positive impact and eventual wear-out.",
+    "whatIfScenario": "If the PSA were targeted at a demographic with a higher risk profile (e.g., young male drivers), the cultural alignment and attention economy multiplier could increase due to the message's direct relevance. Conversely, if the message were perceived as preachy or condescending, the cultural alignment could decrease, leading to a lower attention economy multiplier and faster fatigue velocity.",
+    "detonationRadius": 0.0,
+    "timingContext": {
+      "context": "Category: psa"
+    }
+  }
+}

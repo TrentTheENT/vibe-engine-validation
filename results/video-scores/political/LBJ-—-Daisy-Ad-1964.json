@@ -1,0 +1,133 @@
+{
+  "ad": "LBJ \u2014 Daisy Ad (1964)",
+  "category": "political",
+  "contentType": "political advertisement",
+  "vibeScore": 341,
+  "dominantEmotion": "fear",
+  "scoredAt": "2026-04-04T22:00:34.363522",
+  "fileSize": "2.9MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.35,
+    "surprise": 0.2,
+    "sadness": 0.15,
+    "disgust": 0.1,
+    "anger": 0.25,
+    "anticipation": 0.3
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "fear",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.7,
+      "surprise": 0.4,
+      "sadness": 0.3,
+      "disgust": 0.2,
+      "anger": 0.5,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 13
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "girl",
+        "confidence": 0.99
+      },
+      {
+        "label": "nuclear explosion",
+        "confidence": 0.99
+      },
+      {
+        "label": "Library of Congress logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "girl",
+        "magnitude": 1.852,
+        "emotion": "disgust",
+        "direction": "amplified"
+      },
+      {
+        "object": "Library of Congress logo",
+        "magnitude": 1.311,
+        "emotion": "trust",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:08-0:30 \u2014 description",
+      "0:39-0:58 \u2014 description",
+      "1:10-1:17 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Anxiety",
+        "strength": 0.32,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Anxiety",
+      "strength": 0.32,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Registered Democrats, particularly those who support liberal policies and social programs.",
+      "psychographics": "Individuals who value peace, social justice, and government intervention to address societal problems. They are likely concerned about the potential for nuclear war and support diplomatic solutions to international conflicts.",
+      "brandMeaning": "The Democratic Party represents progress, equality, and a commitment to improving the lives of all Americans through government action."
+    },
+    "adTargetAudience": {
+      "demographics": "Undecided voters, particularly those who are concerned about the potential for nuclear war and are considering voting for Barry Goldwater.",
+      "psychographics": "Individuals who may be swayed by fear tactics and are looking for a leader who can provide stability and security in a dangerous world. They may be skeptical of government intervention but are ultimately concerned about the safety of their families and communities.",
+      "tone": "Fearful, urgent, and persuasive, aiming to highlight the potential consequences of voting for Goldwater."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The core audience of the Democratic Party would likely feel validated by this ad, as it reinforces their belief that the party is committed to peace and security and that voting for Johnson is the best way to avoid nuclear war.",
+    "actualResonance": "The ad would likely resonate with undecided voters who are concerned about the potential for nuclear war and are looking for a leader who can provide stability and security.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "The ad is effective in using fear tactics to persuade undecided voters to vote for Johnson, but it may alienate some voters who are skeptical of government intervention or who find the ad to be overly alarmist."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 3.5,
+    "costEfficiency": 4.8,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Outrage, then cynicism",
+    "culturalAlignment": -3,
+    "explanation": "The Daisy Ad was highly effective due to its emotional impact and novelty. Its single airing amplified its effect because it was so shocking. The negative cultural alignment reflects the discomfort many felt with the ad's fear-mongering tactics, though it was undeniably effective in achieving its political goal. The ad's effectiveness is amplified by the context of the Cold War and the fear of nuclear annihilation.",
+    "whatIfScenario": "If the ad had been aired repeatedly, the initial shock value would have diminished rapidly, leading to viewer fatigue and potentially a backlash against LBJ. The 'fear' emotion would have decayed into either apathy or anger at the campaign for using such tactics.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "1964-09-07",
+      "platform": "TV (NBC, aired ONCE)",
+      "context": "LBJ vs Goldwater. Little girl counting petals \u2192 nuclear countdown \u2192 mushroom cloud. Aired once. Pulled after complaints. Became the most famous political ad in history. INVENTED negative political advertising.",
+      "aftermath": "LBJ won in a landslide. The ad is still studied 60 years later."
+    }
+  }
+}

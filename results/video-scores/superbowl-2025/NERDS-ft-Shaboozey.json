@@ -1,0 +1,233 @@
+{
+  "ad": "NERDS ft. Shaboozey",
+  "category": "superbowl-2025",
+  "vibeScore": 695,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:10:39.723256",
+  "fileSize": "2.3MB",
+  "consensus": {
+    "joy": 0.7,
+    "trust": 0.55,
+    "fear": 0.05,
+    "surprise": 0.7,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.0,
+      "surprise": 0.6,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Sound of someone eating, followed by music. The colors all around me, so pretty in the sky, all so on the face, of people going by, and I think to myself, what a wonderful world. When two great things combine, it's a wonderful world. Nerds Gummy Clusters. Unleash your senses.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.8,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.839,
+      0.975,
+      0.975,
+      0.975,
+      0.937,
+      0.979
+    ],
+    "average": 0.947,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.839,
+      "audio": "Sound of someone eating, followed by music",
+      "video": "A man with dreadlocks eats Nerds Gummy Clusters while walking down a colorful street. A parade of musicians and a large "
+    },
+    "maxAlignment": {
+      "timestamp": "25s",
+      "coherence": 0.979
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "Nerds Gummy Clusters candy",
+        "confidence": 0.98
+      },
+      {
+        "label": "street",
+        "confidence": 0.95
+      },
+      {
+        "label": "parade",
+        "confidence": 0.9
+      },
+      {
+        "label": "marching band",
+        "confidence": 0.9
+      },
+      {
+        "label": "cartoon character",
+        "confidence": 0.95
+      },
+      {
+        "label": "dalmatian",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "street",
+        "magnitude": 0.257,
+        "emotion": "joy",
+        "baseline": 0.3,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A man with dreadlocks is walking down a colorful street, eating Nerds Gummy Clusters. A parade with a giant red gummy character playing a trumpet passes by, followed by smaller blue and green gummy characters.",
+      "0:08-0:23 \u2014 The man is standing in the street, surrounded by the gummy characters. He is holding a bag of Nerds Gummy Clusters. The parade continues down the street.",
+      "0:23-0:30 \u2014 A close-up of a Nerds Gummy Cluster. The man is standing next to the giant red gummy character. The text \"UNLEASH YOUR SENSES\" appears on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.7,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.7,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.7,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "NERDS historically appeals to a younger demographic, primarily Gen Z and younger Millennials (ages 10-25), with a slight skew towards female consumers. Income is not a significant factor, as NERDS are an affordable candy. Lifestyle is characterized by a love for novelty, bright colors, and playful experiences.",
+      "psychographics": "The core audience values fun, individuality, and self-expression. They identify with being quirky and unique, and aspire to stand out from the crowd. They appreciate brands that don't take themselves too seriously and offer a sense of playful escapism.",
+      "brandMeaning": "For its core audience, NERDS represents a fun, quirky, and individualistic treat. It's a symbol of playful rebellion against the mundane and a celebration of being different."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a slightly broader audience, including Gen Z and Millennials (ages 15-35), with an emphasis on those who appreciate music, street culture, and a sense of wonder. The inclusion of Shaboozey suggests an appeal to fans of country-trap and a more diverse demographic.",
+      "psychographics": "The ad appeals to values of optimism, joy, and a sense of shared experience. It targets those who appreciate creativity, cultural fusion, and brands that embrace diversity and inclusivity. The 'wonderful world' theme suggests an appeal to those seeking positivity and connection.",
+      "tone": "The ad speaks to the viewer in a joyful, optimistic, and inclusive tone, inviting them to experience a sense of wonder and shared enjoyment."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad retains the brand's core values of fun and individuality while incorporating current trends and a diverse artist. The core audience will likely feel validated by the brand's ability to stay relevant and inclusive without sacrificing its core identity.",
+    "actualResonance": "This ad will resonate most strongly with Gen Z and younger Millennials who are fans of Shaboozey and appreciate the fusion of music, street culture, and the brand's playful aesthetic. It will also appeal to those who are drawn to the ad's optimistic and inclusive message.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a smart move to broaden the brand's appeal while staying true to its core identity, but the CMO should monitor social media sentiment to ensure the new direction is well-received."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 3,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Joy decays to Neutral, then slight Annoyance if overplayed",
+    "detonationRadius": 2.8,
+    "explanation": "The Super Bowl context provides massive reach and immediate social amplification, but also intense scrutiny and permanent record. The high cost demands near-perfect audience alignment, and even a minor misstep can be amplified into a major brand crisis. NERDS ft. Shaboozey has a high cultural alignment, which helps, but the inherent vulnerability of the Super Bowl stage means the attention economy multiplier is significant.",
+    "whatIfScenario": "If this ad ran on YouTube, the reach would be slower but more targeted. The cost would be significantly lower, reducing the risk. The social amplification would still be present, but the context would be less critical, allowing for more experimentation and iteration. A mistake would be less catastrophic and easier to correct.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

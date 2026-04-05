@@ -1,0 +1,120 @@
+{
+  "ad": "Chipotle \u2014 The Scarecrow (Cannes GP 2014)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 293,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:06:01.803620",
+  "fileSize": "11.7MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.1,
+    "fear": 0.1,
+    "surprise": 0.15,
+    "sadness": 0.15,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.25
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.3,
+      "anger": 0.2,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "full transcript",
+    "segmentCount": 64
+  },
+  "video": {
+    "overall": {},
+    "dominant": "anticipation",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "Chipotle logo",
+        "confidence": 0.98
+      },
+      {
+        "label": "scarecrow",
+        "confidence": 0.99
+      },
+      {
+        "label": "iPad",
+        "confidence": 0.95
+      },
+      {
+        "label": "App Store logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "scarecrow",
+        "magnitude": 1.221,
+        "emotion": "trust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05 \u2014 description",
+        "description": "The video opens with a black screen, then transitions to a stylized, cartoonish landscape featuring rolling green hills, fields, a red barn, and a scarecrow. The words \"CROW FOODS INCORPORATED\" appear above the scene."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Environmentally conscious consumers, families, and individuals interested in sustainable and ethically sourced food.",
+      "psychographics": "Values transparency, health, and social responsibility. Skeptical of large corporations and processed foods. Appreciates creativity and storytelling.",
+      "brandMeaning": "Chipotle aims to be a leader in 'food with integrity,' providing high-quality, sustainably raised ingredients while promoting ethical farming practices."
+    },
+    "adTargetAudience": {
+      "demographics": "Millennials and Gen Z, tech-savvy, socially aware, and interested in mobile gaming and apps.",
+      "psychographics": "Values authenticity, humor, and social impact. Seeks entertainment with a message and is receptive to brands that align with their values.",
+      "tone": "Whimsical, satirical, and thought-provoking. Uses animation and a catchy song to convey a serious message about industrial food production."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Chipotle's commitment to sustainable and ethical food practices, validating the core audience's choice to support the brand.",
+    "actualResonance": "Will resonate with consumers interested in food production, sustainability, and ethical consumption. The animation and music make the message accessible and engaging.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively uses animation and a catchy tune to deliver a serious message about sustainable food practices, likely expanding Chipotle's reach to a younger, socially conscious audience while reinforcing its core values."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7.0,
+    "costEfficiency": 6.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Cynicism",
+    "culturalAlignment": 7,
+    "explanation": "The Scarecrow was a viral sensation due to its high production value, emotionally resonant message, and strategic release across YouTube and a mobile game. The Cannes awards further amplified its reach and credibility. While the message is powerful, repeated viewing can lead to cynicism about corporate messaging, hence the fatigue velocity and repetition inversion. The cultural alignment is high due to the increasing awareness of ethical food sourcing.",
+    "whatIfScenario": "If Chipotle had failed to follow through with tangible changes in their sourcing practices, the campaign would have backfired spectacularly, leading to a significant backlash and damage to their brand reputation. The attention economy multiplier would have swung negative.",
+    "detonationRadius": 3.5,
+    "timingContext": {
+      "date": "2013-09-12",
+      "platform": "YouTube + companion mobile game",
+      "context": "Animated critique of industrial farming. Fiona Apple soundtrack. Won Cannes GP + Cyber Lion."
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "ad": "Bud Light \u2014 Hold ft. Miles Teller (Super Bowl 2023)",
+  "category": "controversial",
+  "vibeScore": 257,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T20:56:39.407260",
+  "fileSize": "2.7MB",
+  "consensus": {
+    "joy": 0.4,
+    "trust": 0.45,
+    "fear": 0.1,
+    "surprise": 0.25,
+    "sadness": 0.2,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.45
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "The estimated hold time is now less than 96 minutes. We thank you for your patience. Sorry, are you still there? Yes. Okay, please hold.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "phone",
+        "confidence": 0.98
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "Bud Light",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "dog",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "phone",
+        "magnitude": 1.446,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "woman",
+        "magnitude": 0.265,
+        "emotion": "surprise",
+        "baseline": 0.5,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "Bud Light",
+        "magnitude": 0.265,
+        "emotion": "surprise",
+        "baseline": 0.3,
+        "contextual": 0.5,
+        "direction": "amplified"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.265,
+        "emotion": "surprise",
+        "baseline": 0.5,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "dog",
+        "magnitude": 0.265,
+        "emotion": "surprise",
+        "baseline": 0.5,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description",
+      "0:06-0:12 \u2014 description",
+      "0:12-0:21 \u2014 description",
+      "0:21-0:28 \u2014 description",
+      "0:28-0:38 \u2014 description",
+      "0:38-1:00 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 1.0,
+        "reactivity": 0.1,
+        "toxicity": 0.05,
+        "halfLife": 0.8
+      },
+      {
+        "formula": "JoTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.43,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      },
+      {
+        "formula": "JoAn",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.43,
+        "stability": 0.95,
+        "reactivity": 0.15,
+        "toxicity": 0.05,
+        "halfLife": 0.76
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "primary",
+      "strength": 0.45,
+      "stability": 1.0,
+      "reactivity": 0.1,
+      "toxicity": 0.05,
+      "halfLife": 0.8
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Bud Light has served a broad demographic, primarily targeting adults aged 21-35, with a slight skew towards male consumers. Income levels are typically middle to working class.",
+      "psychographics": "The brand appeals to those who value easy-going fun, socializing with friends, and enjoying casual, unpretentious experiences. They identify with a relaxed lifestyle and seek affordable, accessible enjoyment.",
+      "brandMeaning": "To its core audience, Bud Light represents a familiar, reliable choice for social gatherings and everyday relaxation, symbolizing uncomplicated enjoyment and good times with friends."
+    },
+    "adTargetAudience": {
+      "demographics": "This specific ad targets a slightly more upscale demographic within the 25-40 age range, showcasing a modern, well-furnished home and a couple with a stylish aesthetic. It suggests a higher disposable income and an interest in a comfortable lifestyle.",
+      "psychographics": "The ad appeals to those who value shared experiences, playful relationships, and balancing responsibilities with moments of lighthearted fun. It suggests a desire for connection and enjoyment within a domestic setting.",
+      "tone": "The ad uses a lighthearted, humorous tone, aiming to be relatable and engaging to couples who appreciate playful interactions and shared moments of relaxation."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "Existing fans will likely feel validated as the ad maintains the brand's core message of easy enjoyment and social connection, while presenting it in a slightly more aspirational context.",
+    "actualResonance": "This ad will likely resonate with young couples and individuals who appreciate a blend of modern living and lighthearted fun, appealing to those who seek to balance their busy lives with moments of shared enjoyment.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 5,
+    "verdict": "This ad effectively broadens Bud Light's appeal to a slightly more affluent and lifestyle-oriented demographic while retaining the brand's core message of easy enjoyment, minimizing the risk of alienating its existing customer base."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.5,
+    "reachScore": 9,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 3,
+    "socialPropagation": 7,
+    "temporalCompounding": 8,
+    "frequencyPressure": 4,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Validation decays to Neutral",
+    "detonationRadius": 1.5,
+    "explanation": "The Bud Light Super Bowl ad featuring Miles Teller benefited from massive reach and a generally positive initial reception. However, the high cost of the Super Bowl spot meant that even a slight misalignment with the audience resulted in wasted resources. The context of the Super Bowl amplified both the positive and negative aspects, due to the event's broad reach and immediate social media reaction. The timing, pre-controversy, gave it a cultural alignment boost, but the inherent risk of a large-scale ad campaign still existed.",
+    "whatIfScenario": "If this ad had run *after* the Mulvaney controversy, the cultural alignment would have been drastically negative, the contextual vulnerability would have been much higher, and the attention economy multiplier would have been catastrophic, likely exceeding 3.0. The same ad, in a different context, would have triggered a massive backlash.",
+    "timingContext": {
+      "event": "Super Bowl LVII",
+      "date": "2023-02-12",
+      "costPer30Sec": 7000000,
+      "liveViewership": 113000000,
+      "platform": "Fox",
+      "adFrequency": "Super Bowl single airing + digital",
+      "context": "Super Bowl 2023 \u2014 two months BEFORE the Mulvaney post. The last 'normal' Bud Light Super Bowl ad. Compare audience alignment here vs after."
+    }
+  }
+}

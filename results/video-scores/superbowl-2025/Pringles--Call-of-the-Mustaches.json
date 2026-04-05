@@ -1,0 +1,208 @@
+{
+  "ad": "Pringles \u2014 Call of the Mustaches",
+  "category": "superbowl-2025",
+  "vibeScore": 577,
+  "dominantEmotion": "surprise",
+  "scoredAt": "2026-04-04T18:13:11.322329",
+  "fileSize": "4.3MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.2,
+    "fear": 0.2,
+    "surprise": 0.55,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.2,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "We're out of Pringles. Just blow in the can. Do it. Are those mustaches? Yeah. I'm just going to go to the store. I think you got mine. I like it.",
+    "segmentCount": 17
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.2,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "surprise",
+    "arcShape": "peak",
+    "segmentCount": 15
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.828,
+      0.508,
+      0.557,
+      1.0,
+      0.892,
+      0.618,
+      0.879,
+      0.895,
+      0.888,
+      0.89,
+      0.879,
+      0.868,
+      0.888,
+      0.828,
+      0.845
+    ],
+    "average": 0.818,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.508,
+      "audio": "Man says \"Just blow in the can. Do it.\"",
+      "video": "Close up of the Pringles can. The man is looking at the can, then puts it to his mouth and makes a loud horn sound."
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 1.0
+    }
+  },
+  "objects": {
+    "count": 14,
+    "top": [
+      {
+        "label": "Pringles can",
+        "confidence": 0.98
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "building",
+        "confidence": 0.95
+      },
+      {
+        "label": "canyon",
+        "confidence": 0.9
+      },
+      {
+        "label": "deer",
+        "confidence": 0.95
+      },
+      {
+        "label": "house",
+        "confidence": 0.95
+      },
+      {
+        "label": "Nick Offerman",
+        "confidence": 0.98
+      },
+      {
+        "label": "mustache",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.55,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Pringles historically serves a broad demographic, primarily aged 13-45, skewing slightly male, with middle to upper-middle-class income. They are often students, young professionals, or families looking for convenient and shareable snack options.",
+      "psychographics": "Pringles' core audience values fun, convenience, and social connection. They identify with humor, lightheartedness, and a desire for easy snacking solutions. They aspire to be seen as sociable and enjoy sharing experiences with friends and family.",
+      "brandMeaning": "To its core audience, Pringles represents a fun, convenient, and shareable snack that enhances social gatherings and provides a quick and satisfying treat."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a similar demographic to Pringles' core audience, but with a slightly stronger emphasis on younger adults (18-35) who are active on social media and appreciate absurdist humor. The inclusion of Nick Offerman also broadens the appeal to fans of his work.",
+      "psychographics": "The ad appeals to those who enjoy unconventional humor, viral trends, and a sense of playful absurdity. They value entertainment, shared experiences, and a lighthearted approach to life. They are open to new experiences and enjoy participating in internet culture.",
+      "tone": "The ad addresses the viewer with a playful, absurd, and slightly irreverent tone, inviting them to participate in a humorous and unexpected scenario."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The ad's reliance on absurdist humor and the 'mustache' concept might confuse some of the older or more traditional members of Pringles' core audience who are accustomed to more straightforward advertising.",
+    "actualResonance": "This ad will actually resonate most strongly with younger adults (18-35) who are active on social media, appreciate absurdist humor, and are familiar with Nick Offerman's comedic style. It may also appeal to those who enjoy participating in viral trends and internet culture.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 6,
+    "verdict": "The CMO should be aware that while this ad has the potential to expand Pringles' reach to a younger, more digitally engaged audience, it may alienate some of the brand's older or more traditional core consumers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.2,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 10,
+    "frequencyPressure": 6,
+    "culturalAlignment": -2,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 2.4,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny and immediate social amplification of both positive and negative reactions. While the reach is undeniable, the 'Call of the Mustaches' concept, generating a 'CONFUSED' core reaction, presents a risk. The high cost of the ad amplifies the potential waste if the message doesn't resonate. The negative cultural alignment and potential for rapid fatigue further contribute to a lower multiplier, indicating that the context doesn't significantly enhance the ad's impact and could even detract from it.",
+    "whatIfScenario": "If this ad ran on a less critical platform like YouTube, the lower stakes and reduced scrutiny would mitigate the negative impact of the confusing message, potentially allowing for a more neutral or even slightly positive reception. The cost efficiency would also improve dramatically, and the social propagation, while still present, would be less immediate and intense.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q1",
+      "estimatedSpend": 8000000,
+      "note": "Snack humor, mustache gimmick"
+    }
+  }
+}

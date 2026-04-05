@@ -1,0 +1,264 @@
+{
+  "ad": "Apple Pay \u2014 Outrun",
+  "category": "apple",
+  "vibeScore": 586,
+  "dominantEmotion": "fear",
+  "scoredAt": "2026-04-04T18:17:24.268684",
+  "fileSize": "2.3MB",
+  "consensus": {
+    "joy": 0.05,
+    "trust": 0.15,
+    "fear": 0.6,
+    "surprise": 0.4,
+    "sadness": 0.05,
+    "disgust": 0.1,
+    "anger": 0.3,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.2,
+      "fear": 0.6,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "What was the last one standing? What was the last one standing? Count on Apple Pay",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.6,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.5
+    },
+    "dominant": "fear",
+    "arcShape": "decreasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.888,
+      0.863,
+      0.647,
+      0.708,
+      0.585,
+      0.793
+    ],
+    "average": 0.747,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "20s",
+      "coherence": 0.585,
+      "audio": "Sound of payment processing, text overlay \"Count on Apple Pay\"",
+      "video": "The woman uses Apple Pay to pay for gas. The text \"Count on Apple Pay\" appears on screen. The woman looks relieved."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.888
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "car",
+        "confidence": 0.98
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "gas gauge",
+        "confidence": 0.95
+      },
+      {
+        "label": "gas station",
+        "confidence": 0.98
+      },
+      {
+        "label": "gas pump",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "smartphone",
+        "confidence": 0.97
+      },
+      {
+        "label": "payment terminal",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "car",
+        "magnitude": 0.437,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "woman",
+        "magnitude": 0.389,
+        "emotion": "fear",
+        "baseline": 0.2,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.367,
+        "emotion": "fear",
+        "baseline": 0.2,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "gas station",
+        "magnitude": 0.343,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "gas pump",
+        "magnitude": 0.314,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene: A car speeds down a road at night, pursued by a large, monstrous creature. The driver, a woman, looks terrified. Her gas gauge is on empty. She pulls into a gas station and tries to get the attention of the clerk inside."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.3,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      }
+    ],
+    "dominant": {
+      "formula": "FrSp",
+      "name": "Awe",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.3,
+      "reactivity": 0.9,
+      "toxicity": 0.4,
+      "halfLife": 0.5
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent, tech-savvy individuals aged 25-55, skewing slightly male, with a higher disposable income and residing in urban or suburban areas. Early adopters of technology.",
+      "psychographics": "Values innovation, convenience, and seamless integration of technology into their daily lives. Identity is often tied to being modern, efficient, and 'in the know.' Aspires to a lifestyle that is streamlined and enhanced by technology.",
+      "brandMeaning": "Apple represents a premium, user-friendly, and aesthetically pleasing technology ecosystem that simplifies and enhances their lives, signaling status and forward-thinking."
+    },
+    "adTargetAudience": {
+      "demographics": "Younger adults aged 18-35, comfortable with technology and digital payments, potentially interested in horror or suspense genres. Includes those who value convenience and speed in transactions.",
+      "psychographics": "Appeals to those who enjoy thrilling experiences and a sense of urgency. Values convenience and efficiency in everyday tasks, and may be drawn to the visual style and narrative of the ad.",
+      "tone": "Urgent, suspenseful, and slightly edgy, creating a sense of excitement and fear."
+    },
+    "audienceDistance": 5,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The core audience may be confused by the shift in tone and genre. The horror theme and high-tension narrative are a departure from Apple's usual sleek and minimalist advertising style, which typically focuses on ease of use and aesthetic appeal, not fear.",
+    "actualResonance": "Younger, tech-savvy individuals who enjoy suspenseful content and appreciate the convenience of Apple Pay, particularly those who may not have considered it before.",
+    "friendlyFireRisk": 4,
+    "marketExpansion": 6,
+    "verdict": "The CMO should be aware that this ad risks alienating some of the core audience while potentially attracting a new, younger demographic through its suspenseful and unconventional approach."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 8,
+    "costEfficiency": "neutral",
+    "contextualVulnerability": 4,
+    "socialPropagation": 3,
+    "temporalCompounding": 6,
+    "frequencyPressure": 5,
+    "culturalAlignment": 3,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Confusion decays to indifference",
+    "detonationRadius": 7.2,
+    "explanation": "The 'Outrun' ad, launching with the WWDC keynote and then expanding to YouTube and TV, benefited from a large initial reach within a tech-savvy audience. The cost was high, but the alignment with early adopters and the novelty of mobile payments provided a positive, though somewhat confused, initial reaction. The pre-internet social amplification limited the immediate spread of negative feedback, but the moderate TV and heavy digital frequency could lead to fatigue. The cultural moment, with Apple's resurgence, provided a tailwind, but the lack of clear messaging diluted the impact.",
+    "whatIfScenario": "If the ad had launched during a major security breach at Apple, the privacy-focused messaging would have backfired spectacularly, amplifying concerns about data security and potentially damaging Apple Pay's initial adoption.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

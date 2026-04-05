@@ -1,0 +1,209 @@
+{
+  "ad": "Snickers \u2014 Betty White (Super Bowl 2010)",
+  "category": "iconic",
+  "vibeScore": 553,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:34:39.116883",
+  "fileSize": "2.5MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.2,
+    "fear": 0.1,
+    "surprise": 0.4,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.35,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hut! Mike, come on! Mike, what is your deal man? Come on man, you've been riding me all day! Mike, you're playing like Betty White out there. That's what your girlfriend said! Baby! Woah, woah, woah! Eat a Snickers. Better? Better! Hut!",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.3,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.907,
+      0.886,
+      0.809,
+      0.854,
+      0.98,
+      0.477
+    ],
+    "average": 0.819,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.477,
+      "audio": "Sound of football game, grunts, yelling 'Hut!'",
+      "video": "The young man gets tackled into a puddle. He looks old again. Text appears on the screen: \"You're not you when you're hu"
+    },
+    "maxAlignment": {
+      "timestamp": "20s",
+      "coherence": 0.98
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "football",
+        "confidence": 0.98
+      },
+      {
+        "label": "Betty White",
+        "confidence": 0.99
+      },
+      {
+        "label": "mud puddle",
+        "confidence": 0.95
+      },
+      {
+        "label": "Snickers bar",
+        "confidence": 0.99
+      },
+      {
+        "label": "football field",
+        "confidence": 0.95
+      },
+      {
+        "label": "bleachers",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A group of men are playing football on a field. One of the men is tackled into a mud puddle. Betty White is on the ground in the mud puddle.",
+      "0:08-0:17 \u2014 Betty White is covered in mud and yelling at the men. One of the men says that Mike is playing like Betty White. A woman approaches with a Snickers bar.",
+      "0:17-0:27 \u2014 The woman gives Betty White a Snickers bar. Betty White eats the Snickers bar and transforms into a younger man. The younger man is tackled into a mud puddle.",
+      "0:27-0:31 \u2014 The Snickers logo appears with the tagline \"You're not you when you're hungry. Snickers satisfies.\""
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.35,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "AgJy",
+        "name": "Pride",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.4,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Primarily males aged 18-49, with a focus on those who enjoy sports, humor, and are looking for a quick and satisfying snack. Income levels are broad, ranging from middle to working class. Lifestyle is active, often involving casual sports and social gatherings.",
+      "psychographics": "Values include humor, camaraderie, and a no-nonsense approach to life. Identity is often tied to being a 'regular guy' who enjoys simple pleasures. Aspirations are not necessarily about high achievement, but rather about enjoying life and fitting in with their peer group.",
+      "brandMeaning": "Snickers represents a quick fix for hunger, a source of energy, and a lighthearted, relatable brand that doesn't take itself too seriously."
+    },
+    "adTargetAudience": {
+      "demographics": "Appeals to a broad audience, including both men and women, but specifically targets those who appreciate self-deprecating humor and celebrity cameos. Age range is wide, from 25-54, encompassing those familiar with Betty White's comedic persona. Likely targets sports fans watching the Super Bowl.",
+      "psychographics": "Values include a sense of humor, nostalgia, and an appreciation for pop culture. The ad appeals to those who enjoy lighthearted entertainment and don't take themselves too seriously.",
+      "tone": "Humorous, self-deprecating, and relatable."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad uses humor and a recognizable celebrity (Betty White) in a relatable situation (playing poorly due to hunger), which aligns with the brand's established comedic tone and focus on satisfying hunger. The core audience will likely find it funny and memorable.",
+    "actualResonance": "The ad will resonate most strongly with those who enjoy self-deprecating humor, are familiar with Betty White's comedic style, and are watching the Super Bowl. It will also appeal to a broader audience due to its lighthearted and relatable nature.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a low-risk, high-reward play that leverages humor and celebrity appeal to reinforce brand recognition and potentially broaden its audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 6,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Humor decays to Mild Annoyance",
+    "detonationRadius": 3.5,
+    "explanation": "The Snickers Betty White Super Bowl ad benefited immensely from its placement. The Super Bowl provided massive reach, although at an extremely high cost. The context of the Super Bowl, while generally positive, also carries high contextual vulnerability due to the intense scrutiny and review culture. Social propagation was significant, with the ad becoming a meme and widely shared. The temporal compounding is high, as Super Bowl ads are remembered and replayed for years. The cultural alignment was strong, as Betty White was a beloved figure at the time, and the humor resonated well with the audience. The frequency pressure is moderate; while the ad is funny, repeated viewing could lead to diminishing returns.",
+    "whatIfScenario": "If the ad had been released solely on YouTube without the Super Bowl placement, it would have reached a smaller audience initially, but the cost efficiency would have been significantly better. The social propagation might have been slower but potentially more sustained. The contextual vulnerability would have been lower, as the YouTube audience is less critical than the Super Bowl audience.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

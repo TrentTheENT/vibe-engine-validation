@@ -1,0 +1,168 @@
+{
+  "ad": "Dove \u2014 Real Beauty Sketches (2013)",
+  "category": "controversial",
+  "vibeScore": 271,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T20:59:42.726448",
+  "fileSize": "17.7MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.2,
+    "fear": 0.1,
+    "surprise": 0.15,
+    "sadness": 0.15,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.2
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 72
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "Dove logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "sketch",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "sketch",
+        "magnitude": 0.48,
+        "emotion": "trust",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "Dove logo",
+        "magnitude": 0.2,
+        "emotion": "joy",
+        "baseline": 0.7,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A woman in a black skirt and boots walks down a hallway.",
+      "0:05-0:11 \u2014 A woman with blonde hair talks about her cheeks and face.",
+      "0:11-0:19 \u2014 The woman sits on a white couch and talks about wanting fuller lips.",
+      "0:19-0:25 \u2014 A woman sits at a desk and draws a butterfly.",
+      "0:25-0:29 \u2014 A woman applies makeup in front of a mirror.",
+      "0:29-0:36 \u2014 A close-up of an eye and a hand.",
+      "0:36-0:40 \u2014 A man looks out a window and introduces himself as a forensic artist.",
+      "0:40-0:50 \u2014 The man sits in a chair and talks about his training and work.",
+      "0:50-0:56 \u2014 A woman talks about not knowing what she was doing and rides a bike.",
+      "0:56-1:06 \u2014 A woman talks about showing up to a place she had never been and walking into a big warehouse.",
+      "1:06-1:13 \u2014 A woman walks in heels and a man sits at a drafting board.",
+      "1:13-1:24 \u2014 The man begins to draw and asks the woman about her hair and jaw.",
+      "1:24-1:31 \u2014 The man continues to draw and asks the woman about her eyebrows.",
+      "1:31-1:39 \u2014 The man continues to draw and asks the woman about her chin.",
+      "1:39-1:47 \u2014 The man continues to draw and asks the woman about her chin.",
+      "1:47-1:55 \u2014 The man continues to draw and asks the woman about her most prominent feature.",
+      "1:55-2:06 \u2014 The man continues to draw and the woman talks about having to talk about herself and think about her looks.",
+      "2:06-2:15 \u2014 The man continues to draw and the woman talks about getting crow's feet.",
+      "2:15-2:26 \u2014 The man says thank you and the woman leaves. Another woman is introduced.",
+      "2:26-2:35 \u2014 The woman is asked about a person she met earlier and is asked general questions about their face.",
+      "2:35-2:44 \u2014 The woman describes the person's face and chin.",
+      "2:44-2:52 \u2014 The man continues to draw and the woman talks about being critical about moles and scars.",
+      "2:52-3:03 \u2014 The man continues to draw and the woman is asked about the length of the nose.",
+      "3:03-3:11 \u2014 The woman is asked about the length of the nose and the man continues to draw.",
+      "3:11-3:23 \u2014 The woman is shown the sketch and says that it is her self-described image.",
+      "3:23-3:31 \u2014 The woman is shown a sketch of herself done by someone else.",
+      "3:31-3:39 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "3:39-3:51 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "3:51-4:00 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:00-4:11 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:11-4:21 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:21-4:30 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:30-4:41 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:41-4:50 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "4:50-5:02 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:02-5:11 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:11-5:20 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:20-5:31 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:31-5:40 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:40-5:53 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "5:53-6:05 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle.",
+      "6:05-6:24 \u2014 The woman is shown a sketch of herself done by someone else and says that it is more gentle."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Women, 25-54, middle to upper-middle class, concerned with self-care and family.",
+      "psychographics": "Values authenticity, natural beauty, and emotional well-being. Seeks products that are gentle, reliable, and promote self-acceptance.",
+      "brandMeaning": "Dove represents real beauty, self-acceptance, and gentle care. It's a brand that stands for empowering women to feel confident in their own skin."
+    },
+    "adTargetAudience": {
+      "demographics": "Women of all ages, ethnicities, and body types who struggle with self-image and body confidence.",
+      "psychographics": "Values self-acceptance, authenticity, and emotional well-being. Aspires to feel confident and beautiful without conforming to unrealistic beauty standards.",
+      "tone": "Empathetic, supportive, and uplifting."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "This ad reinforces Dove's core message of real beauty and self-acceptance, which will resonate positively with its existing fanbase.",
+    "actualResonance": "Women who struggle with self-image and body confidence, particularly those who are critical of their own appearance.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively reinforces Dove's brand values while expanding its reach to women who struggle with self-image, making it a powerful and emotionally resonant campaign."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 6,
+    "costEfficiency": "extremely_efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 3,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Empowerment holds, but slight cynicism creeps in after 5+ viewings",
+    "detonationRadius": 4.5,
+    "explanation": "Dove's 'Real Beauty Sketches' achieved massive attention economy amplification due to its strategic timing, platform choice, and audience alignment. The YouTube-first strategy allowed for organic viral spread, drastically reducing CPM. The brand's pre-existing 'Real Beauty' campaign provided crucial context, minimizing contextual vulnerability. High social propagation ensured rapid sharing and positive reinforcement. The message resonated deeply with the cultural zeitgeist, further amplifying its impact. While repetition could lead to slight cynicism, the overall positive message ensured a high attention economy multiplier.",
+    "whatIfScenario": "If the ad had launched during a period of heightened skepticism or controversy (e.g., during a major scandal involving the parent company), the contextual vulnerability would have been significantly higher, potentially leading to a negative backlash and a much lower attention economy multiplier. If it had launched on broadcast TV only, the cost would have been astronomical and the virality would have been muted.",
+    "timingContext": {
+      "date": "2013-04-14",
+      "platform": "YouTube \u2192 global viral",
+      "adFrequency": "67M views in 10 days, 180M+ total",
+      "socialAmplification": "Most shared ad of 2013. Women sharing with 'you need to see this' framing.",
+      "context": "Dove Real Beauty campaign (started 2004). By 2013, brand had EARNED the right to speak about beauty standards. 9 years of consistent positioning before this payoff.",
+      "aftermath": "Dove brand value up $1.5B in the year following. The most shared video ad in history at the time."
+    }
+  }
+}

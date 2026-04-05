@@ -1,0 +1,251 @@
+{
+  "ad": "Doritos \u2014 Abduction",
+  "category": "superbowl-2025",
+  "vibeScore": 666,
+  "dominantEmotion": "surprise",
+  "scoredAt": "2026-04-04T18:07:00.528513",
+  "fileSize": "1.5MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.2,
+    "fear": 0.6,
+    "surprise": 0.7,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.35,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.6,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.6
+    },
+    "dominant": "surprise",
+    "arcShape": "crescendo",
+    "transcript": "Aliens. UFO detected. Whoa. Dorito. Dorito. Yeah.",
+    "segmentCount": 7
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.6,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.967,
+      0.889,
+      0.877,
+      0.802,
+      0.692,
+      0.581
+    ],
+    "average": 0.801,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.581,
+      "audio": "Sound of an explosion",
+      "video": "A UFO flies away. The Doritos logo appears with the tagline 'FOR THE BOLD'. The man is now outside with an alien, sharin"
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.967
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Doritos Nacho Cheese bag",
+        "confidence": 0.98
+      },
+      {
+        "label": "computer monitor",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "desk",
+        "confidence": 0.95
+      },
+      {
+        "label": "UFO",
+        "confidence": 0.95
+      },
+      {
+        "label": "alien",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "computer monitor",
+        "magnitude": 0.332,
+        "emotion": "surprise",
+        "baseline": 0.1,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.324,
+        "emotion": "surprise",
+        "baseline": 0.3,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "Doritos Nacho Cheese bag",
+        "magnitude": 0.287,
+        "emotion": "surprise",
+        "baseline": 0.2,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A man is sleeping in a cluttered room with electronic equipment. A computer screen displays 'UFO DETECTED'. He wakes up startled and grabs a bag of Doritos.",
+      "0:08-0:12 \u2014 The man eats a Dorito and looks around nervously.",
+      "0:12-0:25 \u2014 A blue light shines through the window, and the man is pulled towards it, struggling with the bag of Doritos. He is abducted by a UFO.",
+      "0:25-0:27 \u2014 The Doritos logo appears with the tagline 'FOR THE BOLD'.",
+      "0:27-0:29 \u2014 The man is sitting with an alien, sharing Doritos."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.7,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.35,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.7,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Doritos' core audience is typically aged 13-35, skewing slightly male, with a middle-class income. They are digitally native, active on social media, and often early adopters of trends.",
+      "psychographics": "They value boldness, adventure, and humor. They identify with being unconventional and enjoy pushing boundaries. They aspire to be seen as cool, edgy, and in-the-know.",
+      "brandMeaning": "Doritos represents a rebellious spirit, a willingness to take risks, and a celebration of individuality. It's a snack for those who want to stand out and make a statement."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a similar demographic to the core audience (13-35), but with a stronger emphasis on those interested in science fiction, gaming, and internet culture. It also aims to appeal to a broader audience through its humor and spectacle.",
+      "psychographics": "The ad appeals to those who enjoy the bizarre, unexpected, and absurd. It targets individuals who appreciate humor, are open to new experiences, and enjoy sharing viral content.",
+      "tone": "The ad speaks in a playful, irreverent, and slightly chaotic tone, embracing the unexpected and encouraging viewers to embrace the absurdity."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Doritos' brand identity as bold and unconventional, aligning with the core audience's desire to be seen as edgy and adventurous. The humor and sci-fi theme will resonate with their interests, making them feel understood and appreciated.",
+    "actualResonance": "This ad will resonate most strongly with young adults and teenagers who are active online, enjoy memes and viral content, and have an interest in science fiction and gaming. It will also appeal to those who appreciate dark humor and unconventional advertising.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively leverages humor and a sci-fi theme to broaden Doritos' appeal while staying true to its core brand identity, but the CMO should be aware of the slight risk of alienating older or more conservative consumers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 10,
+    "frequencyPressure": 7,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Humor decays to Annoyance",
+    "detonationRadius": 3.5,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny. The high cost demands near-perfect audience alignment. Given the Doritos brand's history with humorous Super Bowl ads, the audience expects entertainment. A successful ad will be amplified by social media and generate positive buzz. However, a misstep will be equally amplified, leading to significant negative consequences due to the permanent nature of the event and the high level of contextual vulnerability. The single airing limits frequency pressure, but the follow-up digital campaign could increase it.",
+    "whatIfScenario": "If this ad ran during a regular season NFL game, the reach would be significantly lower, the cost efficiency would improve, but the contextual vulnerability and social propagation would decrease, resulting in a lower overall attention economy multiplier.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q1+Q2",
+      "estimatedSpend": 24000000,
+      "followUp": "full digital campaign",
+      "note": "Doritos Crash the Super Bowl legacy \u2014 audience expects humor"
+    }
+  }
+}

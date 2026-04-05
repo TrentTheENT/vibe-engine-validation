@@ -1,0 +1,239 @@
+{
+  "ad": "Apple \u2014 AirPods Pro 3",
+  "category": "apple",
+  "vibeScore": 731,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:19:09.520075",
+  "fileSize": "3.2MB",
+  "consensus": {
+    "joy": 0.6,
+    "trust": 0.6,
+    "fear": 0.15,
+    "surprise": 0.6,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.15,
+    "anticipation": 0.8
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Music with vocal samples",
+    "segmentCount": 9
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 8
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.904,
+      0.991,
+      0.942,
+      0.959,
+      0.996,
+      0.967,
+      0.967,
+      0.996
+    ],
+    "average": 0.965,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.904,
+      "audio": "Upbeat, energetic music with a strong bassline and a repetitive vocal sample. The music creates a sense of excitement an",
+      "video": "The video starts with a distorted title card reading 'AirPods Pro 3'. A silhouetted figure dances against a white backgr"
+    },
+    "maxAlignment": {
+      "timestamp": "20s",
+      "coherence": 0.996
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "AirPods Pro 2",
+        "confidence": 0.99
+      },
+      {
+        "label": "dancer",
+        "confidence": 0.98
+      },
+      {
+        "label": "heart rate sensing",
+        "confidence": 0.95
+      },
+      {
+        "label": "ear tips",
+        "confidence": 0.97
+      },
+      {
+        "label": "hearing aid feature",
+        "confidence": 0.96
+      },
+      {
+        "label": "live translation",
+        "confidence": 0.95
+      },
+      {
+        "label": "charging case",
+        "confidence": 0.98
+      },
+      {
+        "label": "Apple logo",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "charging case",
+        "magnitude": 0.361,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 1.1,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 The video starts with a distorted title card for AirPods Pro 3, followed by a silhouette of a person dancing.",
+      "0:08-0:16 \u2014 The dancer is shown moving through a series of concentric circles, then performing breakdancing moves.",
+      "0:16-0:23 \u2014 The dancer is shown performing various poses and movements, highlighting flexibility and balance.",
+      "0:23-0:30 \u2014 The video showcases features like the hearing aid function and live translation.",
+      "0:30-0:38 \u2014 Two dancers are shown performing together, followed by a display of the AirPods Pro 2 charging case and battery life.",
+      "0:38-0:42 \u2014 The video concludes with a final shot of the AirPods Pro 2 and the Apple logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.6,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "JyTr",
+      "name": "Love",
+      "type": "primary",
+      "strength": 0.6,
+      "stability": 0.9,
+      "reactivity": 0.3,
+      "toxicity": 0.1,
+      "halfLife": 0.95
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Apple's core audience spans a wide age range (18-55+), with a skew towards higher income brackets ($75,000+). They are digitally fluent, often early adopters of technology, and live in urban or suburban areas. Both genders are well-represented.",
+      "psychographics": "They value innovation, design, user experience, and seamless integration across devices. They see themselves as creative, connected, and appreciate a premium lifestyle. They aspire to be efficient, productive, and express their individuality through technology.",
+      "brandMeaning": "Apple represents quality, innovation, and a status symbol. It signifies a commitment to a user-friendly ecosystem and a seamless digital lifestyle. It's a brand that embodies creativity and forward-thinking."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a younger, Gen Z and Millennial demographic (18-35), particularly those interested in dance, music, and technology. It also subtly appeals to individuals with hearing impairments or those who need language translation assistance, regardless of age.",
+      "psychographics": "The ad appeals to values of self-expression, creativity, inclusivity, and accessibility. It targets those who appreciate cutting-edge technology and seek tools that enhance their daily lives, whether through entertainment, communication, or assistance with disabilities.",
+      "tone": "The ad uses a dynamic, energetic, and inclusive tone, emphasizing movement, innovation, and accessibility."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad showcases Apple's continued innovation and commitment to user experience, reinforcing the core audience's perception of the brand as a leader in technology and design. The focus on accessibility features will be seen as a positive step, aligning with values of inclusivity.",
+    "actualResonance": "The ad will resonate most strongly with younger, tech-savvy individuals interested in music, dance, and innovative technology. It will also appeal to those seeking accessibility features like hearing aid functionality and live translation.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively expands Apple's reach to a younger and more diverse audience while largely maintaining the brand's core values, but it's crucial to monitor if the emphasis on dance and accessibility alienates some traditional customers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 7,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 4,
+    "socialPropagation": 3,
+    "temporalCompounding": 6,
+    "frequencyPressure": 5,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays into indifference",
+    "detonationRadius": 3.6,
+    "explanation": "The 2013 AirPods Pro 3 ad benefited from a strong cultural alignment with Apple's comeback narrative and the tech-enthusiast audience at WWDC. The moderate TV and heavy digital frequency created broad reach, but the pre-internet social amplification limited the spread of both positive and negative reactions. The timing during the holiday season also contributed to a more receptive audience, but the high cost and potential for developer criticism kept the multiplier from being higher. The privacy differentiator was a timely and resonant message.",
+    "whatIfScenario": "If the ad had run during a period of Apple controversy (e.g., antenna-gate), the contextual vulnerability and social propagation scores would have been much higher, leading to a potentially negative attention economy multiplier. Running it during a competitor's product launch would have also increased vulnerability.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

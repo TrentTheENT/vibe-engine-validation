@@ -1,0 +1,226 @@
+{
+  "ad": "Apple \u2014 Great Ideas Start on Mac",
+  "category": "apple",
+  "vibeScore": 550,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:17:07.355410",
+  "fileSize": "2.0MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.45,
+    "fear": 0.05,
+    "surprise": 0.3,
+    "sadness": 0.1,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.55
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Every story you love. Every invention that moves you. Every idea you wished was yours. All began as nothing. Just a flicker on a screen. Asking a simple question. What do you see? Great ideas start here. Mac.",
+    "segmentCount": 13
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.0,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 13
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.904,
+      0.928,
+      0.794,
+      0.649,
+      0.757,
+      0.552,
+      0.263,
+      0.751,
+      0.8,
+      0.8,
+      0.8,
+      0.955,
+      0.924
+    ],
+    "average": 0.76,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "30s",
+      "coherence": 0.263,
+      "audio": "What do you see?",
+      "video": "The screen is now a solid white color with a blue vertical line in the center."
+    },
+    "maxAlignment": {
+      "timestamp": "55s",
+      "coherence": 0.955
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "laptop",
+        "confidence": 0.98
+      },
+      {
+        "label": "desk",
+        "confidence": 0.95
+      },
+      {
+        "label": "window",
+        "confidence": 0.97
+      },
+      {
+        "label": "notebook",
+        "confidence": 0.9
+      },
+      {
+        "label": "coffee mug",
+        "confidence": 0.85
+      },
+      {
+        "label": "Apple logo",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A desk is shown with a laptop open, a person walks up to the desk and sits down.",
+      "0:08-0:24 \u2014 A voiceover begins talking about stories and inventions, the camera zooms in on the laptop screen.",
+      "0:24-0:41 \u2014 A blue line appears on the screen.",
+      "0:41-0:55 \u2014 A montage of people using laptops is shown.",
+      "0:55-1:04 \u2014 The text \"Great ideas start here\" is shown, followed by the Apple logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.45,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Apple's core audience spans a wide age range (18-55+), with a slight skew towards younger demographics. Income levels are typically mid-to-high, reflecting the premium pricing of Apple products. Lifestyle-wise, they are tech-savvy, value design and user experience, and often see themselves as creative or innovative.",
+      "psychographics": "Apple's core audience values simplicity, elegance, and seamless integration. They identify with a brand that represents innovation, creativity, and a certain status. They aspire to be productive, connected, and express themselves through technology.",
+      "brandMeaning": "For its core audience, Apple represents a lifestyle choice, a symbol of innovation, and a tool for creativity and productivity. It signifies quality, ease of use, and a connection to a community of like-minded individuals."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets aspiring creatives, entrepreneurs, students, and professionals aged 22-45 who are in the early stages of developing their ideas. They are likely digitally fluent and value tools that empower their creativity and productivity.",
+      "psychographics": "The ad appeals to individuals who are driven by curiosity, innovation, and the desire to bring their ideas to life. They value tools that are intuitive, inspiring, and help them overcome creative blocks. They aspire to make a meaningful impact through their work.",
+      "tone": "The ad speaks to the viewer in an encouraging and aspirational tone, positioning the Mac as a catalyst for turning ideas into reality."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the core audience's belief that Apple products are essential tools for innovation and creativity. It validates their choice of Apple as a brand that supports their aspirations and empowers them to bring their ideas to life.",
+    "actualResonance": "This ad will resonate most strongly with young professionals, students, and aspiring entrepreneurs who are actively seeking tools to help them develop and execute their ideas. It will also appeal to individuals who are drawn to Apple's brand image of innovation and creativity.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces Apple's brand identity while subtly broadening its appeal to a new generation of creators and innovators, but the CMO should be aware that the ad's focus on the 'idea' phase might not resonate as strongly with established professionals who are already deeply embedded in their creative workflows."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 9,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 3,
+    "socialPropagation": 6,
+    "temporalCompounding": 7,
+    "frequencyPressure": 5,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Trust",
+    "detonationRadius": 3.5,
+    "explanation": "The 'Great Ideas Start on Mac' ad benefited immensely from its WWDC launch, targeting a receptive developer audience initially and then broadening to consumers. The timing during Apple's resurgence, coupled with the privacy-focused messaging differentiating it from competitors, amplified its impact. While the pre-internet social amplification was limited, the heavy digital presence ensured broad reach and positive word-of-mouth. The alignment with the cultural moment of Apple's comeback significantly contributed to its success.",
+    "whatIfScenario": "If this ad had launched during a period of Apple struggling with innovation or facing a major PR crisis, the message might have been perceived as tone-deaf or overly optimistic, leading to a negative attention economy multiplier.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

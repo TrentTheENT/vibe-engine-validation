@@ -1,0 +1,224 @@
+{
+  "ad": "Jack Roberts Appliance \u2014 April Fools Sale",
+  "category": "april-fools-2025",
+  "vibeScore": 694,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:04:24.272758",
+  "fileSize": "2.0MB",
+  "consensus": {
+    "joy": 0.7,
+    "trust": 0.65,
+    "fear": 0.1,
+    "surprise": 0.4,
+    "sadness": 0.05,
+    "disgust": 0.1,
+    "anger": 0.05,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.8,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.9
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Jack has found the ultimate his 21 hour April Fool's Day sale. No fooling prices on Whirlpool washers and dryers. Whirlpool refrigerators and Whirlpool ranges. No fooling credit terms with zero down and six months no interest or use your bank card. You won't be fooling Jack Roberts because we offer express delivery and satisfaction is guaranteed. Come to the perfect fool sale at all Jack Robert stores Friday and Saturday only. I won't be undersold.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.924,
+      0.901,
+      0.914,
+      0.963,
+      0.924,
+      0.928
+    ],
+    "average": 0.926,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.901,
+      "audio": "No fooling prices on Whirlpool washers and dryers. Whirlpool refrigerators and Whirlpool ranges.",
+      "video": "The camera pans over rows of Whirlpool appliances, including washers, dryers, and refrigerators. Text overlays describe "
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.963
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "man in jester costume",
+        "confidence": 0.99
+      },
+      {
+        "label": "washing machines",
+        "confidence": 0.95
+      },
+      {
+        "label": "refrigerator",
+        "confidence": 0.95
+      },
+      {
+        "label": "sales advertisement",
+        "confidence": 0.9
+      },
+      {
+        "label": "Whirlpool appliances",
+        "confidence": 0.95
+      },
+      {
+        "label": "zero down payment advertisement",
+        "confidence": 0.9
+      },
+      {
+        "label": "Jack Roberts Appliance truck",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A woman and a man in a jester costume are advertising an April Fool's Day sale at Jack Roberts Appliance. They are standing in front of a row of washing machines and refrigerators. The advertisement highlights Whirlpool washers, dryers, and refrigerators.",
+      "0:08-0:15 \u2014 The advertisement highlights zero down payment and six months no interest on purchases.",
+      "0:15-0:21 \u2014 The advertisement shows a Jack Roberts Appliance truck and a wall of televisions.",
+      "0:21-0:30 \u2014 The woman and the man in the jester costume are advertising the April Fool's Day sale. The advertisement shows the locations of Jack Roberts Appliance stores."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.7,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.65,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.7,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle to lower-middle class homeowners, aged 35-65, skewing slightly towards suburban families. Income range $40,000-$80,000. Value reliability and affordability.",
+      "psychographics": "Practical, value-conscious, and seek long-term value. They prioritize family needs and home improvement. They appreciate straightforward deals and established brands.",
+      "brandMeaning": "Jack Roberts Appliance represents dependable appliances at reasonable prices, with a focus on customer service and local community ties."
+    },
+    "adTargetAudience": {
+      "demographics": "Similar to the core audience, but with a slightly higher openness to promotional deals and a sense of humor. Catches the eye of younger homeowners (25-45) who are actively looking for appliance upgrades.",
+      "psychographics": "Appeals to those who enjoy a good bargain and aren't afraid of a bit of lighthearted fun. They are motivated by saving money and improving their home.",
+      "tone": "Lighthearted, playful, and direct, using humor to highlight the sale's benefits."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The April Fool's theme is unlikely to strongly resonate or alienate the core audience. They are primarily interested in the deals themselves, and the humor is mild enough not to offend. The focus on Whirlpool and practical benefits will keep them engaged.",
+    "actualResonance": "Value-seeking homeowners aged 25-55 who are actively shopping for new appliances and are open to promotional offers. The humor might attract a slightly younger demographic than the core.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 4,
+    "verdict": "The ad is unlikely to significantly damage the brand's relationship with its core audience, but its market expansion potential is limited by the somewhat generic April Fool's theme."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 0.7,
+    "reachScore": 6,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 7,
+    "frequencyPressure": 6,
+    "culturalAlignment": -3,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Surprise decays to Skepticism and then Annoyance",
+    "detonationRadius": 0.7,
+    "explanation": "Running an April Fools' Day ad campaign for an appliance company is risky. The inherent skepticism of the day, combined with the high bar for humor, makes it difficult to break through the noise. While social media offers broad reach and potential virality, the context amplifies negative reactions if the ad falls flat. The low trust environment makes it hard to build positive brand association, and the potential for rapid social propagation means a failed attempt can quickly become a PR problem. The cost efficiency is good, but the contextual vulnerability is high.",
+    "whatIfScenario": "If this ad ran during Black Friday, the audience would be more receptive to deals and less critical of humor, potentially leading to a higher positive impact. The focus would shift from skepticism to deal-seeking, and the ad's reach would be amplified by the shopping frenzy.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

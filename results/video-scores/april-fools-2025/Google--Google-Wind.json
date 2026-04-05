@@ -1,0 +1,239 @@
+{
+  "ad": "Google \u2014 Google Wind",
+  "category": "april-fools-2025",
+  "vibeScore": 640,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:03:35.524781",
+  "fileSize": "6.7MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.55,
+    "fear": 0.1,
+    "surprise": 0.5,
+    "sadness": 0.15,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "The Netherlands is one of the best countries in the world to live in. It has a strong economy, and some of the world's best DJs were born here. There's only one downside. It rains 145 days a year. At Google, we solve this problem by repurposing Holland's old windmills. Using them not to capture wind, but to generate it. To pull this off, we needed to build a better understanding of the weather. We use Google Cloud platform to predict how clouds will behave. We then connected all 1170 windmills in Holland to prevent bad weather from happening. Let's take it for a spin. Machine learning enables all the mills to collaborate. I'm proud to announce that from April 1st, we're able to guarantee clear skies for everyone.",
+    "segmentCount": 13
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "increasing",
+    "segmentCount": 30
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.547,
+      0.968,
+      0.771,
+      0.989,
+      0.966,
+      0.882,
+      0.978,
+      0.862,
+      0.742,
+      0.808,
+      0.317,
+      0.784,
+      -0.057
+    ],
+    "average": 0.735,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "130s",
+      "coherence": -0.057,
+      "audio": "I'm proud to announce that from April 1st, we're able to guarantee clear skies for everyone.",
+      "video": "People are shown at a table, and their food is blown away by the wind. The scene is chaotic and unpleasant."
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.989
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "windmill",
+        "confidence": 0.99
+      },
+      {
+        "label": "Armin van Buuren",
+        "confidence": 0.98
+      },
+      {
+        "label": "rain",
+        "confidence": 0.95
+      },
+      {
+        "label": "Matthew Feigal",
+        "confidence": 0.98
+      },
+      {
+        "label": "weather map",
+        "confidence": 0.95
+      },
+      {
+        "label": "control panel",
+        "confidence": 0.85
+      },
+      {
+        "label": "weather vane",
+        "confidence": 0.9
+      },
+      {
+        "label": "beach",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A windmill is shown in a cloudy landscape. The Google Wind logo appears. Armin van Buuren introduces the Netherlands.",
+      "0:08-0:19 \u2014 The video shows rain in the Netherlands and a person walking through a flooded street.",
+      "0:19-0:26 \u2014 Matthew Feigal, a wind engineer at Google Netherlands, introduces the concept of repurposing windmills to generate wind.",
+      "0:26-0:42 \u2014 The video shows engineers working on the project, analyzing weather data, and connecting windmills.",
+      "0:42-0:51 \u2014 The video shows a machine inside a windmill and the windmill blades turning.",
+      "0:51-1:08 \u2014 The video shows a row of windmills and the effect of the wind on people and objects.",
+      "1:08-1:22 \u2014 The video shows a woman enjoying the wind and a man in his garden.",
+      "1:22-1:31 \u2014 The video shows a woman relaxing on the beach and a Dutch weathercaster.",
+      "1:31-1:49 \u2014 Armin van Buuren announces that Google Wind can guarantee clear skies from April 1st. The Google Wind logo appears on a beach."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech-savvy individuals aged 18-45, globally distributed, with moderate to high income, early adopters of technology, urban and suburban dwellers.",
+      "psychographics": "Values innovation, efficiency, connectivity, and problem-solving. Identifies as curious, informed, and forward-thinking. Aspires to be productive, connected, and to contribute to a better future through technology.",
+      "brandMeaning": "Google represents innovation, information access, and technological solutions that simplify and enhance daily life."
+    },
+    "adTargetAudience": {
+      "demographics": "Individuals interested in technology, sustainability, and humor, aged 18-45, globally distributed, with an interest in European culture (specifically the Netherlands).",
+      "psychographics": "Values creativity, ingenuity, and a lighthearted approach to problem-solving. Appreciates technological solutions presented with a touch of humor and absurdity. Interested in environmental issues and sustainable practices.",
+      "tone": "Humorous, optimistic, and slightly absurd, presenting a technologically advanced solution to a common problem."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Google's image as an innovative problem-solver, even if the solution is presented humorously. It aligns with the core audience's expectation of Google pushing boundaries and exploring new technological possibilities.",
+    "actualResonance": "Individuals interested in technology, environmental solutions, and Dutch culture, particularly those who appreciate dry humor and innovative concepts, will find this ad most appealing.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is unlikely to alienate the core audience and has the potential to attract new viewers who appreciate humor and innovative solutions, but the CMO should be aware that some may find the concept too absurd."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 7,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 6,
+    "frequencyPressure": 4,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Surprise decays to Skepticism",
+    "detonationRadius": 1.8,
+    "explanation": "The April Fool's Day context presents a double-edged sword. While the potential for virality is high due to the expectation of deception and the competitive landscape, the audience is also primed with skepticism, increasing the risk of negative backlash if the humor falls flat or is perceived as misleading. The AI focus aligns with current trends, providing a boost, but the high contextual vulnerability and social propagation mean any misstep will be amplified quickly and broadly.",
+    "whatIfScenario": "If this ad ran during a product launch event, the skepticism would be lower, and the focus would be on the product's capabilities. The cultural alignment would remain positive, but the social propagation might be less intense, leading to a more controlled and potentially positive reception.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high.",
+      "slot": "Q4",
+      "estimatedSpend": 16000000,
+      "note": "AI-focused, Gemini product demo"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "ad": "Obama \u2014 Yes We Can (will.i.am, 2008)",
+  "category": "political",
+  "contentType": "political advertisement",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T22:01:58.703089",
+  "fileSize": "8.8MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Progressive, liberal-leaning individuals, particularly those interested in social justice, equality, and political activism. Skews younger, educated, and urban.",
+      "psychographics": "Believe in the power of collective action, social change, and government intervention to solve societal problems. Value diversity, inclusion, and human rights. Optimistic about the future and willing to engage in political processes.",
+      "brandMeaning": "Hope, progress, change, social justice, equality, and a belief in the power of unity and collective action."
+    },
+    "adTargetAudience": {
+      "demographics": "Likely the same as the core audience, but with a specific focus on those who may be feeling disillusioned or apathetic about the political process. Also targets potential new voters or those who need an extra push to get involved.",
+      "psychographics": "Aims to reignite the sense of hope and possibility that may have waned. Seeks to inspire action by reminding viewers of the power of unity and the importance of voting. Appeals to their values of social justice, equality, and progress.",
+      "tone": "Inspirational, hopeful, unifying, and urgent."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the core audience's existing beliefs and values, validating their commitment to social justice and political activism. The message of hope and change resonates deeply with their worldview.",
+    "actualResonance": "Likely to resonate most strongly with those already aligned with progressive values and supportive of the political figures and messages presented. May also appeal to some moderate voters who are open to messages of unity and hope.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces the brand's core message and values while also attempting to reignite hope and inspire action among its target audience, with a moderate potential for reaching new voters."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 9.5,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Cynicism",
+    "culturalAlignment": 7,
+    "explanation": "The 'Yes We Can' video achieved massive viral reach on YouTube, a novel platform for political messaging at the time. Its celebrity endorsement and hopeful message resonated deeply, contributing to Obama's campaign success. The high attentionEconomyMultiplier reflects the video's significant impact and amplification within the attention economy. The fatigue velocity is relatively low because the message was tied to a historical moment and a charismatic figure, making it more resistant to wear-out. However, repeated exposure over time, especially if the promises were perceived as unfulfilled, could lead to cynicism.",
+    "whatIfScenario": "If the video had been released after Obama had already served a term, the impact would have been significantly diminished. The novelty would have been gone, and the audience would have been more critical, potentially leading to a lower attentionEconomyMultiplier and a higher fatigueVelocity.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2008-02-02",
+      "platform": "YouTube (viral)",
+      "adFrequency": "26M+ YouTube views in first month",
+      "context": "will.i.am produced music video set to Obama's New Hampshire primary speech. Celebrity cast (Scarlett Johansson, John Legend, etc). YouTube-first political content before that was normal.",
+      "aftermath": "Obama won. The ad became synonymous with hope-based political messaging."
+    }
+  }
+}

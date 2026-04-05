@@ -1,0 +1,244 @@
+{
+  "ad": "Among Us \u2014 Loooong Mode",
+  "category": "april-fools-2025",
+  "vibeScore": 678,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:03:51.494431",
+  "fileSize": "2.6MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.25,
+    "fear": 0.5,
+    "surprise": 0.65,
+    "sadness": 0.15,
+    "disgust": 0.4,
+    "anger": 0.55,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.2,
+      "fear": 0.5,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "",
+    "segmentCount": 8
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.5,
+      "surprise": 0.7,
+      "sadness": 0.2,
+      "disgust": 0.6,
+      "anger": 0.7,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 8
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.759,
+      0.592,
+      0.708,
+      0.881,
+      0.509,
+      0.284,
+      0.808,
+      0.437
+    ],
+    "average": 0.622,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.284,
+      "audio": "Upbeat music",
+      "video": "Text appears on a black screen: \"April Fools NEW MODE FOR 1 WEEK ONLY\". The scene transitions to gameplay footage of Amo"
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.881
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "Among Us character",
+        "confidence": 1.0
+      },
+      {
+        "label": "Emergency button",
+        "confidence": 1.0
+      },
+      {
+        "label": "finger",
+        "confidence": 0.9
+      },
+      {
+        "label": "Among Us game settings",
+        "confidence": 0.9
+      },
+      {
+        "label": "Cafeteria table",
+        "confidence": 0.9
+      },
+      {
+        "label": "campfire",
+        "confidence": 0.9
+      },
+      {
+        "label": "Voting Results screen",
+        "confidence": 0.9
+      },
+      {
+        "label": "raft",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Emergency button",
+        "magnitude": 0.49,
+        "emotion": "trust",
+        "baseline": 0.8,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      },
+      {
+        "object": "Among Us character",
+        "magnitude": 0.439,
+        "emotion": "trust",
+        "baseline": 0.6,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 An Among Us character is dead on the ground. Another Among Us character finds the body and reports it.",
+      "0:08-0:22 \u2014 The green Among Us character accuses the red Among Us character. The red Among Us character gets angry and kills the green Among Us character.",
+      "0:22-0:27 \u2014 The video shows a screen with the text \"April Fools NEW MODE FOR 1 WEEK ONLY\".",
+      "0:27-0:38 \u2014 The video shows gameplay of the new Among Us mode.",
+      "0:38-0:43 \u2014 The video shows the Among Us logo and the text \"LONG MODE OUT NOW!\"."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.65,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SpAg",
+        "name": "Outrage",
+        "type": "tertiary",
+        "strength": 0.55,
+        "stability": 0.2,
+        "reactivity": 0.95,
+        "toxicity": 0.7,
+        "halfLife": 0.2
+      },
+      {
+        "formula": "FrSp",
+        "name": "Awe",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.3,
+        "reactivity": 0.9,
+        "toxicity": 0.4,
+        "halfLife": 0.5
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.65,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Primarily Gen Z and younger Millennials (13-25), globally distributed, with varying income levels due to the game's accessibility. Skews slightly male but has a significant female player base.",
+      "psychographics": "Values include social interaction, problem-solving, deduction, and a sense of humor. Identity is often tied to online communities and meme culture. Aspirations include being clever, strategic, and part of a winning team.",
+      "brandMeaning": "Among Us represents a fun, accessible, and highly social gaming experience that fosters both cooperation and betrayal, often leading to humorous and memorable moments."
+    },
+    "adTargetAudience": {
+      "demographics": "Existing Among Us players, particularly those active in online communities and familiar with internet humor and meme culture. Likely Gen Z and younger Millennials.",
+      "psychographics": "Appeals to a sense of humor, enjoyment of absurdity, and desire for novel gaming experiences. Values include being 'in the know' and sharing experiences with friends.",
+      "tone": "Playful, absurd, and self-aware, leaning into internet humor and meme culture."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the game's core appeal of unexpected twists and humorous situations, validating their enjoyment of the game's chaotic nature. The April Fool's aspect aligns with the game's playful tone and the audience's appreciation for internet culture.",
+    "actualResonance": "Existing Among Us players who enjoy the game's social and humorous aspects, as well as those who are active in online gaming communities and familiar with meme culture. It will particularly resonate with players who appreciate the game's unexpected and often absurd moments.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad is a low-risk, potentially high-reward campaign that leverages existing player engagement and internet humor to drive short-term interest in the game."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 9,
+    "socialPropagation": 9,
+    "temporalCompounding": 3,
+    "frequencyPressure": 2,
+    "culturalAlignment": 8,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Surprise decays to Skepticism",
+    "detonationRadius": 3.5,
+    "explanation": "The April Fool's Day context creates a high-risk, high-reward environment. While the cost is low and reach potentially high due to social amplification, the audience is primed for skepticism and harsh judgment. A successful prank can go viral and generate massive positive attention, but a poorly executed one can backfire spectacularly, leading to negative brand association. The 'Among Us' brand, known for its deception-based gameplay, is well-aligned with the day's spirit, increasing the likelihood of success, but the inherent vulnerability of the day significantly amplifies both potential gains and losses.",
+    "whatIfScenario": "If this ad ran on a normal day, it would likely be perceived as a quirky, slightly confusing promotion. The surprise element would still be present, but without the context of April Fool's Day, the audience might not fully grasp the intended humor or be as willing to engage with the deceptive nature of the ad. The social amplification would likely be lower, and the overall impact would be significantly reduced.",
+    "timingContext": {
+      "event": "April Fools Day 2025",
+      "date": "2025-04-01",
+      "platform": "Social media (X, Instagram, TikTok, YouTube)",
+      "costPer30Sec": 0,
+      "liveViewership": 0,
+      "totalReach": "variable \u2014 top campaigns reach 10-50M",
+      "socialAmplification": "HIGH \u2014 built for sharing, comments, debate about real/fake",
+      "adFrequency": "single drop, virality-dependent lifespan",
+      "context": "Brands compete for attention on the one day audiences EXPECT to be deceived. Trust is pre-lowered. Humor bar is sky-high."
+    }
+  }
+}

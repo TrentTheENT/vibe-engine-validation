@@ -1,0 +1,241 @@
+{
+  "ad": "Starbucks \u2014 Hello Again",
+  "category": "superbowl-2025",
+  "vibeScore": 684,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:07:30.659491",
+  "fileSize": "3.4MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.65,
+    "fear": 0.1,
+    "surprise": 0.4,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "It starts in darkness. In countless neighborhoods before sunrise. And then suddenly, out of the darkness, energy. Beans grind, milk froth, shots pulled. Espresso shaking and shaking and shaking and shaking and shaking ten times, no more, no less. 165 degree milk pouring to a double shot of dark magic and, ooh, that's the good stuff. This is a story of coffee and company. From the Starbucks Coffee Company. Inspired by Italy, reimagined in Seattle. So, our baristas are ready. The world's best beans are ready. That little pick-me-up in your cup is ready. That feeling that only the perfect sip can give you is ready. The Starbucks you love is ready. Hello again.",
+    "segmentCount": 16
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 25
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0,
+      0,
+      0.977,
+      0.996,
+      0.995,
+      0.996,
+      0.993,
+      0.992,
+      0.993,
+      0.996,
+      0.996,
+      0.997,
+      0.993,
+      0.995,
+      0.996,
+      0.995
+    ],
+    "average": 0.869,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0,
+      "audio": "Sound of car door opening and closing",
+      "video": "Dark interior of a car, person exits car and walks towards a Starbucks building at night."
+    },
+    "maxAlignment": {
+      "timestamp": "55s",
+      "coherence": 0.997
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "Starbucks store",
+        "confidence": 0.98
+      },
+      {
+        "label": "coffee cup",
+        "confidence": 0.95
+      },
+      {
+        "label": "coffee beans",
+        "confidence": 0.9
+      },
+      {
+        "label": "milk carton",
+        "confidence": 0.85
+      },
+      {
+        "label": "espresso machine",
+        "confidence": 0.92
+      },
+      {
+        "label": "thermometer",
+        "confidence": 0.8
+      },
+      {
+        "label": "Starbucks logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "coffee cup",
+        "magnitude": 0.366,
+        "emotion": "sadness",
+        "baseline": 1.1,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Starbucks' core audience historically consists of middle to upper-middle-class individuals, aged 25-54, with a slight skew towards women. They are often urban or suburban dwellers, college-educated, and employed in professional or managerial roles. Income typically ranges from $50,000 to $150,000+ per year.",
+      "psychographics": "This audience values convenience, quality, and experiences. They see Starbucks as more than just a coffee shop; it's a 'third place' \u2013 a comfortable spot between home and work. They appreciate ethical sourcing, sustainability initiatives, and a sense of community. They identify with a sophisticated, slightly aspirational lifestyle, and value brands that reflect their social consciousness.",
+      "brandMeaning": "Starbucks represents a moment of indulgence, a reliable routine, and a connection to a global community. It signifies a small luxury that is accessible and consistent, offering a brief escape from the everyday."
+    },
+    "adTargetAudience": {
+      "demographics": "The ad targets a broad audience, including existing customers and potential new ones, with a focus on younger millennials and Gen Z (18-35). It aims to appeal to those who appreciate the artistry and craft of coffee making, and who are drawn to brands with a strong story and a sense of authenticity.",
+      "psychographics": "This audience values experiences, craftsmanship, and transparency. They are drawn to brands that are authentic, socially responsible, and offer a sense of connection. They appreciate the ritual of coffee and see it as a way to start their day or connect with others.",
+      "tone": "The ad speaks in a celebratory and enthusiastic tone, highlighting the dedication and artistry behind each cup of coffee. It aims to create a sense of anticipation and excitement around the Starbucks experience."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's commitment to quality and craftsmanship, which aligns with the core audience's values. The focus on the process and the 'dark magic' of coffee making will resonate with their appreciation for the Starbucks experience.",
+    "actualResonance": "The ad will resonate most strongly with younger millennials and Gen Z who are drawn to brands with a strong story and a sense of authenticity. The emphasis on the craft and the ritual of coffee making will appeal to their desire for unique and meaningful experiences.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces Starbucks' core values while appealing to a younger audience, but the CMO should ensure the focus on craft doesn't alienate customers who value convenience above all else."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Neutrality",
+    "detonationRadius": 2.8,
+    "explanation": "The Super Bowl provides massive reach and cultural relevance, amplifying the ad's impact. However, the high cost creates pressure for exceptional performance. The audience's critical eye and the potential for rapid social propagation mean mistakes are magnified. While the ad aligns well with current trends, repeated viewing could diminish its initial positive impact. The single airing limits frequency pressure, but the permanent nature of the Super Bowl ad means any misstep will be remembered.",
+    "whatIfScenario": "If the same ad ran on a smaller streaming platform with a niche audience, the reach would be significantly lower, reducing both the potential for positive impact and the risk of widespread criticism. The cost efficiency would improve, but the cultural moment would be lost.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "ad": "Apple \u2014 Gift Magic Holidays 2024",
+  "category": "apple",
+  "vibeScore": 711,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:16:17.621709",
+  "fileSize": "1.3MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.65,
+    "fear": 0.0,
+    "surprise": 0.55,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.8
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.0,
+      "surprise": 0.4,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Apple Watch Series 10 requires iPhone Xs or later. Apple Pencil Pro sold separately. Gift magic. At the Apple Store.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.0,
+      "surprise": 0.7,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.972,
+      0.972,
+      0.972,
+      0.972,
+      0.972,
+      0.972
+    ],
+    "average": 0.972,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.972,
+      "audio": "Upbeat, jazzy music with a positive and exciting feel.",
+      "video": "The video begins with a gray Apple logo with a bow on a white background. The logo then changes to a colorful gradient. "
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.972
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "Apple logo",
+        "confidence": 1.0
+      },
+      {
+        "label": "iPhone 15",
+        "confidence": 0.95
+      },
+      {
+        "label": "iPhone 15 Pro",
+        "confidence": 0.95
+      },
+      {
+        "label": "Apple Watch Series 10",
+        "confidence": 0.9
+      },
+      {
+        "label": "Apple Pencil Pro",
+        "confidence": 0.9
+      },
+      {
+        "label": "iPad Pro",
+        "confidence": 0.9
+      },
+      {
+        "label": "AirPods Max",
+        "confidence": 0.9
+      },
+      {
+        "label": "AirPods Pro",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 The video starts with the Apple logo with a ribbon, then shows the iPhone 15 and iPhone 15 Pro.",
+      "0:08-0:17 \u2014 The video shows the Apple Watch Series 10, Apple Pencil Pro, and iPad Pro.",
+      "0:17-0:29 \u2014 The video shows the AirPods Max, AirPods Pro, and Apple Store gift bag."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.55,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.55,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent individuals, aged 25-55, skewing slightly male, with a strong presence in urban areas. Early adopters of technology, professionals, creatives, and students.",
+      "psychographics": "Value innovation, design, user experience, and seamless integration. See themselves as modern, sophisticated, and connected. Aspire to be productive, creative, and express their individuality through technology.",
+      "brandMeaning": "A symbol of quality, innovation, and status. It represents a lifestyle choice centered around ease of use, aesthetic appeal, and being part of a forward-thinking community."
+    },
+    "adTargetAudience": {
+      "demographics": "Individuals aged 18-65 with disposable income, interested in gifting technology during the holiday season. Includes existing Apple users and those considering joining the ecosystem.",
+      "psychographics": "Value convenience, thoughtfulness, and giving meaningful gifts. Seek to express love and appreciation through technology. Appreciate high-quality products and seamless experiences.",
+      "tone": "Warm, inviting, and subtly aspirational. The ad aims to evoke feelings of joy and anticipation associated with gift-giving during the holidays."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Apple's reputation for high-quality products and seamless integration, making existing customers feel proud of their choice to be part of the Apple ecosystem. The focus on gifting aligns with the holiday spirit and reinforces the brand's position as a desirable and thoughtful gift option.",
+    "actualResonance": "Consumers actively seeking gift ideas for loved ones, particularly those already familiar with or interested in Apple products. Individuals who appreciate aesthetically pleasing and user-friendly technology will be drawn to the ad's presentation.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad is a safe bet that will likely resonate well with both the core audience and potential new customers, but it may not be groundbreaking in terms of expanding the brand's reach."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 7,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 3,
+    "socialPropagation": 4,
+    "temporalCompounding": 6,
+    "frequencyPressure": 5,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Joy decays to Neutral",
+    "detonationRadius": 1.8,
+    "explanation": "The 'Gift Magic' ad, launched during the holiday season alongside the WWDC keynote, benefited from a large initial reach through the keynote and subsequent digital and TV placements. However, the cost was substantial, making the cost efficiency less than ideal. The context of the WWDC keynote provided a tech-savvy audience receptive to Apple's message, but the pre-internet social amplification limited the spread of reactions. The cultural moment of Apple's resurgence under Jobs provided a positive backdrop, but the moderate to heavy ad frequency could lead to fatigue. Overall, the ad achieved a moderate amplification of its message due to the reach and cultural alignment, offset by the high cost and potential for ad fatigue.",
+    "whatIfScenario": "If the ad had been launched during a period of Apple struggling financially or facing a major product recall, the positive message might have been overshadowed by negative sentiment, significantly reducing the attention economy multiplier and potentially creating a backlash.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

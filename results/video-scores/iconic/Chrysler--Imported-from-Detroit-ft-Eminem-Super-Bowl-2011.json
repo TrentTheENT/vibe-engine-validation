@@ -1,0 +1,235 @@
+{
+  "ad": "Chrysler \u2014 Imported from Detroit ft. Eminem (Super Bowl 2011)",
+  "category": "iconic",
+  "vibeScore": 561,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:35:11.071603",
+  "fileSize": "9.3MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.35,
+    "fear": 0.2,
+    "surprise": 0.3,
+    "sadness": 0.35,
+    "disgust": 0.3,
+    "anger": 0.4,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "I got a question for you. What does this city know about luxury? What does a town that's been to hell and back know about the finer things in life? Well, I'll tell you, more than most. You see, it's the hottest fires that make the hardest steel. Add hard work and conviction and the know-how that runs generations deep in every last one of us. That's who we are. That's our story. Now it's probably not the one you've been reading in papers. The one being written by folks who've never even been here and don't know what we're capable of. Because when it comes to luxury, it's as much about where it's from as who it's for. Now we're from America, but this isn't New York City, or the Windy City, or Sin City, and we're certainly no one's Emerald City. This is the Motor City, and this is what we do.",
+    "segmentCount": 21
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.3,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 26
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.234,
+      0.723,
+      0.739,
+      0.886,
+      0.855,
+      0.819,
+      0.888,
+      0.779,
+      0.788,
+      0.845,
+      0.767,
+      0.685,
+      0.925,
+      0.896,
+      0.925,
+      0.896,
+      0.925,
+      0.767,
+      0.925,
+      0.896,
+      0
+    ],
+    "average": 0.77,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "100s",
+      "coherence": 0,
+      "audio": "Sound of a car driving.",
+      "video": "The video shows a man walking through an empty theater."
+    },
+    "maxAlignment": {
+      "timestamp": "60s",
+      "coherence": 0.925
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "bridge",
+        "confidence": 0.98
+      },
+      {
+        "label": "oil refinery",
+        "confidence": 0.95
+      },
+      {
+        "label": "highway sign",
+        "confidence": 0.99
+      },
+      {
+        "label": "American flag",
+        "confidence": 0.98
+      },
+      {
+        "label": "city skyline",
+        "confidence": 0.97
+      },
+      {
+        "label": "statue",
+        "confidence": 0.96
+      },
+      {
+        "label": "black Chrysler 200 car",
+        "confidence": 0.99
+      },
+      {
+        "label": "Eminem",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 The video begins with a black screen, then transitions to shots of a bridge, a highway sign indicating the direction to Detroit, and an industrial complex with smokestacks.",
+      "0:08-0:25 \u2014 The scene shifts to a view of the Detroit skyline, followed by images of dilapidated buildings and an American flag waving in the wind. The camera then focuses on architectural details and a statue.",
+      "0:25-0:40 \u2014 The video shows a car's side mirror reflecting a building, followed by a close-up of a statue's fist and a mural depicting factory workers. The scene ends with a doorman standing in front of a building during a snowfall.",
+      "0:40-0:57 \u2014 The video transitions to a black screen, then shows the headlights of a car. This is followed by images of a statue holding a golden orb, a church steeple, a modern house covered in snow, and a group of athletes running in the snow. The scene ends with a figure skater performing on the ice.",
+      "0:57-1:21 \u2014 The video shows the grill of a car, a man walking on a city street, and the Detroit skyline from across the water. The camera then focuses on the details of the car, including the side mirror, dashboard, and license plate. The scene ends with a close-up of Eminem driving the car.",
+      "1:21-1:44 \u2014 The video shows the car parked in front of the Fox Theater, followed by Eminem walking into the theater. The scene then shifts to a gospel choir singing on stage, with Eminem standing in the audience.",
+      "1:44-2:02 \u2014 The video ends with Eminem stating, \"This is the Motor City, and this is what we do.\" The scene then shows the car parked in front of the Fox Theater, followed by the car driving through the city streets. The video ends with the text \"The Chrysler 200 has arrived. Imported from Detroit.\""
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.35,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpSd",
+        "name": "Disapproval",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.5,
+        "reactivity": 0.6,
+        "toxicity": 0.5,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "SdDg",
+        "name": "Remorse",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.7,
+        "halfLife": 0.7
+      }
+    ],
+    "dominant": {
+      "formula": "AgAn",
+      "name": "Aggressiveness",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.5,
+      "reactivity": 0.9,
+      "toxicity": 0.7,
+      "halfLife": 0.4
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Chrysler served a broad range of middle-class Americans, skewing slightly older (35-65+), with a focus on families and individuals seeking reliable and affordable transportation. Income levels ranged from middle to upper-middle class.",
+      "psychographics": "Chrysler's core audience valued practicality, dependability, and American-made products. They identified with traditional values, hard work, and a sense of community. Aspirations included upward mobility and providing a comfortable life for their families.",
+      "brandMeaning": "To its core audience, Chrysler represented American ingenuity, blue-collar values, and a commitment to quality and affordability. It was a symbol of the American dream and a reliable partner for everyday life."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broader audience, including younger demographics (25-55), urban dwellers, and those who appreciate authenticity and resilience. It aims to connect with individuals who have faced adversity and are proud of their roots, regardless of their socioeconomic background.",
+      "psychographics": "The ad appeals to values of perseverance, pride, and authenticity. It seeks to resonate with those who identify with the underdog narrative and appreciate a brand that acknowledges and celebrates their struggles. The tone is defiant, hopeful, and unapologetically American.",
+      "tone": "The tone is defiant, hopeful, and unapologetically American."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Chrysler's American roots and commitment to hard work, which aligns with the values of its core audience. The message of resilience and overcoming adversity will resonate with their own experiences and make them proud to be associated with the brand.",
+    "actualResonance": "This ad will resonate most strongly with individuals who have experienced hardship and appreciate a brand that acknowledges and celebrates their resilience. It will also appeal to those who value authenticity, American-made products, and a sense of community.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 8,
+    "verdict": "This ad carries minimal risk of alienating the core audience while effectively expanding Chrysler's appeal to a younger, more diverse demographic by tapping into shared values of resilience and American pride."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 6,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Pride decays to Nostalgia",
+    "detonationRadius": 7.0,
+    "explanation": "The Chrysler Super Bowl ad benefited from massive reach and strong cultural alignment. The Super Bowl context amplified the message of American resilience and Detroit's comeback. However, the high cost of the Super Bowl spot created significant pressure for it to perform. The risk of social propagation was high due to the Super Bowl's meme culture. The ad's message resonated deeply, but repeated exposure could lead to fatigue.",
+    "whatIfScenario": "If the ad had been released online only, it would have reached a smaller audience initially, but the lower cost and controlled release could have allowed for more targeted messaging and less risk of immediate negative backlash. The impact would have been slower but potentially more sustainable.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

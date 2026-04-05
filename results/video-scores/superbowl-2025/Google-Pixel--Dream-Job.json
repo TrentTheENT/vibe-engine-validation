@@ -1,0 +1,274 @@
+{
+  "ad": "Google Pixel \u2014 Dream Job",
+  "category": "superbowl-2025",
+  "vibeScore": 600,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:09:40.481419",
+  "fileSize": "6.3MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.6,
+    "fear": 0.15,
+    "surprise": 0.25,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "consistent",
+    "transcript": "So, at my last job, I was working across several different groups. Um, you know what? Let me practice that one again. Okay. When you're ready, tell me about the job that taught you the most. Hmm. Okay. Well, it was a role where I learned to take constructive criticism. I think she like oh. Nope, doesn't like it. Okay. I got pretty used to, you know, working long hours with a small team. I got very comfortable multitasking. And I had to become really organized. Not bad, but try rephrasing your answer to sound more confident. Right, right. Okay. I was asked to make a lot of quick decisions and do a lot of negotiating. One more book. Sure. Talk about your experiences working with others. Oh. Well, I'm at my best when I'm collaborating. If it's for the team, I'll do whatever it takes. This job description you shared mentions on the job training. Well, I am a fast learner. I don't always have all the answers. But I get the job done. No matter how long it takes. And I'm not afraid to admit when I'm wrong. But most importantly, I show up every day, no matter what. All right, last question. When it comes to work, what motivates you? I guess, knowing that people can depend on me. And knowing I can depend on them too. That's a great answer. Sounds like you're ready. Hey James, thanks for joining us. It's good to see you all. I've been looking forward to talking.",
+    "segmentCount": 22
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "trust",
+    "arcShape": "peak",
+    "segmentCount": 33
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.95,
+      0.886,
+      0.733,
+      0.811,
+      0.493,
+      0.448,
+      0.862,
+      0.867,
+      0.753,
+      0.905,
+      0.883,
+      0.78,
+      0.895,
+      0.78,
+      0.808,
+      0.78,
+      0.78,
+      0.845,
+      0.811,
+      0.78,
+      0.895,
+      0.883
+    ],
+    "average": 0.801,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.448,
+      "audio": "I got pretty used to, you know, working long hours with a small team.",
+      "video": "The man lies in bed, looking at the baby monitor. He gets up and walks to the baby's room with the woman."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.95
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "refrigerator door",
+        "confidence": 0.95
+      },
+      {
+        "label": "Google Pixel 9 phone",
+        "confidence": 0.98
+      },
+      {
+        "label": "baby",
+        "confidence": 0.99
+      },
+      {
+        "label": "baby monitor",
+        "confidence": 0.9
+      },
+      {
+        "label": "shower head",
+        "confidence": 0.9
+      },
+      {
+        "label": "dog food bowl",
+        "confidence": 0.9
+      },
+      {
+        "label": "Google search bar",
+        "confidence": 0.95
+      },
+      {
+        "label": "dog",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Google Pixel 9 phone",
+        "magnitude": 0.318,
+        "emotion": "trust",
+        "baseline": 0.0,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "Google search bar",
+        "magnitude": 0.318,
+        "emotion": "trust",
+        "baseline": 0.0,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "baby monitor",
+        "magnitude": 0.283,
+        "emotion": "trust",
+        "baseline": 0.0,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "sticky note",
+        "magnitude": 0.247,
+        "emotion": "joy",
+        "baseline": 0.0,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "refrigerator door",
+        "magnitude": 0.212,
+        "emotion": "joy",
+        "baseline": 0.0,
+        "contextual": 0.6,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A man stands in his kitchen, preparing for a job interview. He uses his Google Pixel phone to practice answering interview questions with the help of Gemini Live.",
+      "0:08-0:15 \u2014 Close-up shots of the phone interface and the man in his kitchen, indicating he is preparing for the interview.",
+      "0:15-0:36 \u2014 The man reflects on his experiences as a parent, which he relates to his ability to handle constructive criticism, work long hours, and multitask.",
+      "0:36-0:40 \u2014 The phone provides feedback on the man's answers, suggesting he sound more confident.",
+      "0:40-0:57 \u2014 The man continues to reflect on his experiences as a parent, which he relates to his ability to make quick decisions and negotiate.",
+      "0:57-1:00 \u2014 The phone shows the job description, which mentions on-the-job training.",
+      "1:00-1:24 \u2014 The man reflects on his experiences as a parent, which he relates to his ability to learn quickly, get the job done, and show up every day.",
+      "1:24-1:52 \u2014 The phone asks the final question: What motivates you? The man reflects on his experiences as a parent, which he relates to his ability to be dependable and to depend on others.",
+      "1:52-2:05 \u2014 The phone says that the man is ready for the interview. The Google Pixel 9 with Gemini Live is advertised."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.6,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech-savvy individuals aged 25-55, with a moderate to high income, living in urban or suburban areas. They are early adopters of technology and appreciate seamless integration and user-friendly design.",
+      "psychographics": "Value innovation, convenience, and a connected lifestyle. They identify as modern, progressive, and appreciate brands that simplify their lives. They aspire to be efficient, informed, and connected.",
+      "brandMeaning": "Google Pixel represents seamless technology, intuitive design, and a connected lifestyle."
+    },
+    "adTargetAudience": {
+      "demographics": "Millennials and younger Gen X (30-45) who are parents, juggling work and family life. They likely have moderate incomes and are career-oriented but value family time.",
+      "psychographics": "Value work-life balance, family, and personal growth. They aspire to be good parents and successful professionals. They are looking for tools to help them manage their busy lives.",
+      "tone": "Empathetic, supportive, and understanding of the challenges of modern parenthood."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad highlights the practical application of Google Pixel in everyday life, showcasing how it can assist with work-life balance, which aligns with the core audience's desire for convenience and a connected lifestyle. It reinforces the brand's image as a helpful and innovative tool.",
+    "actualResonance": "Working parents, particularly mothers, who are actively seeking ways to balance their career aspirations with their family responsibilities. The ad will also resonate with individuals considering a career change or re-entering the workforce after a period of parental leave.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively broadens the appeal of Google Pixel to a wider audience of working parents without alienating its core tech-savvy users, but the focus on parenthood might not resonate with all existing customers."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 10,
+    "frequencyPressure": 7,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Skepticism",
+    "detonationRadius": 3.8,
+    "explanation": "A Super Bowl ad for Google Pixel showcasing Gemini AI faces extreme scrutiny due to the high stakes and immediate review culture. The massive reach amplifies both positive and negative reactions. While the audience is generally receptive to innovation (positive cultural alignment), any missteps in the AI demo will be instantly memed and permanently recorded, leading to significant negative social propagation and temporal compounding. The high cost per impression means even minor misalignments become extremely wasteful. The AI focus adds pressure, as any perceived inaccuracies or biases will be magnified.",
+    "whatIfScenario": "If this ad ran as a pre-roll on YouTube targeting tech enthusiasts, the contextual vulnerability would be lower, social propagation would be slower, and temporal compounding would be less severe, resulting in a much lower attention economy multiplier. The cost efficiency would also improve dramatically, allowing for more experimentation and iteration.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q4",
+      "estimatedSpend": 16000000,
+      "note": "AI-focused, Gemini product demo"
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "ad": "Nike \u2014 Dream Crazy ft. Kaepernick (2018)",
+  "category": "controversial",
+  "vibeScore": 621,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T20:58:32.972194",
+  "fileSize": "9.5MB",
+  "consensus": {
+    "joy": 0.6,
+    "trust": 0.75,
+    "fear": 0.15,
+    "surprise": 0.5,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.25,
+    "anticipation": 0.85
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.7,
+      "fear": 0.2,
+      "surprise": 0.4,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "If people say your dreams are crazy, if they laugh at what you think you can do. Good, stay that way. Because what non-believers fail to understand is that calling a dream crazy is not an insult, it's a compliment. Don't try to be the fastest runner in your school or the fastest in the world. Be the fastest ever. Don't picture yourself wearing OBJ's jersey. Picture OBJ wearing yours. Don't settle for homecoming queen or linebacker. Do both. Lose 120 pounds and become an Iron Man. After beating a brain tumor. Don't believe you have to be like anybody to be somebody. If you're born a refugee, don't let it stop you from playing soccer for the national team at age 16. Don't become the best basketball player on the planet. Be bigger than basketball. Believe in something, even if it means sacrificing everything. When they talk about the greatest team in the history of the sport, make sure it's your team. If you have only one hand, don't just watch football, play it at the highest level. And if you're a girl from Compton, don't just become a tennis player. Become the greatest athlete ever. Yeah, that's more like it. So don't ask if your dreams are crazy, ask if they're crazy enough.",
+    "segmentCount": 41
+  },
+  "video": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.8,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.3,
+      "anticipation": 0.9
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 41
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.886,
+      0.951,
+      0.92,
+      0.851,
+      0.871,
+      0.842,
+      0.883,
+      0.866,
+      0.895,
+      0.873,
+      0.907,
+      0.914,
+      0.85,
+      0.894,
+      0.895,
+      0.907,
+      0.85,
+      0.883,
+      0.858,
+      0.866,
+      0.85,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      0.895,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": 0.01,
+    "assessment": "INDEPENDENT",
+    "maxDivergence": {},
+    "maxAlignment": {}
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "skateboard",
+        "confidence": 0.95
+      },
+      {
+        "label": "wrestling",
+        "confidence": 0.9
+      },
+      {
+        "label": "Nike",
+        "confidence": 0.98
+      },
+      {
+        "label": "surfing",
+        "confidence": 0.92
+      },
+      {
+        "label": "football",
+        "confidence": 0.93
+      },
+      {
+        "label": "soccer",
+        "confidence": 0.94
+      },
+      {
+        "label": "basketball",
+        "confidence": 0.93
+      },
+      {
+        "label": "tennis",
+        "confidence": 0.94
+      },
+      {
+        "label": "Colin Kaepernick",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Colin Kaepernick",
+        "magnitude": 1.265,
+        "emotion": "trust",
+        "baseline": 0.3,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "wrestling",
+        "magnitude": 0.99,
+        "emotion": "anger",
+        "baseline": 0.7,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      },
+      {
+        "object": "man",
+        "magnitude": 0.557,
+        "emotion": "anticipation",
+        "baseline": 0.6,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "football",
+        "magnitude": 0.436,
+        "emotion": "joy",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "soccer",
+        "magnitude": 0.436,
+        "emotion": "joy",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "basketball",
+        "magnitude": 0.436,
+        "emotion": "joy",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "tennis",
+        "magnitude": 0.436,
+        "emotion": "joy",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "Nike",
+        "magnitude": 0.374,
+        "emotion": "joy",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      },
+      {
+        "object": "skateboard",
+        "magnitude": 0.346,
+        "emotion": "anticipation",
+        "baseline": 0.7,
+        "contextual": 0.9,
+        "direction": "amplified"
+      },
+      {
+        "object": "surfing",
+        "magnitude": 0.346,
+        "emotion": "surprise",
+        "baseline": 0.6,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A skateboarder performs tricks on a staircase with a rail.",
+      "0:05-0:08 \u2014 The skateboarder falls while performing a trick.",
+      "0:08-0:09 \u2014 The skateboarder sits on the rail.",
+      "0:09-0:15 \u2014 A young wrestler competes in a match.",
+      "0:15-0:15 \u2014 A young boy looks determined.",
+      "0:16-0:18 \u2014 A woman wearing a hijab looks determined.",
+      "0:18-0:25 \u2014 A surfer rides a large wave.",
+      "0:25-0:28 \u2014 A woman in a wheelchair plays basketball.",
+      "0:28-0:35 \u2014 A runner crosses the finish line.",
+      "0:35-0:41 \u2014 A young football player runs with the ball.",
+      "0:41-0:47 \u2014 A girl in a football uniform stands with her team.",
+      "0:47-0:51 \u2014 A man loses weight and becomes an Ironman.",
+      "0:51-0:53 \u2014 A brain scan is shown.",
+      "0:53-1:08 \u2014 A soccer player scores a goal.",
+      "1:08-1:17 \u2014 LeBron James opens his 'I Promise' school.",
+      "1:17-1:23 \u2014 Colin Kaepernick walks down a city street.",
+      "1:23-1:29 \u2014 A soccer player scores a goal.",
+      "1:29-1:36 \u2014 A football player with one hand scores a touchdown.",
+      "1:36-1:48 \u2014 Serena Williams plays tennis.",
+      "1:48-2:05 \u2014 Colin Kaepernick looks into the camera and speaks."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "primary",
+        "strength": 0.8,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.05,
+        "halfLife": 0.72
+      },
+      {
+        "formula": "JoAn",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.72,
+        "stability": 0.75,
+        "reactivity": 0.35,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JoTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.68,
+        "stability": 0.85,
+        "reactivity": 0.25,
+        "toxicity": 0.05,
+        "halfLife": 0.68
+      },
+      {
+        "formula": "SuAn",
+        "name": "Confusion",
+        "type": "primary",
+        "strength": 0.68,
+        "stability": 0.65,
+        "reactivity": 0.45,
+        "toxicity": 0.05,
+        "halfLife": 0.52
+      },
+      {
+        "formula": "TrSu",
+        "name": "Curiosity",
+        "type": "primary",
+        "strength": 0.62,
+        "stability": 0.75,
+        "reactivity": 0.35,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JoSu",
+        "name": "Delight",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.2,
+        "toxicity": 0.05,
+        "halfLife": 0.72
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "primary",
+      "strength": 0.8,
+      "stability": 0.9,
+      "reactivity": 0.2,
+      "toxicity": 0.05,
+      "halfLife": 0.72
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Young adults and adults, 18-45, all genders, varied income levels, active lifestyle, urban and suburban dwellers.",
+      "psychographics": "Values self-improvement, athletic achievement, pushing boundaries, innovation, and being part of a community. Aspires to be their best self, both physically and mentally. Identifies with athletes and sports culture.",
+      "brandMeaning": "Nike represents athletic excellence, innovation, and empowerment. It signifies a commitment to pushing personal limits and achieving goals."
+    },
+    "adTargetAudience": {
+      "demographics": "Youth and young adults, 16-35, all genders, varied income levels, those interested in sports, social justice, and breaking barriers.",
+      "psychographics": "Values inclusivity, challenging norms, defying expectations, and making a difference. Aspires to be unique, authentic, and impactful. Identifies with individuals who overcome adversity and inspire others.",
+      "tone": "Inspirational, empowering, and challenging."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad reinforces Nike's core values of pushing boundaries and achieving greatness, which will resonate with existing fans. The focus on inclusivity and social impact will further strengthen their connection to the brand.",
+    "actualResonance": "The ad will resonate with a broad audience, including athletes, activists, and anyone who feels marginalized or underestimated. It will particularly appeal to those who are inspired by stories of overcoming adversity and challenging the status quo.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively expands Nike's reach by appealing to a younger, more socially conscious audience while staying true to its core values of athletic achievement and empowerment."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 6,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Pride decays to Debate, then to Acceptance or Rejection",
+    "detonationRadius": 3.8,
+    "explanation": "The Nike Kaepernick ad was a masterclass in attention economy manipulation. The timing during the NFL kneeling controversy, combined with the heavy rotation on TV and digital platforms, ensured maximum reach and amplified the cultural impact. While the initial stock drop and #JustBurnIt backlash created short-term negative attention, the long-term effect was overwhelmingly positive, driving brand value and sales. The intentional targeting miss, alienating conservative buyers, was a calculated risk that paid off handsomely, demonstrating a deep understanding of their core demographic and the power of polarizing messaging in the attention economy.",
+    "whatIfScenario": "If the ad had run during a period of relative social calm, without the backdrop of the NFL kneeling controversy, it likely would have been perceived as less impactful and generated significantly less buzz. The controversy provided the necessary fuel for the ad to ignite a national conversation and capture widespread attention.",
+    "timingContext": {
+      "date": "2018-09-05",
+      "platform": "YouTube + TV (Monday Night Football premiere)",
+      "estimatedSpend": 50000000,
+      "adFrequency": "heavy TV + digital rotation for 3 months",
+      "socialAmplification": "#JustBurnIt trended (people burning Nike shoes) \u2014 but ALSO #JustDoIt surged. Polarization AS strategy.",
+      "context": "Colin Kaepernick kneeling controversy. Nike chose a side. Stock initially dropped 3% then hit ALL-TIME HIGH within weeks. The targeting was intentional \u2014 Nike's core demo (18-35 urban) aligned with Kaepernick.",
+      "culturalMoment": "NFL kneeling controversy, Trump tweets against Nike, racial justice debate",
+      "aftermath": "$6B increase in brand value. Online sales up 31% in days. The INTENTIONAL targeting miss (alienating older conservative buyers) was calculated \u2014 they weren't buying Jordans anyway."
+    }
+  }
+}

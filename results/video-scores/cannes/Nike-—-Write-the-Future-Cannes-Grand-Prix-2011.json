@@ -1,0 +1,173 @@
+{
+  "ad": "Nike \u2014 Write the Future (Cannes Grand Prix 2011)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T22:04:18.350192",
+  "fileSize": "15.6MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 12,
+    "top": [
+      {
+        "label": "soccer ball",
+        "confidence": 0.98
+      },
+      {
+        "label": "stadium",
+        "confidence": 0.99
+      },
+      {
+        "label": "soccer player",
+        "confidence": 0.99
+      },
+      {
+        "label": "crowd",
+        "confidence": 0.95
+      },
+      {
+        "label": "Nike logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "television",
+        "confidence": 0.9
+      },
+      {
+        "label": "newspaper",
+        "confidence": 0.9
+      },
+      {
+        "label": "Wayne Rooney",
+        "confidence": 0.95
+      },
+      {
+        "label": "Franck Ribery",
+        "confidence": 0.9
+      },
+      {
+        "label": "Ronaldinho",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "soccer ball",
+        "magnitude": 0.224,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "newspaper",
+        "magnitude": 0.224,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "crowd",
+        "magnitude": 0.2,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "Wayne Rooney",
+        "magnitude": 0.2,
+        "emotion": "trust",
+        "direction": "amplified"
+      },
+      {
+        "object": "Franck Ribery",
+        "magnitude": 0.2,
+        "emotion": "trust",
+        "direction": "amplified"
+      },
+      {
+        "object": "Ronaldinho",
+        "magnitude": 0.2,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "Cristiano Ronaldo",
+        "magnitude": 0.2,
+        "emotion": "joy",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "scene": "0:00-0:05",
+        "description": "A soccer ball is kicked into the air in a stadium, followed by a soccer player dribbling the ball down the field."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Younger, active individuals (15-35) of all genders, with a slight skew towards male, interested in sports, particularly football (soccer). Global reach, with strong presence in developed and developing nations.",
+      "psychographics": "Values performance, innovation, and being part of a community. Aspires to athletic achievement and admires professional athletes. Seeks inspiration and motivation from sports culture.",
+      "brandMeaning": "Represents athletic excellence, pushing boundaries, and inspiring the next generation of athletes. Embodies the spirit of competition and achievement."
+    },
+    "adTargetAudience": {
+      "demographics": "Global football fans, primarily male (15-45), interested in the World Cup and star players. Includes both casual and hardcore fans.",
+      "psychographics": "Driven by excitement, national pride, and the drama of high-stakes competition. Appreciates humor, spectacle, and the global impact of football.",
+      "tone": "Exciting, humorous, inspirational, and globally inclusive."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad reinforces Nike's association with top athletes and the excitement of football, aligning with the core audience's values and aspirations.",
+    "actualResonance": "The ad will resonate strongly with football fans worldwide, especially those anticipating the World Cup. The humor and star power will broaden its appeal.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a highly effective, high-budget campaign that leverages star power and humor to amplify Nike's brand association with football and expand its reach to a global audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.5,
+    "costEfficiency": 3.8,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Nostalgia",
+    "culturalAlignment": 8,
+    "explanation": "The 'Write the Future' campaign was a massive success due to its perfect timing (World Cup), star power, and global simultaneous launch. The high production value and aspirational message resonated strongly with audiences. The low risk factor (FF Risk=1/10) and positive reaction (EMBRACED) suggest minimal backlash. However, the high reach and initial excitement could lead to faster fatigue. The cultural alignment is high due to the global appeal of football and the positive message.",
+    "whatIfScenario": "If the campaign had launched outside of the World Cup season, the attentionEconomyMultiplier would likely be significantly lower (around 2.5) due to reduced contextual relevance and audience engagement. The cost efficiency would also decrease as the same level of investment would yield less reach.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2010-05",
+      "platform": "TV (global) + YouTube",
+      "estimatedSpend": 100000000,
+      "context": "World Cup 2010. 3 minutes. Featured Ronaldo, Rooney, Ribery. Global simultaneous launch.",
+      "aftermath": "Most shared ad of 2010."
+    }
+  }
+}

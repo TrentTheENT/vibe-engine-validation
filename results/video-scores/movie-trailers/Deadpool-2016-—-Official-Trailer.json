@@ -1,0 +1,112 @@
+{
+  "ad": "Deadpool (2016) \u2014 Official Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 359,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:10:30.785006",
+  "fileSize": "9.3MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.15,
+    "fear": 0.25,
+    "surprise": 0.3,
+    "sadness": 0.15,
+    "disgust": 0.2,
+    "anger": 0.25,
+    "anticipation": 0.35
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "anticipation",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.3,
+      "fear": 0.5,
+      "surprise": 0.6,
+      "sadness": 0.3,
+      "disgust": 0.4,
+      "anger": 0.5,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 51
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 4,
+    "top": [
+      {
+        "label": "20th Century Fox logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Ryan Reynolds",
+        "confidence": 0.98
+      },
+      {
+        "label": "Marvel logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Deadpool",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 A woman tells a man she loves him, but he has cancer in his liver, lungs, prostate, and brain."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Males and females, 16-35, skewed towards males, fans of comic books, action, and humor.",
+      "psychographics": "Appreciates irreverent humor, meta-commentary, and unconventional storytelling. Enjoys characters who break the fourth wall and don't take themselves too seriously. Values authenticity and a rejection of traditional superhero tropes.",
+      "brandMeaning": "Deadpool represents a subversive and humorous take on the superhero genre. It's a brand that stands for irreverence, self-awareness, and a willingness to break the rules."
+    },
+    "adTargetAudience": {
+      "demographics": "Males and females, 16-40, fans of action, comedy, and superhero movies, particularly those who enjoy darker or more unconventional takes on the genre.",
+      "psychographics": "Appreciates dark humor, action-packed sequences, and a self-aware narrative. Open to mature themes and language. Seeks entertainment that is both thrilling and funny.",
+      "tone": "Irreverent, action-packed, humorous, and slightly edgy."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The trailer delivers exactly what the core audience expects: over-the-top action, dark humor, fourth-wall breaks, and a general irreverence towards the superhero genre. It validates their expectations and promises a film that stays true to the character's unique appeal.",
+    "actualResonance": "The trailer will resonate with the core audience and also attract a broader audience interested in action comedies and unconventional superhero movies.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This trailer effectively targets the core audience while also expanding the potential reach to a broader audience interested in action comedies and unconventional superhero films, making it a successful marketing piece."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 9.0,
+    "costEfficiency": 7.5,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Amusement",
+    "culturalAlignment": 8,
+    "explanation": "Deadpool's meta-humor, R-rating, and Reynolds' commitment created massive buzz. The leaked footage origin story added to its appeal. The film defied expectations and resonated strongly with audiences tired of formulaic superhero movies. The marketing was also very effective, using social media and unconventional methods to reach a wide audience. The low risk and high embrace from the audience amplified the effect.",
+    "whatIfScenario": "If the marketing had been more traditional and less edgy, the attention economy multiplier would have been significantly lower, likely around 2.0-2.5. The film's success was heavily reliant on its unique and irreverent approach.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "2016-02-12",
+      "platform": "Theaters + YouTube",
+      "estimatedSpend": 50000000,
+      "context": "R-rated superhero. Ryan Reynolds passion project after leaked test footage forced Fox's hand. Deliberately mocked superhero conventions. Meta-marketing (Tinder profile, emoji billboard).",
+      "aftermath": "$782M worldwide. Highest-grossing R-rated film at the time. Proved R-rated superhero movies work. Changed the genre."
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "ad": "Dollar Shave Club \u2014 Our Blades Are Great (2012)",
+  "category": "iconic",
+  "vibeScore": 707,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:36:41.581292",
+  "fileSize": "6.8MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.6,
+    "fear": 0.2,
+    "surprise": 0.6,
+    "sadness": 0.1,
+    "disgust": 0.3,
+    "anger": 0.35,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.3,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hi, I'm Mike, founder of Dollarshaveclub.com. What is Dollarshaveclub.com? Well, for a dollar a month, we send high quality razors right to your door. Yeah, a dollar. Are the blades any good? No. Our blades are f**king great. Each razor has stainless steel blades and aloe vera lubricating strip and a pivot head. It's so gentle a toddler could use it. And do you like spending $20 a month on brand name razors? 19 go to Roger Federer. I'm good at tennis. And do you think your razor needs a vibrating handle? A flashlight, a back scratcher, and 10 blades? Your handsome ass grandfather had one blade and polio. Looking good, Papa. Stop paying for shave tech you don't need. And stop forgetting to buy your blades every month. Alejandro and I are going to ship them right to you. We're not just selling razors, we're also making new jobs. Alejandro, what were you doing last month? Not working. What are you doing now? Working. I'm no Vanderbilt, but this train makes hay. So stop forgetting to buy your blades every month and start deciding where you're going to stack all those dollar bills I'm saving you. We are dollarshaveclub.com and the party is on.",
+    "segmentCount": 16
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "surprise",
+    "arcShape": "peak",
+    "segmentCount": 27
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.993,
+      0.95,
+      0.775,
+      0.834,
+      0.828,
+      0.812,
+      0.818,
+      0.81,
+      0.968,
+      0.911,
+      0.949,
+      0.925,
+      0.53,
+      0.955,
+      0.919,
+      0.985
+    ],
+    "average": 0.873,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "60s",
+      "coherence": 0.53,
+      "audio": "I'm no Vanderbilt, but this train makes hay. [sound effect]",
+      "video": "The man and Alejandro are in a wagon. The man is talking about how they are making new jobs."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.993
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "razor",
+        "confidence": 0.95
+      },
+      {
+        "label": "sign",
+        "confidence": 0.9
+      },
+      {
+        "label": "cardboard boxes",
+        "confidence": 0.95
+      },
+      {
+        "label": "forklift",
+        "confidence": 0.9
+      },
+      {
+        "label": "portrait",
+        "confidence": 0.85
+      },
+      {
+        "label": "american flag",
+        "confidence": 0.95
+      },
+      {
+        "label": "bear costume",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "razor",
+        "magnitude": 0.298,
+        "emotion": "joy",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "cardboard boxes",
+        "magnitude": 0.25,
+        "emotion": "joy",
+        "baseline": 0.1,
+        "contextual": 0.5,
+        "direction": "amplified"
+      },
+      {
+        "object": "sign",
+        "magnitude": 0.203,
+        "emotion": "joy",
+        "baseline": 0.5,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 The founder of Dollar Shave Club introduces the company and its services, which include sending high-quality razors to customers' doors for a dollar a month.",
+      "0:08-0:17 \u2014 The founder walks through the office, emphasizing the quality of the blades.",
+      "0:17-0:29 \u2014 The founder showcases the features of the razors, including stainless steel blades, aloe vera lubricating strips, and a pivot head. He also questions the need for expensive brand-name razors.",
+      "0:29-0:44 \u2014 The founder continues to promote the value of Dollar Shave Club, questioning the need for vibrating handles, flashlights, back scratchers, and ten blades on razors.",
+      "0:44-0:56 \u2014 The founder emphasizes the affordability of Dollar Shave Club and the convenience of having blades shipped directly to customers. He also highlights the company's role in creating new jobs.",
+      "0:56-1:07 \u2014 The founder introduces a new employee and emphasizes the company's role in creating new jobs.",
+      "1:07-1:22 \u2014 The founder encourages viewers to stop forgetting to buy blades and start deciding where to stack the dollar bills they'll save with Dollar Shave Club. The video ends with a party scene and the company's slogan."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.6,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.6,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Men, 18-45, middle to lower-middle income, tech-savvy, early adopters.",
+      "psychographics": "Value convenience, practicality, and affordability. Reject traditional marketing and inflated prices. Identify with humor and irreverence. Aspire to a no-nonsense, efficient lifestyle.",
+      "brandMeaning": "A smart, cost-effective alternative to overpriced shaving products; a brand that 'gets' them and doesn't take itself too seriously."
+    },
+    "adTargetAudience": {
+      "demographics": "Men, 18-45, potentially slightly broader income range than the core, digitally native.",
+      "psychographics": "Appeals to those who appreciate humor, are skeptical of marketing hype, and seek value. Values convenience and a straightforward approach to grooming. Responds to authenticity and a 'real' brand voice.",
+      "tone": "Direct, humorous, irreverent, and anti-establishment."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "This ad perfectly embodies the brand's core values: affordability, convenience, humor, and a rejection of traditional marketing. It reinforces their initial decision to choose Dollar Shave Club.",
+    "actualResonance": "Men aged 18-45 who are tired of paying too much for razors and appreciate a brand with a sense of humor. Also, anyone who enjoys viral marketing and clever advertising.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a home run; it reinforces the brand's core identity while expanding its reach to a wider audience through its humor and viral potential."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 6,
+    "costEfficiency": "extremely_efficient",
+    "contextualVulnerability": 1,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 2,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Surprise decays to Amusement, then Acceptance",
+    "detonationRadius": 4.5,
+    "explanation": "Dollar Shave Club's YouTube-first strategy was a masterclass in attention economy exploitation. The low production cost, combined with the viral nature of the video and its perfect alignment with the emerging DTC zeitgeist, created an unprecedented ROI. The lack of traditional media spend amplified the impact, making it a case study in how to leverage the internet for maximum effect. The authenticity resonated, and the timing was impeccable, pre-dating the oversaturation of the DTC market.",
+    "whatIfScenario": "If this ad ran on TV during the Super Bowl, it would have been lost in the noise and the cost would have been astronomical. The charm of the low-budget production would have been replaced by the expectation of high-quality visuals, and the message would likely have been diluted by the need to appeal to a broader audience. The viral spread would have been less organic, and the impact significantly diminished.",
+    "timingContext": {
+      "date": "2012-03-06",
+      "platform": "YouTube ONLY \u2014 no TV",
+      "estimatedSpend": 4500,
+      "adFrequency": "zero paid media \u2014 27M organic views",
+      "socialAmplification": "VIRAL \u2014 12,000 orders in first 48 hours, crashed their website",
+      "context": "Pre-DTC era. Shot for $4,500. YouTube-first. Proved you don't need Super Bowl money to reach millions. The authenticity WAS the targeting.",
+      "aftermath": "Unilever acquired DSC for $1 BILLION in 2016. Four years from a $4,500 video to a billion-dollar exit."
+    }
+  }
+}

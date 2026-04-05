@@ -1,0 +1,243 @@
+{
+  "ad": "Sandy Hook Promise \u2014 Back to School (2019)",
+  "category": "iconic",
+  "vibeScore": 518,
+  "dominantEmotion": "fear",
+  "scoredAt": "2026-04-04T18:42:36.921412",
+  "fileSize": "3.5MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.25,
+    "fear": 0.5,
+    "surprise": 0.25,
+    "sadness": 0.5,
+    "disgust": 0.25,
+    "anger": 0.35,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.5,
+      "surprise": 0.3,
+      "sadness": 0.6,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.5
+    },
+    "dominant": "sadness",
+    "arcShape": "decreasing",
+    "transcript": "This year, my mom got me the perfect bag for back to school. These colorful binders help me stay organized. These headphones are just what I need for studying. These new sneakers are just what I need for the new year. This jacket is a real must have. My parents got me the skateboard I wanted. It's pretty cool. These scissors really come in handy in art class. These colored pencils too. These new socks, they can be a real lifesaver. I love you mom. And I finally got my own phone to stay in touch with my mom.",
+    "segmentCount": 11
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.2,
+      "fear": 0.5,
+      "surprise": 0.2,
+      "sadness": 0.4,
+      "disgust": 0.3,
+      "anger": 0.3,
+      "anticipation": 0.3
+    },
+    "dominant": "fear",
+    "arcShape": "descending",
+    "segmentCount": 14
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.991,
+      0.854,
+      -0.353,
+      -0.421,
+      0.363,
+      0.545,
+      0.579,
+      0.579,
+      0.579,
+      0.579,
+      0.579
+    ],
+    "average": 0.443,
+    "assessment": "COMPLEMENTARY",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": -0.421,
+      "audio": "This jacket is a real must have. My parents got me the skateboard I wanted. It's pretty cool.",
+      "video": "A young boy holds a colored pencil. Two young women are injured in a hallway."
+    },
+    "maxAlignment": {
+      "timestamp": "0s",
+      "coherence": 0.991
+    }
+  },
+  "objects": {
+    "count": 10,
+    "top": [
+      {
+        "label": "backpack",
+        "confidence": 0.98
+      },
+      {
+        "label": "binders",
+        "confidence": 0.95
+      },
+      {
+        "label": "headphones",
+        "confidence": 0.95
+      },
+      {
+        "label": "sneakers",
+        "confidence": 0.95
+      },
+      {
+        "label": "jacket",
+        "confidence": 0.95
+      },
+      {
+        "label": "skateboard",
+        "confidence": 0.95
+      },
+      {
+        "label": "scissors",
+        "confidence": 0.95
+      },
+      {
+        "label": "colored pencils",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "binders",
+        "magnitude": 0.412,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "headphones",
+        "magnitude": 0.412,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "sneakers",
+        "magnitude": 0.412,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "jacket",
+        "magnitude": 0.412,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      },
+      {
+        "object": "skateboard",
+        "magnitude": 0.412,
+        "emotion": "fear",
+        "baseline": 0.1,
+        "contextual": 0.6,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "FrSd",
+        "name": "Despair",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.8,
+        "halfLife": 0.8
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.4,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "AgAn",
+        "name": "Aggressiveness",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.5,
+        "reactivity": 0.9,
+        "toxicity": 0.7,
+        "halfLife": 0.4
+      },
+      {
+        "formula": "FrAg",
+        "name": "Frozenness",
+        "type": "conflict",
+        "strength": 0.35,
+        "stability": 0.1,
+        "reactivity": 0.9,
+        "toxicity": 0.8,
+        "halfLife": 0.2
+      }
+    ],
+    "dominant": {
+      "formula": "FrSd",
+      "name": "Despair",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.7,
+      "reactivity": 0.4,
+      "toxicity": 0.8,
+      "halfLife": 0.8
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Parents, educators, and community members concerned about gun violence, primarily aged 30-65, skewing slightly towards female, middle to upper-middle class income, living in suburban or urban areas. They are likely politically active and engaged in social issues.",
+      "psychographics": "Values safety, community, and proactive solutions to social problems. Identify as responsible citizens and caring individuals. Aspire to create a safer environment for children and future generations. They are likely empathetic, compassionate, and action-oriented.",
+      "brandMeaning": "A trusted advocate for sensible gun violence prevention, offering hope and actionable steps to protect children and communities."
+    },
+    "adTargetAudience": {
+      "demographics": "Parents, educators, and young adults (15-35) who are digitally engaged and aware of social issues. Geographically diverse, but likely concentrated in areas with higher awareness of gun violence. Income is less of a factor than concern for safety.",
+      "psychographics": "Values authenticity, social responsibility, and proactive change. They are likely empathetic, concerned about the future, and willing to take action to prevent gun violence. They are also likely to be influenced by peer opinions and social media trends.",
+      "tone": "Urgent, unsettling, and thought-provoking, aiming to shock viewers into awareness and action."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's commitment to preventing gun violence and protecting children, aligning with the core audience's values and making them proud to support the organization.",
+    "actualResonance": "Individuals directly or indirectly affected by gun violence, particularly parents and students. Also, those who are already advocates for gun violence prevention and are looking for ways to raise awareness and support the cause.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "The ad's effectiveness in expanding reach outweighs the minimal risk of alienating the core audience, but be prepared for strong emotional reactions and potential controversy."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.0,
+    "detonationRadius": 1.0,
+    "timingContext": {
+      "date": "2016-12-02",
+      "platform": "YouTube (primary), TV (limited PSA)",
+      "adFrequency": "organic viral \u2014 100M+ views across platforms",
+      "socialAmplification": "MASSIVE \u2014 people shared with 'watch until the end' context",
+      "context": "Gun violence prevention PSA. Anniversary of Sandy Hook massacre. The 'twist' format subverted back-to-school ad expectations. Aired during heightened gun control debate.",
+      "culturalMoment": "Post-Pulse shooting, Sandy Hook anniversary, school safety debate"
+    }
+  }
+}

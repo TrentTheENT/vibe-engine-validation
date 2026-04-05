@@ -1,0 +1,254 @@
+{
+  "ad": "Ghostbusters (2016) \u2014 Official Trailer",
+  "category": "movie-trailers",
+  "contentType": "movie trailer",
+  "vibeScore": 661,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T21:55:29.170864",
+  "fileSize": "6.4MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.6,
+    "fear": 0.55,
+    "surprise": 0.6,
+    "sadness": 0.2,
+    "disgust": 0.3,
+    "anger": 0.4,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.6,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "That's a class for apparition. It's okay, she seems peaceful. My name is Erin Gilbert, doctor of particle physics. Get out! That stuff went everywhere, by the way, in every crack, very hard to wash off. We have dedicated our whole lives to studying the paranormal. Now there's sightings all over the city. There are people out there that need our help. Holtzman, you're a brilliant engineer. Oh! Erin, no one's better at quantum physics than you. We can provide a real service here. I'm joining the club. You guys are really smart about this science stuff, but I know New York. And I can borrow a car from my uncle. Ha! You didn't disclose that the vehicle was gonna be a hearse. It's a Cadillac! Let's go. Let's go. Oh, oh. Did you want to? I'll let you. I'll let you next time. Someone is creating a device that amplifies paranormal activity. And we might be the only ones who can stop it. Holtzman, come on. Is the hat is too much, right? These ghosts can possess the human form. Oh hell no, the devil is a liar. Get out of my friend! Ghost!",
+    "segmentCount": 26
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.5,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 47
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      0.958,
+      0.978,
+      0.954,
+      0.982,
+      0.943,
+      0.989,
+      0.986,
+      0.989,
+      0.989,
+      0.991,
+      0.991,
+      0.991,
+      0.98,
+      0.936,
+      0.924,
+      0.98,
+      0.928,
+      0.902,
+      0.902,
+      -1
+    ],
+    "average": 0.434,
+    "assessment": "COMPLEMENTARY"
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "Sony logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "ghostbusters logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Columbia Pictures logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "Village Roadshow Pictures logo",
+        "confidence": 0.99
+      },
+      {
+        "label": "car",
+        "confidence": 0.95
+      },
+      {
+        "label": "ghost",
+        "confidence": 0.9
+      },
+      {
+        "label": "actress",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Hope",
+        "strength": 0.68,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Anxiety",
+        "strength": 0.65,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Optimism",
+        "strength": 0.62,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Curiosity",
+        "strength": 0.6,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Submission",
+        "strength": 0.57,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Awe",
+        "strength": 0.57,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Aggressiveness",
+        "strength": 0.57,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Love",
+        "strength": 0.55,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.55,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Guilt",
+        "strength": 0.53,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Cynicism",
+        "strength": 0.53,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.5,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Dominance",
+        "strength": 0.5,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Unbelief",
+        "strength": 0.45,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Pride",
+        "strength": 0.45,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Shame",
+        "strength": 0.43,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Morbidity",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Contempt",
+        "strength": 0.35,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Hope",
+      "strength": 0.68,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Fans of the original Ghostbusters movies, primarily Gen X and older Millennials. Often male-skewing.",
+      "psychographics": "Nostalgic, appreciate humor and sci-fi/fantasy elements, enjoy ensemble casts and special effects.",
+      "brandMeaning": "Ghostbusters represents a blend of comedy, action, and the supernatural, with a focus on teamwork and overcoming the impossible. It's a cultural touchstone associated with childhood memories and a lighthearted approach to the paranormal."
+    },
+    "adTargetAudience": {
+      "demographics": "Broader audience including younger Millennials and Gen Z, both male and female. Those interested in comedy, action, and special effects-driven movies.",
+      "psychographics": "Open to reboots and remakes, appreciate diverse casts, enjoy modern humor and updated special effects.",
+      "tone": "Humorous, action-packed, inclusive, and appealing to a contemporary audience."
+    },
+    "audienceDistance": 6,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The all-female cast and updated humor may alienate some hardcore fans of the original movies who are resistant to change or feel the reboot doesn't capture the spirit of the original.",
+    "actualResonance": "Likely to resonate with a younger, more diverse audience who are open to a fresh take on the Ghostbusters franchise.",
+    "friendlyFireRisk": 5,
+    "marketExpansion": 7,
+    "verdict": "This trailer attempts to broaden the franchise's appeal to a younger and more diverse audience, but risks alienating some of the original fanbase due to the significant changes in cast and tone."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 7,
+    "costEfficiency": 4,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Anger/Resentment",
+    "culturalAlignment": -7,
+    "explanation": "The Ghostbusters trailer generated massive attention, but largely negative. The controversy surrounding the all-female cast, perceived disrespect to the original, and the resulting backlash amplified the trailer's reach far beyond its organic potential. This negative attention, however, did not translate into box office success, indicating a failure to convert attention into positive engagement. The high fatigue velocity reflects how quickly the initial outrage solidified into entrenched dislike, leading to a negative cultural alignment. The film's underperformance and subsequent reboot targeting original fans further underscore the miscalculation of cultural alignment.",
+    "whatIfScenario": "If the trailer had focused more on honoring the original while showcasing the new cast's comedic talent, and avoided divisive marketing tactics, the attention economy multiplier could have been closer to 1.5-2.0, leading to a more positive reception and potentially better box office results. A slower fatigue velocity would have allowed for more positive word-of-mouth to spread.",
+    "detonationRadius": 19.0,
+    "timingContext": {
+      "date": "2016-03-03",
+      "platform": "YouTube + theaters",
+      "context": "All-female reboot of beloved 1984 franchise. Trailer became most disliked YouTube video at the time. Core fans (men 30-50 who grew up with original) felt erased.",
+      "aftermath": "$229M worldwide vs $282M budget+marketing. Underperformed. Franchise rebooted AGAIN with Afterlife (2021) targeting original fans."
+    }
+  }
+}

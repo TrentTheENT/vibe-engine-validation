@@ -1,0 +1,237 @@
+{
+  "ad": "Mountain Dew \u2014 SEAL & Becky G",
+  "category": "superbowl-2025",
+  "vibeScore": 650,
+  "dominantEmotion": "surprise",
+  "scoredAt": "2026-04-04T18:07:59.667927",
+  "fileSize": "3.8MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.35,
+    "fear": 0.2,
+    "surprise": 0.65,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.65
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.4,
+      "fear": 0.2,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Mountain Dew Baja Blast. Refreshing. It's kissed by the perfect amount of tropical lime. Baja, Baja, Baja, Baja. Baby, I compare it to a kiss from a lime, on the bay. Ooh, the more I think of it, it's strange I'm a seal, yeah. My flippers can't hold Mountain Dew. It slips right on through, what a shame. There is so much a seal can tell you. So much he can say. Dew remains, my power, my pleasure, my flame. Well, this is the weirdest thing I've ever seen. Mountain Dew Baja Blast, a blast of tropical lime. Good looking seal. None of this makes sense.",
+    "segmentCount": 17
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 18
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.671,
+      0.984,
+      0.994,
+      0.963,
+      0.967,
+      0.973,
+      0.965,
+      0.952,
+      0.952,
+      0.975,
+      0.975,
+      0.952,
+      0.952,
+      0.952,
+      0.983,
+      0.977,
+      0.508
+    ],
+    "average": 0.923,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "80s",
+      "coherence": 0.508,
+      "audio": "Man says \"Good looking seal, none of this makes sense\"",
+      "video": "Product shot of Mountain Dew Baja Blast. Text overlays the screen with the words \"GRAB A BLAST OF TROPICAL LIME\"."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.994
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Mountain Dew Baja Blast bottle",
+        "confidence": 0.98
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "man in green fur coat",
+        "confidence": 0.95
+      },
+      {
+        "label": "motorboat",
+        "confidence": 0.95
+      },
+      {
+        "label": "seal with human face",
+        "confidence": 0.99
+      },
+      {
+        "label": "shark fins",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A woman is in a kitchen looking at her phone. A man in a green fur coat appears and offers her a Mountain Dew Baja Blast. She drinks it and is transported to a tropical paradise.",
+      "0:08-0:27 \u2014 A group of people are on a boat in a tropical paradise, drinking Mountain Dew Baja Blast. They pass a group of seals on a rock.",
+      "0:27-0:46 \u2014 A seal with a human face sings about Mountain Dew Baja Blast.",
+      "0:46-0:56 \u2014 Shark fins appear in the water near the boat and the seals on the rock.",
+      "0:56-1:12 \u2014 The seal with the human face continues to sing about Mountain Dew Baja Blast.",
+      "1:12-1:20 \u2014 The commercial ends with a shot of Mountain Dew Baja Blast and the tagline \"Grab a blast of tropical lime.\""
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.65,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.35,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.65,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Mountain Dew's core audience historically consists of young adults and teens, primarily male, aged 13-25, with a slightly lower to middle-class income. They are digitally native, active on social media, and often involved in extreme sports, gaming, and other high-energy activities.",
+      "psychographics": "They value individuality, authenticity, and a sense of adventure. They identify with a rebellious spirit and aspire to be seen as cool, edgy, and unconventional. They seek excitement, novelty, and a break from the mundane.",
+      "brandMeaning": "Mountain Dew represents a bold, energetic, and unconventional lifestyle. It's a symbol of pushing boundaries, embracing the extreme, and living life to the fullest. It signifies a rejection of the ordinary and an embrace of the extraordinary."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a similar demographic to Mountain Dew's core audience, but with a slightly broader appeal, including young adults aged 16-30, with a focus on those who appreciate humor, absurdity, and internet culture. It also aims to attract a more diverse audience, including more women and those interested in pop music.",
+      "psychographics": "The ad appeals to those who enjoy lighthearted humor, surrealism, and unexpected twists. It targets individuals who are open to new experiences, appreciate pop culture references, and are not easily offended by unconventional advertising. They value entertainment and are drawn to brands that don't take themselves too seriously.",
+      "tone": "The ad addresses the viewer with a playful, absurd, and humorous tone, creating a sense of shared amusement and lightheartedness."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The core audience might be confused by the ad's surreal and absurd nature. While they appreciate edginess, the talking seal and overall weirdness could be perceived as too far removed from the brand's traditional association with extreme sports and high-energy activities, leading them to question who the ad is truly for.",
+    "actualResonance": "This ad will likely resonate most with Gen Z and younger millennials who are active on social media, appreciate internet humor, and are open to unconventional advertising. It will also appeal to those who are fans of Becky G and pop music, potentially expanding Mountain Dew's reach to a more diverse audience.",
+    "friendlyFireRisk": 4,
+    "marketExpansion": 7,
+    "verdict": "The CMO should be aware that while this ad has the potential to expand Mountain Dew's audience, it also carries a moderate risk of alienating the core audience due to its highly unconventional and surreal nature."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 2,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 7.2,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny and instant memeification. The high cost means any misstep is amplified. While the celebrity pairing offers some cultural alignment, the 'confused' core reaction and friendly fire risk suggest the humor might not land, leading to negative social propagation and a wasteful spend. The ad's concept, while potentially memorable, could quickly become annoying with repeated exposure.",
+    "whatIfScenario": "If this ad ran on YouTube with targeted demographics, the cost would be significantly lower, allowing for A/B testing and refinement. The smaller initial audience would provide a buffer against widespread negative reactions, and the ability to pull or edit the ad would mitigate temporal compounding.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent.",
+      "slot": "Q2",
+      "estimatedSpend": 8000000,
+      "note": "Seal as literal seal \u2014 high-concept celebrity humor"
+    }
+  }
+}

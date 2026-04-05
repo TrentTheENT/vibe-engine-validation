@@ -1,0 +1,230 @@
+{
+  "ad": "Jeep \u2014 Harrison Ford",
+  "category": "superbowl-2025",
+  "vibeScore": 560,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:14:39.386066",
+  "fileSize": "8.0MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.5,
+    "fear": 0.15,
+    "surprise": 0.25,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "Longest thing we ever do is live our lives. But life doesn't come with an owner's manual. Might have been nice, huh? But that means we get to write our own stories. Freedom is... yes, or no, or maybe. Freedom is for everybody, but it isn't free. It's earned. There are real heroes in the world, but not the ones in the movies. Real heroes are humble. They're not driven by pride. Pride is a terrible driver. Freedom is the roar of one man's engine, and the silence of another's. Freedom is the ability to inspire. The most sacred thing in life isn't the path. It's the freedom to choose it. You don't have to be friends with someone to wave at them. We won't always agree on which way to go, but our differences can be our strength. So choose, but choose wisely. Choose what makes you happy. My friends, my family, my work make me happy. This Jeep makes me happy, even though my name is Ford. That's my owner's manual. Get out there, write your own.",
+    "segmentCount": 21
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "trust",
+    "arcShape": "peak",
+    "segmentCount": 32
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.812,
+      0.944,
+      0.874,
+      0.845,
+      0.836,
+      0.08,
+      0.921,
+      0.849,
+      0.931,
+      0.878,
+      0.938,
+      0.939,
+      0.899,
+      0.943,
+      0.915,
+      0.924,
+      0.878,
+      0.938,
+      0.935,
+      0.811,
+      0.829
+    ],
+    "average": 0.853,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.08,
+      "audio": "Voiceover continues: \"There are real heroes in the world, but not the ones in the movies.\"",
+      "video": "A montage of black and white war footage, showing tanks, soldiers, and explosions."
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.944
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "American flag",
+        "confidence": 0.98
+      },
+      {
+        "label": "coffee cup",
+        "confidence": 0.95
+      },
+      {
+        "label": "fireplace",
+        "confidence": 0.9
+      },
+      {
+        "label": "photograph",
+        "confidence": 0.85
+      },
+      {
+        "label": "Jeep Wrangler",
+        "confidence": 0.95
+      },
+      {
+        "label": "dog",
+        "confidence": 0.9
+      },
+      {
+        "label": "car charger",
+        "confidence": 0.8
+      },
+      {
+        "label": "Jeep key fob",
+        "confidence": 0.85
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 Harrison Ford is sitting at a table in a log cabin, talking about life and how it doesn't come with an owner's manual.",
+      "0:08-0:28 \u2014 He continues his monologue, emphasizing that we get to write our own stories and that freedom is a choice.",
+      "0:28-0:34 \u2014 The scene transitions to black and white footage of military vehicles and soldiers in action, highlighting the sacrifices made for freedom.",
+      "0:34-0:41 \u2014 Harrison Ford returns, discussing real heroes and how they are humble, not driven by pride. He picks up his jacket and keys.",
+      "0:41-0:45 \u2014 A soldier reunites with his daughter at an airport, symbolizing the personal connections that drive real heroism.",
+      "0:45-1:05 \u2014 Harrison Ford stands outside his cabin, emphasizing that pride is a terrible driver. The scene shifts to Jeeps driving through various terrains.",
+      "1:05-1:14 \u2014 The American flag waves in the wind, followed by Harrison Ford walking with his dog, discussing the freedom to choose one's path.",
+      "1:14-1:28 \u2014 Harrison Ford drives a Jeep, emphasizing that we don't have to agree with everyone but can still wave. He highlights that differences can be our strength.",
+      "1:28-1:44 \u2014 Harrison Ford charges his Jeep and gets in, stating that the Jeep makes him happy, even though his name is Ford.",
+      "1:44-2:00 \u2014 The dog is in the back seat. The Jeep drives off, and the Jeep logo appears with the tagline 'There's Only One.'"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.35,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.5,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Jeep's core audience typically consists of individuals aged 35-65, skewing slightly male (60/40 split), with a middle to upper-middle-class income ($75,000+). They often live in suburban or rural areas and enjoy outdoor activities.",
+      "psychographics": "They value freedom, adventure, ruggedness, and authenticity. They identify with a sense of independence and self-reliance, aspiring to explore and experience the world beyond the ordinary. They appreciate American-made products and a brand with a strong heritage.",
+      "brandMeaning": "Jeep represents freedom, adventure, and the ability to go anywhere and do anything. It's a symbol of American resilience and the spirit of exploration."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, particularly those aged 40+, appealing to their sense of nostalgia, patriotism, and appreciation for life's experiences. It also aims to reach younger audiences who admire Harrison Ford and his iconic roles.",
+      "psychographics": "The ad appeals to values such as freedom, resilience, humility, and the importance of living a meaningful life. It speaks to those who appreciate authenticity, experience, and the sacrifices made for freedom.",
+      "tone": "The ad adopts a reflective and inspirational tone, using Harrison Ford's gravitas to convey a message of hope and gratitude."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Jeep's core values of freedom and adventure while honoring American heroes. The use of Harrison Ford, an iconic figure known for his adventurous roles, will resonate positively with the existing customer base, making them feel proud to be associated with the brand.",
+    "actualResonance": "The ad will resonate most strongly with middle-aged and older adults who appreciate Harrison Ford's career and the themes of freedom and resilience. It will also appeal to veterans and their families, as well as anyone who values American ideals and a sense of adventure.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This ad is a safe bet that leverages nostalgia and patriotism to reinforce brand values and expand reach without alienating the core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to Neutrality",
+    "detonationRadius": 5.6,
+    "explanation": "The Super Bowl provides massive reach, but also intense scrutiny and immediate social amplification. While the audience alignment is generally positive (validated core reaction, market expansion), the high cost and potential for mistakes to become memes create a significant attention economy multiplier. The Harrison Ford association likely provides a boost, but the ad needs to be exceptionally well-received to justify the cost and avoid becoming a target of criticism.",
+    "whatIfScenario": "If this ad ran on YouTube with targeted demographics, the reach would be lower, but the cost would be drastically reduced. The contextual vulnerability would also decrease, as the audience would be less primed for critical review. This would result in a lower attention economy multiplier, but a potentially higher ROI if the ad resonated well with the targeted audience.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

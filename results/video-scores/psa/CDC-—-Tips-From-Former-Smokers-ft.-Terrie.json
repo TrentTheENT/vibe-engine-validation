@@ -1,0 +1,131 @@
+{
+  "ad": "CDC \u2014 Tips From Former Smokers ft. Terrie",
+  "category": "psa",
+  "contentType": "public service announcement",
+  "vibeScore": 532,
+  "dominantEmotion": "disgust",
+  "scoredAt": "2026-04-04T23:26:50.155648",
+  "fileSize": "0.8MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.65,
+    "surprise": 0.0,
+    "sadness": 0.7,
+    "disgust": 0.75,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.7,
+      "surprise": 0.0,
+      "sadness": 0.7,
+      "disgust": 0.7,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "fear",
+    "arcShape": "crescendo",
+    "transcript": "I had a lot of friends. I was a cheerleader. I was on the homecoming court. It breaks my heart to see teenagers smoking. Because I started smoking when I was a teenager. You can quit. For free help visit cdc.gov/tips.",
+    "segmentCount": 5
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.6,
+      "surprise": 0.0,
+      "sadness": 0.7,
+      "disgust": 0.8,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "disgust",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.033,
+      0.033,
+      0.033,
+      0.997,
+      -1
+    ],
+    "average": 0.019,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Remorse",
+        "strength": 0.72,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Shame",
+        "strength": 0.7,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Despair",
+        "strength": 0.68,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Remorse",
+      "strength": 0.72,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Adults, all ages, who are current smokers or former smokers.",
+      "psychographics": "Individuals who are concerned about their health, motivated to quit smoking, or seeking support in their journey to quit. They value health, longevity, and well-being.",
+      "brandMeaning": "The CDC's 'Tips From Former Smokers' campaign aims to educate the public about the dangers of smoking and encourage smokers to quit by sharing real stories of individuals who have suffered from smoking-related illnesses."
+    },
+    "adTargetAudience": {
+      "demographics": "Teenagers and young adults who are either considering starting smoking or have recently started. Also, current smokers of all ages.",
+      "psychographics": "Individuals who may be influenced by peer pressure, social trends, or misconceptions about the risks of smoking. The tone is cautionary and empathetic, aiming to deter young people from starting and encourage current smokers to quit.",
+      "tone": "Serious, cautionary, and empathetic."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the dangers of smoking and validates the experiences of former smokers who have suffered from smoking-related illnesses. It provides a strong message against smoking and encourages smokers to quit.",
+    "actualResonance": "Current smokers, especially those who are experiencing health problems or considering quitting, and teenagers who are at risk of starting to smoke.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This PSA is effective in reaching both its core audience of current and former smokers and expanding its reach to teenagers and young adults, delivering a powerful message about the dangers of smoking."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 0.6,
+    "costEfficiency": 0.9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "apathy",
+    "culturalAlignment": 3,
+    "explanation": "Given the low-risk audience and validated reaction, the PSA is likely to be received well but not amplified significantly. The fatigue velocity is moderate, suggesting that repeated exposure will lead to diminishing returns. Cultural alignment is positive, indicating that the message resonates with current social values.",
+    "whatIfScenario": "If the audience had a higher risk profile (e.g., current smokers), the attention economy multiplier could increase significantly, potentially leading to a higher reach score but also a higher fatigue velocity.",
+    "detonationRadius": 1.8,
+    "timingContext": {
+      "context": "Category: psa"
+    }
+  }
+}

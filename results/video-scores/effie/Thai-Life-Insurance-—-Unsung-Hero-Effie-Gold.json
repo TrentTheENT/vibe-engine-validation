@@ -1,0 +1,129 @@
+{
+  "ad": "Thai Life Insurance \u2014 Unsung Hero (Effie Gold)",
+  "category": "effie",
+  "contentType": "advertisement",
+  "vibeScore": 286,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T22:09:15.005502",
+  "fileSize": "9.0MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.25,
+    "fear": 0.05,
+    "surprise": 0.1,
+    "sadness": 0.1,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.2
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "trust",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 60
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "thai life insurance logo",
+        "confidence": 0.95
+      },
+      {
+        "label": "dog",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "man",
+        "magnitude": 0.616,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "thai life insurance logo",
+        "magnitude": 0.361,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "dog",
+        "magnitude": 0.316,
+        "emotion": "trust",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05 \u2014 A man walking down the street gets dripped on by water from a leaky pipe.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Thai citizens, all ages, socioeconomic status varies, but generally middle to lower income.",
+      "psychographics": "Value community, family, and helping others. Appreciate stories that evoke emotion and reflect Thai values. Seek security and stability in life, which is reflected in their choice of insurance.",
+      "brandMeaning": "Thai Life Insurance represents security, care, and a commitment to the well-being of the Thai people. It embodies traditional Thai values of compassion and community support."
+    },
+    "adTargetAudience": {
+      "demographics": "Thai citizens, all ages, socioeconomic status varies, with a focus on those who may be struggling or facing challenges. Appeals to a broad audience.",
+      "psychographics": "Aimed at individuals who are empathetic, compassionate, and value kindness and generosity. Those who are moved by stories of everyday heroism and believe in the power of small acts of kindness.",
+      "tone": "Heartwarming, emotional, inspiring, and thought-provoking. Aims to evoke feelings of hope and encourage positive action."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "EMBRACED",
+    "coreReactionExplanation": "The ad reinforces the brand's core values of compassion and community support, resonating deeply with its existing customer base. It validates their belief in the power of good deeds and aligns with their cultural values.",
+    "actualResonance": "Will resonate with a broad audience, particularly those who appreciate heartwarming stories and value kindness. It has the potential to inspire viewers to engage in acts of generosity and compassion.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces Thai Life Insurance's core values and has the potential to attract new customers by showcasing the brand's commitment to compassion and community support, while also retaining its core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 4.0,
+    "costEfficiency": 4.5,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Sentimentalism/Cynicism",
+    "culturalAlignment": 8,
+    "explanation": "The 'Unsung Hero' ad leverages universal values (kindness, selflessness) within a specific cultural context (Thai advertising tradition of emotional storytelling). The high organic view count (150M+) indicates strong initial engagement and virality. The low FF Risk and positive audience reaction (EMBRACED) suggest a high degree of resonance. The distance score of 2/10 indicates the story is relatable and not too foreign. However, the emotional intensity and lack of direct product tie-in could lead to fatigue upon repeated viewing, potentially inverting into sentimentalism or even cynicism. The cultural alignment is high because it taps into existing cultural values and advertising norms in Thailand, then translates globally.",
+    "whatIfScenario": "If the ad had been released during a period of heightened political or social unrest in Thailand, the emotional message might have been perceived as tone-deaf or exploitative, leading to a lower attentionEconomyMultiplier and a negative culturalAlignment score.",
+    "detonationRadius": 3.5,
+    "timingContext": {
+      "date": "2014-03-03",
+      "platform": "YouTube (Thailand \u2192 global)",
+      "adFrequency": "150M+ organic views",
+      "context": "Thai advertising tradition. No product until final card."
+    }
+  }
+}

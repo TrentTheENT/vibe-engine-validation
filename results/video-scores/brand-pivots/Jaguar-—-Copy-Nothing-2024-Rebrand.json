@@ -1,0 +1,134 @@
+{
+  "ad": "Jaguar \u2014 Copy Nothing (2024 Rebrand)",
+  "category": "brand-pivots",
+  "contentType": "brand identity video",
+  "vibeScore": 136,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T21:59:08.412454",
+  "fileSize": "2.1MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.15,
+    "fear": 0.05,
+    "surprise": 0.2,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.05,
+    "anticipation": 0.25
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 5
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 2,
+    "top": [
+      {
+        "label": "people",
+        "confidence": 0.99
+      },
+      {
+        "label": "jaguar logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "people",
+        "magnitude": 0.387,
+        "emotion": "surprise",
+        "direction": "amplified"
+      },
+      {
+        "object": "jaguar logo",
+        "magnitude": 0.224,
+        "emotion": "joy",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 A group of diverse models in colorful outfits emerge from a yellow box in a surreal landscape, with the text 'create exuberant' appearing on screen.",
+      "0:05-0:10 \u2014 A model in a red dress with elaborate ruffles poses against an orange background, followed by the text 'live vivid'.",
+      "0:10-0:17 \u2014 A model in a red suit walks in front of a red and white striped wall, with the text 'delete ordinary' appearing. Then, a model in an orange dress walks down a blue hallway with a sledgehammer, and the text 'break moulds' appears.",
+      "0:17-0:29 \u2014 The group of models poses in the surreal landscape, followed by the text 'copy nothing' and the Jaguar logo."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent consumers, 35-65, skewing slightly male.",
+      "psychographics": "Value luxury, performance, and sophisticated design. Seek status and recognition. Appreciate heritage and craftsmanship.",
+      "brandMeaning": "Jaguar represents a blend of British heritage, refined luxury, and exhilarating performance. It signifies success and a discerning taste."
+    },
+    "adTargetAudience": {
+      "demographics": "Younger, affluent consumers, 25-45, both male and female. Globally minded.",
+      "psychographics": "Value individuality, creativity, and self-expression. Seek brands that align with their values and make a statement. Embrace diversity and inclusivity.",
+      "tone": "Bold, unconventional, and aspirational. Celebrates individuality and challenges norms."
+    },
+    "audienceDistance": 6,
+    "coreReaction": "NEUTRAL",
+    "coreReactionExplanation": "The ad's focus on avant-garde fashion and inclusivity might not immediately resonate with the traditional Jaguar customer. While they appreciate luxury, the bold and unconventional style could be perceived as a departure from the brand's classic image.",
+    "actualResonance": "Younger, design-conscious consumers who are drawn to brands that prioritize individuality and social responsibility. Those who appreciate high fashion and artistic expression.",
+    "friendlyFireRisk": 4,
+    "marketExpansion": 7,
+    "verdict": "This ad attempts to broaden Jaguar's appeal to a younger, more diverse audience by emphasizing individuality and creativity, but it risks alienating some of its traditional customer base in the process."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 7.0,
+    "costEfficiency": 2.0,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "annoyance",
+    "culturalAlignment": -8,
+    "explanation": "The 'Copy Nothing' rebrand, launched on YouTube and social media, backfired spectacularly. The core audience of luxury car enthusiasts felt alienated by the abandonment of Jaguar's heritage, while the targeted younger demographic, though receptive to the inclusive messaging, lacks the purchasing power for Jaguar vehicles. The online backlash, exacerbated by figures like Elon Musk, amplified the negative sentiment, leading to reported order declines. The high attentionEconomyMultiplier reflects the catastrophic amplification of negative attention. The reach score is relatively high due to the controversy. Cost efficiency is low because the campaign failed to achieve its objectives. Fatigue velocity is high because the message quickly became irritating. Cultural alignment is deeply negative due to the disconnect with the brand's established identity and customer base.",
+    "whatIfScenario": "If Jaguar had introduced the new brand identity alongside a new, more accessible vehicle line aimed at the younger demographic, the backlash might have been mitigated. A phased approach, retaining some heritage elements while introducing the new direction, could have also softened the blow to the existing customer base.",
+    "detonationRadius": 16.8,
+    "timingContext": {
+      "date": "2024-11-19",
+      "platform": "YouTube + social",
+      "context": "Heritage luxury brand abandoning all heritage visual identity. No cars shown. 'Copy Nothing' manifesto. Core audience (luxury car enthusiasts 45-65) felt BETRAYED. New audience (young, creative, inclusive) applauded but don't buy $80K cars.",
+      "aftermath": "Massive online backlash. Elon Musk mocked it. Orders reportedly down. The Bud Light of automotive."
+    }
+  }
+}

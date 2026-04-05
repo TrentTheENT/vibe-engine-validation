@@ -1,0 +1,132 @@
+{
+  "ad": "Lincoln Project \u2014 Anti-Trump Ad (2020)",
+  "category": "political",
+  "contentType": "political advertisement",
+  "vibeScore": 150,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T23:26:30.025746",
+  "fileSize": "80.0MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "sadness": 0.0,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.0
+  },
+  "audio": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "transcript": "",
+    "segmentCount": 0
+  },
+  "video": {
+    "overall": {},
+    "dominant": "joy",
+    "arcShape": "unknown",
+    "segmentCount": 0
+  },
+  "phaseCoherence": {
+    "perSegment": [],
+    "average": 0,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "U.S. Capitol Building",
+        "confidence": 0.99
+      },
+      {
+        "label": "the lincoln project",
+        "confidence": 0.98
+      },
+      {
+        "label": "rick wilson",
+        "confidence": 0.98
+      },
+      {
+        "label": "security fence",
+        "confidence": 0.99
+      },
+      {
+        "label": "American flag",
+        "confidence": 0.99
+      },
+      {
+        "label": "microphone",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "American flag",
+        "magnitude": 1.723,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "U.S. Capitol Building",
+        "magnitude": 1.691,
+        "emotion": "fear",
+        "direction": "amplified"
+      },
+      {
+        "object": "security fence",
+        "magnitude": 1.6,
+        "emotion": "fear",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "scene": "0:00-0:05 \u2014 description",
+        "description": "A man with glasses and a beard is standing in front of the U.S. Capitol Building and speaking to the camera. He is wearing a purple button-down shirt and jeans. There is a black metal fence in the foreground and trees in the background. The man makes a mistake and sticks his tongue out."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Educated, politically engaged, older (45+), suburban and urban, moderate to liberal leaning.",
+      "psychographics": "Values democracy, rule of law, and traditional conservative principles. Disenchanted with the current state of the Republican party and Trumpism. Sees the Lincoln Project as a voice of reason and a defender of American institutions.",
+      "brandMeaning": "A return to traditional conservative values and a rejection of Trumpism."
+    },
+    "adTargetAudience": {
+      "demographics": "Likely the same as the core audience, but perhaps with a stronger emphasis on those who are already highly engaged with the Lincoln Project's content and messaging.",
+      "psychographics": "Deeply concerned about the future of American democracy and motivated to take action to prevent a return to Trumpism. Responds to strong, direct language and appeals to patriotism and civic duty.",
+      "tone": "Serious, urgent, and accusatory."
+    },
+    "audienceDistance": 1,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The content reinforces the core audience's existing beliefs about Trump and the threat he poses to democracy. The strong language and direct accusations will likely resonate with their existing frustrations and concerns.",
+    "actualResonance": "Likely to resonate strongly with the core audience and those who already agree with the Lincoln Project's messaging. May also appeal to some moderate Republicans who are concerned about the direction of the party.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 3,
+    "verdict": "This content effectively reinforces the Lincoln Project's message to its core audience, but is unlikely to significantly expand its reach beyond those already aligned with its views."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 9.0,
+    "costEfficiency": 9.5,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Annoyance/Dismissal",
+    "culturalAlignment": -3,
+    "explanation": "The Lincoln Project ad campaign achieved catastrophic amplification due to its novel strategy of targeting a single, highly reactive individual (Trump) to generate widespread earned media. The low risk and distance scores indicate a focused and effective targeting strategy. The validation of the approach is evident in the massive view count and earned media coverage. The negative cultural alignment reflects the divisive nature of the content.",
+    "whatIfScenario": "If the Lincoln Project ads had targeted a broader audience with less inflammatory content, the initial reach might have been lower, but the fatigue velocity would likely be slower, leading to more sustained engagement and potentially broader cultural acceptance over time. However, it would not have achieved the same level of immediate, viral attention.",
+    "detonationRadius": 4.5,
+    "timingContext": {
+      "date": "2020",
+      "platform": "YouTube + TV + social",
+      "context": "Republican strategists making anti-Trump ads aimed at Trump's OWN base. Deliberately designed to get under Trump's skin. Targeted audience of ONE (Trump) to generate free media.",
+      "aftermath": "Over 1B video views. Generated more earned media than any political PAC in history. Proved political ads can target an audience of one."
+    }
+  }
+}

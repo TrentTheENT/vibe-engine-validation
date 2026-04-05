@@ -1,0 +1,228 @@
+{
+  "ad": "OREO \u2014 ft. Post Malone",
+  "category": "superbowl-2025",
+  "vibeScore": 680,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:10:57.723268",
+  "fileSize": "1.8MB",
+  "consensus": {
+    "joy": 0.45,
+    "trust": 0.4,
+    "fear": 0.15,
+    "surprise": 0.65,
+    "sadness": 0.05,
+    "disgust": 0.05,
+    "anger": 0.1,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.7,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Truck engine sound, Sound of climbing, \"Finally\", \"Best Oreo Ever\", Sound of machine, music, \"Did I just create the best Oreo ever?\", Music, \"In stores now\"",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.925,
+      0.622,
+      0.936,
+      0.871,
+      0.981,
+      0.977
+    ],
+    "average": 0.885,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.622,
+      "audio": "Sound of climbing, \"Finally\"",
+      "video": "A person rappels down a dark, rocky cliff face. The camera focuses on the climber, who is revealed to be Post Malone, we"
+    },
+    "maxAlignment": {
+      "timestamp": "20s",
+      "coherence": 0.981
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "Oreo cookie",
+        "confidence": 0.98
+      },
+      {
+        "label": "pickup truck",
+        "confidence": 0.95
+      },
+      {
+        "label": "man",
+        "confidence": 0.98
+      },
+      {
+        "label": "rope",
+        "confidence": 0.85
+      },
+      {
+        "label": "mining helmet",
+        "confidence": 0.9
+      },
+      {
+        "label": "molten metal",
+        "confidence": 0.95
+      },
+      {
+        "label": "apron",
+        "confidence": 0.8
+      },
+      {
+        "label": "Oreo Post Malone package",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 The scene opens with a truck parked in a desolate landscape, a giant Oreo cookie in the background. A man with a beard exits the truck and walks towards the camera. The camera zooms in on the giant Oreo cookie. A man rappels down a dark, rocky cliff. He finds a crystal and smiles.",
+      "0:08-0:24 \u2014 A man in an apron puts the crystal into a furnace. He pours molten metal into an Oreo mold. He is strapped into a machine. A spiral of cream is shown, surrounded by Oreo cookies. A hot stamp is used to imprint a design on an Oreo cookie.",
+      "0:24-0:30 \u2014 Post Malone holds up an Oreo cookie and asks if he created the best Oreo ever. A package of Oreo Post Malone cookies is shown."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.65,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.45,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.65,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Families with children, millennials, and Gen X individuals; skewing slightly female; middle to upper-middle class income; suburban and urban lifestyles.",
+      "psychographics": "Values tradition, comfort, and simple pleasures; identifies with nostalgia and shared experiences; aspires to create happy moments and connect with loved ones.",
+      "brandMeaning": "Oreo represents a classic, comforting treat that evokes feelings of childhood nostalgia, family bonding, and simple joy. It's a symbol of shared moments and playful indulgence."
+    },
+    "adTargetAudience": {
+      "demographics": "Gen Z and younger millennials (16-30 years old); digitally native; diverse backgrounds; interested in music, pop culture, and viral trends.",
+      "psychographics": "Values authenticity, creativity, and self-expression; identifies with internet culture and celebrity endorsements; aspires to be unique and stay ahead of trends.",
+      "tone": "Playful, irreverent, and slightly absurd, appealing to a sense of humor and a desire for novelty."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The ad's surreal humor and Post Malone collaboration might feel out of sync with the brand's traditional image, leaving the core audience wondering if Oreo is trying too hard to be 'cool'.",
+    "actualResonance": "Gen Z and younger millennials who are fans of Post Malone and appreciate the ad's quirky, unexpected humor. It will also resonate with those who enjoy viral marketing campaigns and are open to new Oreo flavors and experiences.",
+    "friendlyFireRisk": 3,
+    "marketExpansion": 7,
+    "verdict": "This ad risks alienating some of the core audience with its unconventional approach, but it has the potential to significantly expand Oreo's reach among younger demographics."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 8,
+    "socialPropagation": 9,
+    "temporalCompounding": 9,
+    "frequencyPressure": 3,
+    "culturalAlignment": -2,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Confusion decays to Annoyance",
+    "detonationRadius": 5.4,
+    "explanation": "The Super Bowl provides massive reach, but the high cost and intense scrutiny create a high-pressure environment. The 'CONFUSED' core reaction and slight negative cultural alignment suggest the ad might not resonate well, leading to wasted ad spend and potential negative social media amplification. While the single airing limits frequency pressure, the permanent nature of Super Bowl ads means any misstep will be widely remembered. The attention economy multiplier is 1.8, indicating a moderate amplification of both positive and negative effects.",
+    "whatIfScenario": "If this ad ran on YouTube with a targeted audience that aligns with Post Malone's fanbase, the 'CONFUSED' reaction might be mitigated, leading to better engagement and a more positive ROI. The lower cost and less critical environment would reduce the contextual vulnerability and temporal compounding.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

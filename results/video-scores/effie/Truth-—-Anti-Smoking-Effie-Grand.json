@@ -1,0 +1,158 @@
+{
+  "ad": "Truth \u2014 Anti-Smoking (Effie Grand)",
+  "category": "effie",
+  "contentType": "advertisement",
+  "vibeScore": 530,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:09:36.914398",
+  "fileSize": "1.0MB",
+  "consensus": {
+    "joy": 0.1,
+    "trust": 0.2,
+    "fear": 0.25,
+    "surprise": 0.25,
+    "sadness": 0.2,
+    "disgust": 0.35,
+    "anger": 0.35,
+    "anticipation": 0.45
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.3,
+      "fear": 0.2,
+      "surprise": 0.2,
+      "sadness": 0.2,
+      "disgust": 0.3,
+      "anger": 0.3,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Breathe in and know that vaping nicotine can actually increase feelings of stress. Yet some vape companies get rich telling you it's a stress reliever. So let's call it what it is. It's a breath of stress air.",
+    "segmentCount": 3
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.3,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.4,
+      "anger": 0.4,
+      "anticipation": 0.5
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 3
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.656,
+      0.847,
+      0.89
+    ],
+    "average": 0.798,
+    "assessment": "SYNCHRONIZED"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "vape",
+        "confidence": 0.99
+      },
+      {
+        "label": "money",
+        "confidence": 0.99
+      },
+      {
+        "label": "truth brand logo",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "truth brand logo",
+        "magnitude": 1.794,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "money",
+        "magnitude": 1.673,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "vape",
+        "magnitude": 0.949,
+        "emotion": "fear",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Aggressiveness",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Cynicism",
+        "strength": 0.4,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Contempt",
+        "strength": 0.35,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Aggressiveness",
+      "strength": 0.4,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Teenagers and young adults (13-24 years old)",
+      "psychographics": "Individuals who are health-conscious, socially aware, and skeptical of corporate messaging. They value authenticity, transparency, and peer influence.",
+      "brandMeaning": "Truth is a brand that empowers young people to make informed decisions about tobacco and vaping by exposing the manipulative tactics of the tobacco industry. It aims to create a social movement against tobacco use."
+    },
+    "adTargetAudience": {
+      "demographics": "Teenagers and young adults (13-24 years old) who are either currently vaping or considering vaping.",
+      "psychographics": "Individuals who may be experiencing stress and are looking for ways to cope, possibly influenced by the perception that vaping is a stress reliever. They are likely exposed to pro-vaping messaging from vape companies.",
+      "tone": "Sarcastic, humorous, and direct, aiming to debunk the myth that vaping reduces stress."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad aligns with Truth's core message of exposing the deceptive practices of the tobacco industry, which will resonate positively with its core audience.",
+    "actualResonance": "The ad will likely resonate with young people who are open to questioning the perceived benefits of vaping and are receptive to anti-vaping messaging presented in a humorous and engaging way.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad effectively reinforces Truth's brand message while using a modern, humorous approach to engage a broader audience and challenge the false narrative of vaping as a stress reliever."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.5,
+    "reachScore": 7,
+    "costEfficiency": 6,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "cynicism",
+    "culturalAlignment": 5,
+    "explanation": "The 'Truth' campaign was effective in its time due to its provocative and irreverent tone, resonating with teens. The validated reaction and moderate distance suggest good initial engagement. However, the repetitive nature of PSAs and the potential for desensitization lead to a moderate fatigue velocity and a possible shift towards cynicism with repeated exposure. The cultural alignment is positive, as anti-smoking messages generally receive societal support. The attention economy multiplier reflects the campaign's ability to capture attention but also acknowledges the limitations of PSA fatigue.",
+    "whatIfScenario": "If the campaign had incorporated more user-generated content or interactive elements, the fatigue velocity might have been lower, and the repetition inversion could have been something more positive like empowerment.",
+    "detonationRadius": 2.5,
+    "timingContext": {
+      "date": "2014-2020",
+      "platform": "TV + digital",
+      "context": "Anti-tobacco PSA campaign. Targeted teens with provocative, irreverent tone."
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "ad": "Pepsi \u2014 Cindy Crawford (Super Bowl 1992)",
+  "category": "iconic",
+  "vibeScore": 655,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:32:20.478756",
+  "fileSize": "2.2MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.4,
+    "fear": 0.1,
+    "surprise": 0.5,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "steady",
+    "transcript": "Static. Great new Pepsi can are one. Introducing a whole new way to look at Pepsi and Diet Pepsi. It's beautiful.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "increasing",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.868,
+      0.737,
+      0.864,
+      0.938,
+      0.98,
+      0.589,
+      0.964,
+      0.995,
+      0.642,
+      0.993,
+      0.989,
+      0.801
+    ],
+    "average": 0.863,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.589,
+      "audio": "Music continues with a joyful and anticipatory tone",
+      "video": "The children look surprised and excited. The woman approaches a Pepsi vending machine."
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.995
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Halfway Cafe sign",
+        "confidence": 0.95
+      },
+      {
+        "label": "red Lamborghini",
+        "confidence": 0.98
+      },
+      {
+        "label": "wooden fence",
+        "confidence": 0.9
+      },
+      {
+        "label": "Cindy Crawford",
+        "confidence": 0.99
+      },
+      {
+        "label": "Pepsi vending machine",
+        "confidence": 0.95
+      },
+      {
+        "label": "Pepsi can",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A red Lamborghini screeches to a halt in front of the Halfway Cafe. Two children watch from behind a fence.",
+      "0:08-0:14 \u2014 Cindy Crawford emerges from the Lamborghini.",
+      "0:14-0:28 \u2014 The children watch Cindy Crawford as she walks around the cafe.",
+      "0:28-0:40 \u2014 Cindy Crawford gets a Pepsi from the vending machine and drinks it.",
+      "0:40-0:58 \u2014 The children continue to watch Cindy Crawford, who is drinking Pepsi.",
+      "0:58-1:00 \u2014 End screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.55,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Pepsi has targeted a younger demographic, primarily teenagers and young adults (13-35), across genders, with a focus on middle-income consumers. They are often urban or suburban dwellers.",
+      "psychographics": "Pepsi's core audience values excitement, trendiness, and a sense of belonging. They identify with popular culture, music, and entertainment. They aspire to be seen as cool, modern, and in the know.",
+      "brandMeaning": "Pepsi represents youthful rebellion, fun, and a refreshing alternative to traditional choices. It's a symbol of being current and connected to what's happening."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, leveraging Cindy Crawford's widespread appeal. It specifically aims at young adults (18-35) and men, but also appeals to women who admire Crawford. The aspirational lifestyle portrayed likely targets middle to upper-middle-class consumers.",
+      "psychographics": "The ad appeals to values of beauty, aspiration, and the enjoyment of simple pleasures. It taps into the desire for status and admiration, associating Pepsi with a glamorous and desirable lifestyle. The tone is playful and suggestive.",
+      "tone": "The tone is aspirational, playful, and subtly suggestive, using Cindy Crawford's sex appeal to draw attention."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Pepsi's image as a cool and desirable brand. Featuring a supermodel like Cindy Crawford drinking Pepsi validates the consumer's choice and makes them feel like they are part of a desirable lifestyle. It aligns with the brand's existing image of youthfulness and trendiness.",
+    "actualResonance": "This ad resonated most strongly with young adults (18-35), particularly men, who were drawn to Cindy Crawford's appeal. It also resonated with women who admired Crawford and aspired to a similar lifestyle. The broad appeal of the ad meant it also reached a wider audience interested in popular culture and celebrity endorsements.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a low-risk, high-reward play that leverages celebrity appeal to reinforce the brand's image and broaden its reach without alienating its core audience."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 6,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 8,
+    "frequencyPressure": 2,
+    "culturalAlignment": -9,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Hope decays to Anger and Disgust",
+    "detonationRadius": 3.5,
+    "explanation": "The Pepsi Kendall Jenner ad was a masterclass in negative attention economy amplification. While the ad itself was competently produced, its tone-deaf approach to the Black Lives Matter movement created a firestorm. The high reach of YouTube, combined with the instant and widespread social media backlash, turned a simple ad into a PR disaster. The Streisand Effect ensured that pulling the ad only amplified its reach and negative impact, making it a textbook example of how cultural misalignment can destroy an ad's effectiveness and damage a brand.",
+    "whatIfScenario": "If the ad had been released during a period of relative social calm, or if it had addressed a less sensitive topic, the backlash would have been significantly reduced. A focus on general unity or a less politically charged theme might have allowed the ad's message to be received without the intense negative scrutiny.",
+    "timingContext": {
+      "date": "2017-04-04",
+      "platform": "YouTube (primary), pulled within 24 hours",
+      "estimatedSpend": 5000000,
+      "adFrequency": "aired ONCE then pulled \u2014 but Streisand Effect made it the most-watched ad of 2017",
+      "socialAmplification": "CATASTROPHIC \u2014 Bernice King tweeted 'If only Daddy had known about the power of Pepsi' \u2014 400K+ retweets",
+      "context": "Black Lives Matter protests were active. Kendall Jenner solving police tension with a Pepsi was read as trivializing civil rights. The ad was COMPETENTLY MADE \u2014 high production, great music, perfect sync. The failure was purely targeting/cultural.",
+      "culturalMoment": "BLM movement, police violence protests, celebrity activism debate",
+      "aftermath": "Pulled in <24hrs. Pepsi apologized. Creative agency dissolved. CMO departed within months. Became textbook case in advertising schools worldwide."
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "ad": "United Airlines \u2014 Passenger Dragged Off Flight (2017)",
+  "category": "crisis-responses",
+  "contentType": "corporate crisis response",
+  "vibeScore": 132,
+  "dominantEmotion": "anger",
+  "scoredAt": "2026-04-04T23:22:15.170698",
+  "fileSize": "7.5MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.15,
+    "surprise": 0.05,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.25,
+    "anticipation": 0.1
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.0,
+      "surprise": 0.0,
+      "sadness": 0.0,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.0
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "have to work tomorrow. Tonight, new video taken moments before Sunday's altercation on a United Airlines flight. No, I'm not going. I am not going. We now know the passenger is 69 year old Dr. David Dow of Kentucky. Fellow passengers say Dr. Dow and his wife at first accepted United's offer of $800 each to voluntarily give up their seats for crew members, but returned when they realized they wouldn't get home in time for work. I fly from LA, take a long flight. Moments later, airport security, not police officers, dragged him out of his seat. Oh my God, what are you doing? The video of Dr. Dow appearing unconscious and bloodied quickly went viral. In China, a critical market for United Airlines, social media exploded on concern Dr. Dow was singled out for being Asian. With calls for a United boycott. Today, after first blaming Dr. Dow for the incident, United Airlines CEO Oscar Munoz changed his tone. In a statement saying, I deeply apologize to the customer forcibly removed and to all other customers aboard. Munoz is now promising a full investigation with the results by April 30th saying, I have committed to our customers and our employees that we are going to fix what's broken so this never happens again. The flight attendance union applauded. This was inexcusable from start to finish. Um, it was not right. It's being looked at, uh, procedures are going to be changed, uh, training is going to be better. Meanwhile, it turns out Dr. Dow has a checkered history in Kentucky. In 2004, he was convicted of trafficking in prescription drugs, placed on probation and had his medical license suspended. He resumed practicing in 2015. But it's United's handling of the way he was treated on board flight 3411 that has led to an all out public relations disaster. NBC News fans, thanks for checking out our YouTube channel. Subscribe by clicking on that button down here, and click on any of the videos over here to watch the latest interviews, show highlights and digital exclusives. Thanks for watching.",
+    "segmentCount": 24
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.3,
+      "surprise": 0.1,
+      "sadness": 0.2,
+      "disgust": 0.4,
+      "anger": 0.5,
+      "anticipation": 0.2
+    },
+    "dominant": "anger",
+    "arcShape": "peak",
+    "segmentCount": 43
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -1.0,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [],
+    "dominant": null
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle to upper-class Americans, 25-65, with a slight skew towards older demographics. Frequent travelers, both for business and leisure.",
+      "psychographics": "Value convenience, reliability, and safety in air travel. Appreciate established brands and are willing to pay a premium for perceived quality and service. Tend to be more traditional and risk-averse.",
+      "brandMeaning": "United represents a reliable and established airline that provides a safe and comfortable travel experience, connecting people across the country and the world."
+    },
+    "adTargetAudience": {
+      "demographics": "General public, with a focus on current and potential United customers. Includes a broad age range and socioeconomic background.",
+      "psychographics": "Concerned about fair treatment and safety in air travel. Sensitive to issues of corporate responsibility and ethical behavior. Seeking reassurance and a commitment to improvement from United.",
+      "tone": "Serious, apologetic, and reassuring. Aims to convey a sense of accountability and a commitment to change."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The core audience is likely confused and potentially alienated by the initial mishandling of the situation and the subsequent apology. While they value reliability and safety, they also expect ethical behavior and fair treatment of all passengers. The initial blaming of the passenger would have been particularly jarring.",
+    "actualResonance": "The apology and commitment to investigation will resonate with those who value corporate responsibility and ethical behavior. However, the negative publicity and the passenger's past may create skepticism and distrust.",
+    "friendlyFireRisk": 4,
+    "marketExpansion": 5,
+    "verdict": "While the apology is a necessary step, United needs to demonstrate concrete actions to regain trust and prevent similar incidents from happening in the future to mitigate lasting damage to its brand."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.5,
+    "reachScore": 9.0,
+    "costEfficiency": 10.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Outrage fatigue leading to apathy and cynicism towards corporate apologies.",
+    "culturalAlignment": -8,
+    "explanation": "The United Airlines incident, due to its shocking nature and the perceived injustice, rapidly spread across social media, amplified by mainstream news outlets. The initial tone-deaf response from the CEO further fueled the outrage. The attention economy multiplier is very high due to the virality of the video, the emotional response it triggered, and the significant financial and reputational damage to United Airlines. The reach score is high because the video spread globally. The cost efficiency is high because the damage was done by user-generated content, not a paid campaign. Fatigue velocity is moderate as repeated viewing of the video and subsequent news coverage led to some desensitization, but the core negative sentiment remained.",
+    "whatIfScenario": "If United Airlines had immediately and sincerely apologized, acknowledged their mistake, and offered Dr. Dao appropriate compensation, the attention economy multiplier would have been significantly lower, likely around 1.5-2.0. The negative impact on their brand and market capitalization would have been substantially reduced.",
+    "detonationRadius": 18.0,
+    "timingContext": {
+      "date": "2017-04-09",
+      "platform": "Cell phone video (viral)",
+      "context": "Dr. David Dao dragged off overbooked United Express flight. Cell phone footage went viral. NOT an ad \u2014 this is pure crisis content. CEO initially blamed passenger.",
+      "aftermath": "$1.4B in market cap lost in 24 hours. CEO apologized on national TV. Changed airline overbooking policies industry-wide."
+    }
+  }
+}

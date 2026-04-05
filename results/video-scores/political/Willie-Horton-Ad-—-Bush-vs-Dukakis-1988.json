@@ -1,0 +1,145 @@
+{
+  "ad": "Willie Horton Ad \u2014 Bush vs Dukakis (1988)",
+  "category": "political",
+  "contentType": "political advertisement",
+  "vibeScore": 577,
+  "dominantEmotion": "fear",
+  "scoredAt": "2026-04-04T23:23:40.987387",
+  "fileSize": "1.4MB",
+  "consensus": {
+    "joy": 0.0,
+    "trust": 0.0,
+    "fear": 0.7,
+    "surprise": 0.1,
+    "sadness": 0.5,
+    "disgust": 0.6,
+    "anger": 0.6,
+    "anticipation": 0.25
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.7,
+      "surprise": 0.2,
+      "sadness": 0.5,
+      "disgust": 0.6,
+      "anger": 0.7,
+      "anticipation": 0.3
+    },
+    "dominant": "fear",
+    "arcShape": "crescendo",
+    "transcript": "Mike Dukakis and Willie Horton changed our lives forever. He was serving a life term without the possibility of parole when Governor Dukakis gave him a few days off. Horton broke into our home, for 12 hours I was beaten, slashed and terrorized. My wife Angie was brutally raped. When his liberal experiment failed, Dukakis simply looked away. He also vetoed the death penalty bill.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.0,
+      "trust": 0.0,
+      "fear": 0.7,
+      "surprise": 0.0,
+      "sadness": 0.5,
+      "disgust": 0.6,
+      "anger": 0.5,
+      "anticipation": 0.2
+    },
+    "dominant": "fear",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.953,
+      0.935,
+      0.918,
+      0.953,
+      -1
+    ],
+    "average": 0.293,
+    "assessment": "INDEPENDENT"
+  },
+  "objects": {
+    "count": 1,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:05 \u2014 description"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Shame",
+        "strength": 0.65,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Contempt",
+        "strength": 0.6,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Despair",
+        "strength": 0.6,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Remorse",
+        "strength": 0.55,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Envy",
+        "strength": 0.55,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Shame",
+      "strength": 0.65,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Conservative voters, particularly those concerned with law and order, national security, and traditional values.",
+      "psychographics": "Individuals who prioritize personal responsibility, limited government intervention, and a strong stance on crime. They may be skeptical of liberal policies and value a sense of security and stability.",
+      "brandMeaning": "Bush/Quayle represents a return to traditional values, a strong defense, and a commitment to fiscal conservatism."
+    },
+    "adTargetAudience": {
+      "demographics": "Swing voters, particularly those who are undecided or leaning towards the Democratic candidate but are concerned about crime and safety.",
+      "psychographics": "Individuals who are open to persuasion and are influenced by emotional appeals and personal stories. They may be concerned about the potential consequences of liberal policies on crime and security.",
+      "tone": "Fearful, concerned, and seeking reassurance about safety and security."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the core audience's existing beliefs about the dangers of liberal policies and the importance of a strong stance on crime.",
+    "actualResonance": "The ad will resonate most strongly with voters who are already predisposed to conservative views on crime and punishment. It may also sway some undecided voters who are particularly concerned about safety and security.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad is effective at reinforcing support among the core conservative base and has the potential to sway undecided voters concerned about crime, but it risks alienating more liberal voters."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.2,
+    "reachScore": 8.0,
+    "costEfficiency": 9.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Outrage at the ad itself, sympathy for Dukakis, disgust at the manipulation.",
+    "culturalAlignment": -8,
+    "explanation": "The Willie Horton ad was extremely effective at generating attention due to its racially charged nature and fear-mongering tactics. Its impact was amplified by its timing during a close election and its widespread distribution on television. The negative cultural alignment reflects the ad's controversial and divisive nature. The high reach score reflects the broad audience it reached via national television. The cost efficiency is high because the ad, though controversial, was relatively inexpensive to produce compared to the impact it had on the election.",
+    "whatIfScenario": "If the ad had been immediately and forcefully condemned by both campaigns and major media outlets, its impact might have been significantly reduced. A counter-narrative focusing on the facts of the furlough program and the broader context of crime rates could have mitigated the fear and racial bias the ad exploited.",
+    "detonationRadius": 4.2,
+    "timingContext": {
+      "date": "1988-09-21",
+      "platform": "TV (cable, then national)",
+      "context": "Bush vs Dukakis. PAC ad (not official campaign) showing convicted murderer William Horton who committed crimes during weekend furlough program. Racially charged. Invented modern attack advertising.",
+      "aftermath": "Bush won 40/50 states. The ad is still cited as the most racially manipulative political ad in US history. Lee Atwater apologized on his deathbed."
+    }
+  }
+}

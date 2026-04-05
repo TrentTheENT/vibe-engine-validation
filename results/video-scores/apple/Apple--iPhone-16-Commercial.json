@@ -1,0 +1,222 @@
+{
+  "ad": "Apple \u2014 iPhone 16 Commercial",
+  "category": "apple",
+  "vibeScore": 550,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:16:48.717586",
+  "fileSize": "2.0MB",
+  "consensus": {
+    "joy": 0.3,
+    "trust": 0.4,
+    "fear": 0.1,
+    "surprise": 0.3,
+    "sadness": 0.1,
+    "disgust": 0.15,
+    "anger": 0.1,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "Camera shutter sound, followed by music. Man: Look, I deleted Garrett. Music, man speaking. Man: He's back. Music",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.767,
+      0.824,
+      0.769,
+      0.892,
+      0.943,
+      0.892
+    ],
+    "average": 0.848,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.767,
+      "audio": "Camera shutter sound, followed by music",
+      "video": "A man takes a photo of a woman reading a book with a cat sitting on the couch next to her. The man is sitting in a chair"
+    },
+    "maxAlignment": {
+      "timestamp": "20s",
+      "coherence": 0.943
+    }
+  },
+  "objects": {
+    "count": 7,
+    "top": [
+      {
+        "label": "cat",
+        "confidence": 0.99
+      },
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "iPhone",
+        "confidence": 0.99
+      },
+      {
+        "label": "book",
+        "confidence": 0.95
+      },
+      {
+        "label": "living room",
+        "confidence": 0.95
+      },
+      {
+        "label": "couch",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man takes a photo of a woman reading a book with a cat sitting on the couch next to her. He uses the iPhone's photo editing feature to remove the cat from the photo. He shows the woman the edited photo and says, \"Look, I deleted Garrett.\"",
+      "0:08-0:15 \u2014 The woman looks at the man with a confused expression.",
+      "0:15-0:25 \u2014 The man uses the iPhone's photo editing feature to put the cat back in the photo. He shows the woman the edited photo and says, \"He's back.\"",
+      "0:25-0:29 \u2014 The video shows the cat and the text \"Apple Intelligence on iPhone 16\"."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.3,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.4,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "25-55 years old, skewing slightly female, middle to upper-middle class income, urban or suburban dwellers, tech-savvy and early adopters.",
+      "psychographics": "Values innovation, design, and user experience. Identifies with creativity, productivity, and a modern lifestyle. Aspires to be efficient, connected, and express themselves through technology.",
+      "brandMeaning": "Apple represents quality, simplicity, and a seamless integration of technology into their lives, enabling creativity and productivity."
+    },
+    "adTargetAudience": {
+      "demographics": "25-45 years old, both male and female, middle class income, likely pet owners (specifically cat owners), active on social media, enjoys photography and sharing moments with friends and family.",
+      "psychographics": "Values humor, convenience, and capturing memories. Appreciates user-friendly technology that simplifies everyday tasks. Seeks connection and shared experiences through digital platforms.",
+      "tone": "Playful, lighthearted, and relatable."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the iPhone's ease of use and powerful features (photo editing) in a relatable, everyday scenario. It showcases the iPhone as a tool for enhancing and sharing personal moments, aligning with the core audience's desire for seamless technology integration.",
+    "actualResonance": "Younger millennials and Gen Z individuals who are active on social media, enjoy sharing photos and videos, and appreciate the convenience of advanced photo editing features on their smartphones. Cat owners will also find the ad particularly relatable and humorous.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad is a safe bet that will likely resonate well and expand the audience slightly without alienating the core, but it's not groundbreaking."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 3,
+    "socialPropagation": 5,
+    "temporalCompounding": 6,
+    "frequencyPressure": 7,
+    "culturalAlignment": 7,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Validation decays to indifference",
+    "detonationRadius": 3.5,
+    "explanation": "Launching at WWDC provides a concentrated, tech-savvy audience primed to appreciate the iPhone 16's features, especially the privacy aspects. The combination of the keynote, YouTube, and TV spots creates significant reach, but the moderate TV and heavy digital frequency could lead to fatigue if the messaging isn't compelling. The cultural moment of Apple's resurgence and focus on privacy aligns well, amplifying the positive impact. However, the pre-internet social amplification limits the immediate spread of reactions, reducing potential damage from missteps but also limiting viral growth.",
+    "whatIfScenario": "If the ad ran during a Super Bowl, the reach would be higher, but the audience would be less targeted and more critical, increasing contextual vulnerability and social propagation. The cost would be significantly higher, making cost efficiency extremely wasteful. The attention economy multiplier would be lower due to the increased risk and less aligned audience.",
+    "timingContext": {
+      "event": "Holiday season 2013",
+      "date": "2023-06-05",
+      "venue": "Tampa Stadium",
+      "costPer30Sec": 450000,
+      "liveViewership": 77620000,
+      "platform": "WWDC keynote + YouTube + TV",
+      "adFrequency": "moderate TV, heavy digital",
+      "socialAmplification": "pre-internet \u2014 word of mouth, news coverage, VHS copies",
+      "context": "WWDC launch \u2014 developer/tech audience first, then consumer broadening. Privacy as differentiator vs Google/Meta.",
+      "culturalMoment": "Dot-com boom, Jobs returns to Apple, company near death",
+      "estimatedSpend": 300000000
+    }
+  }
+}

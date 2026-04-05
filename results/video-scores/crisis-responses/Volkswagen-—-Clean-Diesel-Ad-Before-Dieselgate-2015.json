@@ -1,0 +1,153 @@
+{
+  "ad": "Volkswagen \u2014 Clean Diesel Ad Before Dieselgate (2015)",
+  "category": "crisis-responses",
+  "contentType": "corporate crisis response",
+  "vibeScore": 545,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T23:22:38.499848",
+  "fileSize": "2.7MB",
+  "consensus": {
+    "joy": 0.35,
+    "trust": 0.25,
+    "fear": 0.1,
+    "surprise": 0.35,
+    "sadness": 0.05,
+    "disgust": 0.25,
+    "anger": 0.1,
+    "anticipation": 0.5
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.3,
+      "trust": 0.3,
+      "fear": 0.1,
+      "surprise": 0.2,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Mamas, don't let your babies grow up to be cowboys. Don't let them pick guitars or drive them old trucks. Let them be doctors and lawyers and such. Mamas, don't let your babies grow up to be cowboys. they never stay home and they Boys? description",
+    "segmentCount": 8
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.2,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.0,
+      "disgust": 0.3,
+      "anger": 0.1,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 8
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.741,
+      0.846,
+      0.889,
+      0.813,
+      0.862,
+      0.609,
+      0.84,
+      0.906
+    ],
+    "average": 0.813,
+    "assessment": "SYNCHRONIZED"
+  },
+  "objects": {
+    "count": 3,
+    "top": [
+      {
+        "label": "name",
+        "confidence": 0.9
+      },
+      {
+        "label": "car",
+        "confidence": 0.99
+      },
+      {
+        "label": "volkswagen",
+        "confidence": 0.98
+      }
+    ],
+    "inversions": [
+      {
+        "object": "car",
+        "magnitude": 0.469,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "volkswagen",
+        "magnitude": 0.436,
+        "emotion": "joy",
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      {
+        "label": "0:00-0:05",
+        "description": "Three boys run through a store, making excited noises."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Optimism",
+        "strength": 0.42,
+        "toxicity": 0.05
+      },
+      {
+        "name": "Delight",
+        "strength": 0.35,
+        "toxicity": 0.05
+      }
+    ],
+    "dominant": {
+      "name": "Optimism",
+      "strength": 0.42,
+      "toxicity": 0.05
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Middle-class families, suburban dwellers, environmentally conscious consumers.",
+      "psychographics": "Value reliability, fuel efficiency, and German engineering. Appreciate practical and safe vehicles for daily use and family trips.",
+      "brandMeaning": "Volkswagen represents dependable transportation and a commitment to quality and innovation."
+    },
+    "adTargetAudience": {
+      "demographics": "Parents with young children, middle-class, suburban.",
+      "psychographics": "Value family time, safety, and practicality. Looking for a reliable and fuel-efficient vehicle that can handle family needs.",
+      "tone": "Humorous, relatable, and reassuring."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the brand's focus on family-friendly vehicles and fuel efficiency, which aligns with the core audience's values.",
+    "actualResonance": "Families looking for a practical and fuel-efficient car, especially those considering a diesel option.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 6,
+    "verdict": "This ad effectively targets families while reinforcing Volkswagen's core values, making it a successful campaign for both retaining existing customers and attracting new ones."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 4.0,
+    "reachScore": "Low",
+    "costEfficiency": "Poor",
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Anger",
+    "culturalAlignment": -8,
+    "explanation": "The Volkswagen 'Clean Diesel' ad, presented as a crisis response in 2015, is significantly amplified due to the Dieselgate scandal. The audience, with low risk perception initially, had their validation confirmed negatively. The proximity to the event and the ad's direct contradiction of reality create a strong negative multiplier. Repeated viewing quickly degrades any initial trust into anger and resentment. The cultural alignment is deeply negative due to the deception.",
+    "whatIfScenario": "If the ad had been truthful or focused on genuine remediation efforts *after* acknowledging the issue, the multiplier could have been significantly lower, potentially even positive if perceived as sincere.",
+    "detonationRadius": 4.0,
+    "timingContext": {
+      "context": "Category: crisis-responses"
+    }
+  }
+}

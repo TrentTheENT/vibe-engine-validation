@@ -1,0 +1,228 @@
+{
+  "ad": "Budweiser \u2014 Lost Dog (Super Bowl 2015)",
+  "category": "iconic",
+  "vibeScore": 669,
+  "dominantEmotion": "trust",
+  "scoredAt": "2026-04-04T18:40:35.707467",
+  "fileSize": "2.5MB",
+  "consensus": {
+    "joy": 0.6,
+    "trust": 0.7,
+    "fear": 0.25,
+    "surprise": 0.35,
+    "sadness": 0.4,
+    "disgust": 0.1,
+    "anger": 0.1,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "trust",
+    "arcShape": "crescendo",
+    "transcript": "When I wake up, well I know I'm gonna be, I'm gonna be the man who wakes up next to you. And when I go out, yeah I know I'm gonna be, I'm gonna be the man who goes along with you. And I would walk 500 miles, and I would walk 500 more, just to be the man who walked a thousand miles to fall down at your door.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.3,
+      "surprise": 0.4,
+      "sadness": 0.4,
+      "disgust": 0.1,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "trust",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.919,
+      0.973,
+      0.982,
+      0.939,
+      0.791,
+      0.505,
+      0.584,
+      0.761,
+      0.287,
+      0.95,
+      0.941,
+      0.921
+    ],
+    "average": 0.796,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "40s",
+      "coherence": 0.287,
+      "audio": "Music swells, vocal intensifies",
+      "video": "The puppy is shown running from a wolf. The puppy is shown with the horses."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.982
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "horse",
+        "confidence": 0.99
+      },
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "puppy",
+        "confidence": 0.99
+      },
+      {
+        "label": "hay",
+        "confidence": 0.95
+      },
+      {
+        "label": "horse trailer",
+        "confidence": 0.95
+      },
+      {
+        "label": "lost dog poster",
+        "confidence": 0.9
+      },
+      {
+        "label": "wolf",
+        "confidence": 0.95
+      },
+      {
+        "label": "Budweiser logo",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.7,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JySd",
+        "name": "Bittersweetness",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.3,
+        "reactivity": 0.5,
+        "toxicity": 0.2,
+        "halfLife": 0.9
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.4,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.7,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Budweiser has served a predominantly male audience, aged 25-55, often blue-collar workers or those who identify with a traditional, 'American' lifestyle. Income levels are typically middle to lower-middle class. They enjoy outdoor activities, sports (especially football and NASCAR), and socializing with friends and family.",
+      "psychographics": "This audience values hard work, loyalty, tradition, and a sense of community. They see themselves as down-to-earth, patriotic, and reliable. They aspire to a comfortable life, strong family bonds, and recognition for their efforts.",
+      "brandMeaning": "To its core audience, Budweiser represents American values, camaraderie, and a sense of belonging. It's a symbol of relaxation after a hard day's work and a shared experience with friends."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad speaks to a broader audience than Budweiser's traditional base, including both men and women, aged 25-65, who are pet owners or animal lovers. It also appeals to families and those who value emotional connections and heartwarming stories.",
+      "psychographics": "The ad appeals to values such as compassion, loyalty, and the importance of relationships (both human and animal). It targets those who appreciate sentimentality and are drawn to stories of hope and perseverance.",
+      "tone": "The ad addresses the viewer in a sentimental and heartwarming tone, aiming to evoke feelings of empathy and joy."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "While the ad is more sentimental than Budweiser's typical advertising, the themes of loyalty and companionship resonate with the brand's core values. The use of Clydesdale horses, a long-standing symbol of Budweiser, reinforces the brand's heritage and reassures the core audience that the brand still understands them.",
+    "actualResonance": "This ad will resonate most strongly with pet owners, animal lovers, and families who appreciate heartwarming stories. It will also appeal to a wider audience who are drawn to emotional and uplifting content.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 7,
+    "verdict": "This ad is a calculated risk that successfully expands Budweiser's appeal without significantly alienating its core audience, but the marketing team should monitor social sentiment to ensure the emotional tone doesn't become perceived as inauthentic."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 9,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 8,
+    "temporalCompounding": 9,
+    "frequencyPressure": 6,
+    "culturalAlignment": 6,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Warmth decays to Sentimentality, then to mild Annoyance",
+    "detonationRadius": 2.8,
+    "explanation": "The Budweiser 'Lost Dog' ad benefited significantly from its Super Bowl placement. The massive reach amplified its emotional message, aligning with Budweiser's established brand identity. However, the high cost of the Super Bowl spot introduces a degree of inefficiency. The context of the 2020 election year, with Budweiser attempting to reclaim 'Typical American' values, added a layer of contextual vulnerability. The ad's emotional nature made it susceptible to social propagation, both positive and negative. The Super Bowl's permanent record aspect contributes to temporal compounding. While the ad generally aligned with cultural sentiments, repeated viewing could lead to sentimentality fatigue.",
+    "whatIfScenario": "If this ad had run only on YouTube, the reach would have been significantly lower, reducing both the amplification and the risk. The cost efficiency would have been dramatically better, but the cultural impact would have been minimal. The contextual vulnerability would have been less pronounced, and the social propagation would have been slower and less intense. The temporal compounding effect would also be reduced.",
+    "timingContext": {
+      "slot": "Q2",
+      "estimatedSpend": 16000000,
+      "followUp": "digital campaign extending Super Bowl spot",
+      "note": "Budweiser traditionally owns SB emotional territory \u2014 Clydesdales, puppies",
+      "event": "Super Bowl LIV",
+      "date": "2020-02-02",
+      "costPer30Sec": 5600000,
+      "liveViewership": 102000000,
+      "platform": "Fox",
+      "context": "Election year 2020. Budweiser attempting patriotic unity. 'Typical American' as reclamation. More successful than Pepsi Jenner because Budweiser OWNS Americana in their brand DNA."
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "ad": "Old Spice \u2014 The Man Your Man Could Smell Like (2010)",
+  "category": "iconic",
+  "vibeScore": 706,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:34:05.022600",
+  "fileSize": "1.6MB",
+  "consensus": {
+    "joy": 0.55,
+    "trust": 0.65,
+    "fear": 0.1,
+    "surprise": 0.45,
+    "sadness": 0.1,
+    "disgust": 0.2,
+    "anger": 0.1,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hello ladies. Look at your man. Now back to me. Now back at your man. Now back to me. Sadly, he isn't me. But if he stopped using lady scented body spray and switched to Old Spice, he could smell like he me. Look down, back up. Where are you? You're on a boat with the man your man could smell of. What's in your hand? Back at me. I have it. It's an oyster with two tickets to that thing you love. Look again. The tickets are now diamonds. Anything is possible when your man smells like Old Spice and not a lady. I'm on a horse.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.5,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.1,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.991,
+      0.965,
+      0.983,
+      0.993,
+      0.979,
+      0.978
+    ],
+    "average": 0.982,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.965,
+      "audio": "Sadly, he isn't me. But if he stopped using lady scented body spray and switched to Old Spice, he could smell like he me",
+      "video": "The man holds up a red can of Old Spice Whitewater body spray. The scene transitions to him standing on a boat with the "
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.993
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "man",
+        "confidence": 0.99
+      },
+      {
+        "label": "bathroom",
+        "confidence": 0.95
+      },
+      {
+        "label": "shower",
+        "confidence": 0.98
+      },
+      {
+        "label": "towel",
+        "confidence": 0.97
+      },
+      {
+        "label": "Old Spice Whitewater body spray",
+        "confidence": 0.95
+      },
+      {
+        "label": "boat",
+        "confidence": 0.98
+      },
+      {
+        "label": "oyster",
+        "confidence": 0.85
+      },
+      {
+        "label": "diamonds",
+        "confidence": 0.92
+      }
+    ],
+    "inversions": [
+      {
+        "object": "oyster",
+        "magnitude": 0.328,
+        "emotion": "surprise",
+        "baseline": 0.2,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A muscular man in a towel stands in a bathroom with a running shower and speaks directly to the camera, humorously comparing the viewer's man to himself.",
+      "0:08-0:11 \u2014 The man holds up a can of Old Spice Whitewater body spray.",
+      "0:11-0:28 \u2014 The man is now on a boat, then transforms tickets into diamonds, and finally appears on a horse, all while promoting Old Spice."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.65,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.55,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.45,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.65,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Old Spice targeted men aged 18-35, often with a lower-to-middle income, who are interested in basic hygiene and presenting a clean, masculine image. They might be blue-collar workers, students, or young professionals.",
+      "psychographics": "The core audience values practicality, affordability, and a straightforward approach to grooming. They identify with traditional masculinity, seeking to be seen as capable, confident, and attractive to women. Their aspirations are often centered around career success, relationships, and social acceptance.",
+      "brandMeaning": "To its core audience, Old Spice represents accessible masculinity, a reliable and affordable way to feel clean and confident, and a brand that understands and caters to their needs."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad primarily targets women aged 25-45, who are the purchasers of men's grooming products in many households. It also indirectly targets men who are influenced by their partners' preferences.",
+      "psychographics": "The ad appeals to women who value humor, confidence, and a playful approach to relationships. They appreciate a man who is self-assured and takes care of himself. The ad also taps into desires for romance, adventure, and a partner who can provide a sense of excitement and luxury.",
+      "tone": "The ad addresses the viewer with humor, confidence, and a touch of absurdity, creating a memorable and engaging experience."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "While the ad is primarily targeted at women, the humor and confident masculinity portrayed in the ad reinforce the brand's core values, making existing male customers feel validated in their choice of Old Spice. The ad doesn't alienate them, but rather presents an aspirational version of themselves that is still attainable.",
+    "actualResonance": "This ad resonates most strongly with women aged 25-45 who are the primary purchasers of men's grooming products. It also resonates with men who appreciate humor and are open to a more playful and confident approach to masculinity.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 9,
+    "verdict": "This ad is a brilliant strategy to expand the market by targeting the purchasers (women) while cleverly reinforcing the brand's core masculine identity, but monitor social media for any potential backlash from men who might feel emasculated by the message."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.0,
+    "detonationRadius": 1.0,
+    "timingContext": {
+      "date": "2010-02-07",
+      "platform": "Super Bowl XLIV + YouTube",
+      "costPer30Sec": 2500000,
+      "liveViewership": 106500000,
+      "adFrequency": "SB launch \u2192 YouTube viral (60M+ views first week) \u2192 6-month sustained campaign",
+      "socialAmplification": "Pioneered real-time social media marketing \u2014 Isaiah Mustafa responded to individual tweets IN CHARACTER",
+      "context": "Old Spice was a 'grandpa brand' dying slowly. This ad didn't just launch a campaign \u2014 it performed a brand resurrection. The targeting was genius: spoke to WOMEN about a MEN's product.",
+      "aftermath": "Sales up 125% in 6 months. Old Spice went from retirement home to cultural phenomenon. Spawned entire genre of 'confident absurdist' advertising."
+    }
+  }
+}

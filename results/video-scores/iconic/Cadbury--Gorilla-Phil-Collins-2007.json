@@ -1,0 +1,242 @@
+{
+  "ad": "Cadbury \u2014 Gorilla Phil Collins (2007)",
+  "category": "iconic",
+  "vibeScore": 692,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:33:46.796579",
+  "fileSize": "2.4MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.6,
+    "fear": 0.25,
+    "surprise": 0.45,
+    "sadness": 0.25,
+    "disgust": 0.1,
+    "anger": 0.4,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.3,
+      "disgust": 0.1,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "I can feel it coming in the air tonight, oh lord. I've been waiting for this moment for all my life, oh lord. I can feel it coming in the air tonight, oh lord. I've been waiting for this moment for all my life, oh lord. I can feel it coming in the air tonight, oh lord. I've been waiting for this moment for all my life, oh lord.",
+    "segmentCount": 26
+  },
+  "video": {
+    "overall": {
+      "joy": 0.4,
+      "trust": 0.5,
+      "fear": 0.3,
+      "surprise": 0.6,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.4,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 26
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.667,
+      0.86,
+      0.931,
+      0.96,
+      0.956,
+      0.864,
+      0.787,
+      0.703,
+      0.723,
+      0.735,
+      0.824,
+      0.848,
+      0.9,
+      0.848,
+      0.797,
+      0.848,
+      0.879,
+      0.865,
+      0.766,
+      0.643,
+      0.361,
+      0.74,
+      0.77,
+      0.797,
+      0.802,
+      0.689
+    ],
+    "average": 0.791,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "100s",
+      "coherence": 0.361,
+      "audio": "Drum solo continues, with vocal interjection",
+      "video": "The camera zooms out to show the entire band playing together. The gorilla is now just one member of the band."
+    },
+    "maxAlignment": {
+      "timestamp": "15s",
+      "coherence": 0.96
+    }
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "drum kit",
+        "confidence": 0.98
+      },
+      {
+        "label": "gorilla",
+        "confidence": 0.99
+      },
+      {
+        "label": "speaker",
+        "confidence": 0.95
+      },
+      {
+        "label": "microphone",
+        "confidence": 0.85
+      },
+      {
+        "label": "amplifier",
+        "confidence": 0.9
+      },
+      {
+        "label": "Cadbury Dairy Milk chocolate bar",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "gorilla",
+        "magnitude": 0.398,
+        "emotion": "joy",
+        "baseline": 0.1,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A purple screen shows the logo for A Glass and a Half Full Production, then the camera zooms in on a gorilla's face.",
+      "0:08-0:17 \u2014 The camera continues to zoom in on the gorilla's face, showing the details of its skin and fur.",
+      "0:17-0:22 \u2014 The gorilla opens its eyes and looks directly at the camera.",
+      "0:22-0:30 \u2014 The camera zooms in on the gorilla's nose and eyes, showing the details of its face.",
+      "0:30-0:39 \u2014 The gorilla looks around the room.",
+      "0:39-0:58 \u2014 The gorilla sits behind a drum kit and looks at the camera.",
+      "0:58-1:24 \u2014 The gorilla plays the drums with enthusiasm.",
+      "1:24-1:30 \u2014 The screen shows a Cadbury Dairy Milk chocolate bar with the tagline 'A glass and a half full of joy.'"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.45,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.45,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnTr",
+      "name": "Hope",
+      "type": "secondary",
+      "strength": 0.6,
+      "stability": 0.8,
+      "reactivity": 0.3,
+      "toxicity": 0.05,
+      "halfLife": 0.7
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Cadbury has targeted families and individuals seeking affordable, comforting chocolate treats. Demographics skew towards middle-income households, with a broad age range from children to older adults. Gender is fairly balanced.",
+      "psychographics": "Cadbury appeals to values of tradition, nostalgia, and simple pleasures. The brand identity is built on warmth, sharing, and a sense of innocent indulgence. Aspirations are not about luxury or status, but about everyday moments of happiness and connection.",
+      "brandMeaning": "Cadbury represents a familiar, reliable source of comfort and joy. It's a brand associated with childhood memories, family gatherings, and small acts of kindness."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broader audience than Cadbury's traditional base, specifically aiming for those who appreciate creativity, humor, and unconventional advertising. It appeals to a younger demographic (25-45) with a higher disposable income and an interest in music and pop culture.",
+      "psychographics": "The ad appeals to values of originality, playfulness, and a sense of wonder. It targets individuals who are open to new experiences, appreciate artistic expression, and enjoy being surprised. The tone is irreverent, unexpected, and slightly absurd.",
+      "tone": "The ad addresses the viewer with a sense of playful surprise and intrigue, inviting them to embrace the unexpected and find joy in the unconventional."
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad, while unconventional, reinforces Cadbury's association with joy and unexpected moments of happiness. The core audience will likely see it as a creative and memorable extension of the brand's core values, making them proud to be associated with a brand that takes risks and embraces originality.",
+    "actualResonance": "This ad will resonate most strongly with millennials and Gen X who appreciate its quirky humor, nostalgic musical choice, and memorable imagery. It will also appeal to those who enjoy viral marketing and shareable content.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a brilliant risk that successfully expands the brand's appeal without alienating its core audience, but be prepared for some initial confusion from those unfamiliar with viral marketing."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 8,
+    "temporalCompounding": 6,
+    "frequencyPressure": 4,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.3,
+    "repetitionInversion": "Joy decays to Neutral",
+    "detonationRadius": 3.5,
+    "explanation": "The Cadbury 'Gorilla' ad benefited significantly from its placement and timing. While specific timing data is limited, its initial release generated substantial buzz due to its unexpected and unconventional nature. The lack of explicit product placement and the use of Phil Collins' 'In the Air Tonight' created a memorable and shareable experience. This led to organic reach amplification through word-of-mouth and online sharing, making it highly cost-efficient. The low contextual vulnerability and high cultural alignment further boosted its impact, as audiences were receptive to its positive and feel-good message. The social propagation was strong, with the ad quickly becoming a viral sensation. However, repeated viewing could lead to a slight decrease in initial excitement, hence the moderate fatigue velocity.",
+    "whatIfScenario": "If the ad had been released during a period of economic downturn or social unrest, its lighthearted and whimsical nature might have been perceived as tone-deaf, leading to a negative reception and a lower attention economy multiplier. Alternatively, if it had been released during the Super Bowl, its reach would have been astronomical, but the high cost and increased scrutiny could have amplified any potential missteps.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

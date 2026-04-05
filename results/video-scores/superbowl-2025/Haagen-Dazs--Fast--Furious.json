@@ -1,0 +1,229 @@
+{
+  "ad": "Haagen-Dazs \u2014 Fast & Furious",
+  "category": "superbowl-2025",
+  "vibeScore": 702,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:09:06.893063",
+  "fileSize": "1.5MB",
+  "consensus": {
+    "joy": 0.6,
+    "trust": 0.5,
+    "fear": 0.1,
+    "surprise": 0.5,
+    "sadness": 0.1,
+    "disgust": 0.1,
+    "anger": 0.2,
+    "anticipation": 0.75
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Sound effects of car accelerating and screeching, followed by upbeat music. Male voice says 'Baby let's cruise away from here.' Male voice says 'Hey! What happened to fast life?' Another male voice says 'Not today.' First male voice says 'What? Are y'all kidding me?' Sound of car radio turning on, upbeat music continues, female voice sings 'I love it when we're cruising together.'",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.5,
+      "fear": 0.1,
+      "surprise": 0.4,
+      "sadness": 0.1,
+      "disgust": 0.1,
+      "anger": 0.2,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.959,
+      0.995,
+      0.995,
+      0.901,
+      0.982,
+      0.991
+    ],
+    "average": 0.971,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "15s",
+      "coherence": 0.901,
+      "audio": "Male voice says 'Hey! What happened to fast life?' Another male voice says 'Not today.' First male voice says 'What? Are",
+      "video": "The red convertible is driving along the coast. A man in a jeep drives next to them and expresses surprise and annoyance"
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.995
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "car wheel",
+        "confidence": 0.98
+      },
+      {
+        "label": "convertible car",
+        "confidence": 0.99
+      },
+      {
+        "label": "Vin Diesel",
+        "confidence": 0.99
+      },
+      {
+        "label": "Michelle Rodriguez",
+        "confidence": 0.99
+      },
+      {
+        "label": "ice cream bar",
+        "confidence": 0.95
+      },
+      {
+        "label": "coastal highway",
+        "confidence": 0.95
+      },
+      {
+        "label": "Ludacris",
+        "confidence": 0.99
+      },
+      {
+        "label": "Jeep Wrangler",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [],
+    "scenes": [
+      "0:00-0:08 \u2014 A man shifts gears in a car, followed by shots of a red convertible driving along a coastal road. Vin Diesel and Michelle Rodriguez are in the car, and Michelle is eating an ice cream bar.",
+      "0:08-0:17 \u2014 Vin Diesel smiles at Michelle Rodriguez as she eats her ice cream bar. They continue driving along the coastal road.",
+      "0:17-0:24 \u2014 Ludacris drives alongside them in a Jeep Wrangler, questioning their slow pace. Vin Diesel replies, 'Not today.'",
+      "0:24-0:30 \u2014 A hand turns on the car radio, and the car drives along the coastal road with the text 'NOT SO FAST NOT SO FURIOUS' and the H\u00e4agen-Dazs logo appearing on screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.5,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "AnJy",
+      "name": "Optimism",
+      "type": "primary",
+      "strength": 0.6,
+      "stability": 0.8,
+      "reactivity": 0.4,
+      "toxicity": 0.05,
+      "halfLife": 0.6
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Haagen-Dazs historically appeals to affluent consumers, aged 25-55, with a slight skew towards women. They are often college-educated, urban or suburban dwellers with disposable income.",
+      "psychographics": "The core audience values indulgence, quality, and sophistication. They see Haagen-Dazs as a premium treat, a reward for themselves, and a symbol of good taste. They appreciate authentic experiences and aren't afraid to spend more for superior ingredients and craftsmanship.",
+      "brandMeaning": "Haagen-Dazs represents attainable luxury, a moment of personal pleasure, and a connection to a brand that prioritizes quality and taste."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broader audience, including younger millennials and Gen X (25-45) who enjoy action movies and pop culture. It also appeals to fans of the 'Fast & Furious' franchise, regardless of their usual ice cream preferences. The ad is likely to resonate with both men and women.",
+      "psychographics": "The ad appeals to those who value excitement, adventure, and a sense of community. It taps into the nostalgia and shared experience of the 'Fast & Furious' movies, suggesting that Haagen-Dazs can be part of a fun, carefree lifestyle. The ad also targets those who appreciate a touch of humor and don't take themselves too seriously.",
+      "tone": "The ad speaks to the viewer in a lighthearted, playful, and inclusive manner, inviting them to join in on the fun."
+    },
+    "audienceDistance": 4,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The core audience will likely feel validated because the ad maintains a sense of premium quality by associating the brand with a popular and successful franchise, while also injecting a bit of fun and excitement. The ad doesn't stray too far from the brand's core values of indulgence and quality, but it does broaden its appeal.",
+    "actualResonance": "This ad will resonate most with fans of the 'Fast & Furious' franchise, regardless of their prior Haagen-Dazs consumption. It will also appeal to a slightly younger demographic who are drawn to the action and humor of the ad.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 7,
+    "verdict": "This ad is a calculated risk that could successfully broaden Haagen-Dazs' appeal without alienating its core audience, but the CMO should monitor social media sentiment to ensure the brand's premium image is maintained."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 2.8,
+    "reachScore": 9,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 9,
+    "temporalCompounding": 8,
+    "frequencyPressure": 6,
+    "culturalAlignment": 5,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Excitement decays to Boredom",
+    "detonationRadius": 5.6,
+    "explanation": "The Super Bowl provides massive reach, but at an astronomical cost. The audience is primed to judge, and social propagation is instant and widespread. The ad's positioning as a premium indulgence aligns reasonably well with the Super Bowl's celebratory atmosphere, but the high frequency and permanent record amplify any missteps. The 'Fast & Furious' tie-in could be a hit or miss depending on execution, potentially alienating viewers not interested in the franchise. The high cost and potential for rapid negative amplification create a significant risk.",
+    "whatIfScenario": "If this ad ran on YouTube during a summer movie promotion, the cost would be drastically lower, allowing for more targeted audience selection and A/B testing. The contextual vulnerability would be reduced, and social propagation would be slower, allowing for course correction if needed. The overall risk would be significantly lower, though the potential reach would also be smaller.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "various 2010s",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "TV + digital",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "moderate rotation",
+      "context": "Premium ice cream positioning \u2014 sensory luxury, adult indulgence."
+    }
+  }
+}

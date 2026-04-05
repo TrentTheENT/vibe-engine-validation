@@ -1,0 +1,216 @@
+{
+  "ad": "Amazon \u2014 Alexa Loses Her Voice (Super Bowl 2018)",
+  "category": "cannes",
+  "contentType": "advertisement",
+  "vibeScore": 257,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T22:07:46.403419",
+  "fileSize": "2.5MB",
+  "consensus": {
+    "joy": 0.15,
+    "trust": 0.15,
+    "fear": 0.2,
+    "surprise": 0.3,
+    "sadness": 0.1,
+    "disgust": 0.3,
+    "anger": 0.3,
+    "anticipation": 0.4
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.2,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "In Austin, it's 60 degrees with a Alexa? Amazon's Alexa lost her voice this morning, causing a Alexa lost her voice. How is that even possible? We have the replacements ready, just say the word. You're sure this is going to work? Yeah. Alexa, show me a recipe for a grilled cheese sandwich. Pathetic. You're 32 years of age. And you don't know how to make a grilled cheese sandwich. Its name is the recipe, you Ah! Alexa, how far is Mars? How far is Mars? What how am I supposed to know? I never been there. This guy want to go to Mars for what? There's not even oxygen there. Alexa, set the mood. Now setting the mood. You're in the bush and you're just so dirty and so sweaty because it's hot in that bush. Alexa, rebush, reboot. Alexa, play some country music. I'll dance now. I make money moves. No, no. Alexa, country music. I'll be in another bank so much I know they tired of me. Alexa, call Brandon. I'm afraid Brandon is a little tied up. I do let me know if there's anything I can help you with. Jessica? Good boy. Thanks guys, but I'll take it from here.",
+    "segmentCount": 18
+  },
+  "video": {
+    "overall": {
+      "joy": 0.1,
+      "trust": 0.1,
+      "fear": 0.2,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.3,
+      "anger": 0.2,
+      "anticipation": 0.4
+    },
+    "dominant": "anticipation",
+    "arcShape": "peak",
+    "segmentCount": 26
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -1,
+      0.696,
+      0.414,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "average": -0.827,
+    "assessment": "CONTRADICTORY"
+  },
+  "objects": {
+    "count": 6,
+    "top": [
+      {
+        "label": "Alexa",
+        "confidence": 0.99
+      },
+      {
+        "label": "news",
+        "confidence": 0.98
+      },
+      {
+        "label": "Jeff Bezos",
+        "confidence": 0.99
+      },
+      {
+        "label": "Gordon Ramsay",
+        "confidence": 0.99
+      },
+      {
+        "label": "Cardi B",
+        "confidence": 0.99
+      },
+      {
+        "label": "Anthony Hopkins",
+        "confidence": 0.99
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Alexa",
+        "magnitude": 1.884,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "Cardi B",
+        "magnitude": 1.679,
+        "emotion": "joy",
+        "direction": "suppressed"
+      },
+      {
+        "object": "Gordon Ramsay",
+        "magnitude": 1.565,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "Anthony Hopkins",
+        "magnitude": 1.565,
+        "emotion": "joy",
+        "direction": "amplified"
+      },
+      {
+        "object": "Jeff Bezos",
+        "magnitude": 1.546,
+        "emotion": "trust",
+        "direction": "suppressed"
+      },
+      {
+        "object": "news",
+        "magnitude": 0.849,
+        "emotion": "anticipation",
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      {
+        "0:00-0:05": "A woman brushes her teeth in the bathroom, then asks Alexa a question. The next scene shows an Amazon Echo device."
+      }
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "name": "Aggressiveness",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Cynicism",
+        "strength": 0.35,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Contempt",
+        "strength": 0.3,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Unbelief",
+        "strength": 0.3,
+        "toxicity": 0.35
+      },
+      {
+        "name": "Outrage",
+        "strength": 0.3,
+        "toxicity": 0.35
+      }
+    ],
+    "dominant": {
+      "name": "Aggressiveness",
+      "strength": 0.35,
+      "toxicity": 0.35
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Tech-savvy consumers, 25-55, middle to upper class, urban/suburban",
+      "psychographics": "Value convenience, efficiency, and integration of technology into daily life. Early adopters of smart home devices. Seek solutions that simplify tasks and enhance entertainment.",
+      "brandMeaning": "Amazon Alexa represents a seamless, intelligent, and personalized digital assistant that empowers users to control their environment and access information effortlessly."
+    },
+    "adTargetAudience": {
+      "demographics": "Broad demographic appeal, 20-60, diverse backgrounds, tech-curious",
+      "psychographics": "Appeals to a sense of humor and celebrity culture. Targets those who might be hesitant about smart home devices by showcasing relatable and humorous scenarios. Aims to demonstrate the versatility and entertainment value of Alexa.",
+      "tone": "Humorous, lighthearted, celebrity-driven, relatable"
+    },
+    "audienceDistance": 3,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces the convenience and versatility of Alexa, which aligns with the core audience's expectations. The humor and celebrity cameos add entertainment value without alienating the core user base.",
+    "actualResonance": "Will resonate with a broad audience, including those who are not yet familiar with Alexa. The celebrity appeal and humorous scenarios will likely attract new users.",
+    "friendlyFireRisk": 2,
+    "marketExpansion": 8,
+    "verdict": "This ad effectively leverages humor and celebrity endorsements to broaden Alexa's appeal while maintaining relevance for its core audience, making it a strong market expansion strategy."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 9.0,
+    "costEfficiency": 2.0,
+    "fatigueVelocity": 0.6,
+    "repetitionInversion": "Annoyance",
+    "culturalAlignment": 7,
+    "explanation": "Super Bowl ads inherently have high reach. The celebrity cameos and humor amplify attention. However, repeated viewing can lead to annoyance, and the high cost impacts efficiency. The cultural alignment is positive due to the broad appeal of humor and celebrities.",
+    "whatIfScenario": "If the ad had focused less on celebrity cameos and more on Alexa's core functionality, the fatigue velocity might have been lower, leading to better long-term engagement, but potentially lower initial reach.",
+    "detonationRadius": 7.0,
+    "timingContext": {
+      "date": "2018-02-04",
+      "platform": "Super Bowl LII",
+      "costPer30Sec": 5000000,
+      "context": "Celebrity-packed (Gordon Ramsay, Rebel Wilson, Anthony Hopkins). Humor + product demo."
+    }
+  }
+}

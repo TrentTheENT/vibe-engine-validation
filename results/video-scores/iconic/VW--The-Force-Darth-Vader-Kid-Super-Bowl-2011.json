@@ -1,0 +1,251 @@
+{
+  "ad": "VW \u2014 The Force Darth Vader Kid (Super Bowl 2011)",
+  "category": "iconic",
+  "vibeScore": 649,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:35:34.069130",
+  "fileSize": "2.2MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.6,
+    "fear": 0.3,
+    "surprise": 0.7,
+    "sadness": 0.15,
+    "disgust": 0.15,
+    "anger": 0.4,
+    "anticipation": 0.8
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.3,
+      "surprise": 0.7,
+      "sadness": 0.1,
+      "disgust": 0.2,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Hey, is the force of the Darth Vader spot still with you? Vote for it now as your favorite 2011 big game commercial. Go to zoodingo.com. Voting is for free. You'll also receive 45 ebooks in honor of the big game. These 45 ebooks are absolutely free. Go to zoodingo.com, vote now and get your 45 free gifts.",
+    "segmentCount": 18
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.3,
+      "surprise": 0.7,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.4,
+      "anticipation": 0.8
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 17
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      -0.058,
+      0.18,
+      0.064,
+      0.169,
+      0.038,
+      0.146,
+      0.1,
+      0.224,
+      0.279,
+      -0.221,
+      0.146,
+      0.038,
+      0.982,
+      0.982,
+      0.982,
+      0,
+      0.952
+    ],
+    "average": 0.294,
+    "assessment": "INDEPENDENT",
+    "maxDivergence": {
+      "timestamp": "45s",
+      "coherence": -0.221,
+      "audio": "Sound effect of car starting",
+      "video": "The child in the Darth Vader costume uses the force on the car, then a man presses a button on a car key."
+    },
+    "maxAlignment": {
+      "timestamp": "60s",
+      "coherence": 0.982
+    }
+  },
+  "objects": {
+    "count": 9,
+    "top": [
+      {
+        "label": "Darth Vader costume",
+        "confidence": 0.98
+      },
+      {
+        "label": "exercise bike",
+        "confidence": 0.95
+      },
+      {
+        "label": "dog",
+        "confidence": 0.99
+      },
+      {
+        "label": "doll",
+        "confidence": 0.97
+      },
+      {
+        "label": "washing machine",
+        "confidence": 0.95
+      },
+      {
+        "label": "peanut butter sandwich",
+        "confidence": 0.9
+      },
+      {
+        "label": "Volkswagen Passat",
+        "confidence": 0.98
+      },
+      {
+        "label": "car key fob",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "Darth Vader costume",
+        "magnitude": 0.32,
+        "emotion": "joy",
+        "baseline": 0.1,
+        "contextual": 0.7,
+        "direction": "amplified"
+      },
+      {
+        "object": "doll",
+        "magnitude": 0.221,
+        "emotion": "trust",
+        "baseline": 0.4,
+        "contextual": 0.1,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A child dressed as Darth Vader walks down a hallway and into a room with an exercise bike.",
+      "0:08-0:17 \u2014 The child dressed as Darth Vader walks around the house, attempting to use the force on various objects, including a dog and a doll.",
+      "0:17-0:31 \u2014 The child dressed as Darth Vader is in the kitchen, where his mother prepares a peanut butter sandwich for him.",
+      "0:31-0:48 \u2014 The child dressed as Darth Vader is waiting outside as his father arrives home in a Volkswagen Passat. The child attempts to use the force to start the car remotely.",
+      "0:48-1:00 \u2014 The father uses the car key fob to start the car remotely. The child is surprised and pleased. The commercial ends with the Volkswagen logo and tagline.",
+      "1:00-1:24 \u2014 A man in front of a football field background encourages viewers to vote for the Darth Vader commercial at ZooDingo.com and receive 45 free ebooks."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.7,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.7,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "VW's core audience historically consists of a broad range, but skews slightly younger (25-55), with a middle-class income, and values practicality, reliability, and a touch of European design. Both genders are represented, with a slight leaning towards male drivers.",
+      "psychographics": "They appreciate clever engineering, understated style, and a sense of adventure. They value fuel efficiency and safety. They identify with a brand that is not overly flashy but offers quality and a degree of individuality. They aspire to a lifestyle that balances practicality with a touch of sophistication.",
+      "brandMeaning": "VW represents reliable, affordable, and well-engineered transportation with a hint of European flair. It signifies a practical yet stylish choice for individuals and families."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broad audience, particularly families with young children and adults who grew up with Star Wars. It appeals to those aged 30-50, with a middle to upper-middle-class income. It likely skews slightly towards males due to the Star Wars theme, but the family-friendly nature broadens the appeal.",
+      "psychographics": "The ad appeals to nostalgia, humor, and family values. It targets those who appreciate lighthearted entertainment and have fond memories of Star Wars. It speaks to parents who want to share their interests with their children and find joy in everyday moments. The ad also appeals to those who value a sense of fun and playfulness.",
+      "tone": "The ad addresses the viewer in a lighthearted, humorous, and nostalgic tone. It creates a sense of warmth and connection through shared cultural references and relatable family dynamics."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces VW's image as a family-friendly and reliable brand while showcasing a sense of humor and cultural relevance. It makes existing customers proud to be associated with a brand that can create such a memorable and heartwarming ad.",
+    "actualResonance": "The ad will resonate most strongly with parents aged 30-50 who are fans of Star Wars and have young children. It will also appeal to a broader audience who appreciate humor and heartwarming stories, regardless of their specific interest in Star Wars.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a home run; it leverages nostalgia and humor to connect with a broad audience while reinforcing VW's family-friendly image, but be mindful that some may find the Star Wars tie-in a bit too commercial."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.8,
+    "reachScore": 9,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 3,
+    "socialPropagation": 8,
+    "temporalCompounding": 7,
+    "frequencyPressure": 4,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Joy decays to Nostalgia",
+    "detonationRadius": 3.8,
+    "explanation": "The 'Darth Vader Kid' ad benefited immensely from its pre-release strategy on YouTube, generating significant buzz and anticipation before its Super Bowl debut. This digital-first approach amplified its reach and impact, turning a costly Super Bowl spot into a cultural phenomenon. The positive audience alignment and strong market expansion further contributed to its success, making it a prime example of how strategic timing and placement can significantly enhance an ad's effectiveness.",
+    "whatIfScenario": "If the ad had only aired during the Super Bowl without the pre-release on YouTube, it would have likely still been successful, but its impact would have been significantly diminished. The pre-release generated viral buzz and anticipation, creating a cultural moment that amplified its reach and memorability. Without it, the ad would have been just another Super Bowl commercial, potentially getting lost in the noise.",
+    "timingContext": {
+      "date": "2011-02-02",
+      "platform": "YouTube (pre-released) + Super Bowl XLV",
+      "liveViewership": 111000000,
+      "adFrequency": "Pre-released on YouTube 4 days before SB \u2014 17M views BEFORE it aired",
+      "context": "Pioneered the Super Bowl 'pre-release' strategy. The YouTube views BEFORE the game proved digital-first could amplify TV.",
+      "aftermath": "Passat sales up 116% in first month."
+    }
+  }
+}

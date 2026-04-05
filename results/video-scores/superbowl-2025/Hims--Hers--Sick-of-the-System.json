@@ -1,0 +1,255 @@
+{
+  "ad": "Hims & Hers \u2014 Sick of the System",
+  "category": "superbowl-2025",
+  "vibeScore": 630,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:14:06.005627",
+  "fileSize": "4.5MB",
+  "consensus": {
+    "joy": 0.2,
+    "trust": 0.4,
+    "fear": 0.4,
+    "surprise": 0.3,
+    "sadness": 0.4,
+    "disgust": 0.4,
+    "anger": 0.35,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.4,
+      "fear": 0.5,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.3,
+      "anger": 0.4,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Obesity is America's deadliest epidemic. This is America. 74% of us are overweight. And obesity leads to half a million deaths each year. Why you just have to stop eating, Jimmy. This is America. Something's broken, and it's not our bodies. It's the system. Welcome to weight loss in America. Like and subscribe. A 160 billion dollar industry that feeds on our failure. There are medications that work, but they're priced for profits, not patients. This is America. This system wasn't built to help us. It was built to keep us sick and stuck. But not anymore. Hims and hers offers life changing weight loss medications. They are affordable, doctor trusted and formulated in the USA. 189 lbs. You get a treatment plan designed by a doctor to fit your body, goals and lifestyle. You deserve to feel great in your body. This is the future of healthcare. This is Hims and Hers. Join us in the fight for a healthier America.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.2,
+      "trust": 0.4,
+      "fear": 0.3,
+      "surprise": 0.3,
+      "sadness": 0.4,
+      "disgust": 0.5,
+      "anger": 0.3,
+      "anticipation": 0.6
+    },
+    "dominant": "anticipation",
+    "arcShape": "increasing",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.881,
+      0.85,
+      0.858,
+      0.91,
+      0.881,
+      0.264,
+      0.719,
+      0.957,
+      0.957,
+      0.942,
+      0.91,
+      0.923
+    ],
+    "average": 0.838,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "25s",
+      "coherence": 0.264,
+      "audio": "There are medications that work, but they're priced for profits, not patients. This is America.",
+      "video": "A machine making pills, money spinning, a woman by a pool, and text that says \"It was built to keep us sick and stuck.\""
+    },
+    "maxAlignment": {
+      "timestamp": "35s",
+      "coherence": 0.957
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "bathroom scale",
+        "confidence": 0.99
+      },
+      {
+        "label": "overweight torso",
+        "confidence": 0.99
+      },
+      {
+        "label": "analog meter",
+        "confidence": 0.95
+      },
+      {
+        "label": "grocery store aisle",
+        "confidence": 0.95
+      },
+      {
+        "label": "cereal",
+        "confidence": 0.95
+      },
+      {
+        "label": "burger under pressure",
+        "confidence": 0.95
+      },
+      {
+        "label": "weight loss medication",
+        "confidence": 0.95
+      },
+      {
+        "label": "hims & hers logo",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "bathroom scale",
+        "magnitude": 0.25,
+        "emotion": "sadness",
+        "baseline": 0.0,
+        "contextual": 0.5,
+        "direction": "amplified"
+      },
+      {
+        "object": "cereal",
+        "magnitude": 0.247,
+        "emotion": "joy",
+        "baseline": 0.7,
+        "contextual": 0.0,
+        "direction": "suppressed"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene",
+      "0:08-0:16 \u2014 description of what happens in this scene",
+      "0:16-0:24 \u2014 description of what happens in this scene",
+      "0:24-0:34 \u2014 description of what happens in this scene",
+      "0:34-0:42 \u2014 description of what happens in this scene",
+      "0:42-0:50 \u2014 description of what happens in this scene",
+      "0:50-0:59 \u2014 description of what happens in this scene"
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "TrFr",
+        "name": "Submission",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.4,
+        "reactivity": 0.7,
+        "toxicity": 0.6,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "SdDg",
+        "name": "Remorse",
+        "type": "primary",
+        "strength": 0.4,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.7,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrDg",
+        "name": "Ambivalence",
+        "type": "conflict",
+        "strength": 0.4,
+        "stability": 0.2,
+        "reactivity": 0.7,
+        "toxicity": 0.5,
+        "halfLife": 0.3
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.4,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SdAn",
+        "name": "Pessimism",
+        "type": "tertiary",
+        "strength": 0.4,
+        "stability": 0.7,
+        "reactivity": 0.4,
+        "toxicity": 0.5,
+        "halfLife": 0.7
+      }
+    ],
+    "dominant": {
+      "formula": "TrFr",
+      "name": "Submission",
+      "type": "primary",
+      "strength": 0.4,
+      "stability": 0.4,
+      "reactivity": 0.7,
+      "toxicity": 0.6,
+      "halfLife": 0.3
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Hims & Hers historically serves primarily younger millennials and Gen Z (25-40), skewing slightly male for Hims and female for Hers, with moderate disposable income and tech-savviness. They are comfortable with online healthcare and direct-to-consumer brands.",
+      "psychographics": "They value convenience, affordability, and discretion in addressing personal health concerns. They are proactive about their health and well-being, seeking solutions online and through social media. They identify with brands that are modern, inclusive, and destigmatize sensitive topics.",
+      "brandMeaning": "Hims & Hers represents accessible, modern healthcare that fits into their digital lifestyle. It means convenience, affordability, and a destigmatized approach to personal health."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad targets a broader demographic struggling with weight issues, likely aged 30-60, across genders, and potentially with varying income levels, united by frustration with traditional weight loss methods and the healthcare system. It speaks to those who have tried dieting and exercise without success and are open to medical interventions.",
+      "psychographics": "The ad appeals to values of empowerment, frustration with systemic failures, and a desire for effective solutions. It targets those who feel let down by the weight loss industry and are seeking a more equitable and accessible approach to healthcare. They are likely feeling defeated and looking for hope.",
+      "tone": "The ad addresses the viewer with a tone of shared frustration, anger at the system, and a glimmer of hope for a better solution."
+    },
+    "audienceDistance": 5,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The core audience, accustomed to solutions for hair loss, skincare, and sexual health, may find the focus on obesity and weight loss medications a departure from the brand's established identity. The aggressive tone and critique of the 'system' might also feel out of sync with the brand's typically upbeat and accessible messaging.",
+    "actualResonance": "This ad will actually resonate most with individuals aged 35-55 who have struggled with weight loss for years, feel failed by the traditional diet industry, and are open to exploring medical weight loss options. They are likely frustrated with the high cost and inaccessibility of these medications.",
+    "friendlyFireRisk": 6,
+    "marketExpansion": 7,
+    "verdict": "The CMO should be aware that while this ad has the potential to significantly expand the market, it also carries a risk of alienating the core audience due to the shift in focus and tone."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 1.8,
+    "reachScore": 10,
+    "costEfficiency": "extremely_wasteful",
+    "contextualVulnerability": 9,
+    "socialPropagation": 10,
+    "temporalCompounding": 10,
+    "frequencyPressure": 3,
+    "culturalAlignment": -2,
+    "fatigueVelocity": 0.4,
+    "repetitionInversion": "Confusion decays to Frustration",
+    "detonationRadius": 10.8,
+    "explanation": "A Super Bowl ad for Hims & Hers faces immense pressure. The massive reach amplifies both positive and negative reactions. Given the 'CONFUSED' core reaction and moderate friendly fire risk, the high cost per impression makes this a risky bet. The instant meme culture of the Super Bowl ensures rapid social propagation and permanent record. While the single airing limits frequency pressure, the cultural alignment is slightly negative, suggesting the message might not resonate well. The high contextual vulnerability means the audience is primed to judge harshly, further amplifying any missteps.",
+    "whatIfScenario": "If this ad ran on a targeted YouTube campaign with a smaller, more receptive audience, the cost efficiency would improve dramatically, and the risk of negative social propagation would be significantly reduced. The contextual vulnerability would also decrease, allowing for a more nuanced message to be delivered without the intense scrutiny of the Super Bowl audience.",
+    "timingContext": {
+      "event": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "venue": "Caesars Superdome, New Orleans",
+      "costPer30Sec": 8000000,
+      "liveViewership": 127600000,
+      "totalReach": 186000000,
+      "platform": "Fox",
+      "streamingPlatforms": [
+        "Tubi",
+        "Fox Sports App"
+      ],
+      "socialAmplification": "massive \u2014 clips trend within minutes",
+      "adFrequency": "single airing during broadcast + unlimited social replay",
+      "context": "Most expensive advertising real estate on earth. Every ad reviewed, dissected, ranked by dozens of outlets within hours. Mistakes are permanent."
+    }
+  }
+}

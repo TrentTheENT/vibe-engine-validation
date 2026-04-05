@@ -1,0 +1,222 @@
+{
+  "ad": "Coca-Cola \u2014 Hilltop I'd Like to Buy the World a Coke (1971)",
+  "category": "iconic",
+  "vibeScore": 646,
+  "dominantEmotion": "joy",
+  "scoredAt": "2026-04-04T18:31:25.663549",
+  "fileSize": "3.2MB",
+  "consensus": {
+    "joy": 0.65,
+    "trust": 0.65,
+    "fear": 0.075,
+    "surprise": 0.3,
+    "sadness": 0.15,
+    "disgust": 0.075,
+    "anger": 0.025,
+    "anticipation": 0.6
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.7,
+      "trust": 0.6,
+      "fear": 0.05,
+      "surprise": 0.3,
+      "sadness": 0.1,
+      "disgust": 0.05,
+      "anger": 0.05,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "crescendo",
+    "transcript": "I'd like to buy the world a home and furnish it with love. Grow up on trees and honey bees and snow white turtle doves. I'd like to teach the world to sing in perfect harmony. I'd like to buy the world a Coke and keep it company. That's the real thing. What the world wants today. It's the real thing. What the world wants today.",
+    "segmentCount": 12
+  },
+  "video": {
+    "overall": {
+      "joy": 0.6,
+      "trust": 0.7,
+      "fear": 0.1,
+      "surprise": 0.3,
+      "sadness": 0.2,
+      "disgust": 0.1,
+      "anger": 0.0,
+      "anticipation": 0.5
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 12
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.941,
+      0.953,
+      0.942,
+      0.944,
+      0.944,
+      0.944,
+      0.944,
+      0.944,
+      0.944,
+      0.944,
+      0.944,
+      0.944
+    ],
+    "average": 0.944,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "0s",
+      "coherence": 0.941,
+      "audio": "Female voice singing a happy tune",
+      "video": "Close-up of a woman with blue eyes singing. The scene transitions to show two women and a man singing together, then a q"
+    },
+    "maxAlignment": {
+      "timestamp": "5s",
+      "coherence": 0.953
+    }
+  },
+  "objects": {
+    "count": 5,
+    "top": [
+      {
+        "label": "woman",
+        "confidence": 0.98
+      },
+      {
+        "label": "Coca-Cola bottle",
+        "confidence": 0.95
+      },
+      {
+        "label": "group of people",
+        "confidence": 0.97
+      },
+      {
+        "label": "hillside",
+        "confidence": 0.9
+      },
+      {
+        "label": "text overlay",
+        "confidence": 0.95
+      }
+    ],
+    "inversions": [
+      {
+        "object": "text overlay",
+        "magnitude": 0.283,
+        "emotion": "trust",
+        "baseline": 0.0,
+        "contextual": 0.8,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 A woman with blonde hair and blue eyes sings the opening lines of a song.",
+      "0:08-0:14 \u2014 Two other singers join the woman, and a man holding a Coca-Cola bottle is seen.",
+      "0:14-0:27 \u2014 A diverse group of people from different backgrounds sing together, each holding a Coca-Cola bottle.",
+      "0:27-0:39 \u2014 The camera focuses on individual singers within the group, showcasing their unique features and clothing.",
+      "0:39-0:47 \u2014 Close-ups of Coca-Cola bottles held by various individuals are shown, followed by a woman singing with a crowd superimposed on her face.",
+      "0:47-0:59 \u2014 The camera pans over a large group of people standing in formation on a hillside, spelling out a message about Coca-Cola."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.65,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.6,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.3,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.3,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "JyTr",
+      "name": "Love",
+      "type": "primary",
+      "strength": 0.65,
+      "stability": 0.9,
+      "reactivity": 0.3,
+      "toxicity": 0.1,
+      "halfLife": 0.95
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Historically, Coca-Cola has targeted a broad demographic, primarily focusing on younger individuals and families (ages 13-49), spanning various income levels and lifestyles. Geographically, they aim for global reach, adapting marketing to local cultures.",
+      "psychographics": "Coca-Cola appeals to values of happiness, togetherness, and shared experiences. The brand represents a sense of optimism, simple pleasures, and universal connection. Aspirationally, it taps into the desire for moments of joy and connection in everyday life.",
+      "brandMeaning": "To its core audience, Coca-Cola represents a familiar, comforting, and accessible symbol of happiness and shared moments. It's a brand associated with positive emotions and a sense of belonging."
+    },
+    "adTargetAudience": {
+      "demographics": "This ad speaks to a global audience, transcending age, gender, and socioeconomic status. It particularly resonates with those who value peace, unity, and harmony among people of different backgrounds.",
+      "psychographics": "The ad appeals to values of love, hope, and optimism. It targets individuals who desire a sense of global community and believe in the power of shared experiences to bridge cultural divides. It speaks to those who appreciate simplicity and the beauty of human connection.",
+      "tone": "The ad addresses the viewer in an aspirational and idealistic tone, inviting them to imagine a world united by love and shared experiences."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "VALIDATED",
+    "coreReactionExplanation": "The ad reinforces Coca-Cola's long-standing association with happiness, togetherness, and optimism. The core audience will likely feel proud to be associated with a brand that promotes such positive values on a global scale. It aligns with the brand's historical messaging of universal appeal and shared joy.",
+    "actualResonance": "This ad will resonate most strongly with individuals who are idealistic, socially conscious, and value global unity. It will appeal to those who are drawn to messages of hope and believe in the power of collective action to create a better world. It will also resonate with people who appreciate nostalgia and the iconic status of the ad itself.",
+    "friendlyFireRisk": 1,
+    "marketExpansion": 8,
+    "verdict": "This ad is a powerful expression of universal values that will likely resonate with a broad audience and reinforce Coca-Cola's brand image, but it's important to be aware of the potential for cynicism from some segments who may view it as overly idealistic or naive."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 7,
+    "costEfficiency": "efficient",
+    "contextualVulnerability": 2,
+    "socialPropagation": 6,
+    "temporalCompounding": 8,
+    "frequencyPressure": 4,
+    "culturalAlignment": 9,
+    "fatigueVelocity": 0.2,
+    "repetitionInversion": "Joy decays to Nostalgia",
+    "detonationRadius": 3.5,
+    "explanation": "The 'I'd Like to Buy the World a Coke' ad resonated deeply with the cultural zeitgeist of the early 1970s, a period marked by peace movements and a desire for unity. Its message of harmony and shared humanity, combined with its catchy tune, amplified its impact significantly. While specific timing data is limited, the ad's broad appeal and positive message likely led to efficient reach and strong social propagation. The ad's enduring legacy suggests a high degree of temporal compounding. The low fatigue velocity indicates that the ad's positive message holds up well over time.",
+    "whatIfScenario": "If the ad had been released during a period of heightened political tension or social division, its message of unity might have been perceived as naive or tone-deaf, potentially leading to a negative attention economy multiplier. For example, releasing this ad during the height of the Cold War might have been perceived as a pro-communist message.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

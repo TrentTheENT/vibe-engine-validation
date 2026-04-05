@@ -1,0 +1,227 @@
+{
+  "ad": "Peloton \u2014 The Gift That Gives Back (2019)",
+  "category": "iconic",
+  "vibeScore": 669,
+  "dominantEmotion": "anticipation",
+  "scoredAt": "2026-04-04T18:44:06.316448",
+  "fileSize": "1.9MB",
+  "consensus": {
+    "joy": 0.5,
+    "trust": 0.5,
+    "fear": 0.15,
+    "surprise": 0.6,
+    "sadness": 0.1,
+    "disgust": 0.0,
+    "anger": 0.0,
+    "anticipation": 0.7
+  },
+  "audio": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.6,
+      "fear": 0.2,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.7
+    },
+    "dominant": "anticipation",
+    "arcShape": "crescendo",
+    "transcript": "Okay, you ready? Yes. Now. A peloton! Give it up for our first time rider. First ride. I'm a little nervous, but excited. Let's do this. Five days in a row. You surprised? I am. 6:00 a.m. Yay. Rising with the sun. That was totally worth it. Let's go Grace of Boston, 50 ride. She just said my name. A year ago, I didn't realize how much this would change me. Thank you. This holiday, give the gift of Peloton.",
+    "segmentCount": 6
+  },
+  "video": {
+    "overall": {
+      "joy": 0.5,
+      "trust": 0.4,
+      "fear": 0.1,
+      "surprise": 0.6,
+      "sadness": 0.1,
+      "disgust": 0.0,
+      "anger": 0.0,
+      "anticipation": 0.7
+    },
+    "dominant": "joy",
+    "arcShape": "peak",
+    "segmentCount": 6
+  },
+  "phaseCoherence": {
+    "perSegment": [
+      0.979,
+      0.915,
+      0.994,
+      0.928,
+      0.966,
+      0.953
+    ],
+    "average": 0.956,
+    "assessment": "SYNCHRONIZED",
+    "maxDivergence": {
+      "timestamp": "5s",
+      "coherence": 0.915,
+      "audio": "Give it up for our first time rider. First ride. I'm a little nervous, but excited. Let's do this.",
+      "video": "The woman is on the Peloton bike, taking a selfie. She looks nervous but excited. She is wearing workout clothes."
+    },
+    "maxAlignment": {
+      "timestamp": "10s",
+      "coherence": 0.994
+    }
+  },
+  "objects": {
+    "count": 8,
+    "top": [
+      {
+        "label": "woman",
+        "confidence": 0.99
+      },
+      {
+        "label": "daughter",
+        "confidence": 0.95
+      },
+      {
+        "label": "peloton exercise bike",
+        "confidence": 0.98
+      },
+      {
+        "label": "christmas tree",
+        "confidence": 0.95
+      },
+      {
+        "label": "smartphone",
+        "confidence": 0.95
+      },
+      {
+        "label": "television",
+        "confidence": 0.98
+      },
+      {
+        "label": "couch",
+        "confidence": 0.95
+      },
+      {
+        "label": "newspaper",
+        "confidence": 0.9
+      }
+    ],
+    "inversions": [
+      {
+        "object": "peloton exercise bike",
+        "magnitude": 0.24,
+        "emotion": "surprise",
+        "baseline": 0.2,
+        "contextual": 0.7,
+        "direction": "amplified"
+      }
+    ],
+    "scenes": [
+      "0:00-0:08 \u2014 description of what happens in this scene: A woman in pajamas leads her daughter into a room with a Christmas tree and a Peloton bike. She expresses surprise and excitement at receiving the bike as a gift. She then takes a selfie while on the bike, expressing nervousness but excitement about her first ride.",
+      "0:08-0:13 \u2014 description of what happens in this scene: The woman takes a selfie in a coat and says she has been riding the bike for five days in a row.",
+      "0:13-0:18 \u2014 description of what happens in this scene: The woman is in bed at 6 AM, then is shown riding the Peloton bike. She takes a selfie and says it was totally worth it.",
+      "0:18-0:29 \u2014 description of what happens in this scene: The woman is shown riding the Peloton bike in different outfits and settings. She is then shown on TV, talking about how much the bike has changed her life. She is sitting on a couch with a man, watching the video of herself on TV.",
+      "0:29-0:31 \u2014 description of what happens in this scene: The Peloton logo and the words \"The Telegraph\" appear on the screen."
+    ]
+  },
+  "periodicTable": {
+    "compounds": [
+      {
+        "formula": "SpAn",
+        "name": "Confusion",
+        "type": "conflict",
+        "strength": 0.6,
+        "stability": 0.1,
+        "reactivity": 0.6,
+        "toxicity": 0.3,
+        "halfLife": 0.1
+      },
+      {
+        "formula": "JyTr",
+        "name": "Love",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.9,
+        "reactivity": 0.3,
+        "toxicity": 0.1,
+        "halfLife": 0.95
+      },
+      {
+        "formula": "AnJy",
+        "name": "Optimism",
+        "type": "primary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.4,
+        "toxicity": 0.05,
+        "halfLife": 0.6
+      },
+      {
+        "formula": "AnTr",
+        "name": "Hope",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.8,
+        "reactivity": 0.3,
+        "toxicity": 0.05,
+        "halfLife": 0.7
+      },
+      {
+        "formula": "TrSp",
+        "name": "Curiosity",
+        "type": "secondary",
+        "strength": 0.5,
+        "stability": 0.6,
+        "reactivity": 0.5,
+        "toxicity": 0.1,
+        "halfLife": 0.3
+      }
+    ],
+    "dominant": {
+      "formula": "SpAn",
+      "name": "Confusion",
+      "type": "conflict",
+      "strength": 0.6,
+      "stability": 0.1,
+      "reactivity": 0.6,
+      "toxicity": 0.3,
+      "halfLife": 0.1
+    }
+  },
+  "audienceAlignment": {
+    "brandCoreAudience": {
+      "demographics": "Affluent, suburban or urban dwelling women aged 30-55, with a household income of $150k+, college educated, likely married with children. Time-constrained professionals who value convenience and efficiency in their fitness routines.",
+      "psychographics": "Values achievement, self-improvement, and belonging to a community. Aspires to a healthy and balanced lifestyle, prioritizing fitness but also seeking convenience and social connection. Identifies with a sense of luxury and exclusivity.",
+      "brandMeaning": "Peloton signifies a commitment to personal well-being, success, and belonging to an aspirational community. It represents a premium fitness experience that fits seamlessly into a busy lifestyle."
+    },
+    "adTargetAudience": {
+      "demographics": "Similar to the core audience, but potentially slightly younger (28-45) and more focused on the 'newness' and excitement of the product. Still affluent and time-constrained, but perhaps more open to trying new fitness trends.",
+      "psychographics": "Values surprise, excitement, and the feeling of being 'in the know.' Appreciates the element of surprise and the potential for personal transformation. Seeks validation and recognition for their fitness efforts.",
+      "tone": "Aspirational, relatable, and slightly aspirational. The ad attempts to create a sense of 'everyday luxury' and personal achievement."
+    },
+    "audienceDistance": 2,
+    "coreReaction": "CONFUSED",
+    "coreReactionExplanation": "The ad's narrative, featuring a woman documenting her Peloton journey over a year, was perceived by some as tone-deaf and out of touch, especially given the price point of the bike. The 'surprise' element and the focus on the gift aspect could be seen as alienating to those who already own a Peloton and view it as a regular part of their fitness routine.",
+    "actualResonance": "Affluent individuals, particularly women, who are considering purchasing a Peloton but are hesitant due to the price or commitment. The ad might resonate with those who are drawn to the aspirational lifestyle portrayed and the potential for personal transformation.",
+    "friendlyFireRisk": 7,
+    "marketExpansion": 3,
+    "verdict": "This ad risks alienating the core audience with its perceived tone-deafness and may not effectively expand the market due to its focus on the 'gift' aspect rather than the long-term benefits of Peloton."
+  },
+  "attentionEconomy": {
+    "attentionEconomyMultiplier": 3.5,
+    "reachScore": 6,
+    "costEfficiency": "wasteful",
+    "contextualVulnerability": 7,
+    "socialPropagation": 8,
+    "temporalCompounding": 7,
+    "frequencyPressure": 6,
+    "culturalAlignment": -6,
+    "fatigueVelocity": 0.7,
+    "repetitionInversion": "Confusion decays to Annoyance and then Anger",
+    "detonationRadius": 24.5,
+    "explanation": "The Peloton ad, while seemingly innocuous, landed poorly due to its perceived tone-deafness and portrayal of wealth. Its standard digital/TV placement amplified the negative reaction as it reached a broad audience not necessarily aligned with Peloton's aspirational messaging. The holiday season heightened emotional vulnerability, making viewers more critical. Social media further accelerated the spread of negative sentiment, creating a lasting negative impression. The lack of specific timing data makes it hard to pinpoint the exact cultural moment, but the general feeling was against displays of affluence at that time, exacerbating the issue.",
+    "whatIfScenario": "If the ad had been released during a period of economic boom and focused on the fitness aspects rather than the gifting and spousal dynamic, the reception might have been more positive. Targeting fitness-focused channels instead of broad TV placement could have also mitigated the negative impact.",
+    "timingContext": {
+      "context": "Limited timing data available. Standard digital/TV placement.",
+      "note": "No specific release context found."
+    }
+  }
+}

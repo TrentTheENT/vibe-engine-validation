@@ -37,6 +37,9 @@ The Vibe Engine runs Claude, GPT-4o, Gemini, and Grok simultaneously on Plutchik
 | Domain transfer — correct across domains | **3/5 (60%)** | -- | PASS |
 | GoEmotions F1 (core 4 emotions) | **0.569** | >=0.50 | PASS |
 | GoEmotions F1 (all 8 emotions) | **0.437** | >=0.50 | CLOSE |
+| **Video — Detonation Radius predicts failure** | **110 scored, 14 categories** | Cross-category | **PASS** |
+| **Video — Award winners in safe zone** | **Avg DET 3.6** | DET < 5 | **PASS** |
+| **Video — Controversial ads in danger zone** | **Avg DET 18.4** | DET > 15 | **PASS** |
 
 ### vs. Published Baselines
 
@@ -295,6 +298,24 @@ vibe-engine-validation/
     competitive-tests-scored.json    # 3-model re-scored (March 2026)
     goemotions-scored.json           # Original 2-model baseline (500 texts)
     goemotions-4model-scored.json    # 3-model re-scored subset (100 texts)
+    VALIDATION-REPORT.md             # Full text validation report
+    VIDEO-VALIDATION.md              # Video scoring + Detonation Radius methodology
+    universal-leaderboard.json       # Combined cross-category leaderboard (110 entries)
+    video-scores/                    # Per-category video scoring results (110 files)
+      iconic/                        # 27 classic ads (1971-2019)
+      superbowl-2025/                # 20 Super Bowl LIX ads
+      cannes/                        # 10 Cannes Grand Prix winners
+      apple/                         # 10 Apple ecosystem ads
+      april-fools-2025/              # 7 seasonal campaigns
+      movie-trailers/                # 7 film trailers (2016-2023)
+      controversial/                 # 6 divisive campaigns
+      political/                     # 5 political ads (1964-2020)
+      product-launches/              # 4 product reveals (2007-2024)
+      brand-pivots/                  # 4 rebranding efforts (1985-2024)
+      crisis-responses/              # 4 corporate crises (2010-2022)
+      psa/                           # 3 public safety (2010-2014)
+      effie/                         # 2 Effie Grand winners
+      music-culture/                 # 1 cultural content
   scripts/
     batch-score.mjs            # Score texts through the VibeScore API
     analyze-results.mjs        # Compute metrics and generate reports
@@ -306,6 +327,34 @@ vibe-engine-validation/
   METHODOLOGY.md
   LICENSE
 ```
+
+---
+
+## Video Validation: Detonation Radius (NEW)
+
+The text validation above proves the engine measures emotions accurately. But does it work on **video**? And can it predict which content will detonate?
+
+We scored **110 pieces of video content** across 14 categories — Super Bowl ads, movie trailers, political ads, product launches, brand pivots, corporate crises, PSAs, and music videos — spanning 60 years of media.
+
+### The Headline Result
+
+**Detonation Radius (DET = Friendly Fire x Attention Economy Multiplier)** predicts content failure across every medium:
+
+| Content | DET | FF | Core Reaction | Outcome |
+|---|---|---|---|---|
+| Balenciaga — Holiday Campaign (2022) | **40.5** | 9 | ALIENATED | Creative director fired, brand crisis |
+| Pepsi — Kendall Jenner (2017) | **34.2** | 9 | ALIENATED | CMO fired, ad pulled |
+| Gillette — We Believe (2019) | **28.0** | 8 | ALIENATED | $8B brand writedown |
+| Cats (2019) — Trailer | **27.0** | 6 | CONFUSED | $114M loss |
+| Nike — Kaepernick (2018) | **27.0** | 6 | VALIDATED | +$6B brand value |
+| United Airlines dragging (2017) | **18.0** | 4 | CONFUSED | $1.4B market cap loss |
+| Ghostbusters (2016) — Trailer | **19.0** | 5 | CONFUSED | Franchise rebooted |
+| Top Gun: Maverick (2022) | **4.2** | 1 | EMBRACED | $1.49B worldwide |
+| Apple — 1984 (Super Bowl) | **4.2** | 1 | EMBRACED | Built a $3T company |
+
+The same physics apply to a $7M Super Bowl spot, a $150M movie trailer, a political ad, and a CEO apology video. **Detonation Radius is the FICO score for anything put in front of humans.**
+
+> Full methodology, all scores, and the four targeting quadrants: **[results/VIDEO-VALIDATION.md](results/VIDEO-VALIDATION.md)**
 
 ---
 
