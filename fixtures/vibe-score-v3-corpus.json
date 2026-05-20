@@ -1,0 +1,161 @@
+{
+  "version": "vs-1.0-preview",
+  "name": "Vibe-Score v3 — Suite 2 extended validation corpus",
+  "description": "Hand-typed emotional vectors across seven content domains, scored against the canonical formula. Companion to fixtures/competitive-tests.json (Suite 1 reference floor). Last updated 2026-05-20.",
+  "domains": [
+    "journalism", "social", "personal",
+    "advertising", "lyrics", "oratory"
+  ],
+  "cases": [
+    {
+      "domain": "journalism",
+      "name": "Investigative exposé — corporate emissions cover-up",
+      "vector": { "joy": 0, "trust": 0, "anticipation": 0, "surprise": 0.25, "fear": 0.30, "sadness": 0.20, "disgust": 0.75, "anger": 0.70 },
+      "expectedRange": [50, 220],
+      "expectedDominant": "disgust",
+      "notes": "Anger + disgust dominant; betrayal vibe. Should land deep negative."
+    },
+    {
+      "domain": "journalism",
+      "name": "Science feature — child's first mRNA cancer cure",
+      "vector": { "joy": 0.75, "trust": 0.70, "anticipation": 0.55, "surprise": 0.45, "fear": 0, "sadness": 0.08, "disgust": 0, "anger": 0 },
+      "expectedRange": [780, 920],
+      "expectedDominant": "joy",
+      "notes": "Joy + trust + anticipation; small residual sadness from cancer context."
+    },
+    {
+      "domain": "journalism",
+      "name": "Op-ed on local civic decline",
+      "vector": { "joy": 0, "trust": 0, "anticipation": 0.15, "surprise": 0, "fear": 0.25, "sadness": 0.55, "disgust": 0.20, "anger": 0.45 },
+      "expectedRange": [120, 320],
+      "expectedDominant": "sadness",
+      "notes": "Mixed negative; same-valence emotions compound (no drag)."
+    },
+    {
+      "domain": "social",
+      "name": "Excited product launch tweet",
+      "vector": { "joy": 0.70, "trust": 0.40, "anticipation": 0.75, "surprise": 0.55, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [720, 900],
+      "expectedDominant": "anticipation",
+      "notes": "Hype tweet — anticipation + surprise active. The blindness in the crude formula would miss this; canonical reads it correctly."
+    },
+    {
+      "domain": "social",
+      "name": "Sarcastic software-bug complaint",
+      "vector": { "joy": 0.10, "trust": 0, "anticipation": 0.20, "surprise": 0.25, "fear": 0, "sadness": 0, "disgust": 0.35, "anger": 0.50 },
+      "expectedRange": [220, 420],
+      "expectedDominant": "anger",
+      "notes": "Light irritation, moderate signal — sarcasm typically reads as low-intensity anger/disgust."
+    },
+    {
+      "domain": "social",
+      "name": "Anxious career-pivot post",
+      "vector": { "joy": 0.10, "trust": 0.25, "anticipation": 0.60, "surprise": 0, "fear": 0.55, "sadness": 0.20, "disgust": 0, "anger": 0 },
+      "expectedRange": [340, 560],
+      "expectedDominant": "anticipation",
+      "notes": "Fear + anticipation — mixed valence near center."
+    },
+    {
+      "domain": "personal",
+      "name": "Bittersweet colleague farewell note",
+      "vector": { "joy": 0.55, "trust": 0.65, "anticipation": 0.30, "surprise": 0, "fear": 0, "sadness": 0.55, "disgust": 0, "anger": 0 },
+      "expectedRange": [420, 620],
+      "expectedDominant": "trust",
+      "notes": "Joy + sadness opposite valence + both above threshold → drag fires → score pulled toward center. The classic bittersweet case."
+    },
+    {
+      "domain": "personal",
+      "name": "Glowing 5-star customer review",
+      "vector": { "joy": 0.75, "trust": 0.80, "anticipation": 0.40, "surprise": 0.45, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [780, 920],
+      "expectedDominant": "trust",
+      "notes": "Trust + joy dominant — the ad-revenue-adjacent case (customer reviews drive purchase)."
+    },
+    {
+      "domain": "personal",
+      "name": "Angry refund-demand email",
+      "vector": { "joy": 0, "trust": 0, "anticipation": 0, "surprise": 0, "fear": 0.15, "sadness": 0.15, "disgust": 0.55, "anger": 0.75 },
+      "expectedRange": [70, 240],
+      "expectedDominant": "anger",
+      "notes": "Pure reactive cluster — clear negative read."
+    },
+    {
+      "domain": "advertising",
+      "name": "Nike — Just Do It.",
+      "vector": { "joy": 0.35, "trust": 0.55, "anticipation": 0.65, "surprise": 0.20, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [700, 840],
+      "expectedDominant": "anticipation",
+      "notes": "Action + trust + anticipation cluster."
+    },
+    {
+      "domain": "advertising",
+      "name": "Apple — Think Different.",
+      "vector": { "joy": 0.20, "trust": 0.50, "anticipation": 0.55, "surprise": 0.40, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [620, 800],
+      "expectedDominant": "anticipation",
+      "notes": "Surprise + anticipation lead. The crude formula would underrate this badly (drops surprise entirely); canonical reads it as positive-rebellious."
+    },
+    {
+      "domain": "advertising",
+      "name": "Google (legacy) — Don't be evil.",
+      "vector": { "joy": 0.10, "trust": 0.35, "anticipation": 0.30, "surprise": 0, "fear": 0.18, "sadness": 0, "disgust": 0, "anger": 0.20 },
+      "expectedRange": [470, 620],
+      "notes": "The 'don't' framing introduces ambient negative emotion alongside the positive intent. Fear+anger compound (same valence), no drag. Near-center moderate-positive."
+    },
+    {
+      "domain": "lyrics",
+      "name": "Hopeful chorus — joy + trust + anticipation",
+      "vector": { "joy": 0.75, "trust": 0.40, "anticipation": 0.70, "surprise": 0, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [770, 900],
+      "expectedDominant": "joy",
+      "notes": "Anthemic positive chorus. High purity, high intensity."
+    },
+    {
+      "domain": "lyrics",
+      "name": "Heartbreak verse — sadness-dominant",
+      "vector": { "joy": 0, "trust": 0, "anticipation": 0, "surprise": 0, "fear": 0.20, "sadness": 0.85, "disgust": 0, "anger": 0 },
+      "expectedRange": [80, 220],
+      "expectedDominant": "sadness",
+      "notes": "Classic ballad sadness. Same-valence emotions compound; no drag."
+    },
+    {
+      "domain": "lyrics",
+      "name": "Triumphant defiance — anger + anticipation mixed",
+      "vector": { "joy": 0.30, "trust": 0, "anticipation": 0.70, "surprise": 0.40, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0.50 },
+      "expectedRange": [480, 680],
+      "expectedDominant": "anticipation",
+      "notes": "Rebellion lyric energy. Anger pulls down, anticipation/joy lift. Mixed-positive read is correct."
+    },
+    {
+      "domain": "lyrics",
+      "name": "Nostalgic reverie — bittersweet drag",
+      "vector": { "joy": 0.40, "trust": 0.30, "anticipation": 0.30, "surprise": 0, "fear": 0, "sadness": 0.55, "disgust": 0, "anger": 0 },
+      "expectedRange": [400, 600],
+      "notes": "Joy + sadness opposite-valence both active → drag fires. The music-thesis test: nostalgia IS bittersweet."
+    },
+    {
+      "domain": "oratory",
+      "name": "MLK — I have a dream (emotional signature)",
+      "vector": { "joy": 0.45, "trust": 0.80, "anticipation": 0.85, "surprise": 0.25, "fear": 0, "sadness": 0.15, "disgust": 0, "anger": 0 },
+      "expectedRange": [760, 900],
+      "expectedDominant": "anticipation",
+      "notes": "Trust + anticipation dominant, faint sadness for the moral weight."
+    },
+    {
+      "domain": "oratory",
+      "name": "Reagan — Tear down this wall (emotional signature)",
+      "vector": { "joy": 0.20, "trust": 0.50, "anticipation": 0.70, "surprise": 0.20, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0.30 },
+      "expectedRange": [580, 750],
+      "expectedDominant": "anticipation",
+      "notes": "Anticipation + trust with directed anger at the wall (not at people)."
+    },
+    {
+      "domain": "oratory",
+      "name": "Obama — Yes we can (emotional signature)",
+      "vector": { "joy": 0.50, "trust": 0.70, "anticipation": 0.75, "surprise": 0, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+      "expectedRange": [740, 900],
+      "expectedDominant": "anticipation",
+      "notes": "Pure constructive cluster — joy, trust, anticipation. The hope vector."
+    }
+  ]
+}

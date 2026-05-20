@@ -1,0 +1,707 @@
+{
+  "scoreMathVersion": "vs-1.0-preview",
+  "ranAt": "2026-05-20T20:18:23.480Z",
+  "summary": {
+    "singleShot": {
+      "total": 19,
+      "passed": 19,
+      "failed": 0
+    },
+    "arcs": {
+      "total": 2,
+      "passed": 2,
+      "failed": 0
+    },
+    "moments": {
+      "total": 9
+    }
+  },
+  "singleShot": [
+    {
+      "domain": "journalism",
+      "name": "Investigative exposé — corporate emissions cover-up",
+      "score": 164,
+      "expectedRange": [
+        50,
+        220
+      ],
+      "dominant": "disgust",
+      "expectedDominant": "disgust",
+      "pass": true,
+      "diagnostics": {
+        "valence": -0.8614,
+        "signal": 0.7794,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.799,
+        "surpriseValence": -1,
+        "activeConflicts": [],
+        "dominantEmotion": "disgust",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "journalism",
+      "name": "Science feature — child's first mRNA cancer cure",
+      "score": 822,
+      "expectedRange": [
+        780,
+        920
+      ],
+      "dominant": "joy",
+      "expectedDominant": "joy",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.7808,
+        "signal": 0.8237,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.8728,
+        "surpriseValence": 0.9231,
+        "activeConflicts": [],
+        "dominantEmotion": "joy",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "journalism",
+      "name": "Op-ed on local civic decline",
+      "score": 297,
+      "expectedRange": [
+        120,
+        320
+      ],
+      "dominant": "sadness",
+      "expectedDominant": "sadness",
+      "pass": true,
+      "diagnostics": {
+        "valence": -0.7344,
+        "signal": 0.5536,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.55,
+        "purity": 0.5561,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "sadness",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "social",
+      "name": "Excited product launch tweet",
+      "score": 851,
+      "expectedRange": [
+        720,
+        900
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.8417,
+        "signal": 0.8343,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.8905,
+        "surpriseValence": 1,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "social",
+      "name": "Sarcastic software-bug complaint",
+      "score": 419,
+      "expectedRange": [
+        220,
+        420
+      ],
+      "dominant": "anger",
+      "expectedDominant": "anger",
+      "pass": true,
+      "diagnostics": {
+        "valence": -0.439,
+        "signal": 0.4936,
+        "drag": 25,
+        "dragFactor": 0.75,
+        "intensity": 0.5,
+        "purity": 0.4893,
+        "surpriseValence": -0.4783,
+        "activeConflicts": [
+          "surprise<->anticipation"
+        ],
+        "dominantEmotion": "anger",
+        "trajectory": "wobble"
+      }
+    },
+    {
+      "domain": "social",
+      "name": "Anxious career-pivot post",
+      "score": 514,
+      "expectedRange": [
+        340,
+        560
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.0441,
+        "signal": 0.6255,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.6,
+        "purity": 0.6424,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "personal",
+      "name": "Bittersweet colleague farewell note",
+      "score": 592,
+      "expectedRange": [
+        420,
+        620
+      ],
+      "dominant": "trust",
+      "expectedDominant": "trust",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.3415,
+        "signal": 0.7211,
+        "drag": 25,
+        "dragFactor": 0.75,
+        "intensity": 0.65,
+        "purity": 0.7686,
+        "surpriseValence": 0,
+        "activeConflicts": [
+          "joy<->sadness"
+        ],
+        "dominantEmotion": "trust",
+        "trajectory": "wobble"
+      }
+    },
+    {
+      "domain": "personal",
+      "name": "Glowing 5-star customer review",
+      "score": 877,
+      "expectedRange": [
+        780,
+        920
+      ],
+      "dominant": "trust",
+      "expectedDominant": "trust",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.8667,
+        "signal": 0.8708,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.8,
+        "purity": 0.9181,
+        "surpriseValence": 1,
+        "activeConflicts": [],
+        "dominantEmotion": "trust",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "personal",
+      "name": "Angry refund-demand email",
+      "score": 179,
+      "expectedRange": [
+        70,
+        240
+      ],
+      "dominant": "anger",
+      "expectedDominant": "anger",
+      "pass": true,
+      "diagnostics": {
+        "valence": -0.8438,
+        "signal": 0.7603,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.7671,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "anger",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "advertising",
+      "name": "Nike — Just Do It.",
+      "score": 770,
+      "expectedRange": [
+        700,
+        840
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.7886,
+        "signal": 0.6857,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.65,
+        "purity": 0.7095,
+        "surpriseValence": 1,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "advertising",
+      "name": "Apple — Think Different.",
+      "score": 744,
+      "expectedRange": [
+        620,
+        800
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.8061,
+        "signal": 0.6047,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.55,
+        "purity": 0.6412,
+        "surpriseValence": 1,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "advertising",
+      "name": "Google (legacy) — Don't be evil.",
+      "score": 544,
+      "expectedRange": [
+        470,
+        620
+      ],
+      "dominant": "trust",
+      "expectedDominant": null,
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.2425,
+        "signal": 0.3604,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.35,
+        "purity": 0.3674,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "trust",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "lyrics",
+      "name": "Hopeful chorus — joy + trust + anticipation",
+      "score": 835,
+      "expectedRange": [
+        770,
+        900
+      ],
+      "dominant": "joy",
+      "expectedDominant": "joy",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.8054,
+        "signal": 0.8308,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.8847,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "joy",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "lyrics",
+      "name": "Heartbreak verse — sadness-dominant",
+      "score": 116,
+      "expectedRange": [
+        80,
+        220
+      ],
+      "dominant": "sadness",
+      "expectedDominant": "sadness",
+      "pass": true,
+      "diagnostics": {
+        "valence": -0.9429,
+        "signal": 0.8136,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.85,
+        "purity": 0.7894,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "sadness",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "lyrics",
+      "name": "Triumphant defiance — anger + anticipation mixed",
+      "score": 586,
+      "expectedRange": [
+        480,
+        680
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.2386,
+        "signal": 0.7198,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.7,
+        "purity": 0.7331,
+        "surpriseValence": 0.3333,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "lyrics",
+      "name": "Nostalgic reverie — bittersweet drag",
+      "score": 537,
+      "expectedRange": [
+        400,
+        600
+      ],
+      "dominant": "sadness",
+      "expectedDominant": null,
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.1742,
+        "signal": 0.5705,
+        "drag": 25,
+        "dragFactor": 0.75,
+        "intensity": 0.55,
+        "purity": 0.5842,
+        "surpriseValence": 0,
+        "activeConflicts": [
+          "joy<->sadness"
+        ],
+        "dominantEmotion": "sadness",
+        "trajectory": "wobble"
+      }
+    },
+    {
+      "domain": "oratory",
+      "name": "MLK — I have a dream (emotional signature)",
+      "score": 800,
+      "expectedRange": [
+        760,
+        900
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.6667,
+        "signal": 0.8985,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.85,
+        "purity": 0.9309,
+        "surpriseValence": 0.8667,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "oratory",
+      "name": "Reagan — Tear down this wall (emotional signature)",
+      "score": 664,
+      "expectedRange": [
+        580,
+        750
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.4786,
+        "signal": 0.6859,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.7,
+        "purity": 0.6765,
+        "surpriseValence": 0.6471,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    },
+    {
+      "domain": "oratory",
+      "name": "Obama — Yes we can (emotional signature)",
+      "score": 827,
+      "expectedRange": [
+        740,
+        900
+      ],
+      "dominant": "anticipation",
+      "expectedDominant": "anticipation",
+      "pass": true,
+      "diagnostics": {
+        "valence": 0.7744,
+        "signal": 0.845,
+        "drag": 0,
+        "dragFactor": 1,
+        "intensity": 0.75,
+        "purity": 0.9084,
+        "surpriseValence": 0,
+        "activeConflicts": [],
+        "dominantEmotion": "anticipation",
+        "trajectory": "stable"
+      }
+    }
+  ],
+  "arcs": [
+    {
+      "name": "Hero's call — five-beat opening",
+      "shape": {
+        "peakAt": 3,
+        "risesFromStart": true,
+        "fallsFromPeak": true
+      },
+      "moments": [
+        {
+          "index": 0,
+          "label": "Mundane world",
+          "score": 589,
+          "expectedRange": [
+            560,
+            720
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.575,
+            "signal": 0.3095,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.3,
+            "purity": 0.3158,
+            "surpriseValence": 0,
+            "activeConflicts": [],
+            "dominantEmotion": "trust",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 1,
+          "label": "Inciting incident",
+          "score": 553,
+          "expectedRange": [
+            430,
+            620
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.1359,
+            "signal": 0.783,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.75,
+            "purity": 0.805,
+            "surpriseValence": 0.1818,
+            "activeConflicts": [],
+            "dominantEmotion": "surprise",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 2,
+          "label": "Mentor appears",
+          "score": 773,
+          "expectedRange": [
+            700,
+            860
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.8,
+            "signal": 0.6815,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.65,
+            "purity": 0.7025,
+            "surpriseValence": 1,
+            "activeConflicts": [],
+            "dominantEmotion": "trust",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 3,
+          "label": "Threshold crossing (peak)",
+          "score": 880,
+          "expectedRange": [
+            780,
+            920
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.8308,
+            "signal": 0.9148,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.85,
+            "purity": 0.958,
+            "surpriseValence": 1,
+            "activeConflicts": [],
+            "dominantEmotion": "anticipation",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 4,
+          "label": "Departure",
+          "score": 613,
+          "expectedRange": [
+            580,
+            760
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.497,
+            "signal": 0.6071,
+            "drag": 25,
+            "dragFactor": 0.75,
+            "intensity": 0.55,
+            "purity": 0.6451,
+            "surpriseValence": 0,
+            "activeConflicts": [
+              "joy<->sadness"
+            ],
+            "dominantEmotion": "trust",
+            "trajectory": "wobble"
+          }
+        }
+      ],
+      "shapePass": true,
+      "momentsPass": true
+    },
+    {
+      "name": "Tragic loss — four-beat descent",
+      "shape": {
+        "troughAt": 2
+      },
+      "moments": [
+        {
+          "index": 0,
+          "label": "Calm before",
+          "score": 666,
+          "expectedRange": [
+            600,
+            760
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": 0.825,
+            "signal": 0.4034,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.4,
+            "purity": 0.4057,
+            "surpriseValence": 0,
+            "activeConflicts": [],
+            "dominantEmotion": "trust",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 1,
+          "label": "Discovery of loss",
+          "score": 179,
+          "expectedRange": [
+            140,
+            320
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": -0.8972,
+            "signal": 0.7164,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.65,
+            "purity": 0.7606,
+            "surpriseValence": -1,
+            "activeConflicts": [],
+            "dominantEmotion": "surprise",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 2,
+          "label": "Grief peak (trough)",
+          "score": 107,
+          "expectedRange": [
+            40,
+            180
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": -0.9269,
+            "signal": 0.8482,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.9,
+            "purity": 0.8137,
+            "surpriseValence": 0,
+            "activeConflicts": [],
+            "dominantEmotion": "sadness",
+            "trajectory": "stable"
+          }
+        },
+        {
+          "index": 3,
+          "label": "Quiet acceptance",
+          "score": 479,
+          "expectedRange": [
+            280,
+            480
+          ],
+          "pass": true,
+          "diagnostics": {
+            "valence": -0.0783,
+            "signal": 0.5355,
+            "drag": 0,
+            "dragFactor": 1,
+            "intensity": 0.55,
+            "purity": 0.5258,
+            "surpriseValence": 0,
+            "activeConflicts": [],
+            "dominantEmotion": "sadness",
+            "trajectory": "stable"
+          }
+        }
+      ],
+      "shapePass": true,
+      "momentsPass": true
+    }
+  ]
+}
