@@ -1,0 +1,75 @@
+{
+  "version": "vs-1.0-preview",
+  "name": "Vibe-Score v3 — Narrative arcs (Ad+Arc surface validation)",
+  "description": "Multi-moment narrative cases. Each arc is scored sequentially through the canonical formula; the arc shape itself is validated (peak position, descent from peak, etc.). Locks the Ad+Arc surface behavior. Last updated 2026-05-20.",
+  "arcs": [
+    {
+      "name": "Hero's call — five-beat opening",
+      "notes": "Classic narrative escalation: mundane → inciting incident → mentor → threshold → departure.",
+      "shape": { "peakAt": 3, "risesFromStart": true, "fallsFromPeak": true },
+      "moments": [
+        {
+          "index": 0,
+          "label": "Mundane world",
+          "vector": { "joy": 0.20, "trust": 0.30, "anticipation": 0.20, "surprise": 0, "fear": 0, "sadness": 0.10, "disgust": 0, "anger": 0 },
+          "expectedRange": [560, 720]
+        },
+        {
+          "index": 1,
+          "label": "Inciting incident",
+          "vector": { "joy": 0.10, "trust": 0, "anticipation": 0.55, "surprise": 0.75, "fear": 0.45, "sadness": 0, "disgust": 0, "anger": 0 },
+          "expectedRange": [430, 620]
+        },
+        {
+          "index": 2,
+          "label": "Mentor appears",
+          "vector": { "joy": 0.30, "trust": 0.65, "anticipation": 0.55, "surprise": 0.25, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+          "expectedRange": [700, 860]
+        },
+        {
+          "index": 3,
+          "label": "Threshold crossing (peak)",
+          "vector": { "joy": 0.55, "trust": 0.50, "anticipation": 0.85, "surprise": 0.70, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+          "expectedRange": [780, 920]
+        },
+        {
+          "index": 4,
+          "label": "Departure",
+          "vector": { "joy": 0.30, "trust": 0.55, "anticipation": 0.55, "surprise": 0, "fear": 0, "sadness": 0.25, "disgust": 0, "anger": 0 },
+          "expectedRange": [580, 760]
+        }
+      ]
+    },
+    {
+      "name": "Tragic loss — four-beat descent",
+      "notes": "Calm → discovery → grief peak → quiet acceptance.",
+      "shape": { "troughAt": 2 },
+      "moments": [
+        {
+          "index": 0,
+          "label": "Calm before",
+          "vector": { "joy": 0.25, "trust": 0.40, "anticipation": 0.15, "surprise": 0, "fear": 0, "sadness": 0, "disgust": 0, "anger": 0 },
+          "expectedRange": [600, 760]
+        },
+        {
+          "index": 1,
+          "label": "Discovery of loss",
+          "vector": { "joy": 0, "trust": 0, "anticipation": 0, "surprise": 0.65, "fear": 0.55, "sadness": 0.50, "disgust": 0, "anger": 0.10 },
+          "expectedRange": [140, 320]
+        },
+        {
+          "index": 2,
+          "label": "Grief peak (trough)",
+          "vector": { "joy": 0, "trust": 0, "anticipation": 0, "surprise": 0, "fear": 0.20, "sadness": 0.90, "disgust": 0.05, "anger": 0.15 },
+          "expectedRange": [40, 180]
+        },
+        {
+          "index": 3,
+          "label": "Quiet acceptance",
+          "vector": { "joy": 0.10, "trust": 0.30, "anticipation": 0.20, "surprise": 0, "fear": 0, "sadness": 0.55, "disgust": 0, "anger": 0 },
+          "expectedRange": [280, 480]
+        }
+      ]
+    }
+  ]
+}
